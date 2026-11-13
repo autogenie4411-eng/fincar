@@ -11651,6 +11651,8 @@ const vehicleCatalog = [
     paintId: "",
     trim: "",
     subTrim: "",
+    selectedOptions: [],
+    openOptionInfoId: "",
     usage: "",
     initialCost: "",
     rate: "",
@@ -11670,6 +11672,12 @@ const vehicleCatalog = [
   const consultButton = document.getElementById("consultButton");
   const nextButton = document.getElementById("nextButton");
   const form = document.getElementById("estimateForm");
+  document.getElementById("optionDetailClose")?.addEventListener("click", () => {
+    document.getElementById("optionDetailDialog")?.close();
+  });
+  document.getElementById("optionDetailDialog")?.addEventListener("click", event => {
+    if (event.target === event.currentTarget) event.currentTarget.close();
+  });
   const reviewSection = document.getElementById("reviewSection");
   const reviewParking = document.getElementById("reviewParking");
 
@@ -11687,6 +11695,91 @@ const vehicleCatalog = [
   const TRIM_DETAIL_HISTORY_KEY = "autogenieTrimDetailScreen";
   let trimDetailHistoryActive = false;
   let trimDetailHistoryExitPending = false;
+
+
+  // 차종·트림별 옵션과 사진 경로는 js/options-config.js 하나에서 관리합니다.
+  const OPTION_CONFIG = window.AUTOGENIE_OPTION_CONFIG || {};
+  const TRIM_OPTION_DATA = OPTION_CONFIG.byTrim || {};
+  const OPTION_CATEGORIES = ["전체", ...new Set(
+    (Array.isArray(OPTION_CONFIG.categories) ? OPTION_CONFIG.categories : [])
+      .filter(category => category && category.enabled !== false && typeof category.name === "string" && category.name.trim() && category.name !== "전체")
+      .map(category => category.name)
+  )];
+  if (!window.AUTOGENIE_OPTION_CONFIG) {
+    console.error("js/options-config.js를 불러오지 못했습니다. 옵션 관리 파일의 경로를 확인하세요.");
+  }
+
+  function getCurrentTrimOptionKey() {
+    if (!state.brandName || !state.carName || !state.trim || !state.subTrim) return "";
+    return `${state.brandName}|${state.carName}|${state.trim}|${state.subTrim}`;
+  }
+
+  function getCurrentTrimOptions() {
+    const options = TRIM_OPTION_DATA[getCurrentTrimOptionKey()] || [];
+    return Array.isArray(options)
+      ? options.filter(item => item && item.enabled !== false).map(item => ({ ...item }))
+      : [];
+  }
+
+  function getSelectedOptionObjects() {
+    const selected = new Set(Array.isArray(state.selectedOptions) ? state.selectedOptions : []);
+    return getCurrentTrimOptions().filter(item => item.status === "선택 옵션" && selected.has(item.id));
+  }
+
+  function getSelectedOptionSummary() {
+    const selected = getSelectedOptionObjects();
+    return selected.length ? selected.map(item => item.name).join(", ") : "선택 없음";
+  }
+
+  function getSelectedOptionTotalLabel() {
+    const prices = getSelectedOptionObjects()
+      .filter(item => item.status === "선택 옵션")
+      .map(item => String(item.price ?? "").replace(/,/g, "").trim());
+    // 가격 미정 문구를 0원으로 합산하지 않습니다.
+    if (prices.some(price => !/^\d+\s*원?$/.test(price))) return "가격 확인 필요";
+    const total = prices.reduce((sum, price) => sum + Number(price.replace(/\s*원$/, "")), 0);
+    return `${total.toLocaleString("ko-KR")}원`;
+  }
+
+  function optionStatusLabel(status) {
+    const map = {
+      "기본 포함": "기본 포함",
+      "선택 옵션": "선택 가능",
+      "선택 불가": "선택 불가"
+    };
+    return map[status] || "안내";
+  }
+
+  function optionStatusClass(status) {
+    const classes = {
+      "선택 옵션": "is-available",
+      "기본 포함": "is-included",
+      "선택 불가": "is-unavailable"
+    };
+    return classes[status] || "is-unavailable";
+  }
+
+  // 각 옵션 항목의 image 필드에 적힌 실제 이미지 파일명을 그대로 사용합니다.
+  // 같은 기능이라도 차량·트림마다 다른 사진을 지정할 수 있습니다.
+  function getOptionThumbnail(item) {
+    const directory = String(OPTION_CONFIG.imageDirectory || "images/option-thumbnails/");
+    const configured = String(item?.image || "option-placeholder.svg").trim();
+    const path = /\.(?:webp|png|jpe?g|gif|svg)(?:[?#].*)?$/i.test(configured)
+      ? configured
+      : "option-placeholder.svg";
+    const relativePath = /^(?:https?:)?\/\//i.test(path) || path.startsWith("/") || path.startsWith("images/") || path.startsWith("./") || path.startsWith("../")
+      ? path
+      : `${directory}${path}`;
+    const resolved = assetUrl(relativePath);
+    try {
+      const url = new URL(resolved, document.baseURI);
+      const version = String(item?.imageVersion || OPTION_CONFIG.imageVersion || "");
+      if (version) url.searchParams.set("v", version);
+      return url.href;
+    } catch (error) {
+      return resolved;
+    }
+  }
 
   // 데스크탑 트림 팝업이 열린 동안에는 배경 페이지의 휠 스크롤을 막습니다.
   // overflow 잠금만 사용하므로 현재 페이지 스크롤 위치가 그대로 유지됩니다.
@@ -11910,6 +12003,8 @@ const vehicleCatalog = [
     // 중요: 팝업을 닫기 전에 STEP 02의 실제 선택값을 먼저 확정합니다.
     // 이후 렌더·뒤로가기 이벤트에서 선택 전 상태로 복원되지 않도록 합니다.
     state.subTrim = selected;
+    state.selectedOptions = [];
+    state.openOptionInfoId = "";
     pendingSubTrim = "";
     render();
     showValidation("");
@@ -11962,6 +12057,8 @@ const vehicleCatalog = [
     // 차량이 달라지면 이전 차량에 종속된 이후 단계의 선택값을 모두 비웁니다.
     state.trim = "";
     state.subTrim = "";
+    state.selectedOptions = [];
+    state.openOptionInfoId = "";
     state.usage = "";
     state.initialCost = "";
     state.rate = "";
@@ -12329,18 +12426,88 @@ const vehicleCatalog = [
     `;
   }
 
+
+  // 문자(+, ✓) 대신 SVG를 사용해 선택 상태와 관계없이 원 안의 정렬이 동일하도록 합니다.
+  function renderTrimOptionActionIcon(selected) {
+    const path = selected
+      ? '<path d="M5 10l3.5 3.5L15 6.5" />'
+      : '<path d="M10 4v12M4 10h12" />';
+    return `<svg aria-hidden="true" focusable="false" width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${path}</svg>`;
+  }
+
+  function renderStepThree() {
+    const options = getCurrentTrimOptions();
+    const selectedIds = new Set(Array.isArray(state.selectedOptions) ? state.selectedOptions : []);
+
+    return `
+      <div class="wizard-step step-three-options">
+        ${selectedVehicleHtml()}
+        <div class="step-heading">
+          <span>STEP 03</span>
+          <h2>옵션을 선택해 주세요.</h2>
+          <p>선택한 트림에 기본 포함된 사양과 추가할 수 있는 옵션을 확인하세요.</p>
+        </div>
+
+        <div class="trim-option-tabs" role="group" aria-label="옵션 구분">
+          <button type="button" class="is-active" data-option-tab="선택 옵션" aria-pressed="true" aria-controls="trimOptionGrid">선택 옵션</button>
+          <button type="button" data-option-tab="기본 포함" aria-pressed="false" aria-controls="trimOptionGrid">기본 포함 옵션</button>
+        </div>
+        <div class="trim-option-category-nav" data-option-category-nav hidden>
+          <div id="trimOptionCategories" class="trim-option-categories" data-option-categories role="group" aria-label="기본 포함 옵션 카테고리">
+            ${OPTION_CATEGORIES.map(category => `<button type="button" class="${category === "전체" ? "is-active" : ""}" data-option-category="${category}" aria-pressed="${category === "전체"}" aria-controls="trimOptionGrid">${category}</button>`).join("")}
+          </div>
+          <button type="button" class="trim-option-category-arrow is-prev" data-option-category-scroll="-1" aria-label="이전 카테고리 보기" aria-controls="trimOptionCategories" hidden><svg aria-hidden="true" viewBox="0 0 16 16"><path d="m10 4-4 4 4 4"/></svg></button>
+          <button type="button" class="trim-option-category-arrow is-next" data-option-category-scroll="1" aria-label="다음 카테고리 보기" aria-controls="trimOptionCategories" hidden><svg aria-hidden="true" viewBox="0 0 16 16"><path d="m6 4 4 4-4 4"/></svg></button>
+        </div>
+        <section id="trimOptionGrid" class="trim-option-grid" data-option-section="trim-option-grid" aria-label="선택 옵션">
+          ${options.length ? options.map(item => {
+            const isSelected = selectedIds.has(item.id);
+            const isIncluded = item.status === "기본 포함";
+            const isSelectable = item.status === "선택 옵션";
+            const badge = !isIncluded && item.highlight ? "Best" : "";
+            return `
+              <article class="trim-option-card ${optionStatusClass(item.status)} ${isSelected ? "is-selected" : ""}" data-option-group="${isIncluded ? "기본 포함" : "선택 옵션"}" data-option-item-category="${OPTION_CATEGORIES.includes(item.category) ? item.category : ""}" ${isIncluded ? "hidden" : ""} ${isSelectable ? `data-option-card="${item.id}"` : ""}>
+                <div class="trim-option-card__thumb">
+                  <img src="${getOptionThumbnail(item)}" alt="" loading="lazy" decoding="async">
+                  ${badge ? `<span class="trim-option-card__badge">${badge}</span>` : ""}
+                </div>
+                <div class="trim-option-card__body">
+                  <div class="trim-option-card__title-row">
+                    <strong title="${item.name}">${item.name}</strong>
+                  </div>
+                  <div class="trim-option-card__footer">
+                    <span class="trim-option-card__price">${isIncluded ? "기본 포함" : item.price}</span>
+                    ${isSelectable ? `<button type="button" class="trim-option-card__add ${isSelected ? "is-active" : ""}" data-option-toggle="${item.id}" aria-label="${item.name} ${isSelected ? "선택 취소" : "추가"}" aria-pressed="${isSelected}">${renderTrimOptionActionIcon(isSelected)}</button>` : `<span class="trim-option-card__add is-disabled" aria-label="${optionStatusLabel(item.status)}">${renderTrimOptionActionIcon(isIncluded)}</span>`}
+                  </div>
+                </div>
+              </article>
+            `;
+          }).join("") : `
+            <div class="trim-option-empty">
+              <strong>현재 트림의 옵션 정보가 아직 준비되지 않았습니다.</strong>
+              <p>옵션을 임의로 추가하지 않고 상담 시 확인하도록 진행할 수 있습니다.</p>
+            </div>
+          `}
+          ${options.length ? `<div class="trim-option-empty" data-option-tab-empty ${options.some(item => item.status !== "기본 포함") ? "hidden" : ""}><strong data-option-tab-empty-message>현재 트림에서 추가로 선택할 수 있는 옵션이 없습니다.</strong></div>` : ""}
+        </section>
+        ${options.length ? `<div class="trim-option-selected-count" role="status" aria-live="polite" aria-atomic="true"><p><span>선택한 추가 옵션</span><strong><span data-selected-option-count>${getSelectedOptionObjects().length}</span>개</strong></p><p class="trim-option-selected-total"><span>추가 옵션 합계</span><strong data-selected-option-total>${getSelectedOptionTotalLabel()}</strong></p></div>` : ""}
+        <p class="validation-message" id="validationMessage"></p>
+      </div>
+    `;
+  }
+
   // 포터·봉고 화물차는 장기렌트 선택을 제공하지 않습니다.
   function isLeaseOnlyTruck() {
     return ["포터2", "포터2 일렉트릭", "봉고3"].includes(state.carName);
   }
 
-  function renderStepThree() {
+  function renderStepFour() {
     return `
       <div class="wizard-step">
         ${selectedVehicleHtml()}
 
         <div class="step-heading">
-          <span>STEP 03</span>
+          <span>STEP 04</span>
           <h2>이용조건을 선택해 주세요.</h2>
         </div>
 
@@ -12389,11 +12556,12 @@ const vehicleCatalog = [
     `;
   }
 
-  function renderStepFour() {
+  function renderStepFive() {
+    const selectedOptions = getSelectedOptionObjects();
     return `
       <div class="wizard-step">
         <div class="step-heading">
-          <span>STEP 04</span>
+          <span>STEP 05</span>
           <h2>견적 받아볼 정보를 입력해주세요.</h2>
           <p>선택한 조건으로 견적서를 보내드립니다.</p>
         </div>
@@ -12403,6 +12571,12 @@ const vehicleCatalog = [
           <dl>
             <div><dt>차량</dt><dd>${state.brandName && state.carName ? `${state.brandName} ${state.carName}` : "상담 후 결정"} · ${currentPaint()?.name || "상담 후 결정"}</dd></div>
             <div><dt>세부모델</dt><dd>${state.trim || "상담 후 결정"}${state.subTrim ? ` · ${state.subTrim}` : ""}</dd></div>
+            <div class="estimate-summary__option-row"><dt>옵션선택</dt><dd class="estimate-summary__options">${selectedOptions.length ? `
+              <details class="estimate-summary__option-details">
+                <summary><span>${selectedOptions.length}개 선택</span><svg aria-hidden="true" viewBox="0 0 16 16"><path d="m4 6 4 4 4-4"/></svg></summary>
+                <ul>${selectedOptions.map(option => `<li>${option.name}</li>`).join("")}</ul>
+              </details>
+            ` : "선택 없음"}</dd></div>
             <div><dt>이용조건</dt><dd>${state.usage || "상담 후 결정"} · ${state.initialCost || "상담 후 결정"}${!["초기비용 0원", "상담 후 결정"].includes(state.initialCost) && state.rate ? ` ${state.rate}` : ""}</dd></div>
             <div><dt>주행거리</dt><dd>${state.mileage || "상담 후 결정"}</dd></div>
             <div class="discount-rate"><dt>${currentMonth}월 할인율</dt><dd>최대 10%</dd></div>
@@ -12539,6 +12713,7 @@ const vehicleCatalog = [
               <div><dt>차량</dt><dd>${carText}</dd></div>
               <div><dt>외장 색상</dt><dd>${colorText}</dd></div>
               <div><dt>세부 모델</dt><dd>${modelText}</dd></div>
+              <div><dt>추가 옵션</dt><dd>${getSelectedOptionSummary()}</dd></div>
               <div><dt>이용 방식</dt><dd>${usageText}</dd></div>
               <div><dt>초기비용</dt><dd>${initialCostText}</dd></div>
               <div><dt>주행거리</dt><dd>${mileageText}</dd></div>
@@ -12619,7 +12794,7 @@ const vehicleCatalog = [
     actions.hidden = false;
     spacer.hidden = false;
 
-    const renderers = [renderStepOne, renderStepTwo, renderStepThree, renderStepFour];
+    const renderers = [renderStepOne, renderStepTwo, renderStepThree, renderStepFour, renderStepFive];
     content.innerHTML = renderers[state.step - 1]();
     updateReviewPlacement();
 
@@ -12638,13 +12813,13 @@ const vehicleCatalog = [
     });
     indicator.className = `step-indicator progress-${state.step}`;
 
-    const shouldShowConsultButton = state.step === 1 || state.step === 2;
+    const shouldShowConsultButton = state.step >= 1 && state.step <= 3;
 
     backButton.hidden = state.step === 1;
     consultButton.hidden = !shouldShowConsultButton;
     consultButton.textContent = "바로 견적신청";
     actions.classList.toggle("has-consult-button", shouldShowConsultButton);
-    nextButton.innerHTML = state.step === 4
+    nextButton.innerHTML = state.step === 5
       ? `견적신청 ${arrowIcon()}`
       : `다음 단계 ${arrowIcon()}`;
 
@@ -12889,8 +13064,108 @@ const vehicleCatalog = [
     }, 100);
   });
 
+  let optionCategoryResizeObserver = null;
+
+  function updateOptionCategoryArrows() {
+    const scroller = content.querySelector("[data-option-categories]");
+    if (!scroller) return;
+    const maxScroll = Math.max(0, scroller.scrollWidth - scroller.clientWidth);
+    content.querySelectorAll("[data-option-category-scroll]").forEach(button => {
+      button.hidden = maxScroll <= 1 || (button.dataset.optionCategoryScroll === "-1"
+        ? scroller.scrollLeft <= 1
+        : scroller.scrollLeft >= maxScroll - 1);
+    });
+  }
+
+  function bindOptionCategoryScroll() {
+    if (optionCategoryResizeObserver) optionCategoryResizeObserver.disconnect();
+    const scroller = content.querySelector("[data-option-categories]");
+    if (!scroller) return;
+    enablePaintDragScroll(scroller);
+    scroller.addEventListener("scroll", updateOptionCategoryArrows, { passive: true });
+    content.querySelectorAll("[data-option-category-scroll]").forEach(button => {
+      button.addEventListener("click", () => {
+        scroller.scrollBy({
+          left: Number(button.dataset.optionCategoryScroll) * Math.max(140, scroller.clientWidth * 0.7),
+          behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth"
+        });
+      });
+    });
+    if (typeof ResizeObserver !== "undefined") {
+      optionCategoryResizeObserver = new ResizeObserver(updateOptionCategoryArrows);
+      optionCategoryResizeObserver.observe(scroller);
+    }
+  }
+
+  function bindOptionFilters() {
+    bindOptionCategoryScroll();
+    let currentGroup = "선택 옵션";
+    let currentCategory = "전체";
+
+    function applyFilters() {
+      const isIncluded = currentGroup === "기본 포함";
+      const summary = content.querySelector(".trim-option-selected-count");
+      if (summary) summary.hidden = isIncluded;
+      const categories = content.querySelector("[data-option-category-nav]");
+      if (categories) categories.hidden = !isIncluded || OPTION_CONFIG.showCategories === false || OPTION_CATEGORIES.length <= 1;
+      updateOptionCategoryArrows();
+      content.querySelectorAll("[data-option-tab]").forEach(tab => {
+        const active = tab.dataset.optionTab === currentGroup;
+        tab.classList.toggle("is-active", active);
+        tab.setAttribute("aria-pressed", String(active));
+      });
+      content.querySelectorAll("[data-option-category]").forEach(button => {
+        const active = button.dataset.optionCategory === currentCategory;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-pressed", String(active));
+      });
+      let visibleCount = 0;
+      content.querySelectorAll("[data-option-group]").forEach(card => {
+        const matchesCategory = !isIncluded || currentCategory === "전체" || card.dataset.optionItemCategory === currentCategory;
+        card.hidden = card.dataset.optionGroup !== currentGroup || !matchesCategory;
+        if (!card.hidden) visibleCount += 1;
+      });
+      const grid = content.querySelector("#trimOptionGrid");
+      if (grid) grid.setAttribute("aria-label", isIncluded ? `기본 포함 옵션 · ${currentCategory}` : "선택 옵션");
+      const empty = content.querySelector("[data-option-tab-empty]");
+      if (empty) {
+        empty.hidden = visibleCount > 0;
+        empty.querySelector("[data-option-tab-empty-message]").textContent = isIncluded
+          ? currentCategory === "전체" ? "현재 트림에 등록된 기본 포함 옵션이 없습니다." : `${currentCategory}에 등록된 기본 포함 옵션이 없습니다.`
+          : "현재 트림에서 추가로 선택할 수 있는 옵션이 없습니다.";
+      }
+    }
+    content.querySelectorAll("[data-option-tab]").forEach(button => {
+      button.addEventListener("click", () => {
+        currentGroup = button.dataset.optionTab;
+        currentCategory = "전체";
+        applyFilters();
+        const scroller = content.querySelector("[data-option-categories]");
+        if (scroller) {
+          scroller.scrollLeft = 0;
+          updateOptionCategoryArrows();
+        }
+      });
+    });
+    content.querySelectorAll("[data-option-category]").forEach(button => {
+      button.addEventListener("click", () => {
+        currentCategory = button.dataset.optionCategory;
+        applyFilters();
+      });
+    });
+  }
+
   function bindStepEvents() {
+    bindOptionFilters();
     initScrollablePaints();
+
+    // 관리 파일에서 이미지 경로를 잘못 지정해도 카드 레이아웃이 무너지지 않게 합니다.
+    content.querySelectorAll(".trim-option-card__thumb img").forEach(image => {
+      image.addEventListener("error", () => {
+        const fallback = assetUrl("images/option-thumbnails/option-placeholder.svg");
+        if (!image.src.startsWith(fallback)) image.src = fallback;
+      });
+    });
 
     content.querySelectorAll("[data-group]").forEach(group => {
       group.addEventListener("click", event => {
@@ -13032,6 +13307,8 @@ const vehicleCatalog = [
       button.addEventListener("click", () => {
         state.trim = button.dataset.engineModel;
         state.subTrim = "";
+        state.selectedOptions = [];
+        state.openOptionInfoId = "";
         render();
 
         // 2페이지에서는 세부모델 선택 후 다음 항목으로 내려가지 않고
@@ -13043,6 +13320,54 @@ const vehicleCatalog = [
     content.querySelectorAll("[data-sub-trim]").forEach(button => {
       button.addEventListener("click", () => {
         openTrimDetailModal(button.dataset.subTrim);
+      });
+    });
+
+
+    // 추가 선택 가능한 옵션은 + 버튼뿐 아니라 사진과 정보 영역 등 카드 전체를 눌러도 선택됩니다.
+    // 버튼에 별도의 클릭 핸들러를 달지 않아 이벤트 버블링으로 두 번 토글되지 않습니다.
+    content.querySelectorAll("[data-option-card]").forEach(card => {
+      card.addEventListener("click", event => {
+        // 추후 카드 안에 다른 독립 동작 버튼이 생겨도 옵션 선택으로 처리하지 않습니다.
+        if (event.target.closest("button:not([data-option-toggle])")) return;
+
+        const optionId = card.dataset.optionCard;
+        const option = getCurrentTrimOptions().find(item => item.id === optionId && item.status === "선택 옵션");
+        if (!option) return;
+
+        const selected = new Set(Array.isArray(state.selectedOptions) ? state.selectedOptions : []);
+        const wasSelected = selected.has(optionId);
+        if (wasSelected) selected.delete(optionId);
+        else selected.add(optionId);
+        state.selectedOptions = Array.from(selected);
+
+        card.classList.toggle("is-selected", !wasSelected);
+        const button = card.querySelector("[data-option-toggle]");
+        if (button) {
+          button.classList.toggle("is-active", !wasSelected);
+          button.setAttribute("aria-pressed", String(!wasSelected));
+          button.setAttribute("aria-label", `${option.name} ${wasSelected ? "추가" : "선택 취소"}`);
+          button.innerHTML = renderTrimOptionActionIcon(!wasSelected);
+        }
+        const count = content.querySelector("[data-selected-option-count]");
+        if (count) count.textContent = String(getSelectedOptionObjects().length);
+        const total = content.querySelector("[data-selected-option-total]");
+        if (total) total.textContent = getSelectedOptionTotalLabel();
+        rememberWizardStep();
+      });
+    });
+
+    content.querySelectorAll("[data-option-info-toggle]").forEach(button => {
+      button.addEventListener("click", () => {
+        const option = getCurrentTrimOptions().find(item => item.id === button.dataset.optionInfoToggle);
+        if (!option) return;
+        const dialog = document.getElementById("optionDetailDialog");
+        if (!dialog) return;
+        document.getElementById("optionDetailTitle").textContent = option.name;
+        document.getElementById("optionDetailDescription").textContent = option.description || "옵션 상세 안내를 준비 중입니다.";
+        document.getElementById("optionDetailSource").textContent = option.source || "차량별 제조사 자료 확인 필요";
+        document.getElementById("optionDetailPrice").textContent = option.status === "기본 포함" ? "기본 포함" : option.price;
+        dialog.showModal();
       });
     });
 
@@ -13242,6 +13567,8 @@ const vehicleCatalog = [
     state.paintId = "";
     state.trim = "";
     state.subTrim = "";
+    state.selectedOptions = [];
+    state.openOptionInfoId = "";
     state.usage = "";
     state.initialCost = "";
     state.rate = "";
@@ -13481,7 +13808,7 @@ const vehicleCatalog = [
       return;
     }
     const saved = event.state?.[WIZARD_HISTORY_KEY];
-    if (!saved || !Number.isInteger(saved.step) || saved.step < 1 || saved.step > 4) return;
+    if (!saved || !Number.isInteger(saved.step) || saved.step < 1 || saved.step > 5) return;
     Object.assign(state, saved);
     render();
     scrollToEstimate();
@@ -13489,8 +13816,8 @@ const vehicleCatalog = [
 
   function moveToConsultStep() {
     // 1·2단계에서 바로 견적 신청을 선택하면 정보입력 단계로 이동합니다.
-    // 선택하지 않은 항목은 STEP 04 요약에서 "상담 후 결정"으로 표시합니다.
-    navigateWizardStep(4);
+    // 선택하지 않은 항목은 STEP 05 요약에서 "상담 후 결정"으로 표시합니다.
+    navigateWizardStep(5);
   }
 
   function validateCurrentStep() {
@@ -13523,12 +13850,16 @@ const vehicleCatalog = [
     }
 
     if (state.step === 3) {
+      return true;
+    }
+
+    if (state.step === 4) {
       if (!state.usage) {
         showValidation("이용 방식을 선택해 주세요.");
         return false;
       }
 
-      // "상담 후 결정"은 추가 이용조건 없이 바로 STEP 04로 진행합니다.
+      // "상담 후 결정"은 추가 이용조건 없이 바로 STEP 05로 진행합니다.
       if (state.usage === "상담 후 결정") {
         return true;
       }
@@ -13548,7 +13879,7 @@ const vehicleCatalog = [
       return true;
     }
 
-    if (state.step === 4) {
+    if (state.step === 5) {
       const name = document.getElementById("customerName");
       const phone = document.getElementById("customerPhone");
       const contactMethod = document.querySelector('input[name="contactMethod"]:checked');
@@ -13632,6 +13963,7 @@ const vehicleCatalog = [
       exteriorColor: paint?.name || pendingText,
       model: state.trim || pendingText,
       trim: getTrimTextForMail(state.subTrim || pendingText),
+      selectedOptions: getSelectedOptionSummary(),
       usageType: state.usage || pendingText,
       initialCostType: state.initialCost || pendingText,
       initialCostRate: !state.initialCost || ["초기비용 0원", pendingText].includes(state.initialCost)
@@ -13689,6 +14021,7 @@ const vehicleCatalog = [
       exteriorColor: payload.exteriorColor || "",
       model: payload.model || "",
       trim: payload.trim || "",
+      selectedOptions: payload.selectedOptions || "",
       usageType: payload.usageType || "",
       initialCostType: payload.initialCostType || "",
       initialCostRate: payload.initialCostRate || "",
@@ -13765,7 +14098,7 @@ const vehicleCatalog = [
   nextButton.addEventListener("click", async () => {
     if (!validateCurrentStep()) return;
 
-    if (state.step < 4) {
+    if (state.step < 5) {
       navigateWizardStep(state.step + 1);
       return;
     }

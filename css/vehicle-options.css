@@ -1,0 +1,85 @@
+/* 2026-11 옵션 선택 단계: 기존 페이지의 다른 단계 스타일 유지 */
+#stepIndicator.step-indicator{grid-template-columns:repeat(5,minmax(0,1fr)) !important;}
+#stepIndicator.step-indicator > li > button span{white-space:nowrap;}
+.step-options{--opt-blue:#2466de;}
+.vehicle-option-vehicle{background:#f5f8fc;border:1px solid #e4ebf4;border-radius:16px;padding:18px 22px;margin:4px 0 22px;display:grid;gap:5px;}
+.vehicle-option-vehicle span{font-size:12px;color:#78869a;font-weight:650}
+.vehicle-option-vehicle strong{font-size:18px;line-height:1.35;color:#18233b}
+.vehicle-option-vehicle small{font-size:13px;color:#687b98;line-height:1.5}
+.vehicle-option-filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-bottom:18px}
+.vehicle-option-filters button{border:1px solid #dce4f0;background:white;border-radius:11px;color:#465570;padding:13px 5px;font-size:14px;font-weight:700;cursor:pointer;transition:.15s}
+.vehicle-option-filters button.is-active{background:#2466de;border-color:#2466de;color:#fff}
+.vehicle-option-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.vehicle-option-card{display:flex;align-items:center;gap:13px;border:1px solid #e0e6ee;background:#fff;border-radius:15px;padding:14px;min-height:116px;transition:border-color .2s,box-shadow .2s}
+.vehicle-option-card.is-picked{border:2px solid #2466de;background:#f8fbff;box-shadow:0 4px 13px rgba(36,102,222,.07);padding:13px}
+.vehicle-option-card.is-included{background:#f6f8fa}
+.vehicle-option-card.is-covered{background:#f3f5f8;opacity:.73}
+.vehicle-option-card__figure{flex:0 0 78px;width:78px;height:78px;display:grid;place-items:center;border-radius:12px;background:linear-gradient(145deg,#f4f8ff,#e7eef9);color:#4578bc}
+.vehicle-option-card__figure svg{display:block;width:48px;height:48px}
+.vehicle-option-card__body{min-width:0;flex:1;display:flex;flex-direction:column;align-items:flex-start;gap:5px}
+.vehicle-option-card__body strong{font-size:14px;line-height:1.43;color:#1f2e44;word-break:keep-all}
+.vehicle-option-card__body small{font-size:12px;color:#2466de;font-weight:750}
+.vehicle-option-card__info{border:0;background:none;color:#70809b;font-size:11px;text-decoration:underline;text-underline-offset:3px;padding:1px 0;cursor:pointer}
+.vehicle-option-card__select{flex:0 0 30px;width:30px;height:30px;background:#fff;border:1px solid #cfdae8;border-radius:50%;display:grid;place-items:center;color:#8e9aaa;font-size:18px;cursor:pointer;transition:.15s}
+.vehicle-option-card.is-picked .vehicle-option-card__select{background:#2466de;border-color:#2466de;color:white}
+.vehicle-option-card__select:disabled{background:#e4e9ef;color:#a8b0ba;cursor:not-allowed}
+.vehicle-option-card__status{font-size:11px;font-weight:750;padding:6px 8px;border-radius:8px;background:#e6eaef;color:#7d8896;white-space:nowrap}
+.vehicle-option-source{font-size:12px;color:#7f8ca1;line-height:1.7;margin:12px 2px 22px}
+.vehicle-option-source a{color:#2466de;text-decoration:underline;text-underline-offset:3px}
+.vehicle-option-unavailable{background:#f6f9ff;border:1px solid #d8e5fb;border-radius:14px;padding:23px;margin-bottom:20px}
+.vehicle-option-unavailable strong{display:block;color:#223a62;font-size:16px;margin-bottom:7px}
+.vehicle-option-unavailable p{color:#6d7c92;font-size:13px;line-height:1.7;margin:0}
+.vehicle-option-summary{border-radius:15px;border:1px solid #dfe7f3;background:#f8fbff;padding:19px 22px;margin-top:20px}
+.vehicle-option-summary__head{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:10px}
+.vehicle-option-summary__head strong{color:#233b5d;font-size:16px}
+.vehicle-option-summary__head b{color:#2466de;font-size:14px}
+.vehicle-option-summary p{font-size:13px;color:#8490a5;line-height:1.6;margin:4px 0 0}
+.vehicle-option-summary ul{list-style:none;padding:0;margin:0}
+.vehicle-option-summary li{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid #e5edf8;font-size:13px;color:#42546b;line-height:1.45}
+.vehicle-option-summary li span{flex:1}
+.vehicle-option-summary li strong{white-space:nowrap;color:#263d59}
+.vehicle-option-summary__total{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px 0 0;font-size:13px;color:#536b85}
+.vehicle-option-summary__total strong{font-size:16px;color:#2466de}
+.vehicle-option-request{display:block;margin:24px 0 12px}
+.vehicle-option-request strong{font-size:14px;color:#263952;display:block;margin-bottom:10px}
+.vehicle-option-request em{color:#8591a4;font-size:12px;font-style:normal;font-weight:500}
+.vehicle-option-request textarea{width:100%;display:block;box-sizing:border-box;min-height:100px;resize:vertical;border:1px solid #dce4ee;border-radius:11px;padding:14px;font:inherit;font-size:14px;line-height:1.6;outline:none}
+.vehicle-option-request textarea:focus{border-color:#2466de;box-shadow:0 0 0 3px #e9f1ff}
+.vehicle-option-disclaimer{font-size:12px;color:#8190a2;line-height:1.7;margin-bottom:10px}
+.vehicle-option-empty{grid-column:1/-1;padding:30px;text-align:center;color:#9aa5b6;background:#f9fbfc;border-radius:12px;font-size:13px}
+.vehicle-option-modal{padding:0;border:0;max-width:min(440px,calc(100vw - 30px));width:100%;border-radius:20px;box-shadow:0 24px 65px #0f274b33;max-height:calc(100vh - 35px);overflow:auto}
+.vehicle-option-modal::backdrop{background:rgba(14,23,38,.58)}
+.vehicle-option-modal__panel{position:relative;padding:27px 27px 22px}
+.vehicle-option-modal__close{position:absolute;top:13px;right:16px;font-size:30px;color:#8291a6;border:0;background:transparent;cursor:pointer}
+.vehicle-option-modal__art{width:90px;height:90px;display:grid;place-items:center;border-radius:20px;margin:5px 0 20px;background:linear-gradient(145deg,#f4f8ff,#e7eef9);color:#4578bc}
+.vehicle-option-modal__art svg{width:57px;height:57px}
+.vehicle-option-modal__eyebrow{font-size:12px;color:#2466de;font-weight:750;margin:0 0 7px}
+.vehicle-option-modal h2{font-size:22px;line-height:1.4;margin:0 0 12px;color:#1e2d46;word-break:keep-all}
+.vehicle-option-modal #vehicleOptionModalDescription{font-size:15px;line-height:1.75;color:#5a6980;margin:0 0 14px}
+.vehicle-option-modal #vehicleOptionModalPrice{font-size:19px;color:#2466de;font-weight:800;margin:0 0 18px}
+.vehicle-option-modal__disclaimer{font-size:12px;color:#8e9aaa;line-height:1.6;margin:0 0 17px}
+.vehicle-option-modal__done{width:100%;border-radius:11px;padding:14px 0;background:#2466de;color:#fff;border:0;font-size:15px;font-weight:700;cursor:pointer}
+@media(min-width:1220px){.vehicle-option-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media(max-width:650px){
+ #stepIndicator.step-indicator{grid-template-columns:repeat(5,minmax(0,1fr)) !important;}
+ #stepIndicator.step-indicator > li > button{padding-inline:1px;min-width:0}
+ #stepIndicator.step-indicator > li > button b{font-size:11px}
+ #stepIndicator.step-indicator > li > button span{font-size:10px;letter-spacing:-.6px}
+ .vehicle-option-grid{grid-template-columns:1fr;gap:10px}
+ .vehicle-option-card{min-height:95px;padding:11px;gap:12px}
+ .vehicle-option-card.is-picked{padding:10px}
+ .vehicle-option-card__figure{flex-basis:68px;width:68px;height:68px}
+ .vehicle-option-card__figure svg{width:43px;height:43px}
+ .vehicle-option-vehicle{padding:14px 16px}
+ .vehicle-option-vehicle strong{font-size:16px}
+ .vehicle-option-filters{gap:6px}
+ .vehicle-option-filters button{padding:10px 3px;font-size:12px}
+ .vehicle-option-summary{padding:16px}
+ .vehicle-option-summary__total strong{font-size:14px}
+}
+@media(max-width:370px){#stepIndicator.step-indicator > li > button span{font-size:9px;letter-spacing:-.9px}.vehicle-option-card__body strong{font-size:13px}}
+
+/* 원본에서 진행탭 폰트와 좌우 여백을 !important로 설정하여 5단계에 맞춰 재지정 */
+#stepIndicator.step-indicator > li > button{padding:0 4px !important;gap:3px !important;font-size:12px !important;}
+@media(max-width:650px){#stepIndicator.step-indicator > li > button{padding:0 1px !important;gap:2px !important;font-size:10px !important;}#stepIndicator.step-indicator > li > button b{font-size:10px !important;}#stepIndicator.step-indicator > li > button span{font-size:10px !important;letter-spacing:-.065em !important;}}
+@media(max-width:370px){#stepIndicator.step-indicator > li > button b{font-size:9px !important;}#stepIndicator.step-indicator > li > button span{font-size:9px !important;}}
