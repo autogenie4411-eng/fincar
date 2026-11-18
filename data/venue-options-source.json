@@ -1,0 +1,2416 @@
+{
+  "retrievedDate": "2026-11-16",
+  "models": [
+    {
+      "siteTrimName": "스마트",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
+      "model": {
+        "saleMdlCd": "QXJJ5GAC6",
+        "carAbbreviation": "QX",
+        "carName": "베뉴",
+        "carCode": "QX07",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "Smart",
+        "carTrimCode": "A",
+        "carBodyName": "JEEP 5인승",
+        "carEnginName": "가솔린 1.6",
+        "carMissionName": "IVT",
+        "carDriveName": "2WD",
+        "saleModelName": "베뉴 가솔린 1.6 Smart 2WD IVT",
+        "saleSpecCode": "A",
+        "carBodyCode1": "J",
+        "carBodyCode2": "5",
+        "carEnginCode": "G",
+        "carMissionCode": "C",
+        "carDriveCode": "C",
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "19940000",
+        "carTypeCode": "R",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "2",
+          "saleModelCode": "QXJJ5GAC6",
+          "choiceOptionCode": "NAV",
+          "choiceOptionName": "내비게이션 패키지",
+          "choiceOptionPrice": "500000",
+          "optionImgPath": "/contents/spec/QX27MY/qx_8inchnavi_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "QXJJ5GAC6",
+          "choiceOptionCode": "HIP",
+          "choiceOptionName": "하이패스",
+          "choiceOptionPrice": "200000",
+          "optionImgPath": "/contents/spec/QX27MY/hipasssys_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06001",
+              "basicOptionName": "스마트스트림 가솔린 1.6 엔진",
+              "imgFile": "smartstreamg1.6_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06002",
+              "basicOptionName": "스마트스트림 IVT(무단변속기)",
+              "imgFile": "smartstreamivt_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06003",
+              "basicOptionName": "통합 주행모드",
+              "imgFile": "drivemode_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06007",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "hba_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06004",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자)",
+              "imgFile": "fca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06006",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "daw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06005",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "lca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06008",
+              "basicOptionName": "차로 유지 보조",
+              "imgFile": "lfa_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06072",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "fireextinguisher_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06016",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "isofix_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06014",
+              "basicOptionName": "6에어백 시스템(1열 어드밴스드/사이드, 전복대응 커튼)",
+              "imgFile": "6airbag_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06015",
+              "basicOptionName": "세이프티 언락",
+              "imgFile": "safetyunlock-1_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06018",
+              "basicOptionName": "LED 주간주행등",
+              "imgFile": "qx_leddrl_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06024",
+              "basicOptionName": "크롬 라디에이터 그릴",
+              "imgFile": "qx_chromgrill_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06022",
+              "basicOptionName": "아웃사이드 미러(열선, 전동접이, 전동조절, 락폴딩, LED 방향지시등)",
+              "imgFile": "outsidemirror_led_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06021",
+              "basicOptionName": "15인치 알로이 휠 & 타이어",
+              "imgFile": "qx_15inchalloywheel_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06019",
+              "basicOptionName": "LED 포지셔닝램프",
+              "imgFile": "qx_leddrl_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06031",
+              "basicOptionName": "가죽 스티어링 휠(열선 포함)",
+              "imgFile": "leathersteering_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06035",
+              "basicOptionName": "선바이저 거울",
+              "imgFile": "sunvisormirror_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06033",
+              "basicOptionName": "클러스터(4.2인치 컬러 LCD)",
+              "imgFile": "4.2nchcluster_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06036",
+              "basicOptionName": "메탈 페인트 인사이드 도어 핸들",
+              "imgFile": "metalpaintinsidesoor_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06037",
+              "basicOptionName": "2단 러기지 보드",
+              "imgFile": "luggageboard_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06032",
+              "basicOptionName": "가죽 변속기 노브",
+              "imgFile": "leathermission_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06041",
+              "basicOptionName": "1열 열선시트",
+              "imgFile": "heatedseat1_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06039",
+              "basicOptionName": "인조가죽 시트",
+              "imgFile": "qx_leatherseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06042",
+              "basicOptionName": "운전석 수동 높이 조절",
+              "imgFile": "drivermanualseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06043",
+              "basicOptionName": "2열 6:4 분할 폴딩",
+              "imgFile": "rearfoldingseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06045",
+              "basicOptionName": "스마트키 원격 시동",
+              "imgFile": "remotestarting_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06053",
+              "basicOptionName": "오토 라이트 컨트롤",
+              "imgFile": "autolightcontrol_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06049",
+              "basicOptionName": "풀오토 에어컨",
+              "imgFile": "qx_fullautoaircon_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06055",
+              "basicOptionName": "2WD험로 주행모드(스노우/샌드/머드)",
+              "imgFile": "2wd-mtc_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06054",
+              "basicOptionName": "파워아웃렛(1열 1개)",
+              "imgFile": "poweroutlet_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06056",
+              "basicOptionName": "크루즈 컨트롤",
+              "imgFile": "cruisecontrol_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06044",
+              "basicOptionName": "버튼 시동 & 스마트 키",
+              "imgFile": "smartkey_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06052",
+              "basicOptionName": "주차 거리 경고(후방)",
+              "imgFile": "rpas_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06046",
+              "basicOptionName": "수동식 틸트 스티어링 휠",
+              "imgFile": "tiltsteeringwheel_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GAC6",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06063",
+              "basicOptionName": "USB A타입 단자(1열 데이터 타입 1개)",
+              "imgFile": "usbcharger1_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06064",
+              "basicOptionName": "USB C타입 단자(1열 충전 1개/2열 충전 2개)",
+              "imgFile": "usbcharger_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06062",
+              "basicOptionName": "후방모니터",
+              "imgFile": "rearcamera_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06075",
+              "basicOptionName": "8인치 디스플레이 오디오(4스피커, 라디오, MP3, 블루투스 핸즈프리, 폰 프로젝션)",
+              "imgFile": "qx_8inchaudio_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteTrimName": "프리미엄",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
+      "model": {
+        "saleMdlCd": "QXJJ5GDC6",
+        "carAbbreviation": "QX",
+        "carName": "베뉴",
+        "carCode": "QX07",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "PREMIUM",
+        "carTrimCode": "D",
+        "carBodyName": "JEEP 5인승",
+        "carEnginName": "가솔린 1.6",
+        "carMissionName": "IVT",
+        "carDriveName": "2WD",
+        "saleModelName": "베뉴 가솔린 1.6 PREMIUM 2WD IVT",
+        "saleSpecCode": "A",
+        "carBodyCode1": "J",
+        "carBodyCode2": "5",
+        "carEnginCode": "G",
+        "carMissionCode": "C",
+        "carDriveCode": "C",
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "22920000",
+        "carTypeCode": "R",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "2",
+          "saleModelCode": "QXJJ5GDC6",
+          "choiceOptionCode": "STY",
+          "choiceOptionName": "스타일",
+          "choiceOptionPrice": "550000",
+          "optionImgPath": "/contents/spec/QX27MY/qx_17inchalloywheel_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "QXJJ5GDC6",
+          "choiceOptionCode": "TEC",
+          "choiceOptionName": "테크",
+          "choiceOptionPrice": "350000",
+          "optionImgPath": "/contents/spec/QX27MY/smartcharger_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "2",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "QXJJ5GDC6",
+          "choiceOptionCode": "TTR",
+          "choiceOptionName": "투톤 컬러 루프",
+          "choiceOptionPrice": "400000",
+          "optionImgPath": "/contents/spec/QX27MY/twotoneroof_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "B",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "QXJJ5GDC6",
+          "choiceOptionCode": "SRF",
+          "choiceOptionName": "선루프",
+          "choiceOptionPrice": "400000",
+          "optionImgPath": "/contents/spec/QX27MY/sunroof_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06001",
+              "basicOptionName": "스마트스트림 가솔린 1.6 엔진",
+              "imgFile": "smartstreamg1.6_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06002",
+              "basicOptionName": "스마트스트림 IVT(무단변속기)",
+              "imgFile": "smartstreamivt_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06003",
+              "basicOptionName": "통합 주행모드",
+              "imgFile": "drivemode_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06013",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 미포함)",
+              "imgFile": "scc_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06007",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "hba_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06004",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자)",
+              "imgFile": "fca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06012",
+              "basicOptionName": "후방 교차 충돌방지 보조",
+              "imgFile": "rccw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06006",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "daw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06009",
+              "basicOptionName": "전방 충돌방지 보조(교차로 대향차)",
+              "imgFile": "fca_cross_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06010",
+              "basicOptionName": "후측방 충돌 경고(주행)",
+              "imgFile": "bcw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06005",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "lca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06011",
+              "basicOptionName": "후측방 충돌방지 보조(전진 출차)",
+              "imgFile": "bca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06008",
+              "basicOptionName": "차로 유지 보조",
+              "imgFile": "lfa_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06072",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "fireextinguisher_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06016",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "isofix_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06014",
+              "basicOptionName": "6에어백 시스템(1열 어드밴스드/사이드, 전복대응 커튼)",
+              "imgFile": "6airbag_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06015",
+              "basicOptionName": "세이프티 언락",
+              "imgFile": "safetyunlock-1_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06018",
+              "basicOptionName": "LED 주간주행등",
+              "imgFile": "qx_leddrl_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06024",
+              "basicOptionName": "크롬 라디에이터 그릴",
+              "imgFile": "qx_chromgrill_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06022",
+              "basicOptionName": "아웃사이드 미러(열선, 전동접이, 전동조절, 락폴딩, LED 방향지시등)",
+              "imgFile": "outsidemirror_led_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06021",
+              "basicOptionName": "15인치 알로이 휠 & 타이어",
+              "imgFile": "qx_15inchalloywheel_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06019",
+              "basicOptionName": "LED 포지셔닝램프",
+              "imgFile": "qx_leddrl_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06017",
+              "basicOptionName": "LED 헤드램프(프로젝션 타입)",
+              "imgFile": "qx_ledheadlamp_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06026",
+              "basicOptionName": "LED 리어 콤비 램프",
+              "imgFile": "qx_ledrearlamp_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06031",
+              "basicOptionName": "가죽 스티어링 휠(열선 포함)",
+              "imgFile": "leathersteering_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06035",
+              "basicOptionName": "선바이저 거울",
+              "imgFile": "sunvisormirror_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06038",
+              "basicOptionName": "인조가죽 적용내장(도어 암레스트)",
+              "imgFile": "leatherarmrest_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06033",
+              "basicOptionName": "클러스터(4.2인치 컬러 LCD)",
+              "imgFile": "4.2nchcluster_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06036",
+              "basicOptionName": "메탈 페인트 인사이드 도어 핸들",
+              "imgFile": "metalpaintinsidesoor_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06037",
+              "basicOptionName": "2단 러기지 보드",
+              "imgFile": "luggageboard_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06032",
+              "basicOptionName": "가죽 변속기 노브",
+              "imgFile": "leathermission_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06034",
+              "basicOptionName": "선바이저 조명",
+              "imgFile": "noimage_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06040",
+              "basicOptionName": "1열 통풍시트",
+              "imgFile": "frontventil_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06041",
+              "basicOptionName": "1열 열선시트",
+              "imgFile": "heatedseat1_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06039",
+              "basicOptionName": "인조가죽 시트",
+              "imgFile": "qx_leatherseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06042",
+              "basicOptionName": "운전석 수동 높이 조절",
+              "imgFile": "drivermanualseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06043",
+              "basicOptionName": "2열 6:4 분할 폴딩",
+              "imgFile": "rearfoldingseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06045",
+              "basicOptionName": "스마트키 원격 시동",
+              "imgFile": "remotestarting_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06057",
+              "basicOptionName": "세이프티 파워 윈도우(운전석)",
+              "imgFile": "safetypowerwindow_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06051",
+              "basicOptionName": "ECM 룸미러",
+              "imgFile": "ecmroommirror_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06053",
+              "basicOptionName": "오토 라이트 컨트롤",
+              "imgFile": "autolightcontrol_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06073",
+              "basicOptionName": "커버링 쉘프",
+              "imgFile": "luggagecoveringshelf_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06049",
+              "basicOptionName": "풀오토 에어컨",
+              "imgFile": "qx_fullautoaircon_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06055",
+              "basicOptionName": "2WD험로 주행모드(스노우/샌드/머드)",
+              "imgFile": "2wd-mtc_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06054",
+              "basicOptionName": "파워아웃렛(1열 1개)",
+              "imgFile": "poweroutlet_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06056",
+              "basicOptionName": "크루즈 컨트롤",
+              "imgFile": "cruisecontrol_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06047",
+              "basicOptionName": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "tilt&tele_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06044",
+              "basicOptionName": "버튼 시동 & 스마트 키",
+              "imgFile": "smartkey_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06052",
+              "basicOptionName": "주차 거리 경고(후방)",
+              "imgFile": "rpas_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06050",
+              "basicOptionName": "하이패스",
+              "imgFile": "hipasssys_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GDC6",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06063",
+              "basicOptionName": "USB A타입 단자(1열 데이터 타입 1개)",
+              "imgFile": "usbcharger1_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06064",
+              "basicOptionName": "USB C타입 단자(1열 충전 1개/2열 충전 2개)",
+              "imgFile": "usbcharger_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06066",
+              "basicOptionName": "일반 오디오 시스템(6스피커)",
+              "imgFile": "soundsystem_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06062",
+              "basicOptionName": "후방모니터",
+              "imgFile": "rearcamera_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06061",
+              "basicOptionName": "8인치 내비게이션(블루링크, 폰 프로젝션, 블루투스 핸즈프리)",
+              "imgFile": "qx_8inchnavi_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteTrimName": "FLUX",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GFC6&purposeCode=J",
+      "model": {
+        "saleMdlCd": "QXJJ5GFC6",
+        "carAbbreviation": "QX",
+        "carName": "베뉴",
+        "carCode": "QX07",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "FLUX",
+        "carTrimCode": "F",
+        "carBodyName": "JEEP 5인승",
+        "carEnginName": "가솔린 1.6",
+        "carMissionName": "IVT",
+        "carDriveName": "2WD",
+        "saleModelName": "베뉴 가솔린 1.6 FLUX 2WD IVT",
+        "saleSpecCode": "A",
+        "carBodyCode1": "J",
+        "carBodyCode2": "5",
+        "carEnginCode": "G",
+        "carMissionCode": "C",
+        "carDriveCode": "C",
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "24400000",
+        "carTypeCode": "R",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "1",
+          "saleModelCode": "QXJJ5GFC6",
+          "choiceOptionCode": "TTR",
+          "choiceOptionName": "투톤 컬러 루프",
+          "choiceOptionPrice": "400000",
+          "optionImgPath": "/contents/spec/QX27MY/twotoneroof_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "B,D,F",
+          "choiceOptionGroupCodes": "TTR",
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "QXJJ5GFC6",
+          "choiceOptionCode": "SRF",
+          "choiceOptionName": "선루프",
+          "choiceOptionPrice": "400000",
+          "optionImgPath": "/contents/spec/QX27MY/sunroof_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,C,E",
+          "choiceOptionGroupCodes": "SRF",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06001",
+              "basicOptionName": "스마트스트림 가솔린 1.6 엔진",
+              "imgFile": "smartstreamg1.6_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06002",
+              "basicOptionName": "스마트스트림 IVT(무단변속기)",
+              "imgFile": "smartstreamivt_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06003",
+              "basicOptionName": "통합 주행모드",
+              "imgFile": "drivemode_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06013",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 미포함)",
+              "imgFile": "scc_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06007",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "hba_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06004",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자)",
+              "imgFile": "fca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06012",
+              "basicOptionName": "후방 교차 충돌방지 보조",
+              "imgFile": "rccw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06006",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "daw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06009",
+              "basicOptionName": "전방 충돌방지 보조(교차로 대향차)",
+              "imgFile": "fca_cross_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06010",
+              "basicOptionName": "후측방 충돌 경고(주행)",
+              "imgFile": "bcw_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06005",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "lca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06011",
+              "basicOptionName": "후측방 충돌방지 보조(전진 출차)",
+              "imgFile": "bca_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06008",
+              "basicOptionName": "차로 유지 보조",
+              "imgFile": "lfa_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06072",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "fireextinguisher_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06016",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "isofix_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06014",
+              "basicOptionName": "6에어백 시스템(1열 어드밴스드/사이드, 전복대응 커튼)",
+              "imgFile": "6airbag_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06015",
+              "basicOptionName": "세이프티 언락",
+              "imgFile": "safetyunlock-1_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06018",
+              "basicOptionName": "LED 주간주행등",
+              "imgFile": "qx_leddrl_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06022",
+              "basicOptionName": "아웃사이드 미러(열선, 전동접이, 전동조절, 락폴딩, LED 방향지시등)",
+              "imgFile": "outsidemirror_led_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06027",
+              "basicOptionName": "루프랙",
+              "imgFile": "roofrack_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06025",
+              "basicOptionName": "17인치 알로이 휠 & 타이어",
+              "imgFile": "qx_17inchalloywheel_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06019",
+              "basicOptionName": "LED 포지셔닝램프",
+              "imgFile": "qx_leddrl_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06017",
+              "basicOptionName": "LED 헤드램프(프로젝션 타입)",
+              "imgFile": "qx_ledheadlamp_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06026",
+              "basicOptionName": "LED 리어 콤비 램프",
+              "imgFile": "qx_ledrearlamp_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06028",
+              "basicOptionName": "스페셜 디자인 셀렉션(FLUX 전용 크롬 도금 라디에이터 그릴, 블랙 리어스키드 플레이트, C필러 뱃지(지급품))",
+              "imgFile": "qx_specialdesign3_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06031",
+              "basicOptionName": "가죽 스티어링 휠(열선 포함)",
+              "imgFile": "leathersteering_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06035",
+              "basicOptionName": "선바이저 거울",
+              "imgFile": "sunvisormirror_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06038",
+              "basicOptionName": "인조가죽 적용내장(도어 암레스트)",
+              "imgFile": "leatherarmrest_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06033",
+              "basicOptionName": "클러스터(4.2인치 컬러 LCD)",
+              "imgFile": "4.2nchcluster_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06036",
+              "basicOptionName": "메탈 페인트 인사이드 도어 핸들",
+              "imgFile": "metalpaintinsidesoor_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06037",
+              "basicOptionName": "2단 러기지 보드",
+              "imgFile": "luggageboard_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06032",
+              "basicOptionName": "가죽 변속기 노브",
+              "imgFile": "leathermission_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06034",
+              "basicOptionName": "선바이저 조명",
+              "imgFile": "noimage_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06040",
+              "basicOptionName": "1열 통풍시트",
+              "imgFile": "frontventil_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06041",
+              "basicOptionName": "1열 열선시트",
+              "imgFile": "heatedseat1_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06039",
+              "basicOptionName": "인조가죽 시트",
+              "imgFile": "qx_leatherseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06042",
+              "basicOptionName": "운전석 수동 높이 조절",
+              "imgFile": "drivermanualseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06043",
+              "basicOptionName": "2열 6:4 분할 폴딩",
+              "imgFile": "rearfoldingseat_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06045",
+              "basicOptionName": "스마트키 원격 시동",
+              "imgFile": "remotestarting_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06057",
+              "basicOptionName": "세이프티 파워 윈도우(운전석)",
+              "imgFile": "safetypowerwindow_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06059",
+              "basicOptionName": "디지털 키 2 터치",
+              "imgFile": "digitalkey2_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06051",
+              "basicOptionName": "ECM 룸미러",
+              "imgFile": "ecmroommirror_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06053",
+              "basicOptionName": "오토 라이트 컨트롤",
+              "imgFile": "autolightcontrol_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06073",
+              "basicOptionName": "커버링 쉘프",
+              "imgFile": "luggagecoveringshelf_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06049",
+              "basicOptionName": "풀오토 에어컨",
+              "imgFile": "qx_fullautoaircon_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06055",
+              "basicOptionName": "2WD험로 주행모드(스노우/샌드/머드)",
+              "imgFile": "2wd-mtc_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06054",
+              "basicOptionName": "파워아웃렛(1열 1개)",
+              "imgFile": "poweroutlet_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06056",
+              "basicOptionName": "크루즈 컨트롤",
+              "imgFile": "cruisecontrol_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06058",
+              "basicOptionName": "스마트폰 무선충전",
+              "imgFile": "smartcharger_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06047",
+              "basicOptionName": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "tilt&tele_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06044",
+              "basicOptionName": "버튼 시동 & 스마트 키",
+              "imgFile": "smartkey_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06052",
+              "basicOptionName": "주차 거리 경고(후방)",
+              "imgFile": "rpas_video_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06050",
+              "basicOptionName": "하이패스",
+              "imgFile": "hipasssys_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "QXJJ5GFC6",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "QX06063",
+              "basicOptionName": "USB A타입 단자(1열 데이터 타입 1개)",
+              "imgFile": "usbcharger1_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06064",
+              "basicOptionName": "USB C타입 단자(1열 충전 1개/2열 충전 2개)",
+              "imgFile": "usbcharger_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06066",
+              "basicOptionName": "일반 오디오 시스템(6스피커)",
+              "imgFile": "soundsystem_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06062",
+              "basicOptionName": "후방모니터",
+              "imgFile": "rearcamera_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            },
+            {
+              "basicOptionCode": "QX06061",
+              "basicOptionName": "8인치 내비게이션(블루링크, 폰 프로젝션, 블루투스 핸즈프리)",
+              "imgFile": "qx_8inchnavi_s.jpg",
+              "filePath": "/contents/spec/QX27MY/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/smartstreamg1.6.jpg",
+      "title": "스마트스트림 가솔린 1.6 엔진",
+      "localPath": "현대/베뉴/스마트스트림 가솔린 1.6 엔진.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 137794
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/smartstreamivt.jpg",
+      "title": "스마트스트림 IVT(무단변속기)",
+      "localPath": "현대/베뉴/스마트스트림 IVT(무단변속기).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 92574
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/drivemode.jpg",
+      "title": "통합 주행모드",
+      "localPath": "현대/베뉴/통합 주행모드.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 156710
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/hba_video.jpg",
+      "title": "하이빔 보조",
+      "localPath": "현대/베뉴/하이빔 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 106702
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/fca_video.jpg",
+      "title": "전방 충돌방지 보조(차량/보행자/자전거 탑승자)",
+      "localPath": "현대/베뉴/전방 충돌방지 보조(차량보행자자전거 탑승자).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 104150
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/daw_video.jpg",
+      "title": "운전자 주의 경고",
+      "localPath": "현대/베뉴/운전자 주의 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 72144
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/lca_video.jpg",
+      "title": "차로 이탈방지 보조",
+      "localPath": "현대/베뉴/차로 이탈방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 144318
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/lfa_video.jpg",
+      "title": "차로 유지 보조",
+      "localPath": "현대/베뉴/차로 유지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 116266
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/fireextinguisher.jpg",
+      "title": "실내 소화기",
+      "localPath": "현대/베뉴/실내 소화기.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 21132
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/isofix.jpg",
+      "title": "유아용 시트 고정장치(2열 2개)",
+      "localPath": "현대/베뉴/유아용 시트 고정장치(2열 2개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 121628
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/6airbag.jpg",
+      "title": "6에어백 시스템(1열 어드밴스드/사이드, 전복대응 커튼)",
+      "localPath": "현대/베뉴/6에어백 시스템(1열 어드밴스드사이드, 전복대응 커튼).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 90548
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/safetyunlock-1_video.jpg",
+      "title": "세이프티 언락",
+      "localPath": "현대/베뉴/세이프티 언락.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 159644
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_leddrl.jpg",
+      "title": "LED 주간주행등",
+      "localPath": "현대/베뉴/LED 주간주행등.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 81020
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_chromgrill.jpg",
+      "title": "크롬 라디에이터 그릴",
+      "localPath": "현대/베뉴/크롬 라디에이터 그릴.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 134012
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/outsidemirror_led.jpg",
+      "title": "아웃사이드 미러(열선, 전동접이, 전동조절, 락폴딩, LED 방향지시등)",
+      "localPath": "현대/베뉴/아웃사이드 미러(열선, 전동접이, 전동조절, 락폴딩, LED 방향지시등).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 45204
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_15inchalloywheel.jpg",
+      "title": "15인치 알로이 휠 & 타이어",
+      "localPath": "현대/베뉴/15인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 63392
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/leathersteering.jpg",
+      "title": "가죽 스티어링 휠(열선 포함)",
+      "localPath": "현대/베뉴/가죽 스티어링 휠(열선 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 135540
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/sunvisormirror.jpg",
+      "title": "선바이저 거울",
+      "localPath": "현대/베뉴/선바이저 거울.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 32898
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/4.2nchcluster.jpg",
+      "title": "클러스터(4.2인치 컬러 LCD)",
+      "localPath": "현대/베뉴/클러스터(4.2인치 컬러 LCD).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 61858
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/metalpaintinsidesoor.jpg",
+      "title": "메탈 페인트 인사이드 도어 핸들",
+      "localPath": "현대/베뉴/메탈 페인트 인사이드 도어 핸들.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 230492
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/luggageboard.jpg",
+      "title": "2단 러기지 보드",
+      "localPath": "현대/베뉴/2단 러기지 보드.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 99992
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/leathermission.jpg",
+      "title": "가죽 변속기 노브",
+      "localPath": "현대/베뉴/가죽 변속기 노브.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 94042
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/heatedseat1.jpg",
+      "title": "1열 열선시트",
+      "localPath": "현대/베뉴/1열 열선시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 131776
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_leatherseat.jpg",
+      "title": "인조가죽 시트",
+      "localPath": "현대/베뉴/인조가죽 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 107898
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/drivermanualseat.jpg",
+      "title": "운전석 수동 높이 조절",
+      "localPath": "현대/베뉴/운전석 수동 높이 조절.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 105732
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/rearfoldingseat.jpg",
+      "title": "2열 6:4 분할 폴딩",
+      "localPath": "현대/베뉴/2열 64 분할 폴딩.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 48562
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/remotestarting.jpg",
+      "title": "스마트키 원격 시동",
+      "localPath": "현대/베뉴/스마트키 원격 시동.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 59478
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/autolightcontrol.jpg",
+      "title": "오토 라이트 컨트롤",
+      "localPath": "현대/베뉴/오토 라이트 컨트롤.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 28394
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_fullautoaircon.jpg",
+      "title": "풀오토 에어컨",
+      "localPath": "현대/베뉴/풀오토 에어컨.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 84562
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/2wd-mtc.jpg",
+      "title": "2WD험로 주행모드(스노우/샌드/머드)",
+      "localPath": "현대/베뉴/2WD험로 주행모드(스노우샌드머드).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 104206
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/poweroutlet.jpg",
+      "title": "파워아웃렛(1열 1개)",
+      "localPath": "현대/베뉴/파워아웃렛(1열 1개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 65392
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/cruisecontrol.jpg",
+      "title": "크루즈 컨트롤",
+      "localPath": "현대/베뉴/크루즈 컨트롤.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 206538
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/smartkey.jpg",
+      "title": "버튼 시동 & 스마트 키",
+      "localPath": "현대/베뉴/버튼 시동 & 스마트 키.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 49486
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/rpas_video.jpg",
+      "title": "주차 거리 경고(후방)",
+      "localPath": "현대/베뉴/주차 거리 경고(후방).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 71998
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/tiltsteeringwheel.jpg",
+      "title": "수동식 틸트 스티어링 휠",
+      "localPath": "현대/베뉴/수동식 틸트 스티어링 휠.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 125582
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/usbcharger1.jpg",
+      "title": "USB A타입 단자(1열 데이터 타입 1개)",
+      "localPath": "현대/베뉴/USB A타입 단자(1열 데이터 타입 1개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 63190
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/usbcharger.jpg",
+      "title": "USB C타입 단자(1열 충전 1개/2열 충전 2개)",
+      "localPath": "현대/베뉴/USB C타입 단자(1열 충전 1개2열 충전 2개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 111322
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/rearcamera.jpg",
+      "title": "후방모니터",
+      "localPath": "현대/베뉴/후방모니터.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 102184
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_8inchaudio.jpg",
+      "title": "8인치 디스플레이 오디오(4스피커, 라디오, MP3, 블루투스 핸즈프리, 폰 프로젝션)",
+      "localPath": "현대/베뉴/8인치 디스플레이 오디오(4스피커, 라디오, MP3, 블루투스 핸즈프리, 폰 프로젝션).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 122876
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_8inchnavi.jpg",
+      "title": "8인치 내비게이션(블루링크, 폰 프로젝션, 블루투스 핸즈프리)",
+      "localPath": "현대/베뉴/8인치 내비게이션(블루링크, 폰 프로젝션, 블루투스 핸즈프리).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 86670
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/soundsystem.jpg",
+      "title": "일반 오디오 시스템(6스피커)",
+      "localPath": "현대/베뉴/일반 오디오 시스템(6스피커).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 255426
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/hipasssys.jpg",
+      "title": "하이패스",
+      "localPath": "현대/베뉴/하이패스.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 88190
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/scc_video.jpg",
+      "title": "스마트 크루즈 컨트롤(스탑앤고 기능 미포함)",
+      "localPath": "현대/베뉴/스마트 크루즈 컨트롤(스탑앤고 기능 미포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 104150
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/rccw_video.jpg",
+      "title": "후방 교차 충돌방지 보조",
+      "localPath": "현대/베뉴/후방 교차 충돌방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 255370
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/fca_cross_video.jpg",
+      "title": "전방 충돌방지 보조(교차로 대향차)",
+      "localPath": "현대/베뉴/전방 충돌방지 보조(교차로 대향차).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 235148
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/bcw_video.jpg",
+      "title": "후측방 충돌 경고(주행)",
+      "localPath": "현대/베뉴/후측방 충돌 경고(주행).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 102382
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/bca_video.jpg",
+      "title": "후측방 충돌방지 보조(전진 출차)",
+      "localPath": "현대/베뉴/후측방 충돌방지 보조(전진 출차).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 229528
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_ledheadlamp.jpg",
+      "title": "LED 헤드램프(프로젝션 타입)",
+      "localPath": "현대/베뉴/LED 헤드램프(프로젝션 타입).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 102324
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_ledrearlamp.jpg",
+      "title": "LED 리어 콤비 램프",
+      "localPath": "현대/베뉴/LED 리어 콤비 램프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 129578
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/leatherarmrest.jpg",
+      "title": "인조가죽 적용내장(도어 암레스트)",
+      "localPath": "현대/베뉴/인조가죽 적용내장(도어 암레스트).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 100210
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/noimage.jpg",
+      "title": "선바이저 조명",
+      "localPath": "현대/베뉴/선바이저 조명.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 9548
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/frontventil.jpg",
+      "title": "1열 통풍시트",
+      "localPath": "현대/베뉴/1열 통풍시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 123086
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/safetypowerwindow.jpg",
+      "title": "세이프티 파워 윈도우(운전석)",
+      "localPath": "현대/베뉴/세이프티 파워 윈도우(운전석).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 46410
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/ecmroommirror.jpg",
+      "title": "ECM 룸미러",
+      "localPath": "현대/베뉴/ECM 룸미러.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 82742
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/luggagecoveringshelf.jpg",
+      "title": "커버링 쉘프",
+      "localPath": "현대/베뉴/커버링 쉘프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 93674
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/tilt&tele.jpg",
+      "title": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+      "localPath": "현대/베뉴/수동식 틸트 & 텔레스코픽 스티어링 휠.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 123762
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_17inchalloywheel.jpg",
+      "title": "17인치 알로이 휠 & 타이어",
+      "localPath": "현대/베뉴/17인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 66762
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/roofrack.jpg",
+      "title": "루프랙",
+      "localPath": "현대/베뉴/루프랙.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 52252
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/smartcharger.jpg",
+      "title": "스마트폰 무선충전",
+      "localPath": "현대/베뉴/스마트폰 무선충전.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 74162
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/digitalkey2.jpg",
+      "title": "디지털 키 2 터치",
+      "localPath": "현대/베뉴/디지털 키 2 터치.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 53186
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/twotoneroof.jpg",
+      "title": "투톤 컬러 루프",
+      "localPath": "현대/베뉴/투톤 컬러 루프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 54166
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/sunroof.jpg",
+      "title": "선루프",
+      "localPath": "현대/베뉴/선루프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 62980
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/QX27MY/qx_specialdesign3.jpg",
+      "title": "스페셜 디자인 셀렉션(FLUX 전용 크롬 도금 라디에이터 그릴, 블랙 리어스키드 플레이트, C필러 뱃지(지급품))",
+      "localPath": "현대/베뉴/스페셜 디자인 셀렉션(FLUX 전용 크롬 도금 라디에이터 그릴, 블랙 리어스키드 플레이트, C필러 뱃지(지급품)).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 94872
+    }
+  ],
+  "imageAliases": [
+    {
+      "title": "내비게이션 패키지",
+      "localPath": "현대/베뉴/내비게이션 패키지.webp",
+      "originalPath": "현대/베뉴/8인치 내비게이션(블루링크, 폰 프로젝션, 블루투스 핸즈프리).webp"
+    },
+    {
+      "title": "LED 포지셔닝램프",
+      "localPath": "현대/베뉴/LED 포지셔닝램프.webp",
+      "originalPath": "현대/베뉴/LED 주간주행등.webp"
+    },
+    {
+      "title": "스타일",
+      "localPath": "현대/베뉴/스타일.webp",
+      "originalPath": "현대/베뉴/17인치 알로이 휠 & 타이어.webp"
+    },
+    {
+      "title": "테크",
+      "localPath": "현대/베뉴/테크.webp",
+      "originalPath": "현대/베뉴/스마트폰 무선충전.webp"
+    }
+  ],
+  "detailSources": [
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06001",
+      "images": [
+        "/contents/spec/QX27MY/smartstreamg1.6.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06002",
+      "images": [
+        "/contents/spec/QX27MY/smartstreamivt.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06003",
+      "images": [
+        "/contents/spec/QX27MY/drivemode.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06007",
+      "images": [
+        "/contents/spec/QX27MY/hba_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06004",
+      "images": [
+        "/contents/spec/QX27MY/fca_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06006",
+      "images": [
+        "/contents/spec/QX27MY/daw_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06005",
+      "images": [
+        "/contents/spec/QX27MY/lca_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06008",
+      "images": [
+        "/contents/spec/QX27MY/lfa_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06072",
+      "images": [
+        "/contents/spec/QX27MY/fireextinguisher.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06016",
+      "images": [
+        "/contents/spec/QX27MY/isofix.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06014",
+      "images": [
+        "/contents/spec/QX27MY/6airbag.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06015",
+      "images": [
+        "/contents/spec/QX27MY/safetyunlock-1_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06018",
+      "images": [
+        "/contents/spec/QX27MY/qx_leddrl.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06024",
+      "images": [
+        "/contents/spec/QX27MY/qx_chromgrill.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06022",
+      "images": [
+        "/contents/spec/QX27MY/outsidemirror_led.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06021",
+      "images": [
+        "/contents/spec/QX27MY/qx_15inchalloywheel.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06019",
+      "images": [
+        "/contents/spec/QX27MY/qx_leddrl.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06031",
+      "images": [
+        "/contents/spec/QX27MY/leathersteering.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06035",
+      "images": [
+        "/contents/spec/QX27MY/sunvisormirror.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06033",
+      "images": [
+        "/contents/spec/QX27MY/4.2nchcluster.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06036",
+      "images": [
+        "/contents/spec/QX27MY/metalpaintinsidesoor.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06037",
+      "images": [
+        "/contents/spec/QX27MY/luggageboard.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06032",
+      "images": [
+        "/contents/spec/QX27MY/leathermission.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06041",
+      "images": [
+        "/contents/spec/QX27MY/heatedseat1.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06039",
+      "images": [
+        "/contents/spec/QX27MY/qx_leatherseat.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06042",
+      "images": [
+        "/contents/spec/QX27MY/drivermanualseat.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06043",
+      "images": [
+        "/contents/spec/QX27MY/rearfoldingseat.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06045",
+      "images": [
+        "/contents/spec/QX27MY/remotestarting.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06053",
+      "images": [
+        "/contents/spec/QX27MY/autolightcontrol.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06049",
+      "images": [
+        "/contents/spec/QX27MY/qx_fullautoaircon.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06055",
+      "images": [
+        "/contents/spec/QX27MY/2wd-mtc.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06054",
+      "images": [
+        "/contents/spec/QX27MY/poweroutlet.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06056",
+      "images": [
+        "/contents/spec/QX27MY/cruisecontrol.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06044",
+      "images": [
+        "/contents/spec/QX27MY/smartkey.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06052",
+      "images": [
+        "/contents/spec/QX27MY/rpas_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06046",
+      "images": [
+        "/contents/spec/QX27MY/tiltsteeringwheel.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06063",
+      "images": [
+        "/contents/spec/QX27MY/usbcharger1.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06064",
+      "images": [
+        "/contents/spec/QX27MY/usbcharger.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06062",
+      "images": [
+        "/contents/spec/QX27MY/rearcamera.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "B",
+      "code": "QX06075",
+      "images": [
+        "/contents/spec/QX27MY/qx_8inchaudio.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "O",
+      "code": "NAV",
+      "images": [
+        "/contents/spec/QX27MY/qx_8inchnavi.jpg",
+        "/contents/spec/QX27MY/soundsystem.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GAC6",
+      "type": "O",
+      "code": "HIP",
+      "images": [
+        "/contents/spec/QX27MY/hipasssys.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06013",
+      "images": [
+        "/contents/spec/QX27MY/scc_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06012",
+      "images": [
+        "/contents/spec/QX27MY/rccw_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06009",
+      "images": [
+        "/contents/spec/QX27MY/fca_cross_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06010",
+      "images": [
+        "/contents/spec/QX27MY/bcw_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06011",
+      "images": [
+        "/contents/spec/QX27MY/bca_video.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06017",
+      "images": [
+        "/contents/spec/QX27MY/qx_ledheadlamp.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06026",
+      "images": [
+        "/contents/spec/QX27MY/qx_ledrearlamp.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06038",
+      "images": [
+        "/contents/spec/QX27MY/leatherarmrest.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06034",
+      "images": [
+        "/contents/spec/QX27MY/noimage.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06040",
+      "images": [
+        "/contents/spec/QX27MY/frontventil.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06057",
+      "images": [
+        "/contents/spec/QX27MY/safetypowerwindow.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06051",
+      "images": [
+        "/contents/spec/QX27MY/ecmroommirror.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06073",
+      "images": [
+        "/contents/spec/QX27MY/luggagecoveringshelf.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06047",
+      "images": [
+        "/contents/spec/QX27MY/tilt&tele.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06050",
+      "images": [
+        "/contents/spec/QX27MY/hipasssys.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06066",
+      "images": [
+        "/contents/spec/QX27MY/soundsystem.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "B",
+      "code": "QX06061",
+      "images": [
+        "/contents/spec/QX27MY/qx_8inchnavi.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "O",
+      "code": "STY",
+      "images": [
+        "/contents/spec/QX27MY/qx_17inchalloywheel.jpg",
+        "/contents/spec/QX27MY/roofrack.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "O",
+      "code": "TEC",
+      "images": [
+        "/contents/spec/QX27MY/smartcharger.jpg",
+        "/contents/spec/QX27MY/digitalkey2.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "O",
+      "code": "TTR",
+      "images": [
+        "/contents/spec/QX27MY/twotoneroof.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GDC6",
+      "type": "O",
+      "code": "SRF",
+      "images": [
+        "/contents/spec/QX27MY/sunroof.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GFC6",
+      "type": "B",
+      "code": "QX06027",
+      "images": [
+        "/contents/spec/QX27MY/roofrack.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GFC6",
+      "type": "B",
+      "code": "QX06025",
+      "images": [
+        "/contents/spec/QX27MY/qx_17inchalloywheel.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GFC6",
+      "type": "B",
+      "code": "QX06028",
+      "images": [
+        "/contents/spec/QX27MY/qx_specialdesign3.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GFC6",
+      "type": "B",
+      "code": "QX06059",
+      "images": [
+        "/contents/spec/QX27MY/digitalkey2.jpg"
+      ]
+    },
+    {
+      "model": "QXJJ5GFC6",
+      "type": "B",
+      "code": "QX06058",
+      "images": [
+        "/contents/spec/QX27MY/smartcharger.jpg"
+      ]
+    }
+  ],
+  "selectionConditionSource": "https://www.hyundai.com/kr/ko/e/vehicles/venue/price"
+}

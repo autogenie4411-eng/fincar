@@ -1,0 +1,4456 @@
+{
+  "retrievedDate": "2026-11-16",
+  "models": [
+    {
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZAT4&purposeCode=J",
+      "model": {
+        "saleMdlCd": "GNJS4ZAT4",
+        "carAbbreviation": "GN",
+        "carName": "더 뉴 그랜저 Hybrid",
+        "carCode": "GN12",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "프리미엄",
+        "carTrimCode": "A",
+        "carBodyName": "세단 4 DOOR",
+        "carEnginName": "하이브리드 1.6T",
+        "carMissionName": "2WD",
+        "carDriveName": null,
+        "saleModelName": "더 뉴 그랜저 Hybrid 자가용 하이브리드 1.6T 프리미엄 2WD",
+        "saleSpecCode": "A",
+        "carBodyCode1": "S",
+        "carBodyCode2": "4",
+        "carEnginCode": "Z",
+        "carMissionCode": "T",
+        "carDriveCode": null,
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "49330000",
+        "carTypeCode": "P",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZAT4",
+          "choiceOptionCode": "B25",
+          "choiceOptionName": "빌트인 캠 2 Plus",
+          "choiceOptionPrice": "650000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/109_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZAT4",
+          "choiceOptionCode": "HS1",
+          "choiceOptionName": "현대 스마트센스Ⅰ",
+          "choiceOptionPrice": "1400000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/017_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "2",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZAT4",
+          "choiceOptionCode": "PAS",
+          "choiceOptionName": "파노라마 선루프",
+          "choiceOptionPrice": "1200000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/060_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZAT4",
+          "choiceOptionCode": "PAA",
+          "choiceOptionName": "파킹 어시스트",
+          "choiceOptionPrice": "1700000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/103_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZAT4",
+          "choiceOptionCode": "PRC",
+          "choiceOptionName": "프리미엄 초이스",
+          "choiceOptionPrice": "1200000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/099_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4007",
+              "basicOptionName": "하이브리드 시스템(47.7kW 모터, 리튬이온 배터리, 회생제동 시스템)",
+              "imgFile": "152_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4003",
+              "basicOptionName": "스마트스트림 가솔린 1.6 터보 하이브리드 엔진",
+              "imgFile": "003_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4002",
+              "basicOptionName": "랙구동형 전동식 파워 스티어링(R-MDPS)",
+              "imgFile": "002_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4008",
+              "basicOptionName": "하이브리드 전용 e-Motion Drive 시스템(e-Dynamic Drive, e-Comfort Drive 기능 포함)",
+              "imgFile": "007_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4005",
+              "basicOptionName": "통합 주행 모드",
+              "imgFile": "005_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4004",
+              "basicOptionName": "전자식 변속 레버(진동 경고)",
+              "imgFile": "004_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4200",
+              "basicOptionName": "6단 자동변속기",
+              "imgFile": "001_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4010",
+              "basicOptionName": "고속도로 주행 보조",
+              "imgFile": "018_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4017",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "025_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4023",
+              "basicOptionName": "차로 유지 보조 2",
+              "imgFile": "031_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4025",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "033_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4013",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+              "imgFile": "021_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4020",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)",
+              "imgFile": "028_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4027",
+              "basicOptionName": "후석 승객 알림",
+              "imgFile": "035_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4018",
+              "basicOptionName": "전방 차량 출발 알림",
+              "imgFile": "026_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4012",
+              "basicOptionName": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간/곡선구간/진출입로)",
+              "imgFile": "020_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4021",
+              "basicOptionName": "지능형 속도 제한 보조",
+              "imgFile": "029_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4014",
+              "basicOptionName": "스티어링 휠 그립 감지",
+              "imgFile": "022_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4024",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "032_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4037",
+              "basicOptionName": "페달 오조작 안전 보조",
+              "imgFile": "016_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4036",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "013_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4031",
+              "basicOptionName": "10 에어백 시스템(1열 어드밴스드/센터사이드, 1/2열 사이드, 운전석 무릎, 전복대응 커튼)",
+              "imgFile": "008_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4033",
+              "basicOptionName": "다중 충돌방지 자동 제동 시스템",
+              "imgFile": "011_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4034",
+              "basicOptionName": "시트 벨트 프리텐셔너(1/2열)",
+              "imgFile": "147_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4035",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "012_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4032",
+              "basicOptionName": "개별 타이어 공기압 경보 장치",
+              "imgFile": "010_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4055",
+              "basicOptionName": "오토 플러시 도어 핸들",
+              "imgFile": "055_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4061",
+              "basicOptionName": "펜더 LED 방향지시등",
+              "imgFile": "061_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4054",
+              "basicOptionName": "아웃사이드 미러(열선, 전동접이, 전동조절)",
+              "imgFile": "054_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4056",
+              "basicOptionName": "이중접합 차음유리(윈드쉴드, 1/2열 도어, 리어 쿼터)",
+              "imgFile": "056_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4043",
+              "basicOptionName": "Full LED 헤드램프(멀티 셀 프로젝션 타입)",
+              "imgFile": "044_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4062",
+              "basicOptionName": "프레임리스 도어",
+              "imgFile": "062_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4046",
+              "basicOptionName": "LED 보조제동등",
+              "imgFile": "047_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4064",
+              "basicOptionName": "히든 안테나",
+              "imgFile": "064_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4038",
+              "basicOptionName": "18인치 알로이 휠 & 타이어",
+              "imgFile": "039_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4044",
+              "basicOptionName": "LED 리어 콤비 램프",
+              "imgFile": "045_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4048",
+              "basicOptionName": "메탈 도어 스커프",
+              "imgFile": "148_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4051",
+              "basicOptionName": "수평형 LED 램프(심리스 호라이즌 램프 - 주간주행등, 방향지시등, 포지셔닝 램프)",
+              "imgFile": "058_gn8_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4058",
+              "basicOptionName": "자외선 차단유리(윈드쉴드)",
+              "imgFile": "058_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4045",
+              "basicOptionName": "LED 방향지시등(뒤)",
+              "imgFile": "046_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4066",
+              "basicOptionName": "LED 실내등(맵램프, 룸램프, 선바이저램프, 러기지램프)",
+              "imgFile": "149_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4067",
+              "basicOptionName": "나파 엠보 가죽 스티어링 휠(열선, 인터랙티브 픽셀 라이트 포함)",
+              "imgFile": "069_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4077",
+              "basicOptionName": "파워아웃렛(1열 1개)",
+              "imgFile": "079_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4071",
+              "basicOptionName": "양문형 콘솔 암레스트",
+              "imgFile": "073_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4069",
+              "basicOptionName": "베젤리스 인사이드 미러",
+              "imgFile": "071_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4065",
+              "basicOptionName": "9.9인치 슬림 디스플레이",
+              "imgFile": "065_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4073",
+              "basicOptionName": "와이드 선바이저 미러",
+              "imgFile": "075_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4083",
+              "basicOptionName": "2열 열선 시트",
+              "imgFile": "083_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4092",
+              "basicOptionName": "운전석 전동시트(8way, 럼버 서포트)",
+              "imgFile": "095_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4082",
+              "basicOptionName": "2열 암레스트(스키쓰루 포함)",
+              "imgFile": "082_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4093",
+              "basicOptionName": "인조 가죽 시트",
+              "imgFile": "098_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4078",
+              "basicOptionName": "1열 열선/통풍 시트",
+              "imgFile": "080_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4087",
+              "basicOptionName": "동승석 전동시트(4way)",
+              "imgFile": "088_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4081",
+              "basicOptionName": "2열 시트 벨트 조명",
+              "imgFile": "128_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4122",
+              "basicOptionName": "후방 모니터",
+              "imgFile": "126_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4113",
+              "basicOptionName": "워크 어웨이 락",
+              "imgFile": "117_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4103",
+              "basicOptionName": "무선 소프트웨어 업데이트(OTA Software Update)",
+              "imgFile": "133_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4109",
+              "basicOptionName": "스마트 트렁크",
+              "imgFile": "113_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4111",
+              "basicOptionName": "에어컨 광촉매 살균 시스템",
+              "imgFile": "115_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4097",
+              "basicOptionName": "USB C타입 단자(1열 일반 1개, 고출력 100W 2개, 2열 고출력 100W 2개, 정품 충전 케이블)",
+              "imgFile": "102_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4120",
+              "basicOptionName": "하이패스",
+              "imgFile": "124_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4107",
+              "basicOptionName": "세이프티 파워 윈도우(전좌석)",
+              "imgFile": "111_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4115",
+              "basicOptionName": "전동식 에어벤트",
+              "imgFile": "119_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4102",
+              "basicOptionName": "레인센서",
+              "imgFile": "107_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4108",
+              "basicOptionName": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "112_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4116",
+              "basicOptionName": "전동식 파킹 브레이크(오토홀드 포함)",
+              "imgFile": "120_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4119",
+              "basicOptionName": "패들쉬프트",
+              "imgFile": "123_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4100",
+              "basicOptionName": "듀얼 풀오토 에어컨(마이크로 에어필터/오토 디포그/미세먼지 센서/공기청정모드/애프터 블로우)",
+              "imgFile": "105_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4104",
+              "basicOptionName": "버튼 시동 & 스마트 키",
+              "imgFile": "108_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4112",
+              "basicOptionName": "오토라이트 컨트롤",
+              "imgFile": "116_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4117",
+              "basicOptionName": "전방/후방 주차 거리 경고",
+              "imgFile": "121_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZAT4",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4128",
+              "basicOptionName": "일반 오디오 시스템(8 스피커)",
+              "imgFile": "135_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4001",
+              "basicOptionName": "플레오스 커넥트 17인치(블루링크, 무선 폰 프로젝션, 블루투스 핸즈프리, e hi-pass, 앱 마켓)",
+              "imgFile": "136_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4126",
+              "basicOptionName": "글레오 AI",
+              "imgFile": "131_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZBT4&purposeCode=J",
+      "model": {
+        "saleMdlCd": "GNJS4ZBT4",
+        "carAbbreviation": "GN",
+        "carName": "더 뉴 그랜저 Hybrid",
+        "carCode": "GN12",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "익스클루시브",
+        "carTrimCode": "B",
+        "carBodyName": "세단 4 DOOR",
+        "carEnginName": "하이브리드 1.6T",
+        "carMissionName": "2WD",
+        "carDriveName": null,
+        "saleModelName": "더 뉴 그랜저 Hybrid 자가용 하이브리드 1.6T 익스클루시브 2WD",
+        "saleSpecCode": "A",
+        "carBodyCode1": "S",
+        "carBodyCode2": "4",
+        "carEnginCode": "Z",
+        "carMissionCode": "T",
+        "carDriveCode": null,
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "53820000",
+        "carTypeCode": "P",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "B25",
+          "choiceOptionName": "빌트인 캠 2 Plus",
+          "choiceOptionPrice": "650000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/109_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "HS2",
+          "choiceOptionName": "현대 스마트센스Ⅱ",
+          "choiceOptionPrice": "1400000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/017_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "2",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "PLA",
+          "choiceOptionName": "플래티넘",
+          "choiceOptionPrice": "2050000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/006_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "3",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "20W",
+          "choiceOptionName": "20인치 알로이 휠 & 타이어",
+          "choiceOptionPrice": "250000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/042_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "N",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": "20W,PLA",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "N",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "PAS",
+          "choiceOptionName": "파노라마 선루프",
+          "choiceOptionPrice": "1200000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/060_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "SC2",
+          "choiceOptionName": "시트 컴포트Ⅱ",
+          "choiceOptionPrice": "1850000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/081_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZBT4",
+          "choiceOptionCode": "BPS",
+          "choiceOptionName": "BOSE 프리미엄 사운드 패키지",
+          "choiceOptionPrice": "1200000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/085_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4007",
+              "basicOptionName": "하이브리드 시스템(47.7kW 모터, 리튬이온 배터리, 회생제동 시스템)",
+              "imgFile": "152_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4003",
+              "basicOptionName": "스마트스트림 가솔린 1.6 터보 하이브리드 엔진",
+              "imgFile": "003_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4002",
+              "basicOptionName": "랙구동형 전동식 파워 스티어링(R-MDPS)",
+              "imgFile": "002_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4008",
+              "basicOptionName": "하이브리드 전용 e-Motion Drive 시스템(e-Dynamic Drive, e-Comfort Drive 기능 포함)",
+              "imgFile": "007_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4005",
+              "basicOptionName": "통합 주행 모드",
+              "imgFile": "005_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4004",
+              "basicOptionName": "전자식 변속 레버(진동 경고)",
+              "imgFile": "004_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4200",
+              "basicOptionName": "6단 자동변속기",
+              "imgFile": "001_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4026",
+              "basicOptionName": "후방 교차 충돌방지 보조",
+              "imgFile": "034_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4022",
+              "basicOptionName": "진동 경고 스티어링 휠",
+              "imgFile": "030_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4014",
+              "basicOptionName": "스티어링 휠 그립 감지",
+              "imgFile": "022_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4021",
+              "basicOptionName": "지능형 속도 제한 보조",
+              "imgFile": "029_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4015",
+              "basicOptionName": "안전 하차 보조",
+              "imgFile": "023_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4028",
+              "basicOptionName": "후측방 충돌 경고(주행)",
+              "imgFile": "036_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4012",
+              "basicOptionName": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간/곡선구간/진출입로)",
+              "imgFile": "020_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4018",
+              "basicOptionName": "전방 차량 출발 알림",
+              "imgFile": "026_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4027",
+              "basicOptionName": "후석 승객 알림",
+              "imgFile": "035_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4020",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)",
+              "imgFile": "028_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4013",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+              "imgFile": "021_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4025",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "033_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4023",
+              "basicOptionName": "차로 유지 보조 2",
+              "imgFile": "031_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4017",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "025_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4029",
+              "basicOptionName": "후측방 충돌방지 보조(전진 출차)",
+              "imgFile": "037_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4010",
+              "basicOptionName": "고속도로 주행 보조",
+              "imgFile": "018_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4024",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "032_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4037",
+              "basicOptionName": "페달 오조작 안전 보조",
+              "imgFile": "016_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4036",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "013_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4031",
+              "basicOptionName": "10 에어백 시스템(1열 어드밴스드/센터사이드, 1/2열 사이드, 운전석 무릎, 전복대응 커튼)",
+              "imgFile": "008_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4033",
+              "basicOptionName": "다중 충돌방지 자동 제동 시스템",
+              "imgFile": "011_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4034",
+              "basicOptionName": "시트 벨트 프리텐셔너(1/2열)",
+              "imgFile": "147_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4035",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "012_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4032",
+              "basicOptionName": "개별 타이어 공기압 경보 장치",
+              "imgFile": "010_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4055",
+              "basicOptionName": "오토 플러시 도어 핸들",
+              "imgFile": "055_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4058",
+              "basicOptionName": "자외선 차단유리(윈드쉴드)",
+              "imgFile": "058_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4051",
+              "basicOptionName": "수평형 LED 램프(심리스 호라이즌 램프 - 주간주행등, 방향지시등, 포지셔닝 램프)",
+              "imgFile": "058_gn8_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4048",
+              "basicOptionName": "메탈 도어 스커프",
+              "imgFile": "148_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4044",
+              "basicOptionName": "LED 리어 콤비 램프",
+              "imgFile": "045_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4038",
+              "basicOptionName": "18인치 알로이 휠 & 타이어",
+              "imgFile": "039_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4064",
+              "basicOptionName": "히든 안테나",
+              "imgFile": "064_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4046",
+              "basicOptionName": "LED 보조제동등",
+              "imgFile": "047_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4062",
+              "basicOptionName": "프레임리스 도어",
+              "imgFile": "062_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4043",
+              "basicOptionName": "Full LED 헤드램프(멀티 셀 프로젝션 타입)",
+              "imgFile": "044_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4056",
+              "basicOptionName": "이중접합 차음유리(윈드쉴드, 1/2열 도어, 리어 쿼터)",
+              "imgFile": "056_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4054",
+              "basicOptionName": "아웃사이드 미러(열선, 전동접이, 전동조절)",
+              "imgFile": "054_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4061",
+              "basicOptionName": "펜더 LED 방향지시등",
+              "imgFile": "061_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4063",
+              "basicOptionName": "후진 가이드 램프",
+              "imgFile": "063_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4057",
+              "basicOptionName": "자외선 차단유리(1/2열 도어, 뒷면유리, 리어 쿼터)",
+              "imgFile": "057_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4045",
+              "basicOptionName": "LED 방향지시등(뒤)",
+              "imgFile": "046_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4066",
+              "basicOptionName": "LED 실내등(맵램프, 룸램프, 선바이저램프, 러기지램프)",
+              "imgFile": "149_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4067",
+              "basicOptionName": "나파 엠보 가죽 스티어링 휠(열선, 인터랙티브 픽셀 라이트 포함)",
+              "imgFile": "069_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4077",
+              "basicOptionName": "파워아웃렛(1열 1개)",
+              "imgFile": "079_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4071",
+              "basicOptionName": "양문형 콘솔 암레스트",
+              "imgFile": "073_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4069",
+              "basicOptionName": "베젤리스 인사이드 미러",
+              "imgFile": "071_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4075",
+              "basicOptionName": "전동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "077_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4065",
+              "basicOptionName": "9.9인치 슬림 디스플레이",
+              "imgFile": "065_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4073",
+              "basicOptionName": "와이드 선바이저 미러",
+              "imgFile": "075_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4068",
+              "basicOptionName": "뒷면 전동식 커튼",
+              "imgFile": "070_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4088",
+              "basicOptionName": "동승석 전동시트(8way, 럼버 서포트, 릴렉션 컴포트, 워크인 디바이스)",
+              "imgFile": "089_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4083",
+              "basicOptionName": "2열 열선 시트",
+              "imgFile": "083_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4082",
+              "basicOptionName": "2열 암레스트(스키쓰루 포함)",
+              "imgFile": "082_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4078",
+              "basicOptionName": "1열 열선/통풍 시트",
+              "imgFile": "080_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4094",
+              "basicOptionName": "천연 가죽 시트(퀼팅 적용)",
+              "imgFile": "099_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4091",
+              "basicOptionName": "운전석 자세 메모리 시스템(스마트 자세제어 시스템 포함)",
+              "imgFile": "097_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4090",
+              "basicOptionName": "운전석 에르고 모션 시트(16way, 4way 럼버 서포트, 쿠션 익스텐션, 릴렉션 컴포트, 스트레칭 모드 등 포함)",
+              "imgFile": "096_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4081",
+              "basicOptionName": "2열 시트 벨트 조명",
+              "imgFile": "128_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4122",
+              "basicOptionName": "후방 모니터",
+              "imgFile": "126_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4113",
+              "basicOptionName": "워크 어웨이 락",
+              "imgFile": "117_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4103",
+              "basicOptionName": "무선 소프트웨어 업데이트(OTA Software Update)",
+              "imgFile": "133_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4106",
+              "basicOptionName": "서라운드 뷰 모니터(차량 이미지 투명 표시)",
+              "imgFile": "110_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4101",
+              "basicOptionName": "디지털 키 2",
+              "imgFile": "106_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4124",
+              "basicOptionName": "후측방 모니터",
+              "imgFile": "129_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4099",
+              "basicOptionName": "듀얼 스마트폰 무선 충전(맥세이프 호환, 일반 고속)",
+              "imgFile": "104_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4111",
+              "basicOptionName": "에어컨 광촉매 살균 시스템",
+              "imgFile": "115_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4123",
+              "basicOptionName": "후방 주차 충돌방지 보조",
+              "imgFile": "127_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4098",
+              "basicOptionName": "기억 후진 보조",
+              "imgFile": "103_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4114",
+              "basicOptionName": "원격 스마트 주차 보조",
+              "imgFile": "118_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4097",
+              "basicOptionName": "USB C타입 단자(1열 일반 1개, 고출력 100W 2개, 2열 고출력 100W 2개, 정품 충전 케이블)",
+              "imgFile": "102_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4120",
+              "basicOptionName": "하이패스",
+              "imgFile": "124_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4107",
+              "basicOptionName": "세이프티 파워 윈도우(전좌석)",
+              "imgFile": "111_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4110",
+              "basicOptionName": "스마트 파워 트렁크",
+              "imgFile": "114_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4115",
+              "basicOptionName": "전동식 에어벤트",
+              "imgFile": "119_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4102",
+              "basicOptionName": "레인센서",
+              "imgFile": "107_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4116",
+              "basicOptionName": "전동식 파킹 브레이크(오토홀드 포함)",
+              "imgFile": "120_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4119",
+              "basicOptionName": "패들쉬프트",
+              "imgFile": "123_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4100",
+              "basicOptionName": "듀얼 풀오토 에어컨(마이크로 에어필터/오토 디포그/미세먼지 센서/공기청정모드/애프터 블로우)",
+              "imgFile": "105_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4118",
+              "basicOptionName": "측방 주차 거리 경고",
+              "imgFile": "122_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4104",
+              "basicOptionName": "버튼 시동 & 스마트 키",
+              "imgFile": "108_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4112",
+              "basicOptionName": "오토라이트 컨트롤",
+              "imgFile": "116_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4117",
+              "basicOptionName": "전방/후방 주차 거리 경고",
+              "imgFile": "121_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZBT4",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4128",
+              "basicOptionName": "일반 오디오 시스템(8 스피커)",
+              "imgFile": "135_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4001",
+              "basicOptionName": "플레오스 커넥트 17인치(블루링크, 무선 폰 프로젝션, 블루투스 핸즈프리, e hi-pass, 앱 마켓)",
+              "imgFile": "136_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4126",
+              "basicOptionName": "글레오 AI",
+              "imgFile": "131_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZCT4&purposeCode=J",
+      "model": {
+        "saleMdlCd": "GNJS4ZCT4",
+        "carAbbreviation": "GN",
+        "carName": "더 뉴 그랜저 Hybrid",
+        "carCode": "GN12",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "캘리그래피",
+        "carTrimCode": "C",
+        "carBodyName": "세단 4 DOOR",
+        "carEnginName": "하이브리드 1.6T",
+        "carMissionName": "2WD",
+        "carDriveName": null,
+        "saleModelName": "더 뉴 그랜저 Hybrid 자가용 하이브리드 1.6T 캘리그래피 2WD",
+        "saleSpecCode": "A",
+        "carBodyCode1": "S",
+        "carBodyCode2": "4",
+        "carEnginCode": "Z",
+        "carMissionCode": "T",
+        "carDriveCode": null,
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "59990000",
+        "carTypeCode": "P",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZCT4",
+          "choiceOptionCode": "B25",
+          "choiceOptionName": "빌트인 캠 2 Plus",
+          "choiceOptionPrice": "650000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/109_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B,K,N",
+          "choiceOptionGroupCodes": "B25",
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZCT4",
+          "choiceOptionCode": "SCP",
+          "choiceOptionName": "시트 컴포트 플러스",
+          "choiceOptionPrice": "1500000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/074_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B,K,N",
+          "choiceOptionGroupCodes": "SCP",
+          "best": true,
+          "rankOrder": "2",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZCT4",
+          "choiceOptionCode": "SGR",
+          "choiceOptionName": "스마트 비전 루프",
+          "choiceOptionPrice": "1800000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/053_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B,K,N",
+          "choiceOptionGroupCodes": "SGR",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZCT4",
+          "choiceOptionCode": "PAS",
+          "choiceOptionName": "파노라마 선루프",
+          "choiceOptionPrice": "1200000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/060_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B,K,N",
+          "choiceOptionGroupCodes": "PAS",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "1",
+          "saleModelCode": "GNJS4ZCT4",
+          "choiceOptionCode": "SCK",
+          "choiceOptionName": "스마트 카드키",
+          "choiceOptionPrice": "150000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/144_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B,K,N",
+          "choiceOptionGroupCodes": "SCK",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "GNJS4ZCT4",
+          "choiceOptionCode": "20C",
+          "choiceOptionName": "20인치 알로이 휠 & 타이어(캘리그래피)",
+          "choiceOptionPrice": "450000",
+          "optionImgPath": "/contents/spec/GN-HEV-PE/043_gnh_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "A,B,N",
+          "choiceOptionGroupCodes": "20C",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4007",
+              "basicOptionName": "하이브리드 시스템(47.7kW 모터, 리튬이온 배터리, 회생제동 시스템)",
+              "imgFile": "152_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4003",
+              "basicOptionName": "스마트스트림 가솔린 1.6 터보 하이브리드 엔진",
+              "imgFile": "003_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4002",
+              "basicOptionName": "랙구동형 전동식 파워 스티어링(R-MDPS)",
+              "imgFile": "002_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4008",
+              "basicOptionName": "하이브리드 전용 e-Motion Drive 시스템(e-Dynamic Drive, e-Comfort Drive 기능 포함)",
+              "imgFile": "007_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4005",
+              "basicOptionName": "통합 주행 모드",
+              "imgFile": "005_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4004",
+              "basicOptionName": "전자식 변속 레버(진동 경고)",
+              "imgFile": "004_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4200",
+              "basicOptionName": "6단 자동변속기",
+              "imgFile": "001_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4006",
+              "basicOptionName": "프리뷰 전자제어 서스펜션",
+              "imgFile": "006_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4026",
+              "basicOptionName": "후방 교차 충돌방지 보조",
+              "imgFile": "034_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4022",
+              "basicOptionName": "진동 경고 스티어링 휠",
+              "imgFile": "030_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4011",
+              "basicOptionName": "고속도로 주행 보조 2",
+              "imgFile": "019_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4014",
+              "basicOptionName": "스티어링 휠 그립 감지",
+              "imgFile": "022_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4021",
+              "basicOptionName": "지능형 속도 제한 보조",
+              "imgFile": "029_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4015",
+              "basicOptionName": "안전 하차 보조",
+              "imgFile": "023_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4028",
+              "basicOptionName": "후측방 충돌 경고(주행)",
+              "imgFile": "036_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4012",
+              "basicOptionName": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간/곡선구간/진출입로)",
+              "imgFile": "020_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4018",
+              "basicOptionName": "전방 차량 출발 알림",
+              "imgFile": "026_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4019",
+              "basicOptionName": "전방 충돌방지 보조(교차 차량/추월 시 대향차/측방 접근차/회피 조향 보조)",
+              "imgFile": "027_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4027",
+              "basicOptionName": "후석 승객 알림",
+              "imgFile": "035_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4020",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)",
+              "imgFile": "028_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4013",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+              "imgFile": "021_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4025",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "033_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4023",
+              "basicOptionName": "차로 유지 보조 2",
+              "imgFile": "031_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4017",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "025_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4016",
+              "basicOptionName": "어린이 탑승 감지(2열)",
+              "imgFile": "024_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4030",
+              "basicOptionName": "후측방 충돌방지 보조(주행)",
+              "imgFile": "038_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4029",
+              "basicOptionName": "후측방 충돌방지 보조(전진 출차)",
+              "imgFile": "037_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4009",
+              "basicOptionName": "1열 모니터링 시스템(영상회의 지원)",
+              "imgFile": "017_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4024",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "032_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4037",
+              "basicOptionName": "페달 오조작 안전 보조",
+              "imgFile": "016_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4036",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "013_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4031",
+              "basicOptionName": "10 에어백 시스템(1열 어드밴스드/센터사이드, 1/2열 사이드, 운전석 무릎, 전복대응 커튼)",
+              "imgFile": "008_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4033",
+              "basicOptionName": "다중 충돌방지 자동 제동 시스템",
+              "imgFile": "011_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4034",
+              "basicOptionName": "시트 벨트 프리텐셔너(1/2열)",
+              "imgFile": "147_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4035",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "012_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4032",
+              "basicOptionName": "개별 타이어 공기압 경보 장치",
+              "imgFile": "010_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4055",
+              "basicOptionName": "오토 플러시 도어 핸들",
+              "imgFile": "055_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4058",
+              "basicOptionName": "자외선 차단유리(윈드쉴드)",
+              "imgFile": "058_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4059",
+              "basicOptionName": "캘리그래피 전용 그릴 & 전용 19인치 알로이 휠 & 타이어",
+              "imgFile": "059_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4051",
+              "basicOptionName": "수평형 LED 램프(심리스 호라이즌 램프 - 주간주행등, 방향지시등, 포지셔닝 램프)",
+              "imgFile": "058_gn8_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4048",
+              "basicOptionName": "메탈 도어 스커프",
+              "imgFile": "148_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4044",
+              "basicOptionName": "LED 리어 콤비 램프",
+              "imgFile": "045_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4047",
+              "basicOptionName": "다이내믹 웰컴/에스코트 라이트(4종)",
+              "imgFile": "048_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4064",
+              "basicOptionName": "히든 안테나",
+              "imgFile": "064_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4046",
+              "basicOptionName": "LED 보조제동등",
+              "imgFile": "047_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4052",
+              "basicOptionName": "순차 점등 방향지시등(앞/뒤)",
+              "imgFile": "052_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4062",
+              "basicOptionName": "프레임리스 도어",
+              "imgFile": "062_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4043",
+              "basicOptionName": "Full LED 헤드램프(멀티 셀 프로젝션 타입)",
+              "imgFile": "044_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4056",
+              "basicOptionName": "이중접합 차음유리(윈드쉴드, 1/2열 도어, 리어 쿼터)",
+              "imgFile": "056_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4054",
+              "basicOptionName": "아웃사이드 미러(열선, 전동접이, 전동조절)",
+              "imgFile": "054_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4061",
+              "basicOptionName": "펜더 LED 방향지시등",
+              "imgFile": "061_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4063",
+              "basicOptionName": "후진 가이드 램프",
+              "imgFile": "063_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4057",
+              "basicOptionName": "자외선 차단유리(1/2열 도어, 뒷면유리, 리어 쿼터)",
+              "imgFile": "057_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4049",
+              "basicOptionName": "발수 적용 1열 유리",
+              "imgFile": "049_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4066",
+              "basicOptionName": "LED 실내등(맵램프, 룸램프, 선바이저램프, 러기지램프)",
+              "imgFile": "149_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4077",
+              "basicOptionName": "파워아웃렛(1열 1개)",
+              "imgFile": "079_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4071",
+              "basicOptionName": "양문형 콘솔 암레스트",
+              "imgFile": "073_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4074",
+              "basicOptionName": "인터랙티브 앰비언트 무드램프(순차 점등, 주행 모드 연동 등)",
+              "imgFile": "076_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4076",
+              "basicOptionName": "캘리그래피 전용 디자인[나파 엠보 가죽 스티어링 휠(혼커버 가죽 감싸기, 리얼 스티치 적용), 인조 가죽 내장재(PU소재 크래시패드, 도어어퍼트림, 3D 엠보 도어센터트림), 인조가죽 감싸기(콘솔 암레스트, 콘솔사이드), 리얼 우드 소재 또는 리얼 알루미늄 소재 내장재(크래시패드 가니시, 콘솔 어퍼 커버), 스웨이드 내장재(헤드라이닝, 필라트림, 패키지트레이, 선바이저), 스웨이드 목베개, 고급 카매트]",
+              "imgFile": "078_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4069",
+              "basicOptionName": "베젤리스 인사이드 미러",
+              "imgFile": "071_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4075",
+              "basicOptionName": "전동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "077_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4065",
+              "basicOptionName": "9.9인치 슬림 디스플레이",
+              "imgFile": "065_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4073",
+              "basicOptionName": "와이드 선바이저 미러",
+              "imgFile": "075_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4068",
+              "basicOptionName": "뒷면 전동식 커튼",
+              "imgFile": "070_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4088",
+              "basicOptionName": "동승석 전동시트(8way, 럼버 서포트, 릴렉션 컴포트, 워크인 디바이스)",
+              "imgFile": "089_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4083",
+              "basicOptionName": "2열 열선 시트",
+              "imgFile": "083_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4084",
+              "basicOptionName": "2열 통풍 시트",
+              "imgFile": "084_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4079",
+              "basicOptionName": "2열 고급형 암레스트(오디오 컨트롤러 포함)",
+              "imgFile": "085_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4085",
+              "basicOptionName": "나파 가죽 시트(퀼팅, 파이핑 적용)",
+              "imgFile": "086_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4089",
+              "basicOptionName": "모노포스트 헤드레스트",
+              "imgFile": "093_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4078",
+              "basicOptionName": "1열 열선/통풍 시트",
+              "imgFile": "080_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4091",
+              "basicOptionName": "운전석 자세 메모리 시스템(스마트 자세제어 시스템 포함)",
+              "imgFile": "097_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4090",
+              "basicOptionName": "운전석 에르고 모션 시트(16way, 4way 럼버 서포트, 쿠션 익스텐션, 릴렉션 컴포트, 스트레칭 모드 등 포함)",
+              "imgFile": "096_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4081",
+              "basicOptionName": "2열 시트 벨트 조명",
+              "imgFile": "128_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4122",
+              "basicOptionName": "후방 모니터",
+              "imgFile": "126_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4113",
+              "basicOptionName": "워크 어웨이 락",
+              "imgFile": "117_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4103",
+              "basicOptionName": "무선 소프트웨어 업데이트(OTA Software Update)",
+              "imgFile": "133_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4106",
+              "basicOptionName": "서라운드 뷰 모니터(차량 이미지 투명 표시)",
+              "imgFile": "110_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4101",
+              "basicOptionName": "디지털 키 2",
+              "imgFile": "106_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4124",
+              "basicOptionName": "후측방 모니터",
+              "imgFile": "129_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4099",
+              "basicOptionName": "듀얼 스마트폰 무선 충전(맥세이프 호환, 일반 고속)",
+              "imgFile": "104_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4111",
+              "basicOptionName": "에어컨 광촉매 살균 시스템",
+              "imgFile": "115_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4123",
+              "basicOptionName": "후방 주차 충돌방지 보조",
+              "imgFile": "127_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4098",
+              "basicOptionName": "기억 후진 보조",
+              "imgFile": "103_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4114",
+              "basicOptionName": "원격 스마트 주차 보조",
+              "imgFile": "118_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4097",
+              "basicOptionName": "USB C타입 단자(1열 일반 1개, 고출력 100W 2개, 2열 고출력 100W 2개, 정품 충전 케이블)",
+              "imgFile": "102_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4120",
+              "basicOptionName": "하이패스",
+              "imgFile": "124_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4107",
+              "basicOptionName": "세이프티 파워 윈도우(전좌석)",
+              "imgFile": "111_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4121",
+              "basicOptionName": "헤드업 디스플레이",
+              "imgFile": "125_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4110",
+              "basicOptionName": "스마트 파워 트렁크",
+              "imgFile": "114_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4115",
+              "basicOptionName": "전동식 에어벤트",
+              "imgFile": "119_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4102",
+              "basicOptionName": "레인센서",
+              "imgFile": "107_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4096",
+              "basicOptionName": "3존 독립제어 에어컨(마이크로 에어필터/오토 디포그/미세먼지 센서/공기청정모드/애프터 블로우)",
+              "imgFile": "101_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4116",
+              "basicOptionName": "전동식 파킹 브레이크(오토홀드 포함)",
+              "imgFile": "120_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4119",
+              "basicOptionName": "패들쉬프트",
+              "imgFile": "123_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4118",
+              "basicOptionName": "측방 주차 거리 경고",
+              "imgFile": "122_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4104",
+              "basicOptionName": "버튼 시동 & 스마트 키",
+              "imgFile": "108_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4112",
+              "basicOptionName": "오토라이트 컨트롤",
+              "imgFile": "116_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4117",
+              "basicOptionName": "전방/후방 주차 거리 경고",
+              "imgFile": "121_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "GNJS4ZCT4",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "GNH4125",
+              "basicOptionName": "BOSE 프리미엄 사운드(14 스피커, 외장 앰프)",
+              "imgFile": "130_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4127",
+              "basicOptionName": "액티브 로드 노이즈 컨트롤",
+              "imgFile": "134_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4001",
+              "basicOptionName": "플레오스 커넥트 17인치(블루링크, 무선 폰 프로젝션, 블루투스 핸즈프리, e hi-pass, 앱 마켓)",
+              "imgFile": "136_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "GNH4126",
+              "basicOptionName": "글레오 AI",
+              "imgFile": "131_gnh_s.jpg",
+              "filePath": "/contents/spec/GN-HEV-PE/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "하이브리드 시스템(47.7kW 모터, 리튬이온 배터리, 회생제동 시스템).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 82036,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/152_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/하이브리드 시스템(47.7kW 모터, 리튬이온 배터리, 회생제동 시스템).webp",
+      "title": "하이브리드 시스템(47.7kW 모터, 리튬이온 배터리, 회생제동 시스템)"
+    },
+    {
+      "file": "스마트스트림 가솔린 1.6 터보 하이브리드 엔진.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 44266,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/003_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스마트스트림 가솔린 1.6 터보 하이브리드 엔진.webp",
+      "title": "스마트스트림 가솔린 1.6 터보 하이브리드 엔진"
+    },
+    {
+      "file": "랙구동형 전동식 파워 스티어링(R-MDPS).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 16392,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/002_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/랙구동형 전동식 파워 스티어링(R-MDPS).webp",
+      "title": "랙구동형 전동식 파워 스티어링(R-MDPS)"
+    },
+    {
+      "file": "하이브리드 전용 e-Motion Drive 시스템(e-Dynamic Drive, e-Comfort Drive 기능 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 87692,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/007_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/하이브리드 전용 e-Motion Drive 시스템(e-Dynamic Drive, e-Comfort Drive 기능 포함).webp",
+      "title": "하이브리드 전용 e-Motion Drive 시스템(e-Dynamic Drive, e-Comfort Drive 기능 포함)"
+    },
+    {
+      "file": "통합 주행 모드.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 89082,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/005_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/통합 주행 모드.webp",
+      "title": "통합 주행 모드"
+    },
+    {
+      "file": "전자식 변속 레버(진동 경고).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 65650,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/004_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전자식 변속 레버(진동 경고).webp",
+      "title": "전자식 변속 레버(진동 경고)"
+    },
+    {
+      "file": "6단 자동변속기.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 71322,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/001_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/6단 자동변속기.webp",
+      "title": "6단 자동변속기"
+    },
+    {
+      "file": "고속도로 주행 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 196324,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/018_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/고속도로 주행 보조.webp",
+      "title": "고속도로 주행 보조"
+    },
+    {
+      "file": "운전자 주의 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 185764,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/025_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/운전자 주의 경고.webp",
+      "title": "운전자 주의 경고"
+    },
+    {
+      "file": "차로 유지 보조 2.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 198944,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/031_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/차로 유지 보조 2.webp",
+      "title": "차로 유지 보조 2"
+    },
+    {
+      "file": "하이빔 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 201768,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/033_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/하이빔 보조.webp",
+      "title": "하이빔 보조"
+    },
+    {
+      "file": "스마트 크루즈 컨트롤(스탑앤고 기능 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 175642,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/021_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스마트 크루즈 컨트롤(스탑앤고 기능 포함).webp",
+      "title": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)"
+    },
+    {
+      "file": "전방 충돌방지 보조(차량보행자자전거 탑승자교차로 대향차정면 대향차).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 148540,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/028_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전방 충돌방지 보조(차량보행자자전거 탑승자교차로 대향차정면 대향차).webp",
+      "title": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)"
+    },
+    {
+      "file": "후석 승객 알림.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 61262,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/035_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후석 승객 알림.webp",
+      "title": "후석 승객 알림"
+    },
+    {
+      "file": "전방 차량 출발 알림.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 183468,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/026_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전방 차량 출발 알림.webp",
+      "title": "전방 차량 출발 알림"
+    },
+    {
+      "file": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간곡선구간진출입로).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 114600,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/020_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/내비게이션 기반 스마트 크루즈 컨트롤(안전구간곡선구간진출입로).webp",
+      "title": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간/곡선구간/진출입로)"
+    },
+    {
+      "file": "지능형 속도 제한 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 189650,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/029_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/지능형 속도 제한 보조.webp",
+      "title": "지능형 속도 제한 보조"
+    },
+    {
+      "file": "스티어링 휠 그립 감지.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 111464,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/022_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스티어링 휠 그립 감지.webp",
+      "title": "스티어링 휠 그립 감지"
+    },
+    {
+      "file": "차로 이탈방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 194958,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/032_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/차로 이탈방지 보조.webp",
+      "title": "차로 이탈방지 보조"
+    },
+    {
+      "file": "페달 오조작 안전 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 53654,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/016_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/페달 오조작 안전 보조.webp",
+      "title": "페달 오조작 안전 보조"
+    },
+    {
+      "file": "유아용 시트 고정장치(2열 2개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 190078,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/013_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/유아용 시트 고정장치(2열 2개).webp",
+      "title": "유아용 시트 고정장치(2열 2개)"
+    },
+    {
+      "file": "10 에어백 시스템(1열 어드밴스드센터사이드, 12열 사이드, 운전석 무릎, 전복대응 커튼).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 75502,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/008_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/10 에어백 시스템(1열 어드밴스드센터사이드, 12열 사이드, 운전석 무릎, 전복대응 커튼).webp",
+      "title": "10 에어백 시스템(1열 어드밴스드/센터사이드, 1/2열 사이드, 운전석 무릎, 전복대응 커튼)"
+    },
+    {
+      "file": "다중 충돌방지 자동 제동 시스템.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 202052,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/011_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/다중 충돌방지 자동 제동 시스템.webp",
+      "title": "다중 충돌방지 자동 제동 시스템"
+    },
+    {
+      "file": "시트 벨트 프리텐셔너(12열).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 46104,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/147_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/시트 벨트 프리텐셔너(12열).webp",
+      "title": "시트 벨트 프리텐셔너(1/2열)"
+    },
+    {
+      "file": "실내 소화기.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 21056,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/012_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/실내 소화기.webp",
+      "title": "실내 소화기"
+    },
+    {
+      "file": "개별 타이어 공기압 경보 장치.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 83752,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/010_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/개별 타이어 공기압 경보 장치.webp",
+      "title": "개별 타이어 공기압 경보 장치"
+    },
+    {
+      "file": "오토 플러시 도어 핸들.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 39966,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/055_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/오토 플러시 도어 핸들.webp",
+      "title": "오토 플러시 도어 핸들"
+    },
+    {
+      "file": "펜더 LED 방향지시등.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 39216,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/061_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/펜더 LED 방향지시등.webp",
+      "title": "펜더 LED 방향지시등"
+    },
+    {
+      "file": "아웃사이드 미러(열선, 전동접이, 전동조절).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 37116,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/054_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/아웃사이드 미러(열선, 전동접이, 전동조절).webp",
+      "title": "아웃사이드 미러(열선, 전동접이, 전동조절)"
+    },
+    {
+      "file": "이중접합 차음유리(윈드쉴드, 12열 도어, 리어 쿼터).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 44436,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/056_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/이중접합 차음유리(윈드쉴드, 12열 도어, 리어 쿼터).webp",
+      "title": "이중접합 차음유리(윈드쉴드, 1/2열 도어, 리어 쿼터)"
+    },
+    {
+      "file": "Full LED 헤드램프(멀티 셀 프로젝션 타입).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 71618,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/044_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/Full LED 헤드램프(멀티 셀 프로젝션 타입).webp",
+      "title": "Full LED 헤드램프(멀티 셀 프로젝션 타입)"
+    },
+    {
+      "file": "프레임리스 도어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 47916,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/062_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/프레임리스 도어.webp",
+      "title": "프레임리스 도어"
+    },
+    {
+      "file": "LED 보조제동등.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 22896,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/047_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/LED 보조제동등.webp",
+      "title": "LED 보조제동등"
+    },
+    {
+      "file": "히든 안테나.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 24472,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/064_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/히든 안테나.webp",
+      "title": "히든 안테나"
+    },
+    {
+      "file": "18인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 50252,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/039_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/18인치 알로이 휠 & 타이어.webp",
+      "title": "18인치 알로이 휠 & 타이어"
+    },
+    {
+      "file": "LED 리어 콤비 램프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 53204,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/045_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/LED 리어 콤비 램프.webp",
+      "title": "LED 리어 콤비 램프"
+    },
+    {
+      "file": "메탈 도어 스커프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 120716,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/148_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/메탈 도어 스커프.webp",
+      "title": "메탈 도어 스커프"
+    },
+    {
+      "file": "수평형 LED 램프(심리스 호라이즌 램프 - 주간주행등, 방향지시등, 포지셔닝 램프).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 90004,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/058_gn8.jpg",
+      "localPath": "현대/그랜저 하이브리드/수평형 LED 램프(심리스 호라이즌 램프 - 주간주행등, 방향지시등, 포지셔닝 램프).webp",
+      "title": "수평형 LED 램프(심리스 호라이즌 램프 - 주간주행등, 방향지시등, 포지셔닝 램프)"
+    },
+    {
+      "file": "자외선 차단유리(윈드쉴드).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 64842,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/058_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/자외선 차단유리(윈드쉴드).webp",
+      "title": "자외선 차단유리(윈드쉴드)"
+    },
+    {
+      "file": "LED 방향지시등(뒤).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 26974,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/046_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/LED 방향지시등(뒤).webp",
+      "title": "LED 방향지시등(뒤)"
+    },
+    {
+      "file": "LED 실내등(맵램프, 룸램프, 선바이저램프, 러기지램프).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 128028,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/149_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/LED 실내등(맵램프, 룸램프, 선바이저램프, 러기지램프).webp",
+      "title": "LED 실내등(맵램프, 룸램프, 선바이저램프, 러기지램프)"
+    },
+    {
+      "file": "나파 엠보 가죽 스티어링 휠(열선, 인터랙티브 픽셀 라이트 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 89402,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/069_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/나파 엠보 가죽 스티어링 휠(열선, 인터랙티브 픽셀 라이트 포함).webp",
+      "title": "나파 엠보 가죽 스티어링 휠(열선, 인터랙티브 픽셀 라이트 포함)"
+    },
+    {
+      "file": "파워아웃렛(1열 1개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 41052,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/079_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/파워아웃렛(1열 1개).webp",
+      "title": "파워아웃렛(1열 1개)"
+    },
+    {
+      "file": "양문형 콘솔 암레스트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 52288,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/073_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/양문형 콘솔 암레스트.webp",
+      "title": "양문형 콘솔 암레스트"
+    },
+    {
+      "file": "베젤리스 인사이드 미러.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 36958,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/071_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/베젤리스 인사이드 미러.webp",
+      "title": "베젤리스 인사이드 미러"
+    },
+    {
+      "file": "9.9인치 슬림 디스플레이.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 72658,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/065_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/9.9인치 슬림 디스플레이.webp",
+      "title": "9.9인치 슬림 디스플레이"
+    },
+    {
+      "file": "와이드 선바이저 미러.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 143252,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/075_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/와이드 선바이저 미러.webp",
+      "title": "와이드 선바이저 미러"
+    },
+    {
+      "file": "2열 열선 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 118562,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/083_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 열선 시트.webp",
+      "title": "2열 열선 시트"
+    },
+    {
+      "file": "운전석 전동시트(8way, 럼버 서포트).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 131204,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/095_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/운전석 전동시트(8way, 럼버 서포트).webp",
+      "title": "운전석 전동시트(8way, 럼버 서포트)"
+    },
+    {
+      "file": "2열 암레스트(스키쓰루 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 179298,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/082_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 암레스트(스키쓰루 포함).webp",
+      "title": "2열 암레스트(스키쓰루 포함)"
+    },
+    {
+      "file": "인조 가죽 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 44006,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/098_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/인조 가죽 시트.webp",
+      "title": "인조 가죽 시트"
+    },
+    {
+      "file": "1열 열선통풍 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 93002,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/080_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/1열 열선통풍 시트.webp",
+      "title": "1열 열선/통풍 시트"
+    },
+    {
+      "file": "동승석 전동시트(4way).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 173754,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/088_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/동승석 전동시트(4way).webp",
+      "title": "동승석 전동시트(4way)"
+    },
+    {
+      "file": "2열 시트 벨트 조명.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 192134,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/128_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 시트 벨트 조명.webp",
+      "title": "2열 시트 벨트 조명"
+    },
+    {
+      "file": "후방 모니터.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 9548,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/126_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후방 모니터.webp",
+      "title": "후방 모니터"
+    },
+    {
+      "file": "워크 어웨이 락.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 81834,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/117_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/워크 어웨이 락.webp",
+      "title": "워크 어웨이 락"
+    },
+    {
+      "file": "무선 소프트웨어 업데이트(OTA Software Update).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 42570,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/133_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/무선 소프트웨어 업데이트(OTA Software Update).webp",
+      "title": "무선 소프트웨어 업데이트(OTA Software Update)"
+    },
+    {
+      "file": "스마트 트렁크.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 50850,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/113_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스마트 트렁크.webp",
+      "title": "스마트 트렁크"
+    },
+    {
+      "file": "에어컨 광촉매 살균 시스템.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 93876,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/115_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/에어컨 광촉매 살균 시스템.webp",
+      "title": "에어컨 광촉매 살균 시스템"
+    },
+    {
+      "file": "USB C타입 단자(1열 일반 1개, 고출력 100W 2개, 2열 고출력 100W 2개, 정품 충전 케이블).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 78240,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/102_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/USB C타입 단자(1열 일반 1개, 고출력 100W 2개, 2열 고출력 100W 2개, 정품 충전 케이블).webp",
+      "title": "USB C타입 단자(1열 일반 1개, 고출력 100W 2개, 2열 고출력 100W 2개, 정품 충전 케이블)"
+    },
+    {
+      "file": "하이패스.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 60570,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/124_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/하이패스.webp",
+      "title": "하이패스"
+    },
+    {
+      "file": "세이프티 파워 윈도우(전좌석).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 39916,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/111_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/세이프티 파워 윈도우(전좌석).webp",
+      "title": "세이프티 파워 윈도우(전좌석)"
+    },
+    {
+      "file": "전동식 에어벤트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 125690,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/119_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전동식 에어벤트.webp",
+      "title": "전동식 에어벤트"
+    },
+    {
+      "file": "레인센서.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 66598,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/107_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/레인센서.webp",
+      "title": "레인센서"
+    },
+    {
+      "file": "수동식 틸트 & 텔레스코픽 스티어링 휠.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 40182,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/112_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/수동식 틸트 & 텔레스코픽 스티어링 휠.webp",
+      "title": "수동식 틸트 & 텔레스코픽 스티어링 휠"
+    },
+    {
+      "file": "전동식 파킹 브레이크(오토홀드 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 118756,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/120_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전동식 파킹 브레이크(오토홀드 포함).webp",
+      "title": "전동식 파킹 브레이크(오토홀드 포함)"
+    },
+    {
+      "file": "패들쉬프트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 35926,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/123_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/패들쉬프트.webp",
+      "title": "패들쉬프트"
+    },
+    {
+      "file": "듀얼 풀오토 에어컨(마이크로 에어필터오토 디포그미세먼지 센서공기청정모드애프터 블로우).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 92234,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/105_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/듀얼 풀오토 에어컨(마이크로 에어필터오토 디포그미세먼지 센서공기청정모드애프터 블로우).webp",
+      "title": "듀얼 풀오토 에어컨(마이크로 에어필터/오토 디포그/미세먼지 센서/공기청정모드/애프터 블로우)"
+    },
+    {
+      "file": "버튼 시동 & 스마트 키.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 164386,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/108_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/버튼 시동 & 스마트 키.webp",
+      "title": "버튼 시동 & 스마트 키"
+    },
+    {
+      "file": "오토라이트 컨트롤.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 65770,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/116_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/오토라이트 컨트롤.webp",
+      "title": "오토라이트 컨트롤"
+    },
+    {
+      "file": "전방후방 주차 거리 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 166730,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/121_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전방후방 주차 거리 경고.webp",
+      "title": "전방/후방 주차 거리 경고"
+    },
+    {
+      "file": "일반 오디오 시스템(8 스피커).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 149356,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/135_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/일반 오디오 시스템(8 스피커).webp",
+      "title": "일반 오디오 시스템(8 스피커)"
+    },
+    {
+      "file": "플레오스 커넥트 17인치(블루링크, 무선 폰 프로젝션, 블루투스 핸즈프리, e hi-pass, 앱 마켓).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 132768,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/136_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/플레오스 커넥트 17인치(블루링크, 무선 폰 프로젝션, 블루투스 핸즈프리, e hi-pass, 앱 마켓).webp",
+      "title": "플레오스 커넥트 17인치(블루링크, 무선 폰 프로젝션, 블루투스 핸즈프리, e hi-pass, 앱 마켓)"
+    },
+    {
+      "file": "글레오 AI.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 71456,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/131_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/글레오 AI.webp",
+      "title": "글레오 AI"
+    },
+    {
+      "file": "빌트인 캠 2 Plus.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 31142,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/109_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/빌트인 캠 2 Plus.webp",
+      "title": "빌트인 캠 2 Plus"
+    },
+    {
+      "file": "1열 모니터링 시스템(영상회의 지원).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 47358,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/017_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/1열 모니터링 시스템(영상회의 지원).webp",
+      "title": "1열 모니터링 시스템(영상회의 지원)"
+    },
+    {
+      "file": "안전 하차 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 170948,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/023_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/안전 하차 보조.webp",
+      "title": "안전 하차 보조"
+    },
+    {
+      "file": "후방 교차 충돌방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 156650,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/034_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후방 교차 충돌방지 보조.webp",
+      "title": "후방 교차 충돌방지 보조"
+    },
+    {
+      "file": "후측방 충돌 경고(주행).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 97986,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/036_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후측방 충돌 경고(주행).webp",
+      "title": "후측방 충돌 경고(주행)"
+    },
+    {
+      "file": "후측방 충돌방지 보조(전진 출차).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 168746,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/037_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후측방 충돌방지 보조(전진 출차).webp",
+      "title": "후측방 충돌방지 보조(전진 출차)"
+    },
+    {
+      "file": "파노라마 선루프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 43360,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/060_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/파노라마 선루프.webp",
+      "title": "파노라마 선루프"
+    },
+    {
+      "file": "기억 후진 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 119550,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/103_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/기억 후진 보조.webp",
+      "title": "기억 후진 보조"
+    },
+    {
+      "file": "서라운드 뷰 모니터(차량 이미지 투명 표시).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 90670,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/110_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/서라운드 뷰 모니터(차량 이미지 투명 표시).webp",
+      "title": "서라운드 뷰 모니터(차량 이미지 투명 표시)"
+    },
+    {
+      "file": "원격 스마트 주차 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 91650,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/118_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/원격 스마트 주차 보조.webp",
+      "title": "원격 스마트 주차 보조"
+    },
+    {
+      "file": "측방 주차 거리 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 168266,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/122_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/측방 주차 거리 경고.webp",
+      "title": "측방 주차 거리 경고"
+    },
+    {
+      "file": "후방 주차 충돌방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 188276,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/127_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후방 주차 충돌방지 보조.webp",
+      "title": "후방 주차 충돌방지 보조"
+    },
+    {
+      "file": "후측방 모니터.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 100814,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/129_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후측방 모니터.webp",
+      "title": "후측방 모니터"
+    },
+    {
+      "file": "천연 가죽 시트(퀼팅 적용).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 32160,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/099_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/천연 가죽 시트(퀼팅 적용).webp",
+      "title": "천연 가죽 시트(퀼팅 적용)"
+    },
+    {
+      "file": "듀얼 스마트폰 무선 충전(맥세이프 호환, 일반 고속).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 161576,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/104_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/듀얼 스마트폰 무선 충전(맥세이프 호환, 일반 고속).webp",
+      "title": "듀얼 스마트폰 무선 충전(맥세이프 호환, 일반 고속)"
+    },
+    {
+      "file": "디지털 키 2.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 46800,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/106_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/디지털 키 2.webp",
+      "title": "디지털 키 2"
+    },
+    {
+      "file": "스마트 파워 트렁크.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 58536,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/114_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스마트 파워 트렁크.webp",
+      "title": "스마트 파워 트렁크"
+    },
+    {
+      "file": "진동 경고 스티어링 휠.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 116330,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/030_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/진동 경고 스티어링 휠.webp",
+      "title": "진동 경고 스티어링 휠"
+    },
+    {
+      "file": "후진 가이드 램프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 69236,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/063_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후진 가이드 램프.webp",
+      "title": "후진 가이드 램프"
+    },
+    {
+      "file": "자외선 차단유리(12열 도어, 뒷면유리, 리어 쿼터).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 79938,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/057_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/자외선 차단유리(12열 도어, 뒷면유리, 리어 쿼터).webp",
+      "title": "자외선 차단유리(1/2열 도어, 뒷면유리, 리어 쿼터)"
+    },
+    {
+      "file": "전동식 틸트 & 텔레스코픽 스티어링 휠.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 85878,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/077_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전동식 틸트 & 텔레스코픽 스티어링 휠.webp",
+      "title": "전동식 틸트 & 텔레스코픽 스티어링 휠"
+    },
+    {
+      "file": "뒷면 전동식 커튼.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 144814,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/070_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/뒷면 전동식 커튼.webp",
+      "title": "뒷면 전동식 커튼"
+    },
+    {
+      "file": "동승석 전동시트(8way, 럼버 서포트, 릴렉션 컴포트, 워크인 디바이스).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 179798,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/089_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/동승석 전동시트(8way, 럼버 서포트, 릴렉션 컴포트, 워크인 디바이스).webp",
+      "title": "동승석 전동시트(8way, 럼버 서포트, 릴렉션 컴포트, 워크인 디바이스)"
+    },
+    {
+      "file": "운전석 자세 메모리 시스템(스마트 자세제어 시스템 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 149038,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/097_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/운전석 자세 메모리 시스템(스마트 자세제어 시스템 포함).webp",
+      "title": "운전석 자세 메모리 시스템(스마트 자세제어 시스템 포함)"
+    },
+    {
+      "file": "운전석 에르고 모션 시트(16way, 4way 럼버 서포트, 쿠션 익스텐션, 릴렉션 컴포트, 스트레칭 모드 등 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 128476,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/096_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/운전석 에르고 모션 시트(16way, 4way 럼버 서포트, 쿠션 익스텐션, 릴렉션 컴포트, 스트레칭 모드 등 포함).webp",
+      "title": "운전석 에르고 모션 시트(16way, 4way 럼버 서포트, 쿠션 익스텐션, 릴렉션 컴포트, 스트레칭 모드 등 포함)"
+    },
+    {
+      "file": "고속도로 주행 보조 2.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 114600,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/019_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/고속도로 주행 보조 2.webp",
+      "title": "고속도로 주행 보조 2"
+    },
+    {
+      "file": "어린이 탑승 감지(2열).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 50770,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/024_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/어린이 탑승 감지(2열).webp",
+      "title": "어린이 탑승 감지(2열)"
+    },
+    {
+      "file": "전방 충돌방지 보조(교차 차량추월 시 대향차측방 접근차회피 조향 보조).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 167454,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/027_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/전방 충돌방지 보조(교차 차량추월 시 대향차측방 접근차회피 조향 보조).webp",
+      "title": "전방 충돌방지 보조(교차 차량/추월 시 대향차/측방 접근차/회피 조향 보조)"
+    },
+    {
+      "file": "후측방 충돌방지 보조(주행).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 97986,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/038_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/후측방 충돌방지 보조(주행).webp",
+      "title": "후측방 충돌방지 보조(주행)"
+    },
+    {
+      "file": "프리뷰 전자제어 서스펜션.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 84540,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/006_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/프리뷰 전자제어 서스펜션.webp",
+      "title": "프리뷰 전자제어 서스펜션"
+    },
+    {
+      "file": "19인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 44266,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/040_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/19인치 알로이 휠 & 타이어.webp",
+      "title": "19인치 알로이 휠 & 타이어"
+    },
+    {
+      "file": "인터랙티브 앰비언트 무드램프(순차 점등, 주행 모드 연동 등).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 77196,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/076_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/인터랙티브 앰비언트 무드램프(순차 점등, 주행 모드 연동 등).webp",
+      "title": "인터랙티브 앰비언트 무드램프(순차 점등, 주행 모드 연동 등)"
+    },
+    {
+      "file": "헤드업 디스플레이.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 35550,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/125_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/헤드업 디스플레이.webp",
+      "title": "헤드업 디스플레이"
+    },
+    {
+      "file": "20인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 50826,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/042_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/20인치 알로이 휠 & 타이어.webp",
+      "title": "20인치 알로이 휠 & 타이어"
+    },
+    {
+      "file": "2열 리클라이닝 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 128560,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/081_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 리클라이닝 시트.webp",
+      "title": "2열 리클라이닝 시트"
+    },
+    {
+      "file": "2열 통풍 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 55206,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/084_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 통풍 시트.webp",
+      "title": "2열 통풍 시트"
+    },
+    {
+      "file": "동승석 에르고 모션 시트(4way 럼버 서포트).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 105234,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/091_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/동승석 에르고 모션 시트(4way 럼버 서포트).webp",
+      "title": "동승석 에르고 모션 시트(4way 럼버 서포트)"
+    },
+    {
+      "file": "2열 고급형 암레스트(오디오 컨트롤러 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 158862,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/085_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 고급형 암레스트(오디오 컨트롤러 포함).webp",
+      "title": "2열 고급형 암레스트(오디오 컨트롤러 포함)"
+    },
+    {
+      "file": "BOSE 프리미엄 사운드(14 스피커, 외장 앰프).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 83870,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/130_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/BOSE 프리미엄 사운드(14 스피커, 외장 앰프).webp",
+      "title": "BOSE 프리미엄 사운드(14 스피커, 외장 앰프)"
+    },
+    {
+      "file": "액티브 로드 노이즈 컨트롤.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 208194,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/134_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/액티브 로드 노이즈 컨트롤.webp",
+      "title": "액티브 로드 노이즈 컨트롤"
+    },
+    {
+      "file": "캘리그래피 전용 그릴 & 전용 19인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 134134,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/059_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/캘리그래피 전용 그릴 & 전용 19인치 알로이 휠 & 타이어.webp",
+      "title": "캘리그래피 전용 그릴 & 전용 19인치 알로이 휠 & 타이어"
+    },
+    {
+      "file": "다이내믹 웰컴에스코트 라이트(4종).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 42064,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/048_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/다이내믹 웰컴에스코트 라이트(4종).webp",
+      "title": "다이내믹 웰컴/에스코트 라이트(4종)"
+    },
+    {
+      "file": "순차 점등 방향지시등(앞뒤).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 22820,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/052_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/순차 점등 방향지시등(앞뒤).webp",
+      "title": "순차 점등 방향지시등(앞/뒤)"
+    },
+    {
+      "file": "발수 적용 1열 유리.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 150282,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/049_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/발수 적용 1열 유리.webp",
+      "title": "발수 적용 1열 유리"
+    },
+    {
+      "file": "캘리그래피 전용 디자인.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 124862,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/078_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/캘리그래피 전용 디자인.webp",
+      "title": "캘리그래피 전용 디자인[나파 엠보 가죽 스티어링 휠(혼커버 가죽 감싸기, 리얼 스티치 적용), 인조 가죽 내장재(PU소재 크래시패드, 도어어퍼트림, 3D 엠보 도어센터트림), 인조가죽 감싸기(콘솔 암레스트, 콘솔사이드), 리얼 우드 소재 또는 리얼 알루미늄 소재 내장재(크래시패드 가니시, 콘솔 어퍼 커버), 스웨이드 내장재(헤드라이닝, 필라트림, 패키지트레이, 선바이저), 스웨이드 목베개, 고급 카매트]"
+    },
+    {
+      "file": "나파 가죽 시트(퀼팅, 파이핑 적용).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 23472,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/086_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/나파 가죽 시트(퀼팅, 파이핑 적용).webp",
+      "title": "나파 가죽 시트(퀼팅, 파이핑 적용)"
+    },
+    {
+      "file": "모노포스트 헤드레스트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 67446,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/093_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/모노포스트 헤드레스트.webp",
+      "title": "모노포스트 헤드레스트"
+    },
+    {
+      "file": "3존 독립제어 에어컨(마이크로 에어필터오토 디포그미세먼지 센서공기청정모드애프터 블로우).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 103244,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/101_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/3존 독립제어 에어컨(마이크로 에어필터오토 디포그미세먼지 센서공기청정모드애프터 블로우).webp",
+      "title": "3존 독립제어 에어컨(마이크로 에어필터/오토 디포그/미세먼지 센서/공기청정모드/애프터 블로우)"
+    },
+    {
+      "file": "양문형 콘솔 암레스트(열선 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 150884,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/074_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/양문형 콘솔 암레스트(열선 포함).webp",
+      "title": "양문형 콘솔 암레스트(열선 포함)"
+    },
+    {
+      "file": "2열 전동식 도어커튼.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 156278,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/100_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/2열 전동식 도어커튼.webp",
+      "title": "2열 전동식 도어커튼"
+    },
+    {
+      "file": "스마트 비전 루프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 64348,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/053_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스마트 비전 루프.webp",
+      "title": "스마트 비전 루프"
+    },
+    {
+      "file": "스마트 카드키.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 38018,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/144_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/스마트 카드키.webp",
+      "title": "스마트 카드키"
+    },
+    {
+      "file": "20인치 캘리그래피 전용 알로이 휠 & 피렐리 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 51526,
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/043_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/20인치 캘리그래피 전용 알로이 휠 & 피렐리 타이어.webp",
+      "title": "20인치 캘리그래피 전용 알로이 휠 & 피렐리 타이어"
+    }
+  ],
+  "detailSources": [
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4007",
+      "images": [
+        "/contents/spec/GN-HEV-PE/152_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4003",
+      "images": [
+        "/contents/spec/GN-HEV-PE/003_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4002",
+      "images": [
+        "/contents/spec/GN-HEV-PE/002_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4008",
+      "images": [
+        "/contents/spec/GN-HEV-PE/007_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4005",
+      "images": [
+        "/contents/spec/GN-HEV-PE/005_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4004",
+      "images": [
+        "/contents/spec/GN-HEV-PE/004_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4200",
+      "images": [
+        "/contents/spec/GN-HEV-PE/001_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4010",
+      "images": [
+        "/contents/spec/GN-HEV-PE/018_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4017",
+      "images": [
+        "/contents/spec/GN-HEV-PE/025_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4023",
+      "images": [
+        "/contents/spec/GN-HEV-PE/031_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4025",
+      "images": [
+        "/contents/spec/GN-HEV-PE/033_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4013",
+      "images": [
+        "/contents/spec/GN-HEV-PE/021_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4020",
+      "images": [
+        "/contents/spec/GN-HEV-PE/028_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4027",
+      "images": [
+        "/contents/spec/GN-HEV-PE/035_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4018",
+      "images": [
+        "/contents/spec/GN-HEV-PE/026_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4012",
+      "images": [
+        "/contents/spec/GN-HEV-PE/020_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4021",
+      "images": [
+        "/contents/spec/GN-HEV-PE/029_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4014",
+      "images": [
+        "/contents/spec/GN-HEV-PE/022_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4024",
+      "images": [
+        "/contents/spec/GN-HEV-PE/032_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4037",
+      "images": [
+        "/contents/spec/GN-HEV-PE/016_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4036",
+      "images": [
+        "/contents/spec/GN-HEV-PE/013_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4031",
+      "images": [
+        "/contents/spec/GN-HEV-PE/008_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4033",
+      "images": [
+        "/contents/spec/GN-HEV-PE/011_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4034",
+      "images": [
+        "/contents/spec/GN-HEV-PE/147_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4035",
+      "images": [
+        "/contents/spec/GN-HEV-PE/012_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4032",
+      "images": [
+        "/contents/spec/GN-HEV-PE/010_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4055",
+      "images": [
+        "/contents/spec/GN-HEV-PE/055_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4061",
+      "images": [
+        "/contents/spec/GN-HEV-PE/061_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4054",
+      "images": [
+        "/contents/spec/GN-HEV-PE/054_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4056",
+      "images": [
+        "/contents/spec/GN-HEV-PE/056_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4043",
+      "images": [
+        "/contents/spec/GN-HEV-PE/044_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4062",
+      "images": [
+        "/contents/spec/GN-HEV-PE/062_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4046",
+      "images": [
+        "/contents/spec/GN-HEV-PE/047_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4064",
+      "images": [
+        "/contents/spec/GN-HEV-PE/064_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4038",
+      "images": [
+        "/contents/spec/GN-HEV-PE/039_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4044",
+      "images": [
+        "/contents/spec/GN-HEV-PE/045_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4048",
+      "images": [
+        "/contents/spec/GN-HEV-PE/148_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4051",
+      "images": [
+        "/contents/spec/GN-HEV-PE/058_gn8.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4058",
+      "images": [
+        "/contents/spec/GN-HEV-PE/058_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4045",
+      "images": [
+        "/contents/spec/GN-HEV-PE/046_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4066",
+      "images": [
+        "/contents/spec/GN-HEV-PE/149_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4067",
+      "images": [
+        "/contents/spec/GN-HEV-PE/069_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4077",
+      "images": [
+        "/contents/spec/GN-HEV-PE/079_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4071",
+      "images": [
+        "/contents/spec/GN-HEV-PE/073_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4069",
+      "images": [
+        "/contents/spec/GN-HEV-PE/071_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4065",
+      "images": [
+        "/contents/spec/GN-HEV-PE/065_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4073",
+      "images": [
+        "/contents/spec/GN-HEV-PE/075_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4083",
+      "images": [
+        "/contents/spec/GN-HEV-PE/083_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4092",
+      "images": [
+        "/contents/spec/GN-HEV-PE/095_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4082",
+      "images": [
+        "/contents/spec/GN-HEV-PE/082_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4093",
+      "images": [
+        "/contents/spec/GN-HEV-PE/098_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4078",
+      "images": [
+        "/contents/spec/GN-HEV-PE/080_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4087",
+      "images": [
+        "/contents/spec/GN-HEV-PE/088_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4081",
+      "images": [
+        "/contents/spec/GN-HEV-PE/128_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4122",
+      "images": [
+        "/contents/spec/GN-HEV-PE/126_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4113",
+      "images": [
+        "/contents/spec/GN-HEV-PE/117_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4103",
+      "images": [
+        "/contents/spec/GN-HEV-PE/133_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4109",
+      "images": [
+        "/contents/spec/GN-HEV-PE/113_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4111",
+      "images": [
+        "/contents/spec/GN-HEV-PE/115_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4097",
+      "images": [
+        "/contents/spec/GN-HEV-PE/102_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4120",
+      "images": [
+        "/contents/spec/GN-HEV-PE/124_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4107",
+      "images": [
+        "/contents/spec/GN-HEV-PE/111_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4115",
+      "images": [
+        "/contents/spec/GN-HEV-PE/119_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4102",
+      "images": [
+        "/contents/spec/GN-HEV-PE/107_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4108",
+      "images": [
+        "/contents/spec/GN-HEV-PE/112_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4116",
+      "images": [
+        "/contents/spec/GN-HEV-PE/120_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4119",
+      "images": [
+        "/contents/spec/GN-HEV-PE/123_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4100",
+      "images": [
+        "/contents/spec/GN-HEV-PE/105_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4104",
+      "images": [
+        "/contents/spec/GN-HEV-PE/108_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4112",
+      "images": [
+        "/contents/spec/GN-HEV-PE/116_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4117",
+      "images": [
+        "/contents/spec/GN-HEV-PE/121_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4128",
+      "images": [
+        "/contents/spec/GN-HEV-PE/135_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4001",
+      "images": [
+        "/contents/spec/GN-HEV-PE/136_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "B",
+      "code": "GNH4126",
+      "images": [
+        "/contents/spec/GN-HEV-PE/131_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "O",
+      "code": "B25",
+      "images": [
+        "/contents/spec/GN-HEV-PE/109_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "O",
+      "code": "HS1",
+      "images": [
+        "/contents/spec/GN-HEV-PE/017_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/023_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/034_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/036_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/037_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "O",
+      "code": "PAS",
+      "images": [
+        "/contents/spec/GN-HEV-PE/060_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "O",
+      "code": "PAA",
+      "images": [
+        "/contents/spec/GN-HEV-PE/103_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/110_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/118_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/122_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/127_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/129_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZAT4",
+      "type": "O",
+      "code": "PRC",
+      "images": [
+        "/contents/spec/GN-HEV-PE/099_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/104_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/106_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/114_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4026",
+      "images": [
+        "/contents/spec/GN-HEV-PE/034_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4022",
+      "images": [
+        "/contents/spec/GN-HEV-PE/030_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4015",
+      "images": [
+        "/contents/spec/GN-HEV-PE/023_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4028",
+      "images": [
+        "/contents/spec/GN-HEV-PE/036_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4029",
+      "images": [
+        "/contents/spec/GN-HEV-PE/037_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4063",
+      "images": [
+        "/contents/spec/GN-HEV-PE/063_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4057",
+      "images": [
+        "/contents/spec/GN-HEV-PE/057_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4075",
+      "images": [
+        "/contents/spec/GN-HEV-PE/077_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4068",
+      "images": [
+        "/contents/spec/GN-HEV-PE/070_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4088",
+      "images": [
+        "/contents/spec/GN-HEV-PE/089_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4094",
+      "images": [
+        "/contents/spec/GN-HEV-PE/099_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4091",
+      "images": [
+        "/contents/spec/GN-HEV-PE/097_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4090",
+      "images": [
+        "/contents/spec/GN-HEV-PE/096_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4106",
+      "images": [
+        "/contents/spec/GN-HEV-PE/110_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4101",
+      "images": [
+        "/contents/spec/GN-HEV-PE/106_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4124",
+      "images": [
+        "/contents/spec/GN-HEV-PE/129_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4099",
+      "images": [
+        "/contents/spec/GN-HEV-PE/104_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4123",
+      "images": [
+        "/contents/spec/GN-HEV-PE/127_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4098",
+      "images": [
+        "/contents/spec/GN-HEV-PE/103_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4114",
+      "images": [
+        "/contents/spec/GN-HEV-PE/118_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4110",
+      "images": [
+        "/contents/spec/GN-HEV-PE/114_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "B",
+      "code": "GNH4118",
+      "images": [
+        "/contents/spec/GN-HEV-PE/122_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "O",
+      "code": "HS2",
+      "images": [
+        "/contents/spec/GN-HEV-PE/017_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/019_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/024_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/027_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/038_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "O",
+      "code": "PLA",
+      "images": [
+        "/contents/spec/GN-HEV-PE/006_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/040_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/076_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/125_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "O",
+      "code": "20W",
+      "images": [
+        "/contents/spec/GN-HEV-PE/042_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "O",
+      "code": "SC2",
+      "images": [
+        "/contents/spec/GN-HEV-PE/081_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/084_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/091_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/109_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZBT4",
+      "type": "O",
+      "code": "BPS",
+      "images": [
+        "/contents/spec/GN-HEV-PE/085_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/130_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/134_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4006",
+      "images": [
+        "/contents/spec/GN-HEV-PE/006_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4011",
+      "images": [
+        "/contents/spec/GN-HEV-PE/019_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4019",
+      "images": [
+        "/contents/spec/GN-HEV-PE/027_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4016",
+      "images": [
+        "/contents/spec/GN-HEV-PE/024_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4030",
+      "images": [
+        "/contents/spec/GN-HEV-PE/038_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4009",
+      "images": [
+        "/contents/spec/GN-HEV-PE/017_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4059",
+      "images": [
+        "/contents/spec/GN-HEV-PE/059_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4047",
+      "images": [
+        "/contents/spec/GN-HEV-PE/048_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4052",
+      "images": [
+        "/contents/spec/GN-HEV-PE/052_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4049",
+      "images": [
+        "/contents/spec/GN-HEV-PE/049_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4074",
+      "images": [
+        "/contents/spec/GN-HEV-PE/076_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4076",
+      "images": [
+        "/contents/spec/GN-HEV-PE/078_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4084",
+      "images": [
+        "/contents/spec/GN-HEV-PE/084_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4079",
+      "images": [
+        "/contents/spec/GN-HEV-PE/085_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4085",
+      "images": [
+        "/contents/spec/GN-HEV-PE/086_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4089",
+      "images": [
+        "/contents/spec/GN-HEV-PE/093_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4121",
+      "images": [
+        "/contents/spec/GN-HEV-PE/125_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4096",
+      "images": [
+        "/contents/spec/GN-HEV-PE/101_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4125",
+      "images": [
+        "/contents/spec/GN-HEV-PE/130_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "B",
+      "code": "GNH4127",
+      "images": [
+        "/contents/spec/GN-HEV-PE/134_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "O",
+      "code": "SCP",
+      "images": [
+        "/contents/spec/GN-HEV-PE/074_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/081_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/091_gnh.jpg",
+        "/contents/spec/GN-HEV-PE/100_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "O",
+      "code": "SGR",
+      "images": [
+        "/contents/spec/GN-HEV-PE/053_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "O",
+      "code": "SCK",
+      "images": [
+        "/contents/spec/GN-HEV-PE/144_gnh.jpg"
+      ]
+    },
+    {
+      "model": "GNJS4ZCT4",
+      "type": "O",
+      "code": "20C",
+      "images": [
+        "/contents/spec/GN-HEV-PE/043_gnh.jpg"
+      ]
+    }
+  ],
+  "imageAliases": [
+    {
+      "title": "현대 스마트센스Ⅰ",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/017_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/현대 스마트센스Ⅰ.webp"
+    },
+    {
+      "title": "파킹 어시스트",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/103_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/파킹 어시스트.webp"
+    },
+    {
+      "title": "프리미엄 초이스",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/099_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/프리미엄 초이스.webp"
+    },
+    {
+      "title": "현대 스마트센스Ⅱ",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/017_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/현대 스마트센스Ⅱ.webp"
+    },
+    {
+      "title": "플래티넘",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/006_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/플래티넘.webp"
+    },
+    {
+      "title": "시트 컴포트Ⅱ",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/081_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/시트 컴포트Ⅱ.webp"
+    },
+    {
+      "title": "BOSE 프리미엄 사운드 패키지",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/085_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/BOSE 프리미엄 사운드 패키지.webp"
+    },
+    {
+      "title": "시트 컴포트 플러스",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/074_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/시트 컴포트 플러스.webp"
+    },
+    {
+      "title": "20인치 알로이 휠 & 타이어(캘리그래피)",
+      "sourceUrl": "https://www.hyundai.com/contents/spec/GN-HEV-PE/043_gnh.jpg",
+      "localPath": "현대/그랜저 하이브리드/20인치 알로이 휠 & 타이어(캘리그래피).webp"
+    }
+  ]
+}

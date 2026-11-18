@@ -1,0 +1,2682 @@
+{
+  "retrievedDate": "2026-11-16",
+  "models": [
+    {
+      "siteTrimName": "스마트 (11인승)",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
+      "model": {
+        "saleMdlCd": "USJTBZST4",
+        "carAbbreviation": "US",
+        "carName": "더 뉴 스타리아 Hybrid",
+        "carCode": "US33",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "Smart",
+        "carTrimCode": "S",
+        "carBodyName": "투어러 11인승",
+        "carEnginName": "하이브리드",
+        "carMissionName": "2WD 오토",
+        "carDriveName": null,
+        "saleModelName": "더 뉴 스타리아 Hybrid 자가용 11인승 하이브리드 2WD 오토 Smart",
+        "saleSpecCode": "T",
+        "carBodyCode1": "T",
+        "carBodyCode2": "B",
+        "carEnginCode": "Z",
+        "carMissionCode": "T",
+        "carDriveCode": null,
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "38700000",
+        "carTypeCode": "S",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZST4",
+          "choiceOptionCode": "MP1",
+          "choiceOptionName": "멀티미디어 내비플러스Ⅰ(투어러)",
+          "choiceOptionPrice": "1700000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/016_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4003",
+              "basicOptionName": "통합 주행 모드",
+              "imgFile": "003_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4002",
+              "basicOptionName": "6단 자동변속기",
+              "imgFile": "002_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4007",
+              "basicOptionName": "후륜 멀티 링크 서스펜션",
+              "imgFile": "006_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4001",
+              "basicOptionName": "스마트스트림 가솔린 1.6T 하이브리드",
+              "imgFile": "001_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4016",
+              "basicOptionName": "지능형 속도 제한 보조",
+              "imgFile": "014_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4017",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "019_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4015",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "013_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4013",
+              "basicOptionName": "후방 교차 충돌방지 보조",
+              "imgFile": "021_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4010",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "009_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4012",
+              "basicOptionName": "후측방 충돌방지 경고(주행)",
+              "imgFile": "011_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4165",
+              "basicOptionName": "후측방 충돌방지 보조(전진출차)",
+              "imgFile": "201_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4014",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+              "imgFile": "012_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4021",
+              "basicOptionName": "후석 승객 알림",
+              "imgFile": "018_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4018",
+              "basicOptionName": "전방 차량 출발 알림",
+              "imgFile": "015_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4009",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)",
+              "imgFile": "008_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4011",
+              "basicOptionName": "차로 유지 보조",
+              "imgFile": "010_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4026",
+              "basicOptionName": "전좌석 헤드레스트",
+              "imgFile": "025_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4025",
+              "basicOptionName": "전좌석 3점식 시트벨트",
+              "imgFile": "024_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4032",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "031_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4027",
+              "basicOptionName": "다중 충돌방지 자동 제동 시스템",
+              "imgFile": "027_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4030",
+              "basicOptionName": "세이프티 파워 윈도우(운전석)",
+              "imgFile": "026_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4031",
+              "basicOptionName": "타이어 응급처치 키트",
+              "imgFile": "030_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4029",
+              "basicOptionName": "개별 타이어 공기압 경보 장치",
+              "imgFile": "029_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4033",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "004_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4028",
+              "basicOptionName": "횡풍안정제어",
+              "imgFile": "028_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4024",
+              "basicOptionName": "7에어백 시스템(1열 에어백/사이드, 운전석 무릎, 전복대응 커튼)",
+              "imgFile": "023_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4041",
+              "basicOptionName": "아웃사이드 미러(전동접이, 전동조절)",
+              "imgFile": "039_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4038",
+              "basicOptionName": "LED 보조제동등",
+              "imgFile": "036_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4037",
+              "basicOptionName": "리어 스포일러",
+              "imgFile": "035_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4052",
+              "basicOptionName": "바디 컬러 아웃사이드 도어 핸들",
+              "imgFile": "038_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4054",
+              "basicOptionName": "이중접합 차음유리(윈드실드, 1열도어)",
+              "imgFile": "062_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4039",
+              "basicOptionName": "리어글래스 열선",
+              "imgFile": "037_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4043",
+              "basicOptionName": "자외선 차단 유리(윈드실드)",
+              "imgFile": "045_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4042",
+              "basicOptionName": "전/후륜 디스크 브레이크",
+              "imgFile": "040_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4053",
+              "basicOptionName": "후석 파노라믹 윈도우",
+              "imgFile": "052_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4036",
+              "basicOptionName": "17인치 알로이 휠 & 타이어",
+              "imgFile": "043_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4067",
+              "basicOptionName": "클러스터(4.2인치 컬러 LCD)",
+              "imgFile": "068_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4070",
+              "basicOptionName": "리놀륨 플로어 카페트",
+              "imgFile": "071_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4069",
+              "basicOptionName": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "070_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4068",
+              "basicOptionName": "D&N 룸미러",
+              "imgFile": "069_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4083",
+              "basicOptionName": "직물시트",
+              "imgFile": "084_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4084",
+              "basicOptionName": "1열 열선시트",
+              "imgFile": "085_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4096",
+              "basicOptionName": "3열 독립시트(리클라이닝/폴딩)",
+              "imgFile": "097_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4094",
+              "basicOptionName": "2~4열 풀 플랫 시트",
+              "imgFile": "095_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4097",
+              "basicOptionName": "4열 쿠션 팁업 시트(폴딩)",
+              "imgFile": "098_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4085",
+              "basicOptionName": "운전석 수동 높이 조절",
+              "imgFile": "086_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4095",
+              "basicOptionName": "2열 6:4 분할 시트(리클라이닝/폴딩)",
+              "imgFile": "096_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4093",
+              "basicOptionName": "2~4열 롱 슬라이딩 시트",
+              "imgFile": "094_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4092",
+              "basicOptionName": "동승석 슬라이딩 & 리클라이닝 시트",
+              "imgFile": "088_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4124",
+              "basicOptionName": "워크 어웨이 락",
+              "imgFile": "116_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4120",
+              "basicOptionName": "오토라이트 컨트롤",
+              "imgFile": "112_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4119",
+              "basicOptionName": "후방 모니터",
+              "imgFile": "111_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4114",
+              "basicOptionName": "버튼시동 & 스마트키",
+              "imgFile": "106_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4135",
+              "basicOptionName": "USB C타입 단자(1열 충전 2개/2열 충전 2개/3열 충전 2개)",
+              "imgFile": "128_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4116",
+              "basicOptionName": "전동식 파킹 브레이크(오토홀드 포함)",
+              "imgFile": "108_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4136",
+              "basicOptionName": "후석 루프 에어 벤트",
+              "imgFile": "129_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4118",
+              "basicOptionName": "전방/후방 주차 거리 경고",
+              "imgFile": "110_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4115",
+              "basicOptionName": "스마트키 원격시동",
+              "imgFile": "107_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4123",
+              "basicOptionName": "파워 아웃렛(1열 1개)",
+              "imgFile": "130_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4122",
+              "basicOptionName": "마이크로 에어 필터",
+              "imgFile": "114_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4121",
+              "basicOptionName": "풀오토 에어컨(미세먼지 센서/공기청정모드/오토 디포그/애프터블로우)",
+              "imgFile": "013_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4150",
+              "basicOptionName": "무선 소프트웨어 업데이트(OTA Software Update)",
+              "imgFile": "145_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4151",
+              "basicOptionName": "샤크핀 안테나",
+              "imgFile": "146_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4153",
+              "basicOptionName": "12.3인치 디스플레이 오디오(블루링크, 폰 프로젝션, 블루투스 핸즈프리, 6스피커)",
+              "imgFile": "148_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteTrimName": "모던 (11인승)",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
+      "model": {
+        "saleMdlCd": "USJTBZMT4",
+        "carAbbreviation": "US",
+        "carName": "더 뉴 스타리아 Hybrid",
+        "carCode": "US33",
+        "imageSectionCode": null,
+        "pcFilePath": null,
+        "mobileFilePath": null,
+        "carTrimName": "Modern",
+        "carTrimCode": "M",
+        "carBodyName": "투어러 11인승",
+        "carEnginName": "하이브리드",
+        "carMissionName": "2WD 오토",
+        "carDriveName": null,
+        "saleModelName": "더 뉴 스타리아 Hybrid 자가용 11인승 하이브리드 2WD 오토 Modern",
+        "saleSpecCode": "T",
+        "carBodyCode1": "T",
+        "carBodyCode2": "B",
+        "carEnginCode": "Z",
+        "carMissionCode": "T",
+        "carDriveCode": null,
+        "rotationVirImgYn": "Y",
+        "csmrHmpgRotationVirImgYn": "Y",
+        "exsfHmpgRotationVirImgYn": "Y",
+        "mdlCds": [],
+        "carPrice": "39990000",
+        "carTypeCode": "S",
+        "siteTypeCode": null
+      },
+      "choices": [
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "MP2",
+          "choiceOptionName": "멀티미디어 내비플러스Ⅱ(투어러)",
+          "choiceOptionPrice": "1500000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/016_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "1",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "CMT",
+          "choiceOptionName": "컴포트(투어러)",
+          "choiceOptionPrice": "550000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/090_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "2",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "TE2",
+          "choiceOptionName": "테크Ⅱ(투어러)",
+          "choiceOptionPrice": "1250000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/022_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": null,
+          "best": true,
+          "rankOrder": "3",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "ED1",
+          "choiceOptionName": "익스테리어 디자인(11인승)",
+          "choiceOptionPrice": "1050000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/046_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "TE1",
+          "choiceOptionName": "테크Ⅰ(투어러)",
+          "choiceOptionPrice": "1350000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/123_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "N",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": "MP2,TE1",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "N",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "DWL",
+          "choiceOptionName": "듀얼 와이드 선루프 + LED 실내등(맵램프, 룸램프)",
+          "choiceOptionPrice": "900000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/054_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "Y",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": null,
+          "best": false,
+          "rankOrder": "9",
+          "alert": "Y",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        },
+        {
+          "optionType": "2",
+          "saleModelCode": "USJTBZMT4",
+          "choiceOptionCode": "B2P",
+          "choiceOptionName": "빌트인 캠 2 Plus, 증강현실 내비게이션",
+          "choiceOptionPrice": "670000",
+          "optionImgPath": "/contents/spec/US4-HEV-PE/120_us4_s.jpg",
+          "mobileOptionImgPath": null,
+          "unityChoiceYn": "N",
+          "saleSpecCode": "T",
+          "choiceOptionGroupCodes": "B2P,MP2",
+          "best": false,
+          "rankOrder": "9",
+          "alert": "N",
+          "isClassChoiceVisible": true,
+          "mandatoryOption": false
+        }
+      ],
+      "categories": [
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "10",
+          "basicOptionCategoryName": "파워트레인/성능",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4003",
+              "basicOptionName": "통합 주행 모드",
+              "imgFile": "003_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4002",
+              "basicOptionName": "6단 자동변속기",
+              "imgFile": "002_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4007",
+              "basicOptionName": "후륜 멀티 링크 서스펜션",
+              "imgFile": "006_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4001",
+              "basicOptionName": "스마트스트림 가솔린 1.6T 하이브리드",
+              "imgFile": "001_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "20",
+          "basicOptionCategoryName": "지능형 안전 기술",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4016",
+              "basicOptionName": "지능형 속도 제한 보조",
+              "imgFile": "014_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4017",
+              "basicOptionName": "운전자 주의 경고",
+              "imgFile": "019_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4015",
+              "basicOptionName": "하이빔 보조",
+              "imgFile": "013_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4013",
+              "basicOptionName": "후방 교차 충돌방지 보조",
+              "imgFile": "021_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4010",
+              "basicOptionName": "차로 이탈방지 보조",
+              "imgFile": "009_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4012",
+              "basicOptionName": "후측방 충돌방지 경고(주행)",
+              "imgFile": "011_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4165",
+              "basicOptionName": "후측방 충돌방지 보조(전진출차)",
+              "imgFile": "201_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4014",
+              "basicOptionName": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+              "imgFile": "012_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4021",
+              "basicOptionName": "후석 승객 알림",
+              "imgFile": "018_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4018",
+              "basicOptionName": "전방 차량 출발 알림",
+              "imgFile": "015_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4009",
+              "basicOptionName": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)",
+              "imgFile": "008_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4011",
+              "basicOptionName": "차로 유지 보조",
+              "imgFile": "010_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "30",
+          "basicOptionCategoryName": "안전",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4026",
+              "basicOptionName": "전좌석 헤드레스트",
+              "imgFile": "025_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4025",
+              "basicOptionName": "전좌석 3점식 시트벨트",
+              "imgFile": "024_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4032",
+              "basicOptionName": "실내 소화기",
+              "imgFile": "031_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4027",
+              "basicOptionName": "다중 충돌방지 자동 제동 시스템",
+              "imgFile": "027_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4030",
+              "basicOptionName": "세이프티 파워 윈도우(운전석)",
+              "imgFile": "026_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4031",
+              "basicOptionName": "타이어 응급처치 키트",
+              "imgFile": "030_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4029",
+              "basicOptionName": "개별 타이어 공기압 경보 장치",
+              "imgFile": "029_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4033",
+              "basicOptionName": "유아용 시트 고정장치(2열 2개)",
+              "imgFile": "004_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4028",
+              "basicOptionName": "횡풍안정제어",
+              "imgFile": "028_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4024",
+              "basicOptionName": "7에어백 시스템(1열 에어백/사이드, 운전석 무릎, 전복대응 커튼)",
+              "imgFile": "023_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "40",
+          "basicOptionCategoryName": "외관",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4055",
+              "basicOptionName": "유광 필라 가니쉬",
+              "imgFile": "053_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4044",
+              "basicOptionName": "바디 컬러 아웃사이드 미러(열선, LED 방향지시등)",
+              "imgFile": "044_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4041",
+              "basicOptionName": "아웃사이드 미러(전동접이, 전동조절)",
+              "imgFile": "039_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4038",
+              "basicOptionName": "LED 보조제동등",
+              "imgFile": "036_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4037",
+              "basicOptionName": "리어 스포일러",
+              "imgFile": "035_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4052",
+              "basicOptionName": "바디 컬러 아웃사이드 도어 핸들",
+              "imgFile": "038_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4054",
+              "basicOptionName": "이중접합 차음유리(윈드실드, 1열도어)",
+              "imgFile": "062_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4039",
+              "basicOptionName": "리어글래스 열선",
+              "imgFile": "037_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4043",
+              "basicOptionName": "자외선 차단 유리(윈드실드)",
+              "imgFile": "045_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4042",
+              "basicOptionName": "전/후륜 디스크 브레이크",
+              "imgFile": "040_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4053",
+              "basicOptionName": "후석 파노라믹 윈도우",
+              "imgFile": "052_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4036",
+              "basicOptionName": "17인치 알로이 휠 & 타이어",
+              "imgFile": "043_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "50",
+          "basicOptionCategoryName": "내장",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4074",
+              "basicOptionName": "가죽 변속기 노브",
+              "imgFile": "075_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4075",
+              "basicOptionName": "루프트레이(운전석/동승석 상단 수납함)",
+              "imgFile": "076_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4067",
+              "basicOptionName": "클러스터(4.2인치 컬러 LCD)",
+              "imgFile": "068_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4070",
+              "basicOptionName": "리놀륨 플로어 카페트",
+              "imgFile": "071_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4069",
+              "basicOptionName": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+              "imgFile": "070_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4073",
+              "basicOptionName": "가죽 스티어링 휠(열선포함)",
+              "imgFile": "074_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4072",
+              "basicOptionName": "슬라이딩 선바이저 & 거울 & 조명",
+              "imgFile": "073_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "60",
+          "basicOptionCategoryName": "시트",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4084",
+              "basicOptionName": "1열 열선시트",
+              "imgFile": "085_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4096",
+              "basicOptionName": "3열 독립시트(리클라이닝/폴딩)",
+              "imgFile": "097_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4087",
+              "basicOptionName": "인조가죽 시트(블랙/베이지)",
+              "imgFile": "089_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4094",
+              "basicOptionName": "2~4열 풀 플랫 시트",
+              "imgFile": "095_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4097",
+              "basicOptionName": "4열 쿠션 팁업 시트(폴딩)",
+              "imgFile": "098_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4085",
+              "basicOptionName": "운전석 수동 높이 조절",
+              "imgFile": "086_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4095",
+              "basicOptionName": "2열 6:4 분할 시트(리클라이닝/폴딩)",
+              "imgFile": "096_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4093",
+              "basicOptionName": "2~4열 롱 슬라이딩 시트",
+              "imgFile": "094_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4092",
+              "basicOptionName": "동승석 슬라이딩 & 리클라이닝 시트",
+              "imgFile": "088_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "70",
+          "basicOptionCategoryName": "편의",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4124",
+              "basicOptionName": "워크 어웨이 락",
+              "imgFile": "116_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4127",
+              "basicOptionName": "하이패스",
+              "imgFile": "119_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4126",
+              "basicOptionName": "ECM 룸미러",
+              "imgFile": "118_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4122",
+              "basicOptionName": "마이크로 에어 필터",
+              "imgFile": "114_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4123",
+              "basicOptionName": "파워 아웃렛(1열 1개)",
+              "imgFile": "130_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4137",
+              "basicOptionName": "USB C타입 단자(4열 충전 2개)",
+              "imgFile": "131_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4115",
+              "basicOptionName": "스마트키 원격시동",
+              "imgFile": "107_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4118",
+              "basicOptionName": "전방/후방 주차 거리 경고",
+              "imgFile": "110_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4136",
+              "basicOptionName": "후석 루프 에어 벤트",
+              "imgFile": "129_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4116",
+              "basicOptionName": "전동식 파킹 브레이크(오토홀드 포함)",
+              "imgFile": "108_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4125",
+              "basicOptionName": "레인센서",
+              "imgFile": "117_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4135",
+              "basicOptionName": "USB C타입 단자(1열 충전 2개/2열 충전 2개/3열 충전 2개)",
+              "imgFile": "128_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4114",
+              "basicOptionName": "버튼시동 & 스마트키",
+              "imgFile": "106_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4119",
+              "basicOptionName": "후방 모니터",
+              "imgFile": "111_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4120",
+              "basicOptionName": "오토라이트 컨트롤",
+              "imgFile": "112_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4121",
+              "basicOptionName": "풀오토 에어컨(미세먼지 센서/공기청정모드/오토 디포그/애프터블로우)",
+              "imgFile": "013_us4hev_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "basicOptionCategoryCode": "80",
+          "basicOptionCategoryName": "멀티미디어",
+          "carOptions": [
+            {
+              "basicOptionCode": "USH4150",
+              "basicOptionName": "무선 소프트웨어 업데이트(OTA Software Update)",
+              "imgFile": "145_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4151",
+              "basicOptionName": "샤크핀 안테나",
+              "imgFile": "146_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            },
+            {
+              "basicOptionCode": "USH4153",
+              "basicOptionName": "12.3인치 디스플레이 오디오(블루링크, 폰 프로젝션, 블루투스 핸즈프리, 6스피커)",
+              "imgFile": "148_us4_s.jpg",
+              "filePath": "/contents/spec/US4-HEV-PE/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/003_us4.jpg",
+      "title": "통합 주행 모드",
+      "localPath": "현대/스타리아 하이브리드/통합 주행 모드.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 100198
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/002_us4hev.jpg",
+      "title": "6단 자동변속기",
+      "localPath": "현대/스타리아 하이브리드/6단 자동변속기.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 42574
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/006_us4.jpg",
+      "title": "후륜 멀티 링크 서스펜션",
+      "localPath": "현대/스타리아 하이브리드/후륜 멀티 링크 서스펜션.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 104856
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/001_us4hev.jpg",
+      "title": "스마트스트림 가솔린 1.6T 하이브리드",
+      "localPath": "현대/스타리아 하이브리드/스마트스트림 가솔린 1.6T 하이브리드.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 204962
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/014_us4.jpg",
+      "title": "지능형 속도 제한 보조",
+      "localPath": "현대/스타리아 하이브리드/지능형 속도 제한 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 102038
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/019_us4.jpg",
+      "title": "운전자 주의 경고",
+      "localPath": "현대/스타리아 하이브리드/운전자 주의 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 156702
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/013_us4.jpg",
+      "title": "하이빔 보조",
+      "localPath": "현대/스타리아 하이브리드/하이빔 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 44304
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/021_us4.jpg",
+      "title": "후방 교차 충돌방지 보조",
+      "localPath": "현대/스타리아 하이브리드/후방 교차 충돌방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 233970
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/009_us4.jpg",
+      "title": "차로 이탈방지 보조",
+      "localPath": "현대/스타리아 하이브리드/차로 이탈방지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 89918
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/011_us4.jpg",
+      "title": "후측방 충돌방지 경고(주행)",
+      "localPath": "현대/스타리아 하이브리드/후측방 충돌방지 경고(주행).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 119674
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/201_us4.jpg",
+      "title": "후측방 충돌방지 보조(전진출차)",
+      "localPath": "현대/스타리아 하이브리드/후측방 충돌방지 보조(전진출차).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 132040
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/012_us4.jpg",
+      "title": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+      "localPath": "현대/스타리아 하이브리드/스마트 크루즈 컨트롤(스탑앤고 기능 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 74478
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/018_us4.jpg",
+      "title": "후석 승객 알림",
+      "localPath": "현대/스타리아 하이브리드/후석 승객 알림.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 54860
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/015_us4.jpg",
+      "title": "전방 차량 출발 알림",
+      "localPath": "현대/스타리아 하이브리드/전방 차량 출발 알림.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 135266
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/008_us4.jpg",
+      "title": "전방 충돌방지 보조(차량/보행자/자전거 탑승자/교차로 대향차/정면 대향차)",
+      "localPath": "현대/스타리아 하이브리드/전방 충돌방지 보조(차량보행자자전거 탑승자교차로 대향차정면 대향차).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 110016
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/010_us4.jpg",
+      "title": "차로 유지 보조",
+      "localPath": "현대/스타리아 하이브리드/차로 유지 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 98972
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/025_us4.jpg",
+      "title": "전좌석 헤드레스트",
+      "localPath": "현대/스타리아 하이브리드/전좌석 헤드레스트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 67180
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/024_us4.jpg",
+      "title": "전좌석 3점식 시트벨트",
+      "localPath": "현대/스타리아 하이브리드/전좌석 3점식 시트벨트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 112464
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/031_us4.jpg",
+      "title": "실내 소화기",
+      "localPath": "현대/스타리아 하이브리드/실내 소화기.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 21132
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/027_us4.jpg",
+      "title": "다중 충돌방지 자동 제동 시스템",
+      "localPath": "현대/스타리아 하이브리드/다중 충돌방지 자동 제동 시스템.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 153472
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/026_us4.jpg",
+      "title": "세이프티 파워 윈도우(운전석)",
+      "localPath": "현대/스타리아 하이브리드/세이프티 파워 윈도우(운전석).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 62210
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/030_us4.jpg",
+      "title": "타이어 응급처치 키트",
+      "localPath": "현대/스타리아 하이브리드/타이어 응급처치 키트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 39590
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/029_us4.jpg",
+      "title": "개별 타이어 공기압 경보 장치",
+      "localPath": "현대/스타리아 하이브리드/개별 타이어 공기압 경보 장치.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 198758
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/004_us4hev.jpg",
+      "title": "유아용 시트 고정장치(2열 2개)",
+      "localPath": "현대/스타리아 하이브리드/유아용 시트 고정장치(2열 2개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 87480
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/028_us4.jpg",
+      "title": "횡풍안정제어",
+      "localPath": "현대/스타리아 하이브리드/횡풍안정제어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 64930
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/023_us4.jpg",
+      "title": "7에어백 시스템(1열 에어백/사이드, 운전석 무릎, 전복대응 커튼)",
+      "localPath": "현대/스타리아 하이브리드/7에어백 시스템(1열 에어백사이드, 운전석 무릎, 전복대응 커튼).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 82618
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/039_us4.jpg",
+      "title": "아웃사이드 미러(전동접이, 전동조절)",
+      "localPath": "현대/스타리아 하이브리드/아웃사이드 미러(전동접이, 전동조절).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 35802
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/036_us4.jpg",
+      "title": "LED 보조제동등",
+      "localPath": "현대/스타리아 하이브리드/LED 보조제동등.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 22686
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/035_us4.jpg",
+      "title": "리어 스포일러",
+      "localPath": "현대/스타리아 하이브리드/리어 스포일러.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 31746
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/038_us4.jpg",
+      "title": "바디 컬러 아웃사이드 도어 핸들",
+      "localPath": "현대/스타리아 하이브리드/바디 컬러 아웃사이드 도어 핸들.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 32748
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/062_us4.jpg",
+      "title": "이중접합 차음유리(윈드실드, 1열도어)",
+      "localPath": "현대/스타리아 하이브리드/이중접합 차음유리(윈드실드, 1열도어).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 59434
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/037_us4.jpg",
+      "title": "리어글래스 열선",
+      "localPath": "현대/스타리아 하이브리드/리어글래스 열선.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 50842
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/045_us4.jpg",
+      "title": "자외선 차단 유리(윈드실드)",
+      "localPath": "현대/스타리아 하이브리드/자외선 차단 유리(윈드실드).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 81962
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/040_us4.jpg",
+      "title": "전/후륜 디스크 브레이크",
+      "localPath": "현대/스타리아 하이브리드/전후륜 디스크 브레이크.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 42084
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/052_us4.jpg",
+      "title": "후석 파노라믹 윈도우",
+      "localPath": "현대/스타리아 하이브리드/후석 파노라믹 윈도우.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 45804
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/043_us4.jpg",
+      "title": "17인치 알로이 휠 & 타이어",
+      "localPath": "현대/스타리아 하이브리드/17인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 192268
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/068_us4.jpg",
+      "title": "클러스터(4.2인치 컬러 LCD)",
+      "localPath": "현대/스타리아 하이브리드/클러스터(4.2인치 컬러 LCD).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 85376
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/071_us4.jpg",
+      "title": "리놀륨 플로어 카페트",
+      "localPath": "현대/스타리아 하이브리드/리놀륨 플로어 카페트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 57016
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/070_us4.jpg",
+      "title": "수동식 틸트 & 텔레스코픽 스티어링 휠",
+      "localPath": "현대/스타리아 하이브리드/수동식 틸트 & 텔레스코픽 스티어링 휠.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 91800
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/069_us4.jpg",
+      "title": "D&N 룸미러",
+      "localPath": "현대/스타리아 하이브리드/D&N 룸미러.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 53088
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/084_us4.jpg",
+      "title": "직물시트",
+      "localPath": "현대/스타리아 하이브리드/직물시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 74546
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/085_us4.jpg",
+      "title": "1열 열선시트",
+      "localPath": "현대/스타리아 하이브리드/1열 열선시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 120136
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/097_us4.jpg",
+      "title": "3열 독립시트(리클라이닝/폴딩)",
+      "localPath": "현대/스타리아 하이브리드/3열 독립시트(리클라이닝폴딩).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 115508
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/095_us4.jpg",
+      "title": "2~4열 풀 플랫 시트",
+      "localPath": "현대/스타리아 하이브리드/2~4열 풀 플랫 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 137840
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/098_us4.jpg",
+      "title": "4열 쿠션 팁업 시트(폴딩)",
+      "localPath": "현대/스타리아 하이브리드/4열 쿠션 팁업 시트(폴딩).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 79216
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/086_us4.jpg",
+      "title": "운전석 수동 높이 조절",
+      "localPath": "현대/스타리아 하이브리드/운전석 수동 높이 조절.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 102028
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/096_us4.jpg",
+      "title": "2열 6:4 분할 시트(리클라이닝/폴딩)",
+      "localPath": "현대/스타리아 하이브리드/2열 64 분할 시트(리클라이닝폴딩).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 148462
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/094_us4.jpg",
+      "title": "2~4열 롱 슬라이딩 시트",
+      "localPath": "현대/스타리아 하이브리드/2~4열 롱 슬라이딩 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 64820
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/088_us4.jpg",
+      "title": "동승석 슬라이딩 & 리클라이닝 시트",
+      "localPath": "현대/스타리아 하이브리드/동승석 슬라이딩 & 리클라이닝 시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 82238
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/116_us4.jpg",
+      "title": "워크 어웨이 락",
+      "localPath": "현대/스타리아 하이브리드/워크 어웨이 락.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 144928
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/112_us4.jpg",
+      "title": "오토라이트 컨트롤",
+      "localPath": "현대/스타리아 하이브리드/오토라이트 컨트롤.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 27214
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/111_us4.jpg",
+      "title": "후방 모니터",
+      "localPath": "현대/스타리아 하이브리드/후방 모니터.webp",
+      "width": 1119,
+      "height": 600,
+      "bytes": 100096
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/106_us4.jpg",
+      "title": "버튼시동 & 스마트키",
+      "localPath": "현대/스타리아 하이브리드/버튼시동 & 스마트키.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 65682
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/128_us4.jpg",
+      "title": "USB C타입 단자(1열 충전 2개/2열 충전 2개/3열 충전 2개)",
+      "localPath": "현대/스타리아 하이브리드/USB C타입 단자(1열 충전 2개2열 충전 2개3열 충전 2개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 183962
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/108_us4.jpg",
+      "title": "전동식 파킹 브레이크(오토홀드 포함)",
+      "localPath": "현대/스타리아 하이브리드/전동식 파킹 브레이크(오토홀드 포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 156248
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/129_us4.jpg",
+      "title": "후석 루프 에어 벤트",
+      "localPath": "현대/스타리아 하이브리드/후석 루프 에어 벤트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 34746
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/110_us4.jpg",
+      "title": "전방/후방 주차 거리 경고",
+      "localPath": "현대/스타리아 하이브리드/전방후방 주차 거리 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 145848
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/107_us4.jpg",
+      "title": "스마트키 원격시동",
+      "localPath": "현대/스타리아 하이브리드/스마트키 원격시동.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 94790
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/130_us4.jpg",
+      "title": "파워 아웃렛(1열 1개)",
+      "localPath": "현대/스타리아 하이브리드/파워 아웃렛(1열 1개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 198226
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/114_us4.jpg",
+      "title": "마이크로 에어 필터",
+      "localPath": "현대/스타리아 하이브리드/마이크로 에어 필터.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 51058
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/013_us4hev.jpg",
+      "title": "풀오토 에어컨(미세먼지 센서/공기청정모드/오토 디포그/애프터블로우)",
+      "localPath": "현대/스타리아 하이브리드/풀오토 에어컨(미세먼지 센서공기청정모드오토 디포그애프터블로우).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 102896
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/145_us4.jpg",
+      "title": "무선 소프트웨어 업데이트(OTA Software Update)",
+      "localPath": "현대/스타리아 하이브리드/무선 소프트웨어 업데이트(OTA Software Update).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 75570
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/146_us4.jpg",
+      "title": "샤크핀 안테나",
+      "localPath": "현대/스타리아 하이브리드/샤크핀 안테나.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 28344
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/148_us4.jpg",
+      "title": "12.3인치 디스플레이 오디오(블루링크, 폰 프로젝션, 블루투스 핸즈프리, 6스피커)",
+      "localPath": "현대/스타리아 하이브리드/12.3인치 디스플레이 오디오(블루링크, 폰 프로젝션, 블루투스 핸즈프리, 6스피커).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 87330
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/016_us4.jpg",
+      "title": "고속도로 주행 보조",
+      "localPath": "현대/스타리아 하이브리드/고속도로 주행 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 101992
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/017_us4.jpg",
+      "title": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+      "localPath": "현대/스타리아 하이브리드/내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 99898
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/020_us4.jpg",
+      "title": "어드밴스드 후석 승객 알림",
+      "localPath": "현대/스타리아 하이브리드/어드밴스드 후석 승객 알림.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 51412
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/077_us4.jpg",
+      "title": "클러스터(12.3인치 컬러 LCD)",
+      "localPath": "현대/스타리아 하이브리드/클러스터(12.3인치 컬러 LCD).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 77238
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/119_us4.jpg",
+      "title": "하이패스",
+      "localPath": "현대/스타리아 하이브리드/하이패스.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 104488
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/147_us4.jpg",
+      "title": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+      "localPath": "현대/스타리아 하이브리드/12.3인치 내비게이션(인카페이먼트, e hi-pass).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 99048
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/053_us4.jpg",
+      "title": "유광 필라 가니쉬",
+      "localPath": "현대/스타리아 하이브리드/유광 필라 가니쉬.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 93782
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/044_us4.jpg",
+      "title": "바디 컬러 아웃사이드 미러(열선, LED 방향지시등)",
+      "localPath": "현대/스타리아 하이브리드/바디 컬러 아웃사이드 미러(열선, LED 방향지시등).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 36218
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/075_us4.jpg",
+      "title": "가죽 변속기 노브",
+      "localPath": "현대/스타리아 하이브리드/가죽 변속기 노브.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 73900
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/076_us4.jpg",
+      "title": "루프트레이(운전석/동승석 상단 수납함)",
+      "localPath": "현대/스타리아 하이브리드/루프트레이(운전석동승석 상단 수납함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 115168
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/074_us4.jpg",
+      "title": "가죽 스티어링 휠(열선포함)",
+      "localPath": "현대/스타리아 하이브리드/가죽 스티어링 휠(열선포함).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 98226
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/073_us4.jpg",
+      "title": "슬라이딩 선바이저 & 거울 & 조명",
+      "localPath": "현대/스타리아 하이브리드/슬라이딩 선바이저 & 거울 & 조명.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 29536
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/089_us4.jpg",
+      "title": "인조가죽 시트(블랙/베이지)",
+      "localPath": "현대/스타리아 하이브리드/인조가죽 시트(블랙베이지).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 96428
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/118_us4.jpg",
+      "title": "ECM 룸미러",
+      "localPath": "현대/스타리아 하이브리드/ECM 룸미러.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 63286
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/131_us4.jpg",
+      "title": "USB C타입 단자(4열 충전 2개)",
+      "localPath": "현대/스타리아 하이브리드/USB C타입 단자(4열 충전 2개).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 38058
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/117_us4.jpg",
+      "title": "레인센서",
+      "localPath": "현대/스타리아 하이브리드/레인센서.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 42606
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/090_us4.jpg",
+      "title": "1열 통풍시트",
+      "localPath": "현대/스타리아 하이브리드/1열 통풍시트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 106948
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/091_us4.jpg",
+      "title": "운전석 전동시트(8way, 4way 럼버서포트)",
+      "localPath": "현대/스타리아 하이브리드/운전석 전동시트(8way, 4way 럼버서포트).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 111456
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/022_us4.jpg",
+      "title": "안전 하차 보조",
+      "localPath": "현대/스타리아 하이브리드/안전 하차 보조.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 222622
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/122_us4.jpg",
+      "title": "스마트 파워 테일게이트",
+      "localPath": "현대/스타리아 하이브리드/스마트 파워 테일게이트.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 137474
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/134_us4.jpg",
+      "title": "스마트 파워 슬라이딩 도어",
+      "localPath": "현대/스타리아 하이브리드/스마트 파워 슬라이딩 도어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 164400
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/046_us4.jpg",
+      "title": "LED 헤드램프(MFR 타입)",
+      "localPath": "현대/스타리아 하이브리드/LED 헤드램프(MFR 타입).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 79986
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/047_us4.jpg",
+      "title": "LED 주간주행등",
+      "localPath": "현대/스타리아 하이브리드/LED 주간주행등.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 63426
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/048_us4.jpg",
+      "title": "LED 포지셔닝 램프",
+      "localPath": "현대/스타리아 하이브리드/LED 포지셔닝 램프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 63426
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/049_us4.jpg",
+      "title": "2열 플러쉬 글래스",
+      "localPath": "현대/스타리아 하이브리드/2열 플러쉬 글래스.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 71886
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/055_us4.jpg",
+      "title": "18인치 알로이 휠 & 타이어",
+      "localPath": "현대/스타리아 하이브리드/18인치 알로이 휠 & 타이어.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 188444
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/123_us4.jpg",
+      "title": "서라운드 뷰 모니터",
+      "localPath": "현대/스타리아 하이브리드/서라운드 뷰 모니터.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 107638
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/124_us4.jpg",
+      "title": "측방 주차 거리 경고",
+      "localPath": "현대/스타리아 하이브리드/측방 주차 거리 경고.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 80738
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/125_us4.jpg",
+      "title": "후측방 모니터",
+      "localPath": "현대/스타리아 하이브리드/후측방 모니터.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 90070
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/126_us4.jpg",
+      "title": "스마트폰 무선충전",
+      "localPath": "현대/스타리아 하이브리드/스마트폰 무선충전.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 75410
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/132_us4.jpg",
+      "title": "후석 뷰",
+      "localPath": "현대/스타리아 하이브리드/후석 뷰.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 96360
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/133_us4.jpg",
+      "title": "후석 음성 인식",
+      "localPath": "현대/스타리아 하이브리드/후석 음성 인식.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 25724
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/054_us4.jpg",
+      "title": "듀얼 와이드 선루프",
+      "localPath": "현대/스타리아 하이브리드/듀얼 와이드 선루프.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 58130
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/079_us4.jpg",
+      "title": "LED 실내등(맵램프, 룸램프)",
+      "localPath": "현대/스타리아 하이브리드/LED 실내등(맵램프, 룸램프).webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 115930
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/120_us4.jpg",
+      "title": "빌트인 캠 2 Plus",
+      "localPath": "현대/스타리아 하이브리드/빌트인 캠 2 Plus.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 27720
+    },
+    {
+      "url": "https://www.hyundai.com/contents/spec/US4-HEV-PE/161_us4.jpg",
+      "title": "증강현실 내비게이션",
+      "localPath": "현대/스타리아 하이브리드/증강현실 내비게이션.webp",
+      "width": 1120,
+      "height": 600,
+      "bytes": 9548
+    }
+  ],
+  "imageAliases": [
+    {
+      "title": "멀티미디어 내비플러스Ⅰ(투어러)",
+      "localPath": "현대/스타리아 하이브리드/멀티미디어 내비플러스Ⅰ(투어러).webp",
+      "originalPath": "현대/스타리아 하이브리드/고속도로 주행 보조.webp"
+    },
+    {
+      "title": "멀티미디어 내비플러스Ⅱ(투어러)",
+      "localPath": "현대/스타리아 하이브리드/멀티미디어 내비플러스Ⅱ(투어러).webp",
+      "originalPath": "현대/스타리아 하이브리드/고속도로 주행 보조.webp"
+    },
+    {
+      "title": "컴포트(투어러)",
+      "localPath": "현대/스타리아 하이브리드/컴포트(투어러).webp",
+      "originalPath": "현대/스타리아 하이브리드/1열 통풍시트.webp"
+    },
+    {
+      "title": "테크Ⅱ(투어러)",
+      "localPath": "현대/스타리아 하이브리드/테크Ⅱ(투어러).webp",
+      "originalPath": "현대/스타리아 하이브리드/안전 하차 보조.webp"
+    },
+    {
+      "title": "익스테리어 디자인(11인승)",
+      "localPath": "현대/스타리아 하이브리드/익스테리어 디자인(11인승).webp",
+      "originalPath": "현대/스타리아 하이브리드/LED 헤드램프(MFR 타입).webp"
+    },
+    {
+      "title": "테크Ⅰ(투어러)",
+      "localPath": "현대/스타리아 하이브리드/테크Ⅰ(투어러).webp",
+      "originalPath": "현대/스타리아 하이브리드/서라운드 뷰 모니터.webp"
+    },
+    {
+      "title": "듀얼 와이드 선루프 + LED 실내등(맵램프, 룸램프)",
+      "localPath": "현대/스타리아 하이브리드/듀얼 와이드 선루프 + LED 실내등(맵램프, 룸램프).webp",
+      "originalPath": "현대/스타리아 하이브리드/듀얼 와이드 선루프.webp"
+    },
+    {
+      "title": "빌트인 캠 2 Plus, 증강현실 내비게이션",
+      "localPath": "현대/스타리아 하이브리드/빌트인 캠 2 Plus, 증강현실 내비게이션.webp",
+      "originalPath": "현대/스타리아 하이브리드/빌트인 캠 2 Plus.webp"
+    }
+  ],
+  "detailSources": [
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4003",
+      "images": [
+        "/contents/spec/US4-HEV-PE/003_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4002",
+      "images": [
+        "/contents/spec/US4-HEV-PE/002_us4hev.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4007",
+      "images": [
+        "/contents/spec/US4-HEV-PE/006_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4001",
+      "images": [
+        "/contents/spec/US4-HEV-PE/001_us4hev.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4016",
+      "images": [
+        "/contents/spec/US4-HEV-PE/014_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4017",
+      "images": [
+        "/contents/spec/US4-HEV-PE/019_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4015",
+      "images": [
+        "/contents/spec/US4-HEV-PE/013_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4013",
+      "images": [
+        "/contents/spec/US4-HEV-PE/021_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4010",
+      "images": [
+        "/contents/spec/US4-HEV-PE/009_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4012",
+      "images": [
+        "/contents/spec/US4-HEV-PE/011_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4165",
+      "images": [
+        "/contents/spec/US4-HEV-PE/201_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4014",
+      "images": [
+        "/contents/spec/US4-HEV-PE/012_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4021",
+      "images": [
+        "/contents/spec/US4-HEV-PE/018_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4018",
+      "images": [
+        "/contents/spec/US4-HEV-PE/015_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4009",
+      "images": [
+        "/contents/spec/US4-HEV-PE/008_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4011",
+      "images": [
+        "/contents/spec/US4-HEV-PE/010_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4026",
+      "images": [
+        "/contents/spec/US4-HEV-PE/025_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4025",
+      "images": [
+        "/contents/spec/US4-HEV-PE/024_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4032",
+      "images": [
+        "/contents/spec/US4-HEV-PE/031_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4027",
+      "images": [
+        "/contents/spec/US4-HEV-PE/027_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4030",
+      "images": [
+        "/contents/spec/US4-HEV-PE/026_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4031",
+      "images": [
+        "/contents/spec/US4-HEV-PE/030_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4029",
+      "images": [
+        "/contents/spec/US4-HEV-PE/029_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4033",
+      "images": [
+        "/contents/spec/US4-HEV-PE/004_us4hev.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4028",
+      "images": [
+        "/contents/spec/US4-HEV-PE/028_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4024",
+      "images": [
+        "/contents/spec/US4-HEV-PE/023_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4041",
+      "images": [
+        "/contents/spec/US4-HEV-PE/039_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4038",
+      "images": [
+        "/contents/spec/US4-HEV-PE/036_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4037",
+      "images": [
+        "/contents/spec/US4-HEV-PE/035_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4052",
+      "images": [
+        "/contents/spec/US4-HEV-PE/038_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4054",
+      "images": [
+        "/contents/spec/US4-HEV-PE/062_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4039",
+      "images": [
+        "/contents/spec/US4-HEV-PE/037_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4043",
+      "images": [
+        "/contents/spec/US4-HEV-PE/045_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4042",
+      "images": [
+        "/contents/spec/US4-HEV-PE/040_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4053",
+      "images": [
+        "/contents/spec/US4-HEV-PE/052_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4036",
+      "images": [
+        "/contents/spec/US4-HEV-PE/043_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4067",
+      "images": [
+        "/contents/spec/US4-HEV-PE/068_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4070",
+      "images": [
+        "/contents/spec/US4-HEV-PE/071_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4069",
+      "images": [
+        "/contents/spec/US4-HEV-PE/070_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4068",
+      "images": [
+        "/contents/spec/US4-HEV-PE/069_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4083",
+      "images": [
+        "/contents/spec/US4-HEV-PE/084_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4084",
+      "images": [
+        "/contents/spec/US4-HEV-PE/085_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4096",
+      "images": [
+        "/contents/spec/US4-HEV-PE/097_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4094",
+      "images": [
+        "/contents/spec/US4-HEV-PE/095_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4097",
+      "images": [
+        "/contents/spec/US4-HEV-PE/098_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4085",
+      "images": [
+        "/contents/spec/US4-HEV-PE/086_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4095",
+      "images": [
+        "/contents/spec/US4-HEV-PE/096_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4093",
+      "images": [
+        "/contents/spec/US4-HEV-PE/094_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4092",
+      "images": [
+        "/contents/spec/US4-HEV-PE/088_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4124",
+      "images": [
+        "/contents/spec/US4-HEV-PE/116_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4120",
+      "images": [
+        "/contents/spec/US4-HEV-PE/112_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4119",
+      "images": [
+        "/contents/spec/US4-HEV-PE/111_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4114",
+      "images": [
+        "/contents/spec/US4-HEV-PE/106_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4135",
+      "images": [
+        "/contents/spec/US4-HEV-PE/128_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4116",
+      "images": [
+        "/contents/spec/US4-HEV-PE/108_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4136",
+      "images": [
+        "/contents/spec/US4-HEV-PE/129_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4118",
+      "images": [
+        "/contents/spec/US4-HEV-PE/110_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4115",
+      "images": [
+        "/contents/spec/US4-HEV-PE/107_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4123",
+      "images": [
+        "/contents/spec/US4-HEV-PE/130_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4122",
+      "images": [
+        "/contents/spec/US4-HEV-PE/114_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4121",
+      "images": [
+        "/contents/spec/US4-HEV-PE/013_us4hev.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4150",
+      "images": [
+        "/contents/spec/US4-HEV-PE/145_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4151",
+      "images": [
+        "/contents/spec/US4-HEV-PE/146_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "B",
+      "code": "USH4153",
+      "images": [
+        "/contents/spec/US4-HEV-PE/148_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZST4",
+      "type": "O",
+      "code": "MP1",
+      "images": [
+        "/contents/spec/US4-HEV-PE/016_us4.jpg",
+        "/contents/spec/US4-HEV-PE/017_us4.jpg",
+        "/contents/spec/US4-HEV-PE/020_us4.jpg",
+        "/contents/spec/US4-HEV-PE/077_us4.jpg",
+        "/contents/spec/US4-HEV-PE/119_us4.jpg",
+        "/contents/spec/US4-HEV-PE/147_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4055",
+      "images": [
+        "/contents/spec/US4-HEV-PE/053_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4044",
+      "images": [
+        "/contents/spec/US4-HEV-PE/044_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4074",
+      "images": [
+        "/contents/spec/US4-HEV-PE/075_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4075",
+      "images": [
+        "/contents/spec/US4-HEV-PE/076_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4073",
+      "images": [
+        "/contents/spec/US4-HEV-PE/074_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4072",
+      "images": [
+        "/contents/spec/US4-HEV-PE/073_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4087",
+      "images": [
+        "/contents/spec/US4-HEV-PE/089_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4127",
+      "images": [
+        "/contents/spec/US4-HEV-PE/119_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4126",
+      "images": [
+        "/contents/spec/US4-HEV-PE/118_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4137",
+      "images": [
+        "/contents/spec/US4-HEV-PE/131_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "B",
+      "code": "USH4125",
+      "images": [
+        "/contents/spec/US4-HEV-PE/117_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "MP2",
+      "images": [
+        "/contents/spec/US4-HEV-PE/016_us4.jpg",
+        "/contents/spec/US4-HEV-PE/017_us4.jpg",
+        "/contents/spec/US4-HEV-PE/020_us4.jpg",
+        "/contents/spec/US4-HEV-PE/077_us4.jpg",
+        "/contents/spec/US4-HEV-PE/147_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "CMT",
+      "images": [
+        "/contents/spec/US4-HEV-PE/090_us4.jpg",
+        "/contents/spec/US4-HEV-PE/091_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "TE2",
+      "images": [
+        "/contents/spec/US4-HEV-PE/022_us4.jpg",
+        "/contents/spec/US4-HEV-PE/122_us4.jpg",
+        "/contents/spec/US4-HEV-PE/134_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "ED1",
+      "images": [
+        "/contents/spec/US4-HEV-PE/046_us4.jpg",
+        "/contents/spec/US4-HEV-PE/047_us4.jpg",
+        "/contents/spec/US4-HEV-PE/048_us4.jpg",
+        "/contents/spec/US4-HEV-PE/049_us4.jpg",
+        "/contents/spec/US4-HEV-PE/055_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "TE1",
+      "images": [
+        "/contents/spec/US4-HEV-PE/123_us4.jpg",
+        "/contents/spec/US4-HEV-PE/124_us4.jpg",
+        "/contents/spec/US4-HEV-PE/125_us4.jpg",
+        "/contents/spec/US4-HEV-PE/126_us4.jpg",
+        "/contents/spec/US4-HEV-PE/132_us4.jpg",
+        "/contents/spec/US4-HEV-PE/133_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "DWL",
+      "images": [
+        "/contents/spec/US4-HEV-PE/054_us4.jpg",
+        "/contents/spec/US4-HEV-PE/079_us4.jpg"
+      ]
+    },
+    {
+      "model": "USJTBZMT4",
+      "type": "O",
+      "code": "B2P",
+      "images": [
+        "/contents/spec/US4-HEV-PE/120_us4.jpg",
+        "/contents/spec/US4-HEV-PE/161_us4.jpg"
+      ]
+    }
+  ]
+}

@@ -169,7 +169,7 @@ const vehicleCatalog = [
               "프리미엄",
               "익스클루시브",
               "캘리그래피",
-              "캘리그래피 블랙 잉크"
+              // "캘리그래피 블랙 잉크"
             ]
           }
         ],
@@ -255,7 +255,7 @@ const vehicleCatalog = [
               "프리미엄",
               "익스클루시브",
               "캘리그래피",
-              "캘리그래피 블랙 잉크"
+              // "캘리그래피 블랙 잉크"
             ]
           }
         ],
@@ -517,9 +517,9 @@ const vehicleCatalog = [
               "익스클루시브",
               "프레스티지",
               "H-Pick",
-              "블랙 익스테리어",
+              // "블랙 익스테리어",
               "캘리그래피",
-              "블랙 잉크"
+              // "블랙 잉크"
             ]
           },
           {
@@ -528,9 +528,9 @@ const vehicleCatalog = [
               "익스클루시브",
               "프레스티지",
               "H-Pick",
-              "블랙 익스테리어",
+              // "블랙 익스테리어",
               "캘리그래피",
-              "블랙 잉크"
+              // "블랙 잉크"
             ]
           }
         ],
@@ -581,9 +581,9 @@ const vehicleCatalog = [
               "익스클루시브",
               "프레스티지",
               "H-Pick",
-              "블랙 익스테리어",
+              // "블랙 익스테리어",
               "캘리그래피",
-              "블랙 잉크"
+              // "블랙 잉크"
             ]
           },
           {
@@ -592,9 +592,9 @@ const vehicleCatalog = [
               "익스클루시브",
               "프레스티지",
               "H-Pick",
-              "블랙 익스테리어",
+              // "블랙 익스테리어",
               "캘리그래피",
-              "블랙 잉크"
+              // "블랙 잉크"
             ]
           }
         ],
@@ -646,7 +646,7 @@ const vehicleCatalog = [
               "에스",
               "익스클루시브",
               "인스퍼레이션",
-              "N Line"
+              // "N Line"
             ]
           }
         ],
@@ -713,7 +713,7 @@ const vehicleCatalog = [
         "name": "쏘나타 하이브리드",
         "detailModels": [
           {
-            "name": "1.6 HEV",
+            "name": "2.0 HEV",
             "trims": [
               "프리미엄",
               "에스",
@@ -785,61 +785,77 @@ const vehicleCatalog = [
         "name": "아반떼",
         "detailModels": [
           {
-            "name": "1.6 가솔린",
+            "name": "2.0 가솔린",
             "trims": [
-              "스마트",
               "모던",
+              "프리미엄",
               "인스퍼레이션"
-            ]
-          },{
-            "name": "1.6 가솔린 N라인",
-            "trims": [
-              "N라인"
             ]
           }
         ],
         "paints": [
           {
-            "id": "paint-420",
-            "name": "메타 블루 펄",
-            "hex": "#9DA0C3",
-            "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-메타 블루 펄.webp"
-          },
-          {
-            "id": "paint-421",
-            "name": "미라지 그린",
-            "hex": "#646E68",
-            "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-미라지 그린.webp"
-          },
-          {
-            "id": "paint-422",
-            "name": "아마존 그레이 메탈릭",
-            "hex": "#7e858d",
-            "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-아마존 그레이 메탈릭.webp"
-          },
-          {
             "id": "paint-423",
             "name": "아틀라스 화이트",
-            "hex": "#f3f2ed",
+            "hex": "#e5e4e3",
             "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-아틀라스 화이트.webp"
+            "image": "images/vehicles/현대/아반떼-아틀라스 화이트.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-qgp",
+            "name": "퀀텀 실버 펄",
+            "hex": "#949697",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼-퀀텀 실버 펄.webp?v=20261116-avante-colors-01"
           },
           {
             "id": "paint-424",
             "name": "어비스 블랙 펄",
-            "hex": "#17191c",
+            "hex": "#202323",
             "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-어비스 블랙 펄.webp"
+            "image": "images/vehicles/현대/아반떼-어비스 블랙 펄.webp?v=20261116-avante-colors-01"
           },
           {
             "id": "paint-425",
-            "name": "에코트로닉 그레이 펄",
-            "hex": "#7e858d",
+            "name": "에코트로닉 그레이펄",
+            "hex": "#57595b",
             "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-에코트로닉 그레이 펄.webp"
+            "image": "images/vehicles/현대/아반떼-에코트로닉 그레이펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-v2r",
+            "name": "볼케닉 레드 펄",
+            "hex": "#b12614",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼-볼케닉 레드 펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-g2h",
+            "name": "그라펜 그린 펄",
+            "hex": "#66716d",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼-그라펜 그린 펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-vc2",
+            "name": "고요 카퍼 펄",
+            "hex": "#b0a297",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼-고요 카퍼 펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-kkp",
+            "name": "코디악 블루 매트",
+            "hex": "#555db2",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼-코디악 블루 매트.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-raf",
+            "name": "랩터 그레이 매트",
+            "hex": "#615c55",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼-랩터 그레이 매트.webp?v=20261116-avante-colors-01"
           }
         ]
       },
@@ -849,60 +865,75 @@ const vehicleCatalog = [
           {
             "name": "1.6 HEV",
             "trims": [
-              "스마트",
-              "모던 라이트",
               "모던",
+              "프리미엄",
               "인스퍼레이션"
-            ]
-          },{
-            "name": "1.6 HEV N라인",
-            "trims": [
-              "N라인"
             ]
           }
         ],
         "paints": [
           {
-            "id": "paint-544",
-            "name": "메타 블루 펄",
-            "hex": "#9DA0C3",
-            "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-메타 블루 펄.webp"
-          },
-          {
-            "id": "paint-545",
-            "name": "미라지 그린",
-            "hex": "#646E68",
-            "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-미라지 그린.webp"
-          },
-          {
-            "id": "paint-546",
-            "name": "아마존 그레이 메탈릭",
-            "hex": "#7e858d",
-            "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-아마존 그레이 메탈릭.webp"
-          },
-          {
             "id": "paint-547",
             "name": "아틀라스 화이트",
-            "hex": "#f3f2ed",
+            "hex": "#e5e4e3",
             "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-아틀라스 화이트.webp"
+            "image": "images/vehicles/현대/아반떼 하이브리드-아틀라스 화이트.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-hybrid-qgp",
+            "name": "퀀텀 실버 펄",
+            "hex": "#949697",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼 하이브리드-퀀텀 실버 펄.webp?v=20261116-avante-colors-01"
           },
           {
             "id": "paint-548",
             "name": "어비스 블랙 펄",
-            "hex": "#17191c",
+            "hex": "#202323",
             "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-어비스 블랙 펄.webp"
+            "image": "images/vehicles/현대/아반떼 하이브리드-어비스 블랙 펄.webp?v=20261116-avante-colors-01"
           },
           {
             "id": "paint-549",
-            "name": "에코트로닉 그레이 펄",
-            "hex": "#7e858d",
+            "name": "에코트로닉 그레이펄",
+            "hex": "#57595b",
             "border": "#cfd5dc",
-            "image": "images/vehicles/현대/아반떼-에코트로닉 그레이 펄.webp"
+            "image": "images/vehicles/현대/아반떼 하이브리드-에코트로닉 그레이펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-hybrid-v2r",
+            "name": "볼케닉 레드 펄",
+            "hex": "#b12614",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼 하이브리드-볼케닉 레드 펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-hybrid-g2h",
+            "name": "그라펜 그린 펄",
+            "hex": "#66716d",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼 하이브리드-그라펜 그린 펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-hybrid-vc2",
+            "name": "고요 카퍼 펄",
+            "hex": "#b0a297",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼 하이브리드-고요 카퍼 펄.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-hybrid-kkp",
+            "name": "코디악 블루 매트",
+            "hex": "#555db2",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼 하이브리드-코디악 블루 매트.webp?v=20261116-avante-colors-01"
+          },
+          {
+            "id": "paint-avante-hybrid-raf",
+            "name": "랩터 그레이 매트",
+            "hex": "#615c55",
+            "border": "#cfd5dc",
+            "image": "images/vehicles/현대/아반떼 하이브리드-랩터 그레이 매트.webp?v=20261116-avante-colors-01"
           }
         ]
       },
@@ -936,10 +967,7 @@ const vehicleCatalog = [
           {
            "name": "Long Range N라인",
             "trims": [
-              "E-Lite",
-              "Modern",
-              "Premium",
-              "Inspiration"
+              "A/T"
             ]
           },
           {
@@ -1251,9 +1279,14 @@ const vehicleCatalog = [
         "name": "캐스퍼 일렉트릭",
         "detailModels": [
           {
+            "name": "EV 42.0kWh",
+            "trims": [
+              "프리미엄"
+            ]
+          },
+          {
             "name": "EV 49.0kWh",
             "trims": [
-              "프리미엄",
               "인스퍼레이션",
               "크로스",
               "라운지"
@@ -1532,33 +1565,17 @@ const vehicleCatalog = [
           {
             "name": "1.6 가솔린 터보",
             "trims": [
-              "모던",
-              "프리미엄",
               "H-Pick",
-              "인스퍼레이션",
-              "블랙 익스테리어"
+              "익스클루시브",
+              "인스퍼레이션"
             ]
           },
           {
             "name": "1.6 가솔린 터보 AWD",
             "trims": [
-              "모던",
-              "프리미엄",
               "H-Pick",
-              "인스퍼레이션",
-              "블랙 익스테리어"
-            ]
-          },
-          {
-            "name": "1.6 가솔린 터보 N라인",
-            "trims": [
-              "N Line"
-            ]
-          },
-          {
-            "name": "1.6 가솔린 터보 AWD N라인",
-            "trims": [
-              "N Line"
+              "익스클루시브",
+              "인스퍼레이션"
             ]
           }
         ],
@@ -1606,33 +1623,17 @@ const vehicleCatalog = [
           {
             "name": "1.6 HEV",
             "trims": [
-              "모던",
-              "프리미엄",
               "H-Pick",
-              "인스퍼레이션",
-              "블랙 익스테리어"
+              "익스클루시브",
+              "인스퍼레이션"
             ]
           },
           {
             "name": "1.6 HEV AWD",
             "trims": [
-              "모던",
-              "프리미엄",
               "H-Pick",
-              "인스퍼레이션",
-              "블랙 익스테리어"
-            ]
-          },
-          {
-            "name": "1.6 HEV N라인",
-            "trims": [
-              "N Line"
-            ]
-          },
-          {
-            "name": "1.6 HEV AWD N라인",
-            "trims": [
-              "N Line"
+              "익스클루시브",
+              "인스퍼레이션"
             ]
           }
         ],
@@ -1681,16 +1682,18 @@ const vehicleCatalog = [
             "name": "2.5 가솔린 터보 9인승",
             "trims": [
               "익스클루시브",
-              "프레스티지",
-              "캘리그래피"
+              "H-Pick",
+              "캘리그래피",
+              "하이루프"
             ]
           },
           {
             "name": "2.5 가솔린 터보 9인승 AWD",
             "trims": [
               "익스클루시브",
-              "프레스티지",
-              "캘리그래피"
+              "H-Pick",
+              "캘리그래피",
+              "하이루프"
             ]
           }
         ],
@@ -1760,16 +1763,18 @@ const vehicleCatalog = [
             "name": "2.5 HEV 9인승",
             "trims": [
               "익스클루시브",
-              "프레스티지",
-              "캘리그래피"
+              "H-Pick",
+              "캘리그래피",
+              "하이루프"
             ]
           },
           {
             "name": "2.5 HEV 9인승 AWD",
             "trims": [
               "익스클루시브",
-              "프레스티지",
-              "캘리그래피"
+              "H-Pick",
+              "캘리그래피",
+              "하이루프"
             ]
           }
         ],
@@ -11672,11 +11677,39 @@ const vehicleCatalog = [
   const consultButton = document.getElementById("consultButton");
   const nextButton = document.getElementById("nextButton");
   const form = document.getElementById("estimateForm");
+  let optionDetailPageScroll = null;
+
+  function lockOptionDetailPage() {
+    if (optionDetailPageScroll) return;
+    optionDetailPageScroll = { x: window.scrollX, y: window.scrollY };
+    const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+    const stableGutter = CSS.supports("scrollbar-gutter: stable");
+    const paddingRight = parseFloat(getComputedStyle(document.body).paddingRight) || 0;
+    document.body.style.setProperty("--option-detail-page-top", `${-optionDetailPageScroll.y}px`);
+    document.body.style.setProperty("--option-detail-page-padding", `${paddingRight + (stableGutter ? 0 : scrollbarWidth)}px`);
+    document.documentElement.classList.add("option-detail-open");
+    document.body.classList.add("option-detail-open");
+  }
+
+  function unlockOptionDetailPage() {
+    if (!optionDetailPageScroll) return;
+    const previous = optionDetailPageScroll;
+    optionDetailPageScroll = null;
+    document.documentElement.classList.remove("option-detail-open");
+    document.body.classList.remove("option-detail-open");
+    document.body.style.removeProperty("--option-detail-page-top");
+    document.body.style.removeProperty("--option-detail-page-padding");
+    window.scrollTo({ left: previous.x, top: previous.y, behavior: "instant" });
+  }
+
   document.getElementById("optionDetailClose")?.addEventListener("click", () => {
     document.getElementById("optionDetailDialog")?.close();
   });
   document.getElementById("optionDetailDialog")?.addEventListener("click", event => {
     if (event.target === event.currentTarget) event.currentTarget.close();
+  });
+  document.getElementById("optionDetailDialog")?.addEventListener("close", event => {
+    if (!event.currentTarget.open) unlockOptionDetailPage();
   });
   const reviewSection = document.getElementById("reviewSection");
   const reviewParking = document.getElementById("reviewParking");
@@ -11699,6 +11732,7 @@ const vehicleCatalog = [
 
   // 차종·트림별 옵션과 사진 경로는 js/options-config.js 하나에서 관리합니다.
   const OPTION_CONFIG = window.AUTOGENIE_OPTION_CONFIG || {};
+  const OPTION_PREVIEW_COUNT = 6;
   const TRIM_OPTION_DATA = OPTION_CONFIG.byTrim || {};
   const OPTION_CATEGORIES = ["전체", ...new Set(
     (Array.isArray(OPTION_CONFIG.categories) ? OPTION_CONFIG.categories : [])
@@ -11716,14 +11750,70 @@ const vehicleCatalog = [
 
   function getCurrentTrimOptions() {
     const options = TRIM_OPTION_DATA[getCurrentTrimOptionKey()] || [];
+    const showDetails = getCurrentOptionLayout().showDetails === true;
     return Array.isArray(options)
-      ? options.filter(item => item && item.enabled !== false).map(item => ({ ...item }))
+      ? options.filter(item => item && item.enabled !== false).map(item => ({ ...item, showDetails: item.showDetails ?? showDetails }))
       : [];
   }
 
+  function getCurrentOptionLayout() {
+    return OPTION_CONFIG.layoutsByCar?.[`${state.brandName}|${state.carName}`] || OPTION_CONFIG.layoutsByBrand?.[state.brandName] || {};
+  }
+
+  function getCurrentOptionCategories(group = "선택 옵션") {
+    const configured = getCurrentOptionLayout().categories?.[group];
+    return Array.isArray(configured) ? ["전체", ...new Set(configured)] : OPTION_CATEGORIES;
+  }
+
+  function formatOptionDetailText(value) {
+    let text = String(value ?? "");
+    const decoder = document.createElement("textarea");
+    for (let pass = 0; pass < 2; pass += 1) {
+      text = text.replace(/&(?:#\d+|#x[\da-f]+|[a-z][\da-z]*);/gi, entity => {
+        decoder.innerHTML = entity;
+        return decoder.value;
+      });
+    }
+    return text
+      .replace(/<br\s*\/?\s*>/gi, "\n")
+      .replace(/<\/(?:p|div|li|h[1-6])\s*>/gi, "\n")
+      .replace(/<\/?[a-z][^>]*>/gi, "")
+      .replace(/\r\n?/g, "\n")
+      .replace(/\u00a0/g, " ")
+      .trim();
+  }
+
+  // 직접 선택한 품목은 유지하고, 패키지 포함 품목의 선택 상태를 별도로 계산합니다.
+  function getEffectiveOptionIds(selectedIds = new Set(state.selectedOptions || []), options = getCurrentTrimOptions()) {
+    const effective = new Set(selectedIds);
+    options.filter(item => item.status === "선택 옵션" && item.requiredForTrim).forEach(item => effective.add(item.id));
+    const pending = [...effective];
+    while (pending.length) {
+      const optionId = pending.pop();
+      const item = options.find(option => option.id === optionId);
+      for (const id of [...(item?.includes || []), ...(item?.autoSelects || [])]) {
+        if (!effective.has(id) && options.some(option => option.id === id && option.status === "선택 옵션")) {
+          effective.add(id);
+          pending.push(id);
+        }
+      }
+    }
+    return effective;
+  }
+
+  function getOptionPackageOwner(item, selectedIds = getEffectiveOptionIds(), options = getCurrentTrimOptions()) {
+    return options.find(option => option.id !== item.id && selectedIds.has(option.id) && option.includes?.includes(item.id));
+  }
+
+  function getOptionRequiredOwner(item, selectedIds = getEffectiveOptionIds(), options = getCurrentTrimOptions()) {
+    return options.find(option => option.id !== item.id && selectedIds.has(option.id) && option.autoSelects?.includes(item.id));
+  }
+
   function getSelectedOptionObjects() {
-    const selected = new Set(Array.isArray(state.selectedOptions) ? state.selectedOptions : []);
-    return getCurrentTrimOptions().filter(item => item.status === "선택 옵션" && selected.has(item.id));
+    const options = getCurrentTrimOptions();
+    const selected = getEffectiveOptionIds(new Set(state.selectedOptions || []), options);
+    return options.filter(item => item.status === "선택 옵션" && selected.has(item.id))
+      .map(item => getOptionPackageOwner(item, selected, options) ? { ...item, price: "0원" } : item);
   }
 
   function getSelectedOptionSummary() {
@@ -11739,6 +11829,49 @@ const vehicleCatalog = [
     if (prices.some(price => !/^\d+\s*원?$/.test(price))) return "가격 확인 필요";
     const total = prices.reduce((sum, price) => sum + Number(price.replace(/\s*원$/, "")), 0);
     return `${total.toLocaleString("ko-KR")}원`;
+  }
+
+  function getOptionSelectionBlockReason(item, selectedIds, options = getCurrentTrimOptions()) {
+    if (item.requiredForTrim) return "이 세부모델에 필수로 적용되는 유료 품목입니다.";
+    const owner = getOptionPackageOwner(item, selectedIds, options);
+    if (owner) return `${owner.name}에 포함된 품목입니다. 패키지에서 선택을 해제해 주세요.`;
+    const requiredOwner = getOptionRequiredOwner(item, selectedIds, options);
+    if (requiredOwner) return `${requiredOwner.name} 선택에 필요한 품목입니다. 해당 패키지를 먼저 해제해 주세요.`;
+    const blockers = (Array.isArray(item.blockedBy) ? item.blockedBy : [])
+      .filter(id => selectedIds.has(id));
+    if (blockers.length) {
+      return item.blockedNote || `${blockers.map(id => options.find(option => option.id === id)?.name || id).join(", ")} 선택 시 중복 선택할 수 없습니다.`;
+    }
+    const missing = (Array.isArray(item.requires) ? item.requires : [])
+      .filter(id => !selectedIds.has(id));
+    return missing.length ? item.selectionNote || "필수 옵션을 먼저 선택해 주세요." : "";
+  }
+
+  function syncOptionAvailability() {
+    const options = getCurrentTrimOptions();
+    const selected = getEffectiveOptionIds(new Set(state.selectedOptions || []), options);
+    content.querySelectorAll("[data-option-card]").forEach(card => {
+      const item = options.find(option => option.id === card.dataset.optionCard);
+      if (!item) return;
+      const owner = getOptionPackageOwner(item, selected, options);
+      const requiredOwner = getOptionRequiredOwner(item, selected, options);
+      const reason = item.requiredForTrim || owner || requiredOwner || !selected.has(item.id) ? getOptionSelectionBlockReason(item, selected, options) : "";
+      card.classList.toggle("is-condition-disabled", Boolean(reason) && !owner && !requiredOwner);
+      card.classList.toggle("is-package-included", Boolean(owner));
+      card.setAttribute("aria-disabled", String(Boolean(reason)));
+      const price = card.querySelector(".trim-option-card__price");
+      if (price) price.textContent = owner ? "패키지 포함" : item.price;
+      const note = card.querySelector("[data-option-package-note]");
+      if (note) {
+        note.hidden = !owner;
+        note.textContent = owner ? `${owner.name}에 포함되어 자동 선택되었습니다.` : "";
+      }
+      const button = card.querySelector("[data-option-toggle]");
+      if (button) {
+        button.disabled = Boolean(reason);
+        button.title = reason;
+      }
+    });
   }
 
   function optionStatusLabel(status) {
@@ -12437,7 +12570,13 @@ const vehicleCatalog = [
 
   function renderStepThree() {
     const options = getCurrentTrimOptions();
-    const selectedIds = new Set(Array.isArray(state.selectedOptions) ? state.selectedOptions : []);
+    const layout = getCurrentOptionLayout();
+    const choiceCategories = getCurrentOptionCategories("선택 옵션");
+    const includedCategories = getCurrentOptionCategories("기본 포함");
+    const availableCategories = [...new Set([...choiceCategories, ...includedCategories])]
+      .filter(category => category === "전체" || options.some(item => item.category === category));
+    const selectedIds = getEffectiveOptionIds(new Set(state.selectedOptions || []), options);
+    let initialVisibleCount = 0;
 
     return `
       <div class="wizard-step step-three-options">
@@ -12449,12 +12588,12 @@ const vehicleCatalog = [
         </div>
 
         <div class="trim-option-tabs" role="group" aria-label="옵션 구분">
-          <button type="button" class="is-active" data-option-tab="선택 옵션" aria-pressed="true" aria-controls="trimOptionGrid">선택 옵션</button>
-          <button type="button" data-option-tab="기본 포함" aria-pressed="false" aria-controls="trimOptionGrid">기본 포함 옵션</button>
+          <button type="button" class="is-active" data-option-tab="선택 옵션" aria-pressed="true" aria-controls="trimOptionGrid">${layout.labels?.["선택 옵션"] || "선택 옵션"}</button>
+          <button type="button" data-option-tab="기본 포함" aria-pressed="false" aria-controls="trimOptionGrid">${layout.labels?.["기본 포함"] || "기본 포함 옵션"}</button>
         </div>
         <div class="trim-option-category-nav" data-option-category-nav hidden>
-          <div id="trimOptionCategories" class="trim-option-categories" data-option-categories role="group" aria-label="기본 포함 옵션 카테고리">
-            ${OPTION_CATEGORIES.map(category => `<button type="button" class="${category === "전체" ? "is-active" : ""}" data-option-category="${category}" aria-pressed="${category === "전체"}" aria-controls="trimOptionGrid">${category}</button>`).join("")}
+          <div id="trimOptionCategories" class="trim-option-categories" data-option-categories role="group" aria-label="옵션 카테고리">
+            ${availableCategories.map(category => `<button type="button" class="${category === "전체" ? "is-active" : ""}" data-option-category="${category}" aria-pressed="${category === "전체"}" aria-controls="trimOptionGrid">${category}</button>`).join("")}
           </div>
           <button type="button" class="trim-option-category-arrow is-prev" data-option-category-scroll="-1" aria-label="이전 카테고리 보기" aria-controls="trimOptionCategories" hidden><svg aria-hidden="true" viewBox="0 0 16 16"><path d="m10 4-4 4 4 4"/></svg></button>
           <button type="button" class="trim-option-category-arrow is-next" data-option-category-scroll="1" aria-label="다음 카테고리 보기" aria-controls="trimOptionCategories" hidden><svg aria-hidden="true" viewBox="0 0 16 16"><path d="m6 4 4 4-4 4"/></svg></button>
@@ -12463,21 +12602,41 @@ const vehicleCatalog = [
           ${options.length ? options.map(item => {
             const isSelected = selectedIds.has(item.id);
             const isIncluded = item.status === "기본 포함";
+            const isSpecification = isIncluded && Array.isArray(item.features);
+            if (isSpecification) {
+              return `
+                <details class="trim-specification" data-option-group="기본 포함" data-option-item-category="${item.category}" hidden>
+                  <summary>
+                    <strong>${item.name}</strong>
+                    <span class="trim-specification__count">${item.features.length}개 항목</span>
+                    <svg class="trim-specification__arrow" aria-hidden="true" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m4 6 4 4 4-4"/></svg>
+                  </summary>
+                  <ul>${item.features.map(feature => `<li>${feature}</li>`).join("")}</ul>
+                </details>
+              `;
+            }
             const isSelectable = item.status === "선택 옵션";
+            const owner = getOptionPackageOwner(item, selectedIds, options);
+            const requiredOwner = getOptionRequiredOwner(item, selectedIds, options);
+            const blockReason = isSelectable && (owner || requiredOwner || !isSelected) ? getOptionSelectionBlockReason(item, selectedIds, options) : "";
+            const initiallyHidden = isIncluded || ++initialVisibleCount > OPTION_PREVIEW_COUNT;
             const badge = !isIncluded && item.highlight ? "Best" : "";
             return `
-              <article class="trim-option-card ${optionStatusClass(item.status)} ${isSelected ? "is-selected" : ""}" data-option-group="${isIncluded ? "기본 포함" : "선택 옵션"}" data-option-item-category="${OPTION_CATEGORIES.includes(item.category) ? item.category : ""}" ${isIncluded ? "hidden" : ""} ${isSelectable ? `data-option-card="${item.id}"` : ""}>
-                <div class="trim-option-card__thumb">
+              <article class="trim-option-card ${optionStatusClass(item.status)} ${item.showDetails ? "has-details" : ""} ${item.textOnly ? "is-text-only" : ""} ${isSelected ? "is-selected" : ""} ${owner ? "is-package-included" : blockReason && !requiredOwner ? "is-condition-disabled" : ""}" data-option-group="${isIncluded ? "기본 포함" : "선택 옵션"}" data-option-item-category="${availableCategories.includes(item.category) ? item.category : ""}" ${initiallyHidden ? "hidden" : ""} ${isSelectable ? `data-option-card="${item.id}" aria-disabled="${Boolean(blockReason)}"` : ""}>
+                ${item.textOnly ? "" : `<div class="trim-option-card__thumb">
                   <img src="${getOptionThumbnail(item)}" alt="" loading="lazy" decoding="async">
                   ${badge ? `<span class="trim-option-card__badge">${badge}</span>` : ""}
-                </div>
+                </div>`}
                 <div class="trim-option-card__body">
                   <div class="trim-option-card__title-row">
                     <strong title="${item.name}">${item.name}</strong>
+                    ${item.showDetails ? `<button type="button" class="trim-option-card__details" data-option-info-toggle="${item.id}" aria-label="${item.name} 구성 및 상세 정보" aria-haspopup="dialog"><svg viewBox="0 0 18 18" fill="none" aria-hidden="true" focusable="false"><circle cx="9" cy="9" r="8" stroke="#8b95a1" stroke-width="1"/><path d="M9 5v5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/><circle cx="9" cy="12.5" r="0.7" fill="currentColor" stroke="none"/></svg></button>` : ""}
                   </div>
+                  ${item.selectionNote ? `<p class="trim-option-card__condition">${item.selectionNote}</p>` : ""}
+                  ${isSelectable && !item.showDetails ? `<p class="trim-option-card__condition" data-option-package-note ${owner ? "" : "hidden"}>${owner ? `${owner.name}에 포함되어 자동 선택되었습니다.` : ""}</p>` : ""}
                   <div class="trim-option-card__footer">
-                    <span class="trim-option-card__price">${isIncluded ? "기본 포함" : item.price}</span>
-                    ${isSelectable ? `<button type="button" class="trim-option-card__add ${isSelected ? "is-active" : ""}" data-option-toggle="${item.id}" aria-label="${item.name} ${isSelected ? "선택 취소" : "추가"}" aria-pressed="${isSelected}">${renderTrimOptionActionIcon(isSelected)}</button>` : `<span class="trim-option-card__add is-disabled" aria-label="${optionStatusLabel(item.status)}">${renderTrimOptionActionIcon(isIncluded)}</span>`}
+                    <span class="trim-option-card__price">${isIncluded ? "기본 포함" : owner ? "패키지 포함" : item.price}</span>
+                    ${isSelectable ? `<button type="button" class="trim-option-card__add ${isSelected ? "is-active" : ""}" data-option-toggle="${item.id}" aria-label="${item.name} ${isSelected ? "선택 취소" : "추가"}" aria-pressed="${isSelected}" ${blockReason ? "disabled" : ""}>${renderTrimOptionActionIcon(isSelected)}</button>` : `<span class="trim-option-card__add is-disabled" aria-label="${optionStatusLabel(item.status)}">${renderTrimOptionActionIcon(isIncluded)}</span>`}
                   </div>
                 </div>
               </article>
@@ -12490,6 +12649,7 @@ const vehicleCatalog = [
           `}
           ${options.length ? `<div class="trim-option-empty" data-option-tab-empty ${options.some(item => item.status !== "기본 포함") ? "hidden" : ""}><strong data-option-tab-empty-message>현재 트림에서 추가로 선택할 수 있는 옵션이 없습니다.</strong></div>` : ""}
         </section>
+        <button type="button" class="trim-option-more" data-option-more aria-expanded="false" aria-controls="trimOptionGrid" hidden><span data-option-more-label>옵션 더보기</span><svg aria-hidden="true" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 6 4 4 4-4"/></svg></button>
         ${options.length ? `<div class="trim-option-selected-count" role="status" aria-live="polite" aria-atomic="true"><p><span>선택한 추가 옵션</span><strong><span data-selected-option-count>${getSelectedOptionObjects().length}</span>개</strong></p><p class="trim-option-selected-total"><span>추가 옵션 합계</span><strong data-selected-option-total>${getSelectedOptionTotalLabel()}</strong></p></div>` : ""}
         <p class="validation-message" id="validationMessage"></p>
       </div>
@@ -12571,12 +12731,15 @@ const vehicleCatalog = [
           <dl>
             <div><dt>차량</dt><dd>${state.brandName && state.carName ? `${state.brandName} ${state.carName}` : "상담 후 결정"} · ${currentPaint()?.name || "상담 후 결정"}</dd></div>
             <div><dt>세부모델</dt><dd>${state.trim || "상담 후 결정"}${state.subTrim ? ` · ${state.subTrim}` : ""}</dd></div>
-            <div class="estimate-summary__option-row"><dt>옵션선택</dt><dd class="estimate-summary__options">${selectedOptions.length ? `
-              <details class="estimate-summary__option-details">
-                <summary><span>${selectedOptions.length}개 선택</span><svg aria-hidden="true" viewBox="0 0 16 16"><path d="m4 6 4 4 4-4"/></svg></summary>
-                <ul>${selectedOptions.map(option => `<li>${option.name}</li>`).join("")}</ul>
-              </details>
-            ` : "선택 없음"}</dd></div>
+            <div class="estimate-summary__option-row">
+              <dt>선택 옵션</dt>
+              <dd class="estimate-summary__options">${selectedOptions.length ? `
+                <details class="estimate-summary__option-details">
+                  <summary><span>${selectedOptions.length}개 선택</span><svg aria-hidden="true" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 6 4 4 4-4"/></svg></summary>
+                  <ul aria-label="선택한 옵션 목록">${selectedOptions.map(option => `<li>${option.name}</li>`).join("")}</ul>
+                </details>
+              ` : "선택 없음"}</dd>
+            </div>
             <div><dt>이용조건</dt><dd>${state.usage || "상담 후 결정"} · ${state.initialCost || "상담 후 결정"}${!["초기비용 0원", "상담 후 결정"].includes(state.initialCost) && state.rate ? ` ${state.rate}` : ""}</dd></div>
             <div><dt>주행거리</dt><dd>${state.mileage || "상담 후 결정"}</dd></div>
             <div class="discount-rate"><dt>${currentMonth}월 할인율</dt><dd>최대 10%</dd></div>
@@ -13101,35 +13264,55 @@ const vehicleCatalog = [
     bindOptionCategoryScroll();
     let currentGroup = "선택 옵션";
     let currentCategory = "전체";
+    let expanded = false;
 
-    function applyFilters() {
+    function applyFilters(resetSpecifications = false) {
       const isIncluded = currentGroup === "기본 포함";
+      const layout = getCurrentOptionLayout();
+      const groupCategories = getCurrentOptionCategories(currentGroup);
+      const showChoiceCategories = Array.isArray(layout.categories?.["선택 옵션"]);
+      const filterCategories = isIncluded || showChoiceCategories;
       const summary = content.querySelector(".trim-option-selected-count");
       if (summary) summary.hidden = isIncluded;
       const categories = content.querySelector("[data-option-category-nav]");
-      if (categories) categories.hidden = !isIncluded || OPTION_CONFIG.showCategories === false || OPTION_CATEGORIES.length <= 1;
-      updateOptionCategoryArrows();
       content.querySelectorAll("[data-option-tab]").forEach(tab => {
         const active = tab.dataset.optionTab === currentGroup;
         tab.classList.toggle("is-active", active);
         tab.setAttribute("aria-pressed", String(active));
       });
       content.querySelectorAll("[data-option-category]").forEach(button => {
+        button.hidden = !groupCategories.includes(button.dataset.optionCategory) || (button.dataset.optionCategory !== "전체" && !getCurrentTrimOptions().some(item => (item.status === "기본 포함" ? "기본 포함" : "선택 옵션") === currentGroup && item.category === button.dataset.optionCategory));
         const active = button.dataset.optionCategory === currentCategory;
         button.classList.toggle("is-active", active);
         button.setAttribute("aria-pressed", String(active));
       });
-      let visibleCount = 0;
+      const visibleCategoryCount = content.querySelectorAll("[data-option-category]:not([hidden])").length;
+      const minimumCategoryCount = !isIncluded && state.brandName === "기아" ? 2 : 1;
+      if (categories) categories.hidden = !filterCategories || OPTION_CONFIG.showCategories === false || visibleCategoryCount <= minimumCategoryCount;
+      updateOptionCategoryArrows();
+      let matchingCount = 0;
       content.querySelectorAll("[data-option-group]").forEach(card => {
-        const matchesCategory = !isIncluded || currentCategory === "전체" || card.dataset.optionItemCategory === currentCategory;
-        card.hidden = card.dataset.optionGroup !== currentGroup || !matchesCategory;
-        if (!card.hidden) visibleCount += 1;
+        const matchesCategory = !filterCategories || currentCategory === "전체" || card.dataset.optionItemCategory === currentCategory;
+        const matches = card.dataset.optionGroup === currentGroup && matchesCategory;
+        if (resetSpecifications && card.classList.contains("trim-specification")) {
+          card.open = matches && currentCategory !== "전체";
+        }
+        if (matches) matchingCount += 1;
+        card.hidden = !matches || (!expanded && matchingCount > OPTION_PREVIEW_COUNT);
       });
+      const more = content.querySelector("[data-option-more]");
+      if (more) {
+        more.hidden = matchingCount <= OPTION_PREVIEW_COUNT;
+        more.setAttribute("aria-expanded", String(expanded));
+        more.querySelector("[data-option-more-label]").textContent = expanded
+          ? "접기"
+          : `옵션 더보기 (${matchingCount - OPTION_PREVIEW_COUNT}개)`;
+      }
       const grid = content.querySelector("#trimOptionGrid");
-      if (grid) grid.setAttribute("aria-label", isIncluded ? `기본 포함 옵션 · ${currentCategory}` : "선택 옵션");
+      if (grid) grid.setAttribute("aria-label", `${layout.labels?.[currentGroup] || (isIncluded ? "기본 포함 옵션" : "선택 옵션")} · ${currentCategory}`);
       const empty = content.querySelector("[data-option-tab-empty]");
       if (empty) {
-        empty.hidden = visibleCount > 0;
+        empty.hidden = matchingCount > 0;
         empty.querySelector("[data-option-tab-empty-message]").textContent = isIncluded
           ? currentCategory === "전체" ? "현재 트림에 등록된 기본 포함 옵션이 없습니다." : `${currentCategory}에 등록된 기본 포함 옵션이 없습니다.`
           : "현재 트림에서 추가로 선택할 수 있는 옵션이 없습니다.";
@@ -13139,7 +13322,8 @@ const vehicleCatalog = [
       button.addEventListener("click", () => {
         currentGroup = button.dataset.optionTab;
         currentCategory = "전체";
-        applyFilters();
+        expanded = false;
+        applyFilters(true);
         const scroller = content.querySelector("[data-option-categories]");
         if (scroller) {
           scroller.scrollLeft = 0;
@@ -13150,9 +13334,16 @@ const vehicleCatalog = [
     content.querySelectorAll("[data-option-category]").forEach(button => {
       button.addEventListener("click", () => {
         currentCategory = button.dataset.optionCategory;
-        applyFilters();
+        expanded = false;
+        applyFilters(true);
       });
     });
+    content.querySelector("[data-option-more]")?.addEventListener("click", () => {
+      expanded = !expanded;
+      applyFilters();
+      if (!expanded) content.querySelector("#trimOptionGrid")?.scrollIntoView({ block: "start", behavior: "instant" });
+    });
+    applyFilters();
   }
 
   function bindStepEvents() {
@@ -13337,18 +13528,53 @@ const vehicleCatalog = [
 
         const selected = new Set(Array.isArray(state.selectedOptions) ? state.selectedOptions : []);
         const wasSelected = selected.has(optionId);
-        if (wasSelected) selected.delete(optionId);
-        else selected.add(optionId);
-        state.selectedOptions = Array.from(selected);
-
-        card.classList.toggle("is-selected", !wasSelected);
-        const button = card.querySelector("[data-option-toggle]");
-        if (button) {
-          button.classList.toggle("is-active", !wasSelected);
-          button.setAttribute("aria-pressed", String(!wasSelected));
-          button.setAttribute("aria-label", `${option.name} ${wasSelected ? "추가" : "선택 취소"}`);
-          button.innerHTML = renderTrimOptionActionIcon(!wasSelected);
+        const effectiveBefore = getEffectiveOptionIds(selected);
+        const validation = content.querySelector("#validationMessage");
+        const blockReason = option.requiredForTrim || getOptionPackageOwner(option, effectiveBefore) || getOptionRequiredOwner(option, effectiveBefore) || !wasSelected ? getOptionSelectionBlockReason(option, effectiveBefore) : "";
+        if (blockReason) {
+          if (validation) validation.textContent = `${option.name}: ${blockReason}`;
+          return;
         }
+        if (validation) validation.textContent = "";
+        if (wasSelected) selected.delete(optionId);
+        else {
+          if (Array.isArray(option.excludes)) {
+            getCurrentTrimOptions().forEach(item => {
+              if (option.excludes.includes(item.id) || option.excludes.includes(item.name)) selected.delete(item.id);
+            });
+          }
+          selected.add(optionId);
+        }
+        // 필수 패키지를 해제하면 그 패키지가 필요한 옵션도 함께 해제합니다.
+        const availableOptions = getCurrentTrimOptions();
+        let removed;
+        do {
+          removed = false;
+          const effective = getEffectiveOptionIds(selected, availableOptions);
+          availableOptions.forEach(item => {
+            if (selected.has(item.id) && Array.isArray(item.requires) && item.requires.some(id => !effective.has(id))) {
+              selected.delete(item.id);
+              removed = true;
+            }
+          });
+        } while (removed);
+        state.selectedOptions = Array.from(selected);
+        const effectiveSelected = getEffectiveOptionIds(selected, availableOptions);
+
+        content.querySelectorAll("[data-option-card]").forEach(optionCard => {
+          const item = availableOptions.find(item => item.id === optionCard.dataset.optionCard);
+          if (!item) return;
+          const isSelected = effectiveSelected.has(item.id);
+          optionCard.classList.toggle("is-selected", isSelected);
+          const button = optionCard.querySelector("[data-option-toggle]");
+          if (button) {
+            button.classList.toggle("is-active", isSelected);
+            button.setAttribute("aria-pressed", String(isSelected));
+            button.setAttribute("aria-label", `${item.name} ${isSelected ? "선택 취소" : "추가"}`);
+            button.innerHTML = renderTrimOptionActionIcon(isSelected);
+          }
+        });
+        syncOptionAvailability();
         const count = content.querySelector("[data-selected-option-count]");
         if (count) count.textContent = String(getSelectedOptionObjects().length);
         const total = content.querySelector("[data-selected-option-total]");
@@ -13357,17 +13583,60 @@ const vehicleCatalog = [
       });
     });
 
+    syncOptionAvailability();
+
     content.querySelectorAll("[data-option-info-toggle]").forEach(button => {
       button.addEventListener("click", () => {
         const option = getCurrentTrimOptions().find(item => item.id === button.dataset.optionInfoToggle);
         if (!option) return;
         const dialog = document.getElementById("optionDetailDialog");
         if (!dialog) return;
-        document.getElementById("optionDetailTitle").textContent = option.name;
-        document.getElementById("optionDetailDescription").textContent = option.description || "옵션 상세 안내를 준비 중입니다.";
+        document.getElementById("optionDetailTitle").textContent = formatOptionDetailText(option.name);
+        const composition = (option.compositionTitles || option.detailTitles || []).map(formatOptionDetailText).filter(title => title !== formatOptionDetailText(option.name));
+        document.getElementById("optionDetailDescription").textContent = `구성 품목\n${(composition.length ? composition : [formatOptionDetailText(option.name)]).map(title => `• ${title}`).join("\n")}`;
         document.getElementById("optionDetailSource").textContent = option.source || "차량별 제조사 자료 확인 필요";
-        document.getElementById("optionDetailPrice").textContent = option.status === "기본 포함" ? "기본 포함" : option.price;
-        dialog.showModal();
+        document.getElementById("optionDetailPrice").textContent = option.status === "기본 포함" ? "기본 포함" : getOptionPackageOwner(option) ? "패키지 포함" : option.price;
+        dialog.querySelector("[data-option-detail-images]")?.remove();
+        const detailSections = option.detailSections?.length
+          ? option.detailSections
+          : (option.detailImages?.length ? option.detailImages : option.image ? [option.image] : []).map((image, index) => ({ image, title: option.detailTitles?.[index] || option.name, description: index === 0 ? option.description || "" : "" }));
+        if (!detailSections.length && option.description) detailSections.push({ title: option.name, description: option.description });
+        if (detailSections.length) {
+          const gallery = document.createElement("div");
+          gallery.className = "option-detail-dialog__images";
+          gallery.dataset.optionDetailImages = "";
+          detailSections.forEach(section => {
+            const figure = document.createElement("figure");
+            if (section.image) {
+              const img = document.createElement("img");
+              img.src = getOptionThumbnail({ ...option, image: section.image });
+              img.alt = formatOptionDetailText(section.title || option.name);
+              img.loading = "lazy";
+              figure.append(img);
+            }
+            const caption = document.createElement("figcaption");
+            const title = document.createElement("strong");
+            title.textContent = formatOptionDetailText(section.title || option.name);
+            caption.append(title);
+            if (section.description) {
+              const description = document.createElement("p");
+              description.className = "option-detail-dialog__item-description";
+              description.textContent = formatOptionDetailText(section.description);
+              caption.append(description);
+            }
+            figure.append(caption);
+            gallery.append(figure);
+          });
+          document.getElementById("optionDetailDescription").after(gallery);
+        }
+        lockOptionDetailPage();
+        try {
+          dialog.showModal();
+          dialog.querySelector(".option-detail-dialog__panel").scrollTop = 0;
+        } catch (error) {
+          unlockOptionDetailPage();
+          throw error;
+        }
       });
     });
 

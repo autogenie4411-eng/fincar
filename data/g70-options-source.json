@@ -1,0 +1,2041 @@
+{
+  "retrievedDate": "2026-11-17",
+  "model": "JU6B",
+  "modelYear": "2027",
+  "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+  "modelDataUrl": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JU6B",
+  "basicDocument": "genesis-g70-pricelist-kor-202611.pdf",
+  "basicDocumentDate": "2026-11-11",
+  "layout": {
+    "labels": {
+      "선택 옵션": "선택 옵션",
+      "기본 포함": "기본 포함 옵션"
+    },
+    "categories": {
+      "선택 옵션": [
+        "파퓰러 패키지",
+        "선택 품목",
+        "제네시스 액세서리"
+      ],
+      "기본 포함": [
+        "파워트레인 및 성능",
+        "외관",
+        "내장",
+        "안전",
+        "편의",
+        "시트",
+        "인포테인먼트"
+      ]
+    }
+  },
+  "entries": [
+    [
+      "제네시스|G70|2.5 가솔린 터보|기본모델",
+      [
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-ppp",
+          "category": "파퓰러 패키지",
+          "name": "파퓰러 패키지",
+          "price": "4,100,000원",
+          "description": "컨비니언스 패키지\n편리한 차량 이용을 위한 스마트 전동식 트렁크, 제네시스 디지털 키 2 터치, 스마트폰 무선 충전이 포함되어 있습니다.\n※ 스마트폰 무선 충전은 무선 충전 기능이 내장된 휴대폰 혹은 무선 충전 전용 커버를 장착 후 사용하시기 바랍니다.\n※ 컨비니언스 패키지(스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n하이테크 패키지\n운전자의 안전과 편의를 위한 12.3인치 3D 클러스터와 지능형 헤드램프를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n드라이빙 어시스턴스 패키지\n차량 운행·주차 시 도움을 주는 서라운드 뷰 모니터, 후측방 모니터, 빌트인 캠, 보조 배터리를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "PPP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-convenience-package-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-high-tech-package-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-driving-assistance-package-960x540.jpg"
+          ],
+          "showDetails": true,
+          "includes": [
+            "g70-ju6b-2wd-con",
+            "g70-ju6b-2wd-htp",
+            "g70-ju6b-2wd-dap"
+          ],
+          "image": "제네시스/G70/파퓰러 패키지.webp",
+          "detailImages": [
+            "제네시스/G70/컨비니언스 패키지.webp",
+            "제네시스/G70/하이테크 패키지.webp",
+            "제네시스/G70/드라이빙 어시스턴스 패키지.webp"
+          ],
+          "detailTitles": [
+            "컨비니언스 패키지",
+            "하이테크 패키지",
+            "드라이빙 어시스턴스 패키지"
+          ],
+          "detailSections": [
+            {
+              "title": "컨비니언스 패키지",
+              "image": "제네시스/G70/컨비니언스 패키지.webp",
+              "description": "편리한 차량 이용을 위한 스마트 전동식 트렁크, 제네시스 디지털 키 2 터치, 스마트폰 무선 충전이 포함되어 있습니다.\n※ 스마트폰 무선 충전은 무선 충전 기능이 내장된 휴대폰 혹은 무선 충전 전용 커버를 장착 후 사용하시기 바랍니다.\n※ 컨비니언스 패키지(스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "하이테크 패키지",
+              "image": "제네시스/G70/하이테크 패키지.webp",
+              "description": "운전자의 안전과 편의를 위한 12.3인치 3D 클러스터와 지능형 헤드램프를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "드라이빙 어시스턴스 패키지",
+              "image": "제네시스/G70/드라이빙 어시스턴스 패키지.webp",
+              "description": "차량 운행·주차 시 도움을 주는 서라운드 뷰 모니터, 후측방 모니터, 빌트인 캠, 보조 배터리를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-wsr",
+          "category": "선택 품목",
+          "name": "와이드 선루프",
+          "price": "790,000원",
+          "description": "와이드 선루프\n탁 트인 개방감을 선사하여 채광과 환기 효과를 더하며, 드라이브의 즐거움을 더합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "WSR",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-wide-sunroof-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/와이드 선루프.webp",
+          "detailImages": [
+            "제네시스/G70/와이드 선루프.webp"
+          ],
+          "detailTitles": [
+            "와이드 선루프"
+          ],
+          "detailSections": [
+            {
+              "title": "와이드 선루프",
+              "image": "제네시스/G70/와이드 선루프.webp",
+              "description": "탁 트인 개방감을 선사하여 채광과 환기 효과를 더하며, 드라이브의 즐거움을 더합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-ecs",
+          "category": "선택 품목",
+          "name": "전자제어 서스펜션",
+          "price": "990,000원",
+          "description": "전자제어 서스펜션\n선택한 드라이브 모드에 따라 쇽업소버의 감쇠력을 차별적으로 제어해 컴포트 모드에서는 안정감을, 스포츠+ 모드에서는 노면과의 탁월한 일체감을 선사합니다.\n※ 가솔린 2.5 터보 모델 선택 시 선택 가능(가솔린 3.3 터보 모델 및 스포츠 모델 선택 시 기본 적용)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "ECS",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ecs-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/전자제어 서스펜션.webp",
+          "detailImages": [
+            "제네시스/G70/전자제어 서스펜션.webp"
+          ],
+          "detailTitles": [
+            "전자제어 서스펜션"
+          ],
+          "detailSections": [
+            {
+              "title": "전자제어 서스펜션",
+              "image": "제네시스/G70/전자제어 서스펜션.webp",
+              "description": "선택한 드라이브 모드에 따라 쇽업소버의 감쇠력을 차별적으로 제어해 컴포트 모드에서는 안정감을, 스포츠+ 모드에서는 노면과의 탁월한 일체감을 선사합니다.\n※ 가솔린 2.5 터보 모델 선택 시 선택 가능(가솔린 3.3 터보 모델 및 스포츠 모델 선택 시 기본 적용)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-con",
+          "category": "선택 품목",
+          "name": "컨비니언스 패키지",
+          "price": "1,290,000원",
+          "description": "스마트 전동식 트렁크\n스마트키 차량에서 간단한 설정으로 트렁크를 자동으로 열리도록 하는 장치로, 양손에 짐을 휴대한 경우 편리하게 이용할 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n제네시스 디지털 키 2 터치\n스마트폰의 NFC 통신을 활용하여 차량 출입 및 시동, 디지털 키 공유, 개인화 맞춤 설정 등이 가능한 첨단 기술입니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n앞좌석 스마트폰 무선 충전\n패드 위에 올려놓은 것만으로 편리하게 충전이 가능하며, 스마트폰을 두고 내리지 않도록 방치 알림 기능이 적용되었습니다.\n※ 컨비니언스 패키지(앞좌석 스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "CON",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/G70_SMART_TRUNK_960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-digital-key2-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-charging-pad-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/컨비니언스 패키지 (2).webp",
+          "detailImages": [
+            "제네시스/G70/스마트 전동식 트렁크.webp",
+            "제네시스/G70/제네시스 디지털 키 2 터치.webp",
+            "제네시스/G70/앞좌석 스마트폰 무선 충전.webp"
+          ],
+          "detailTitles": [
+            "스마트 전동식 트렁크",
+            "제네시스 디지털 키 2 터치",
+            "앞좌석 스마트폰 무선 충전"
+          ],
+          "detailSections": [
+            {
+              "title": "스마트 전동식 트렁크",
+              "image": "제네시스/G70/스마트 전동식 트렁크.webp",
+              "description": "스마트키 차량에서 간단한 설정으로 트렁크를 자동으로 열리도록 하는 장치로, 양손에 짐을 휴대한 경우 편리하게 이용할 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "제네시스 디지털 키 2 터치",
+              "image": "제네시스/G70/제네시스 디지털 키 2 터치.webp",
+              "description": "스마트폰의 NFC 통신을 활용하여 차량 출입 및 시동, 디지털 키 공유, 개인화 맞춤 설정 등이 가능한 첨단 기술입니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "앞좌석 스마트폰 무선 충전",
+              "image": "제네시스/G70/앞좌석 스마트폰 무선 충전.webp",
+              "description": "패드 위에 올려놓은 것만으로 편리하게 충전이 가능하며, 스마트폰을 두고 내리지 않도록 방치 알림 기능이 적용되었습니다.\n※ 컨비니언스 패키지(앞좌석 스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-htp",
+          "category": "선택 품목",
+          "name": "하이테크 패키지",
+          "price": "1,580,000원",
+          "description": "12.3인치 3D 클러스터\n고해상도 대화면 TFT LCD의 3D 클러스터가 새롭게 추가된 스포츠+ 등의 다양한 주행모드에 따라 차별화된 디자인과 콘텐츠 뷰를 제공합니다. 클러스터에 내장된 카메라로 운전자의 눈을 인식해 별도의 안경 없이도 어떤 각도에서나 생생하고 입체감 있는 디스플레이를 즐길 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n지능형 헤드램프\n상시 상향등 상태를 유지하여 운전자의 시야를 안전하게 확보하는 동시에, 마주오는 전방 차량 영역의 빛을 부분적으로 차단해 대향차 운전자의 눈부심을 막아줍니다. 선행 차량 영역에도 동일하게 작동하며, 별도의 상향등 조작 없이도 시야 확보가 유리하기 때문에 야간 운전이 더욱 용이합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n※ 100km/h 이상 주행 시 고속주행모드 진입하여 대향차의 눈부심을 방지하기 위해 운전석 측 상향등은 전체 소등이 이루어지며, 동승석 측의 상향등만으로 지능형 헤드램프가 구현됩니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "HTP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-3d-cluster-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ifs-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/하이테크 패키지 (2).webp",
+          "detailImages": [
+            "제네시스/G70/12.3인치 3D 클러스터.webp",
+            "제네시스/G70/지능형 헤드램프.webp"
+          ],
+          "detailTitles": [
+            "12.3인치 3D 클러스터",
+            "지능형 헤드램프"
+          ],
+          "detailSections": [
+            {
+              "title": "12.3인치 3D 클러스터",
+              "image": "제네시스/G70/12.3인치 3D 클러스터.webp",
+              "description": "고해상도 대화면 TFT LCD의 3D 클러스터가 새롭게 추가된 스포츠+ 등의 다양한 주행모드에 따라 차별화된 디자인과 콘텐츠 뷰를 제공합니다. 클러스터에 내장된 카메라로 운전자의 눈을 인식해 별도의 안경 없이도 어떤 각도에서나 생생하고 입체감 있는 디스플레이를 즐길 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "지능형 헤드램프",
+              "image": "제네시스/G70/지능형 헤드램프.webp",
+              "description": "상시 상향등 상태를 유지하여 운전자의 시야를 안전하게 확보하는 동시에, 마주오는 전방 차량 영역의 빛을 부분적으로 차단해 대향차 운전자의 눈부심을 막아줍니다. 선행 차량 영역에도 동일하게 작동하며, 별도의 상향등 조작 없이도 시야 확보가 유리하기 때문에 야간 운전이 더욱 용이합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n※ 100km/h 이상 주행 시 고속주행모드 진입하여 대향차의 눈부심을 방지하기 위해 운전석 측 상향등은 전체 소등이 이루어지며, 동승석 측의 상향등만으로 지능형 헤드램프가 구현됩니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-lsp",
+          "category": "선택 품목",
+          "name": "렉시콘 사운드 패키지",
+          "price": "1,190,000원",
+          "description": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)\n15 스피커 시스템을 통해 다이나믹하고 왜곡 없는 명료한 사운드를 감상할 수 있으며, 퀀텀 로직 서라운드를 적용하여 보다 입체감 있는 사운드를 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "LSP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-lexicon-speaker-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/렉시콘 사운드 패키지.webp",
+          "detailImages": [
+            "제네시스/G70/렉시콘 15스피커 시스템 (퀀텀 로직 서라운드).webp"
+          ],
+          "detailTitles": [
+            "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)"
+          ],
+          "detailSections": [
+            {
+              "title": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)",
+              "image": "제네시스/G70/렉시콘 15스피커 시스템 (퀀텀 로직 서라운드).webp",
+              "description": "15 스피커 시스템을 통해 다이나믹하고 왜곡 없는 명료한 사운드를 감상할 수 있으며, 퀀텀 로직 서라운드를 적용하여 보다 입체감 있는 사운드를 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-dap",
+          "category": "선택 품목",
+          "name": "드라이빙 어시스턴스 패키지",
+          "price": "1,680,000원",
+          "description": "서라운드 뷰 모니터\n4대의 HD급 카메라가 전·측·후방에 장착되어 차량의 주변 상황을 실시간으로 제공합니다. 전·후방 장애물 근접 경고 표시, 후진 시 예상궤적 표시와 주행 중 후방영상 표시 기능 등을 갖추었습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n후측방 모니터\n방향지시등 조작과 연동하여 차선 변경 시 후측방의 실시간 사각지대 상황을 영상으로 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.\n※ 상기 이미지는 하이테크 패키지 선택 시 적용되는 12.3인치 클러스터가 적용된 이미지입니다. 12.3인치 클러스터 적용 시 클러스터 좌·우 원형에서 각각 후측방 영상을 제공합니다.\n※ 하이테크 패키지 미선택 시, 8인치 클러스터가 적용됩니다. 8인치 클러스터 적용 시 클러스터 우측 LCD 부위에서 좌·우 후측방 영상을 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n빌트인 캠\n차량의 트림을 제거할 필요 없이 빌트인 적용된 주행 중 영상기록장치로, AVN 화면을 통해 영상을 바로 확인할 수 있을 뿐만 아니라 스마트폰 앱 연동을 통해 영상 확인 및 SNS 공유가 가능합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n보조 배터리\n보조 배터리는 주행뿐만 아니라 주차 상황에서도 최대 12시간까지 녹화가 가능하게 합니다.\n※ 주행시간이 보조 배터리를 충전하기에 충분하지 않거나 보조 배터리의 노후화에 따라 설정한 시간만큼 주차 녹화가 작동되지 않을 수 있습니다.\n※ 보조 배터리는 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "DAP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-svm-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-bsvm-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-built-in-cam-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-auxiliary-battery-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/드라이빙 어시스턴스 패키지 (2).webp",
+          "detailImages": [
+            "제네시스/G70/서라운드 뷰 모니터.webp",
+            "제네시스/G70/후측방 모니터.webp",
+            "제네시스/G70/빌트인 캠.webp",
+            "제네시스/G70/보조 배터리.webp"
+          ],
+          "detailTitles": [
+            "서라운드 뷰 모니터",
+            "후측방 모니터",
+            "빌트인 캠",
+            "보조 배터리"
+          ],
+          "detailSections": [
+            {
+              "title": "서라운드 뷰 모니터",
+              "image": "제네시스/G70/서라운드 뷰 모니터.webp",
+              "description": "4대의 HD급 카메라가 전·측·후방에 장착되어 차량의 주변 상황을 실시간으로 제공합니다. 전·후방 장애물 근접 경고 표시, 후진 시 예상궤적 표시와 주행 중 후방영상 표시 기능 등을 갖추었습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "후측방 모니터",
+              "image": "제네시스/G70/후측방 모니터.webp",
+              "description": "방향지시등 조작과 연동하여 차선 변경 시 후측방의 실시간 사각지대 상황을 영상으로 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.\n※ 상기 이미지는 하이테크 패키지 선택 시 적용되는 12.3인치 클러스터가 적용된 이미지입니다. 12.3인치 클러스터 적용 시 클러스터 좌·우 원형에서 각각 후측방 영상을 제공합니다.\n※ 하이테크 패키지 미선택 시, 8인치 클러스터가 적용됩니다. 8인치 클러스터 적용 시 클러스터 우측 LCD 부위에서 좌·우 후측방 영상을 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "빌트인 캠",
+              "image": "제네시스/G70/빌트인 캠.webp",
+              "description": "차량의 트림을 제거할 필요 없이 빌트인 적용된 주행 중 영상기록장치로, AVN 화면을 통해 영상을 바로 확인할 수 있을 뿐만 아니라 스마트폰 앱 연동을 통해 영상 확인 및 SNS 공유가 가능합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "보조 배터리",
+              "image": "제네시스/G70/보조 배터리.webp",
+              "description": "보조 배터리는 주행뿐만 아니라 주차 상황에서도 최대 12시간까지 녹화가 가능하게 합니다.\n※ 주행시간이 보조 배터리를 충전하기에 충분하지 않거나 보조 배터리의 노후화에 따라 설정한 시간만큼 주차 녹화가 작동되지 않을 수 있습니다.\n※ 보조 배터리는 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-p15",
+          "category": "제네시스 액세서리",
+          "name": "차량 보호 필름",
+          "price": "400,000원",
+          "description": "차량 보호 필름\n카라이프 중 손상되기 쉬운 프론트 & 리어 범퍼 등 8부위에 우레탄 계열의 투명한 보호 필름을 부착하여 스톤칩으로 인한 페인트 손상 및 생활 스크래치를 예방하여 깨끗한 바디를 유지할 수 있도록 합니다. 또한 3년/6만km의 보증을 제공해드립니다.\n※ 차량 보호 필름은 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다. (보증기간 : 3년/6만km)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "p15",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-protection-film-pc-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/차량 보호 필름.webp",
+          "detailImages": [
+            "제네시스/G70/차량 보호 필름.webp"
+          ],
+          "detailTitles": [
+            "차량 보호 필름"
+          ],
+          "detailSections": [
+            {
+              "title": "차량 보호 필름",
+              "image": "제네시스/G70/차량 보호 필름.webp",
+              "description": "카라이프 중 손상되기 쉬운 프론트 & 리어 범퍼 등 8부위에 우레탄 계열의 투명한 보호 필름을 부착하여 스톤칩으로 인한 페인트 손상 및 생활 스크래치를 예방하여 깨끗한 바디를 유지할 수 있도록 합니다. 또한 3년/6만km의 보증을 제공해드립니다.\n※ 차량 보호 필름은 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다. (보증기간 : 3년/6만km)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-2wd-p16",
+          "category": "제네시스 액세서리",
+          "name": "플로팅 휠 캡",
+          "price": "90,000원",
+          "description": "플로팅 휠 캡\n주행 시 엠블럼을 수평 상태로 유지시켜 주는 휠 캡이 적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BCBBBBB",
+          "sourceOptionCode": "p16",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-floating-wheel-cap-pc-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/플로팅 휠 캡.webp",
+          "detailImages": [
+            "제네시스/G70/플로팅 휠 캡.webp"
+          ],
+          "detailTitles": [
+            "플로팅 휠 캡"
+          ],
+          "detailSections": [
+            {
+              "title": "플로팅 휠 캡",
+              "image": "제네시스/G70/플로팅 휠 캡.webp",
+              "description": "주행 시 엠블럼을 수평 상태로 유지시켜 주는 휠 캡이 적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-0",
+          "category": "파워트레인 및 성능",
+          "name": "파워트레인 및 성능",
+          "features": [
+            "가솔린 2.5 터보 엔진",
+            "8단 자동변속기",
+            "ISG 시스템",
+            "통합 주행 모드(에코/컴포트/스포츠/스포츠 +/커스텀)"
+          ],
+          "price": "기본 포함",
+          "description": "가솔린 2.5 터보 엔진\n8단 자동변속기\nISG 시스템\n통합 주행 모드(에코/컴포트/스포츠/스포츠 +/커스텀)",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-1",
+          "category": "외관",
+          "name": "외관",
+          "features": [
+            "Full LED 헤드램프",
+            "Full LED 리어 콤비램프",
+            "225/45R18 브리지스톤 타이어 & 휠",
+            "이중 접합 차음 유리(앞면, 앞 도어)",
+            "자외선 차단 유리(앞면)",
+            "브렘보 실버도장 모노블럭(4P) 브레이크",
+            "듀얼 머플러"
+          ],
+          "price": "기본 포함",
+          "description": "Full LED 헤드램프\nFull LED 리어 콤비램프\n225/45R18 브리지스톤 타이어 & 휠\n이중 접합 차음 유리(앞면, 앞 도어)\n자외선 차단 유리(앞면)\n브렘보 실버도장 모노블럭(4P) 브레이크\n듀얼 머플러",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-2",
+          "category": "내장",
+          "name": "내장",
+          "features": [
+            "8인치 TFT LCD 클러스터",
+            "전자식 변속레버(SBW)",
+            "패들 쉬프트",
+            "하이패스 시스템",
+            "프레임리스 룸미러(ECM)",
+            "터치타입 공조 패널",
+            "메탈 도어 스텝"
+          ],
+          "price": "기본 포함",
+          "description": "8인치 TFT LCD 클러스터\n전자식 변속레버(SBW)\n패들 쉬프트\n하이패스 시스템\n프레임리스 룸미러(ECM)\n터치타입 공조 패널\n메탈 도어 스텝",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-3",
+          "category": "안전",
+          "name": "안전",
+          "features": [
+            "10 에어백 시스템(앞좌석 어드밴스드, 운전석 무릎, 앞좌석 센터 사이드, 앞 & 뒤 사이드, 전복 대응 커튼)",
+            "급제동 경보기능",
+            "뒷좌석 센터 3점식 시트벨트",
+            "차로 이탈방지 보조",
+            "진동경고 스티어링 휠",
+            "하이빔 보조",
+            "운전자 주의 경고",
+            "전방 충돌방지 보조(차량, 보행자, 자전거 탑승자, 교차로 대향차, 정면 대향차)",
+            "후측방 충돌방지 보조",
+            "후방 교차 충돌방지 보조",
+            "지능형 속도 제한 보조",
+            "후진 가이드 램프",
+            "안전 하차 경고",
+            "후석 승객 알림",
+            "다중 충돌방지 자동제동 시스템",
+            "차량용 소화기"
+          ],
+          "price": "기본 포함",
+          "description": "10 에어백 시스템(앞좌석 어드밴스드, 운전석 무릎, 앞좌석 센터 사이드, 앞 & 뒤 사이드, 전복 대응 커튼)\n급제동 경보기능\n뒷좌석 센터 3점식 시트벨트\n차로 이탈방지 보조\n진동경고 스티어링 휠\n하이빔 보조\n운전자 주의 경고\n전방 충돌방지 보조(차량, 보행자, 자전거 탑승자, 교차로 대향차, 정면 대향차)\n후측방 충돌방지 보조\n후방 교차 충돌방지 보조\n지능형 속도 제한 보조\n후진 가이드 램프\n안전 하차 경고\n후석 승객 알림\n다중 충돌방지 자동제동 시스템\n차량용 소화기",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-4",
+          "category": "편의",
+          "name": "편의",
+          "features": [
+            "터치타입 아웃사이드 도어 핸들",
+            "레인 센서",
+            "열선 스티어링 휠",
+            "듀얼 풀오토 에어컨",
+            "공기 청정 시스템(미세먼지 센서, 애프터 블로우 포함)",
+            "고속도로 주행 보조",
+            "스마트 크루즈 컨트롤(Stop & Go 포함)",
+            "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+            "차로 유지 보조",
+            "조향 연동 후방 모니터",
+            "전동식 파킹 브레이크(오토홀드 포함)",
+            "앞좌석 & 뒷좌석 파워 세이프티 윈도우",
+            "전방/후방 주차 거리 경고",
+            "스마트 트렁크",
+            "헤드업 디스플레이"
+          ],
+          "price": "기본 포함",
+          "description": "터치타입 아웃사이드 도어 핸들\n레인 센서\n열선 스티어링 휠\n듀얼 풀오토 에어컨\n공기 청정 시스템(미세먼지 센서, 애프터 블로우 포함)\n고속도로 주행 보조\n스마트 크루즈 컨트롤(Stop & Go 포함)\n내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)\n차로 유지 보조\n조향 연동 후방 모니터\n전동식 파킹 브레이크(오토홀드 포함)\n앞좌석 & 뒷좌석 파워 세이프티 윈도우\n전방/후방 주차 거리 경고\n스마트 트렁크\n헤드업 디스플레이",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-5",
+          "category": "시트",
+          "name": "시트",
+          "features": [
+            "인조 가죽 시트",
+            "운전석 인텔리전트 시트(16방향, 쿠션 익스텐션, 볼스터 전동 조절 적용 포함)",
+            "운전석 자세 메모리 시스템",
+            "전동식 조절 스티어링 휠",
+            "동승석 전동시트(8방향, 높이조절 포함)",
+            "동승석 럼버서포트",
+            "동승석 워크인 디바이스",
+            "앞좌석 통풍 & 열선 시트",
+            "뒷좌석 열선 시트",
+            "뒷좌석 6:4 폴딩"
+          ],
+          "price": "기본 포함",
+          "description": "인조 가죽 시트\n운전석 인텔리전트 시트(16방향, 쿠션 익스텐션, 볼스터 전동 조절 적용 포함)\n운전석 자세 메모리 시스템\n전동식 조절 스티어링 휠\n동승석 전동시트(8방향, 높이조절 포함)\n동승석 럼버서포트\n동승석 워크인 디바이스\n앞좌석 통풍 & 열선 시트\n뒷좌석 열선 시트\n뒷좌석 6:4 폴딩",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-2wd-basic-6",
+          "category": "인포테인먼트",
+          "name": "인포테인먼트",
+          "features": [
+            "제네시스 인포테인먼트 시스템(10.25인치 디스플레이, Genesis Connected Services(5년 무료), 인카페이먼트, 발레 모드, 스트리밍 서비스(스트리밍 베이직 요금제 5년 무료 포함))",
+            "내비게이션 무선 업데이트",
+            "레퍼런스 사운드 시스템(9스피커)"
+          ],
+          "price": "기본 포함",
+          "description": "제네시스 인포테인먼트 시스템(10.25인치 디스플레이, Genesis Connected Services(5년 무료), 인카페이먼트, 발레 모드, 스트리밍 서비스(스트리밍 베이직 요금제 5년 무료 포함))\n내비게이션 무선 업데이트\n레퍼런스 사운드 시스템(9스피커)",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        }
+      ]
+    ],
+    [
+      "제네시스|G70|2.5 가솔린 터보 AWD|기본모델",
+      [
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-ppp",
+          "category": "파퓰러 패키지",
+          "name": "파퓰러 패키지",
+          "price": "4,100,000원",
+          "description": "컨비니언스 패키지\n편리한 차량 이용을 위한 스마트 전동식 트렁크, 제네시스 디지털 키 2 터치, 스마트폰 무선 충전이 포함되어 있습니다.\n※ 스마트폰 무선 충전은 무선 충전 기능이 내장된 휴대폰 혹은 무선 충전 전용 커버를 장착 후 사용하시기 바랍니다.\n※ 컨비니언스 패키지(스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n하이테크 패키지\n운전자의 안전과 편의를 위한 12.3인치 3D 클러스터와 지능형 헤드램프를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n드라이빙 어시스턴스 패키지\n차량 운행·주차 시 도움을 주는 서라운드 뷰 모니터, 후측방 모니터, 빌트인 캠, 보조 배터리를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "PPP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-convenience-package-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-high-tech-package-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-driving-assistance-package-960x540.jpg"
+          ],
+          "showDetails": true,
+          "includes": [
+            "g70-ju6b-awd-con",
+            "g70-ju6b-awd-htp",
+            "g70-ju6b-awd-dap"
+          ],
+          "image": "제네시스/G70/파퓰러 패키지.webp",
+          "detailImages": [
+            "제네시스/G70/컨비니언스 패키지.webp",
+            "제네시스/G70/하이테크 패키지.webp",
+            "제네시스/G70/드라이빙 어시스턴스 패키지.webp"
+          ],
+          "detailTitles": [
+            "컨비니언스 패키지",
+            "하이테크 패키지",
+            "드라이빙 어시스턴스 패키지"
+          ],
+          "detailSections": [
+            {
+              "title": "컨비니언스 패키지",
+              "image": "제네시스/G70/컨비니언스 패키지.webp",
+              "description": "편리한 차량 이용을 위한 스마트 전동식 트렁크, 제네시스 디지털 키 2 터치, 스마트폰 무선 충전이 포함되어 있습니다.\n※ 스마트폰 무선 충전은 무선 충전 기능이 내장된 휴대폰 혹은 무선 충전 전용 커버를 장착 후 사용하시기 바랍니다.\n※ 컨비니언스 패키지(스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "하이테크 패키지",
+              "image": "제네시스/G70/하이테크 패키지.webp",
+              "description": "운전자의 안전과 편의를 위한 12.3인치 3D 클러스터와 지능형 헤드램프를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "드라이빙 어시스턴스 패키지",
+              "image": "제네시스/G70/드라이빙 어시스턴스 패키지.webp",
+              "description": "차량 운행·주차 시 도움을 주는 서라운드 뷰 모니터, 후측방 모니터, 빌트인 캠, 보조 배터리를 포함한 옵션 패키지입니다.\n※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-wsr",
+          "category": "선택 품목",
+          "name": "와이드 선루프",
+          "price": "790,000원",
+          "description": "와이드 선루프\n탁 트인 개방감을 선사하여 채광과 환기 효과를 더하며, 드라이브의 즐거움을 더합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "WSR",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-wide-sunroof-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/와이드 선루프.webp",
+          "detailImages": [
+            "제네시스/G70/와이드 선루프.webp"
+          ],
+          "detailTitles": [
+            "와이드 선루프"
+          ],
+          "detailSections": [
+            {
+              "title": "와이드 선루프",
+              "image": "제네시스/G70/와이드 선루프.webp",
+              "description": "탁 트인 개방감을 선사하여 채광과 환기 효과를 더하며, 드라이브의 즐거움을 더합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-ecs",
+          "category": "선택 품목",
+          "name": "전자제어 서스펜션",
+          "price": "990,000원",
+          "description": "전자제어 서스펜션\n선택한 드라이브 모드에 따라 쇽업소버의 감쇠력을 차별적으로 제어해 컴포트 모드에서는 안정감을, 스포츠+ 모드에서는 노면과의 탁월한 일체감을 선사합니다.\n※ 가솔린 2.5 터보 모델 선택 시 선택 가능(가솔린 3.3 터보 모델 및 스포츠 모델 선택 시 기본 적용)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "ECS",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ecs-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/전자제어 서스펜션.webp",
+          "detailImages": [
+            "제네시스/G70/전자제어 서스펜션.webp"
+          ],
+          "detailTitles": [
+            "전자제어 서스펜션"
+          ],
+          "detailSections": [
+            {
+              "title": "전자제어 서스펜션",
+              "image": "제네시스/G70/전자제어 서스펜션.webp",
+              "description": "선택한 드라이브 모드에 따라 쇽업소버의 감쇠력을 차별적으로 제어해 컴포트 모드에서는 안정감을, 스포츠+ 모드에서는 노면과의 탁월한 일체감을 선사합니다.\n※ 가솔린 2.5 터보 모델 선택 시 선택 가능(가솔린 3.3 터보 모델 및 스포츠 모델 선택 시 기본 적용)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-con",
+          "category": "선택 품목",
+          "name": "컨비니언스 패키지",
+          "price": "1,290,000원",
+          "description": "스마트 전동식 트렁크\n스마트키 차량에서 간단한 설정으로 트렁크를 자동으로 열리도록 하는 장치로, 양손에 짐을 휴대한 경우 편리하게 이용할 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n제네시스 디지털 키 2 터치\n스마트폰의 NFC 통신을 활용하여 차량 출입 및 시동, 디지털 키 공유, 개인화 맞춤 설정 등이 가능한 첨단 기술입니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n앞좌석 스마트폰 무선 충전\n패드 위에 올려놓은 것만으로 편리하게 충전이 가능하며, 스마트폰을 두고 내리지 않도록 방치 알림 기능이 적용되었습니다.\n※ 컨비니언스 패키지(앞좌석 스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "CON",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/G70_SMART_TRUNK_960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-digital-key2-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-charging-pad-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/컨비니언스 패키지 (2).webp",
+          "detailImages": [
+            "제네시스/G70/스마트 전동식 트렁크.webp",
+            "제네시스/G70/제네시스 디지털 키 2 터치.webp",
+            "제네시스/G70/앞좌석 스마트폰 무선 충전.webp"
+          ],
+          "detailTitles": [
+            "스마트 전동식 트렁크",
+            "제네시스 디지털 키 2 터치",
+            "앞좌석 스마트폰 무선 충전"
+          ],
+          "detailSections": [
+            {
+              "title": "스마트 전동식 트렁크",
+              "image": "제네시스/G70/스마트 전동식 트렁크.webp",
+              "description": "스마트키 차량에서 간단한 설정으로 트렁크를 자동으로 열리도록 하는 장치로, 양손에 짐을 휴대한 경우 편리하게 이용할 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "제네시스 디지털 키 2 터치",
+              "image": "제네시스/G70/제네시스 디지털 키 2 터치.webp",
+              "description": "스마트폰의 NFC 통신을 활용하여 차량 출입 및 시동, 디지털 키 공유, 개인화 맞춤 설정 등이 가능한 첨단 기술입니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "앞좌석 스마트폰 무선 충전",
+              "image": "제네시스/G70/앞좌석 스마트폰 무선 충전.webp",
+              "description": "패드 위에 올려놓은 것만으로 편리하게 충전이 가능하며, 스마트폰을 두고 내리지 않도록 방치 알림 기능이 적용되었습니다.\n※ 컨비니언스 패키지(앞좌석 스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-htp",
+          "category": "선택 품목",
+          "name": "하이테크 패키지",
+          "price": "1,580,000원",
+          "description": "12.3인치 3D 클러스터\n고해상도 대화면 TFT LCD의 3D 클러스터가 새롭게 추가된 스포츠+ 등의 다양한 주행모드에 따라 차별화된 디자인과 콘텐츠 뷰를 제공합니다. 클러스터에 내장된 카메라로 운전자의 눈을 인식해 별도의 안경 없이도 어떤 각도에서나 생생하고 입체감 있는 디스플레이를 즐길 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n지능형 헤드램프\n상시 상향등 상태를 유지하여 운전자의 시야를 안전하게 확보하는 동시에, 마주오는 전방 차량 영역의 빛을 부분적으로 차단해 대향차 운전자의 눈부심을 막아줍니다. 선행 차량 영역에도 동일하게 작동하며, 별도의 상향등 조작 없이도 시야 확보가 유리하기 때문에 야간 운전이 더욱 용이합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n※ 100km/h 이상 주행 시 고속주행모드 진입하여 대향차의 눈부심을 방지하기 위해 운전석 측 상향등은 전체 소등이 이루어지며, 동승석 측의 상향등만으로 지능형 헤드램프가 구현됩니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "HTP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-3d-cluster-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ifs-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/하이테크 패키지 (2).webp",
+          "detailImages": [
+            "제네시스/G70/12.3인치 3D 클러스터.webp",
+            "제네시스/G70/지능형 헤드램프.webp"
+          ],
+          "detailTitles": [
+            "12.3인치 3D 클러스터",
+            "지능형 헤드램프"
+          ],
+          "detailSections": [
+            {
+              "title": "12.3인치 3D 클러스터",
+              "image": "제네시스/G70/12.3인치 3D 클러스터.webp",
+              "description": "고해상도 대화면 TFT LCD의 3D 클러스터가 새롭게 추가된 스포츠+ 등의 다양한 주행모드에 따라 차별화된 디자인과 콘텐츠 뷰를 제공합니다. 클러스터에 내장된 카메라로 운전자의 눈을 인식해 별도의 안경 없이도 어떤 각도에서나 생생하고 입체감 있는 디스플레이를 즐길 수 있습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "지능형 헤드램프",
+              "image": "제네시스/G70/지능형 헤드램프.webp",
+              "description": "상시 상향등 상태를 유지하여 운전자의 시야를 안전하게 확보하는 동시에, 마주오는 전방 차량 영역의 빛을 부분적으로 차단해 대향차 운전자의 눈부심을 막아줍니다. 선행 차량 영역에도 동일하게 작동하며, 별도의 상향등 조작 없이도 시야 확보가 유리하기 때문에 야간 운전이 더욱 용이합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n※ 100km/h 이상 주행 시 고속주행모드 진입하여 대향차의 눈부심을 방지하기 위해 운전석 측 상향등은 전체 소등이 이루어지며, 동승석 측의 상향등만으로 지능형 헤드램프가 구현됩니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-lsp",
+          "category": "선택 품목",
+          "name": "렉시콘 사운드 패키지",
+          "price": "1,190,000원",
+          "description": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)\n15 스피커 시스템을 통해 다이나믹하고 왜곡 없는 명료한 사운드를 감상할 수 있으며, 퀀텀 로직 서라운드를 적용하여 보다 입체감 있는 사운드를 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "LSP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-lexicon-speaker-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/렉시콘 사운드 패키지.webp",
+          "detailImages": [
+            "제네시스/G70/렉시콘 15스피커 시스템 (퀀텀 로직 서라운드).webp"
+          ],
+          "detailTitles": [
+            "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)"
+          ],
+          "detailSections": [
+            {
+              "title": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)",
+              "image": "제네시스/G70/렉시콘 15스피커 시스템 (퀀텀 로직 서라운드).webp",
+              "description": "15 스피커 시스템을 통해 다이나믹하고 왜곡 없는 명료한 사운드를 감상할 수 있으며, 퀀텀 로직 서라운드를 적용하여 보다 입체감 있는 사운드를 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-dap",
+          "category": "선택 품목",
+          "name": "드라이빙 어시스턴스 패키지",
+          "price": "1,680,000원",
+          "description": "서라운드 뷰 모니터\n4대의 HD급 카메라가 전·측·후방에 장착되어 차량의 주변 상황을 실시간으로 제공합니다. 전·후방 장애물 근접 경고 표시, 후진 시 예상궤적 표시와 주행 중 후방영상 표시 기능 등을 갖추었습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n후측방 모니터\n방향지시등 조작과 연동하여 차선 변경 시 후측방의 실시간 사각지대 상황을 영상으로 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.\n※ 상기 이미지는 하이테크 패키지 선택 시 적용되는 12.3인치 클러스터가 적용된 이미지입니다. 12.3인치 클러스터 적용 시 클러스터 좌·우 원형에서 각각 후측방 영상을 제공합니다.\n※ 하이테크 패키지 미선택 시, 8인치 클러스터가 적용됩니다. 8인치 클러스터 적용 시 클러스터 우측 LCD 부위에서 좌·우 후측방 영상을 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n빌트인 캠\n차량의 트림을 제거할 필요 없이 빌트인 적용된 주행 중 영상기록장치로, AVN 화면을 통해 영상을 바로 확인할 수 있을 뿐만 아니라 스마트폰 앱 연동을 통해 영상 확인 및 SNS 공유가 가능합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.\n\n보조 배터리\n보조 배터리는 주행뿐만 아니라 주차 상황에서도 최대 12시간까지 녹화가 가능하게 합니다.\n※ 주행시간이 보조 배터리를 충전하기에 충분하지 않거나 보조 배터리의 노후화에 따라 설정한 시간만큼 주차 녹화가 작동되지 않을 수 있습니다.\n※ 보조 배터리는 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "DAP",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-svm-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-bsvm-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-built-in-cam-960x540.jpg",
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-auxiliary-battery-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/드라이빙 어시스턴스 패키지 (2).webp",
+          "detailImages": [
+            "제네시스/G70/서라운드 뷰 모니터.webp",
+            "제네시스/G70/후측방 모니터.webp",
+            "제네시스/G70/빌트인 캠.webp",
+            "제네시스/G70/보조 배터리.webp"
+          ],
+          "detailTitles": [
+            "서라운드 뷰 모니터",
+            "후측방 모니터",
+            "빌트인 캠",
+            "보조 배터리"
+          ],
+          "detailSections": [
+            {
+              "title": "서라운드 뷰 모니터",
+              "image": "제네시스/G70/서라운드 뷰 모니터.webp",
+              "description": "4대의 HD급 카메라가 전·측·후방에 장착되어 차량의 주변 상황을 실시간으로 제공합니다. 전·후방 장애물 근접 경고 표시, 후진 시 예상궤적 표시와 주행 중 후방영상 표시 기능 등을 갖추었습니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "후측방 모니터",
+              "image": "제네시스/G70/후측방 모니터.webp",
+              "description": "방향지시등 조작과 연동하여 차선 변경 시 후측방의 실시간 사각지대 상황을 영상으로 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.\n※ 상기 이미지는 하이테크 패키지 선택 시 적용되는 12.3인치 클러스터가 적용된 이미지입니다. 12.3인치 클러스터 적용 시 클러스터 좌·우 원형에서 각각 후측방 영상을 제공합니다.\n※ 하이테크 패키지 미선택 시, 8인치 클러스터가 적용됩니다. 8인치 클러스터 적용 시 클러스터 우측 LCD 부위에서 좌·우 후측방 영상을 제공합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "빌트인 캠",
+              "image": "제네시스/G70/빌트인 캠.webp",
+              "description": "차량의 트림을 제거할 필요 없이 빌트인 적용된 주행 중 영상기록장치로, AVN 화면을 통해 영상을 바로 확인할 수 있을 뿐만 아니라 스마트폰 앱 연동을 통해 영상 확인 및 SNS 공유가 가능합니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            },
+            {
+              "title": "보조 배터리",
+              "image": "제네시스/G70/보조 배터리.webp",
+              "description": "보조 배터리는 주행뿐만 아니라 주차 상황에서도 최대 12시간까지 녹화가 가능하게 합니다.\n※ 주행시간이 보조 배터리를 충전하기에 충분하지 않거나 보조 배터리의 노후화에 따라 설정한 시간만큼 주차 녹화가 작동되지 않을 수 있습니다.\n※ 보조 배터리는 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-p15",
+          "category": "제네시스 액세서리",
+          "name": "차량 보호 필름",
+          "price": "400,000원",
+          "description": "차량 보호 필름\n카라이프 중 손상되기 쉬운 프론트 & 리어 범퍼 등 8부위에 우레탄 계열의 투명한 보호 필름을 부착하여 스톤칩으로 인한 페인트 손상 및 생활 스크래치를 예방하여 깨끗한 바디를 유지할 수 있도록 합니다. 또한 3년/6만km의 보증을 제공해드립니다.\n※ 차량 보호 필름은 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다. (보증기간 : 3년/6만km)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "p15",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-protection-film-pc-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/차량 보호 필름.webp",
+          "detailImages": [
+            "제네시스/G70/차량 보호 필름.webp"
+          ],
+          "detailTitles": [
+            "차량 보호 필름"
+          ],
+          "detailSections": [
+            {
+              "title": "차량 보호 필름",
+              "image": "제네시스/G70/차량 보호 필름.webp",
+              "description": "카라이프 중 손상되기 쉬운 프론트 & 리어 범퍼 등 8부위에 우레탄 계열의 투명한 보호 필름을 부착하여 스톤칩으로 인한 페인트 손상 및 생활 스크래치를 예방하여 깨끗한 바디를 유지할 수 있도록 합니다. 또한 3년/6만km의 보증을 제공해드립니다.\n※ 차량 보호 필름은 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다. (보증기간 : 3년/6만km)\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "선택 옵션",
+          "id": "g70-ju6b-awd-p16",
+          "category": "제네시스 액세서리",
+          "name": "플로팅 휠 캡",
+          "price": "90,000원",
+          "description": "플로팅 휠 캡\n주행 시 엠블럼을 수평 상태로 유지시켜 주는 휠 캡이 적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. ",
+          "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/packages?code=BCBBBBB&packages=PPP",
+          "sourceModelCode": "JU6B",
+          "sourceSpecCode": "BBBBBBB",
+          "sourceOptionCode": "p16",
+          "sourceImages": [
+            "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-floating-wheel-cap-pc-960x540.jpg"
+          ],
+          "showDetails": true,
+          "image": "제네시스/G70/플로팅 휠 캡.webp",
+          "detailImages": [
+            "제네시스/G70/플로팅 휠 캡.webp"
+          ],
+          "detailTitles": [
+            "플로팅 휠 캡"
+          ],
+          "detailSections": [
+            {
+              "title": "플로팅 휠 캡",
+              "image": "제네시스/G70/플로팅 휠 캡.webp",
+              "description": "주행 시 엠블럼을 수평 상태로 유지시켜 주는 휠 캡이 적용됩니다.\n※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            }
+          ]
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-0",
+          "category": "파워트레인 및 성능",
+          "name": "파워트레인 및 성능",
+          "features": [
+            "가솔린 2.5 터보 엔진",
+            "8단 자동변속기",
+            "ISG 시스템",
+            "통합 주행 모드(에코/컴포트/스포츠/스포츠 +/커스텀)",
+            "AWD(전자식 사륜구동 시스템)"
+          ],
+          "price": "기본 포함",
+          "description": "가솔린 2.5 터보 엔진\n8단 자동변속기\nISG 시스템\n통합 주행 모드(에코/컴포트/스포츠/스포츠 +/커스텀)",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-1",
+          "category": "외관",
+          "name": "외관",
+          "features": [
+            "Full LED 헤드램프",
+            "Full LED 리어 콤비램프",
+            "225/45R18 브리지스톤 타이어 & 휠",
+            "이중 접합 차음 유리(앞면, 앞 도어)",
+            "자외선 차단 유리(앞면)",
+            "브렘보 실버도장 모노블럭(4P) 브레이크",
+            "듀얼 머플러"
+          ],
+          "price": "기본 포함",
+          "description": "Full LED 헤드램프\nFull LED 리어 콤비램프\n225/45R18 브리지스톤 타이어 & 휠\n이중 접합 차음 유리(앞면, 앞 도어)\n자외선 차단 유리(앞면)\n브렘보 실버도장 모노블럭(4P) 브레이크\n듀얼 머플러",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-2",
+          "category": "내장",
+          "name": "내장",
+          "features": [
+            "8인치 TFT LCD 클러스터",
+            "전자식 변속레버(SBW)",
+            "패들 쉬프트",
+            "하이패스 시스템",
+            "프레임리스 룸미러(ECM)",
+            "터치타입 공조 패널",
+            "메탈 도어 스텝"
+          ],
+          "price": "기본 포함",
+          "description": "8인치 TFT LCD 클러스터\n전자식 변속레버(SBW)\n패들 쉬프트\n하이패스 시스템\n프레임리스 룸미러(ECM)\n터치타입 공조 패널\n메탈 도어 스텝",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-3",
+          "category": "안전",
+          "name": "안전",
+          "features": [
+            "10 에어백 시스템(앞좌석 어드밴스드, 운전석 무릎, 앞좌석 센터 사이드, 앞 & 뒤 사이드, 전복 대응 커튼)",
+            "급제동 경보기능",
+            "뒷좌석 센터 3점식 시트벨트",
+            "차로 이탈방지 보조",
+            "진동경고 스티어링 휠",
+            "하이빔 보조",
+            "운전자 주의 경고",
+            "전방 충돌방지 보조(차량, 보행자, 자전거 탑승자, 교차로 대향차, 정면 대향차)",
+            "후측방 충돌방지 보조",
+            "후방 교차 충돌방지 보조",
+            "지능형 속도 제한 보조",
+            "후진 가이드 램프",
+            "안전 하차 경고",
+            "후석 승객 알림",
+            "다중 충돌방지 자동제동 시스템",
+            "차량용 소화기"
+          ],
+          "price": "기본 포함",
+          "description": "10 에어백 시스템(앞좌석 어드밴스드, 운전석 무릎, 앞좌석 센터 사이드, 앞 & 뒤 사이드, 전복 대응 커튼)\n급제동 경보기능\n뒷좌석 센터 3점식 시트벨트\n차로 이탈방지 보조\n진동경고 스티어링 휠\n하이빔 보조\n운전자 주의 경고\n전방 충돌방지 보조(차량, 보행자, 자전거 탑승자, 교차로 대향차, 정면 대향차)\n후측방 충돌방지 보조\n후방 교차 충돌방지 보조\n지능형 속도 제한 보조\n후진 가이드 램프\n안전 하차 경고\n후석 승객 알림\n다중 충돌방지 자동제동 시스템\n차량용 소화기",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-4",
+          "category": "편의",
+          "name": "편의",
+          "features": [
+            "터치타입 아웃사이드 도어 핸들",
+            "레인 센서",
+            "열선 스티어링 휠",
+            "듀얼 풀오토 에어컨",
+            "공기 청정 시스템(미세먼지 센서, 애프터 블로우 포함)",
+            "고속도로 주행 보조",
+            "스마트 크루즈 컨트롤(Stop & Go 포함)",
+            "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+            "차로 유지 보조",
+            "조향 연동 후방 모니터",
+            "전동식 파킹 브레이크(오토홀드 포함)",
+            "앞좌석 & 뒷좌석 파워 세이프티 윈도우",
+            "전방/후방 주차 거리 경고",
+            "스마트 트렁크",
+            "헤드업 디스플레이"
+          ],
+          "price": "기본 포함",
+          "description": "터치타입 아웃사이드 도어 핸들\n레인 센서\n열선 스티어링 휠\n듀얼 풀오토 에어컨\n공기 청정 시스템(미세먼지 센서, 애프터 블로우 포함)\n고속도로 주행 보조\n스마트 크루즈 컨트롤(Stop & Go 포함)\n내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)\n차로 유지 보조\n조향 연동 후방 모니터\n전동식 파킹 브레이크(오토홀드 포함)\n앞좌석 & 뒷좌석 파워 세이프티 윈도우\n전방/후방 주차 거리 경고\n스마트 트렁크\n헤드업 디스플레이",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-5",
+          "category": "시트",
+          "name": "시트",
+          "features": [
+            "인조 가죽 시트",
+            "운전석 인텔리전트 시트(16방향, 쿠션 익스텐션, 볼스터 전동 조절 적용 포함)",
+            "운전석 자세 메모리 시스템",
+            "전동식 조절 스티어링 휠",
+            "동승석 전동시트(8방향, 높이조절 포함)",
+            "동승석 럼버서포트",
+            "동승석 워크인 디바이스",
+            "앞좌석 통풍 & 열선 시트",
+            "뒷좌석 열선 시트",
+            "뒷좌석 6:4 폴딩"
+          ],
+          "price": "기본 포함",
+          "description": "인조 가죽 시트\n운전석 인텔리전트 시트(16방향, 쿠션 익스텐션, 볼스터 전동 조절 적용 포함)\n운전석 자세 메모리 시스템\n전동식 조절 스티어링 휠\n동승석 전동시트(8방향, 높이조절 포함)\n동승석 럼버서포트\n동승석 워크인 디바이스\n앞좌석 통풍 & 열선 시트\n뒷좌석 열선 시트\n뒷좌석 6:4 폴딩",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        },
+        {
+          "status": "기본 포함",
+          "id": "g70-ju6b-awd-basic-6",
+          "category": "인포테인먼트",
+          "name": "인포테인먼트",
+          "features": [
+            "제네시스 인포테인먼트 시스템(10.25인치 디스플레이, Genesis Connected Services(5년 무료), 인카페이먼트, 발레 모드, 스트리밍 서비스(스트리밍 베이직 요금제 5년 무료 포함))",
+            "내비게이션 무선 업데이트",
+            "레퍼런스 사운드 시스템(9스피커)"
+          ],
+          "price": "기본 포함",
+          "description": "제네시스 인포테인먼트 시스템(10.25인치 디스플레이, Genesis Connected Services(5년 무료), 인카페이먼트, 발레 모드, 스트리밍 서비스(스트리밍 베이직 요금제 5년 무료 포함))\n내비게이션 무선 업데이트\n레퍼런스 사운드 시스템(9스피커)",
+          "source": "https://www.genesis.com/wsvc/kr/api/v2/downloadcenter/pdfdownload?file_key=1185760DEE9FE748C8",
+          "sourceModelCode": "JU6B",
+          "sourceDocument": "genesis-g70-pricelist-kor-202611.pdf",
+          "sourceDocumentDate": "2026-11-11"
+        }
+      ]
+    ]
+  ],
+  "excludedChoices": [
+    {
+      "code": "p17",
+      "name": "알칸타라 인테리어 패키지",
+      "reason": "스포츠 패키지 및 스포츠 옵시디언 블랙 모노톤 전용. 현재 사용 중인 기본모델 기본 내장 구성에는 적용되지 않음."
+    }
+  ],
+  "rawPackages": {
+    "packages": [
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "PPP",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "PPP",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "4100000",
+        "exclude": [
+          "CON",
+          "HTP",
+          "DAP"
+        ],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "컨비니언스 패키지",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-convenience-package-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": "CON",
+            "description": "편리한 차량 이용을 위한 스마트 전동식 트렁크, 제네시스 디지털 키 2 터치, 스마트폰 무선 충전이 포함되어 있습니다.",
+            "title": "컨비니언스 패키지",
+            "previewImageAltText": "컨비니언스 패키지",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/mobile-detail/g70-27my-bto-popluar-convenience-package-960x540.jpg",
+            "disclaimer": [
+              "※ 스마트폰 무선 충전은 무선 충전 기능이 내장된 휴대폰 혹은 무선 충전 전용 커버를 장착 후 사용하시기 바랍니다.",
+              "※ 컨비니언스 패키지(스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.",
+              "※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "하이테크 패키지",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-high-tech-package-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": "HTP",
+            "description": "운전자의 안전과 편의를 위한 12.3인치 3D 클러스터와 지능형 헤드램프를 포함한 옵션 패키지입니다.",
+            "title": "하이테크 패키지",
+            "previewImageAltText": "하이테크 패키지",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/mobile-detail/g70-27my-bto-popluar-high-tech-package-960x540.jpg",
+            "disclaimer": [
+              "※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "드라이빙 어시스턴스 패키지",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-driving-assistance-package-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": "DAP",
+            "description": "차량 운행·주차 시 도움을 주는 서라운드 뷰 모니터, 후측방 모니터, 빌트인 캠, 보조 배터리를 포함한 옵션 패키지입니다.",
+            "title": "드라이빙 어시스턴스 패키지",
+            "previewImageAltText": "드라이빙 어시스턴스 패키지",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/mobile-detail/g70-27my-bto-popluar-driving-assistance-package-960x540.jpg",
+            "disclaimer": [
+              "※ 파퓰러 패키지의 상세 사양 구성은 개별 선택 옵션과 동일하며, 상세 내용은 개별 선택 옵션 페이지를 참조하시길 바랍니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          }
+        ],
+        "packageName": "파퓰러 패키지",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [
+          [
+            "CON",
+            "HTP",
+            "DAP"
+          ]
+        ],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      }
+    ],
+    "packages2": [
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "WSR",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "WSR",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "790000",
+        "exclude": [],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "와이드 선루프",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-wide-sunroof-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "탁 트인 개방감을 선사하여 채광과 환기 효과를 더하며, 드라이브의 즐거움을 더합니다.",
+            "title": "와이드 선루프",
+            "previewImageAltText": "와이드 선루프",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-wide-sunroof-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. "
+            ]
+          }
+        ],
+        "packageName": "와이드 선루프",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "ECS",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "ECS",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "990000",
+        "exclude": [],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "전자제어 서스펜션",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ecs-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "선택한 드라이브 모드에 따라 쇽업소버의 감쇠력을 차별적으로 제어해 컴포트 모드에서는 안정감을, 스포츠+ 모드에서는 노면과의 탁월한 일체감을 선사합니다.",
+            "title": "전자제어 서스펜션",
+            "previewImageAltText": "전자제어 서스펜션",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-ecs-960x540.jpg",
+            "disclaimer": [
+              "※ 가솔린 2.5 터보 모델 선택 시 선택 가능(가솔린 3.3 터보 모델 및 스포츠 모델 선택 시 기본 적용)",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          }
+        ],
+        "packageName": "전자제어 서스펜션",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [
+          {
+            "condition": [
+              {
+                "powertrains": "B"
+              },
+              {
+                "passengers": "B"
+              }
+            ],
+            "price": "-1"
+          }
+        ],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "CON",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "CON",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "1290000",
+        "exclude": [
+          "PPP"
+        ],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "스마트 전동식 트렁크",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/G70_SMART_TRUNK_960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "스마트키 차량에서 간단한 설정으로 트렁크를 자동으로 열리도록 하는 장치로, 양손에 짐을 휴대한 경우 편리하게 이용할 수 있습니다.",
+            "title": "스마트 전동식 트렁크",
+            "previewImageAltText": "스마트 전동식 트렁크",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/G70_SMART_TRUNK_960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "제네시스 디지털 키 2 터치",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-digital-key2-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "스마트폰의 NFC 통신을 활용하여 차량 출입 및 시동, 디지털 키 공유, 개인화 맞춤 설정 등이 가능한 첨단 기술입니다.",
+            "title": "제네시스 디지털 키 2 터치",
+            "previewImageAltText": "제네시스 디지털 키 2 터치",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-digital-key2-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "앞좌석 스마트폰 무선 충전",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-charging-pad-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "패드 위에 올려놓은 것만으로 편리하게 충전이 가능하며, 스마트폰을 두고 내리지 않도록 방치 알림 기능이 적용되었습니다.",
+            "title": "앞좌석 스마트폰 무선 충전",
+            "previewImageAltText": "앞좌석 스마트폰 무선 충전",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-charging-pad-960x540.jpg",
+            "disclaimer": [
+              "※ 컨비니언스 패키지(앞좌석 스마트폰 무선 충전) 적용 시 앞좌석 C타입 USB 단자가 미적용됩니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          }
+        ],
+        "packageName": "컨비니언스 패키지",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "HTP",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "HTP",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "1580000",
+        "exclude": [
+          "PPP"
+        ],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "12.3인치 3D 클러스터",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-3d-cluster-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "고해상도 대화면 TFT LCD의 3D 클러스터가 새롭게 추가된 스포츠+ 등의 다양한 주행모드에 따라 차별화된 디자인과 콘텐츠 뷰를 제공합니다. 클러스터에 내장된 카메라로 운전자의 눈을 인식해 별도의 안경 없이도 어떤 각도에서나 생생하고 입체감 있는 디스플레이를 즐길 수 있습니다.",
+            "title": "12.3인치 3D 클러스터",
+            "previewImageAltText": "12.3인치 3D 클러스터",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-3d-cluster-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "지능형 헤드램프",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ifs-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "상시 상향등 상태를 유지하여 운전자의 시야를 안전하게 확보하는 동시에, 마주오는 전방 차량 영역의 빛을 부분적으로 차단해 대향차 운전자의 눈부심을 막아줍니다. 선행 차량 영역에도 동일하게 작동하며, 별도의 상향등 조작 없이도 시야 확보가 유리하기 때문에 야간 운전이 더욱 용이합니다.",
+            "title": "지능형 헤드램프",
+            "previewImageAltText": "지능형 헤드램프",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-ifs-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다.",
+              "※ 100km/h 이상 주행 시 고속주행모드 진입하여 대향차의 눈부심을 방지하기 위해 운전석 측 상향등은 전체 소등이 이루어지며, 동승석 측의 상향등만으로 지능형 헤드램프가 구현됩니다."
+            ]
+          }
+        ],
+        "packageName": "하이테크 패키지",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "LSP",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "LSP",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "1190000",
+        "exclude": [],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-lexicon-speaker-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "15 스피커 시스템을 통해 다이나믹하고 왜곡 없는 명료한 사운드를 감상할 수 있으며, 퀀텀 로직 서라운드를 적용하여 보다 입체감 있는 사운드를 제공합니다.",
+            "title": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)",
+            "previewImageAltText": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-lexicon-speaker-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. "
+            ]
+          }
+        ],
+        "packageName": "렉시콘 사운드 패키지",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "DAP",
+        "genuineParts": false,
+        "partsNumber": null,
+        "containYn": false,
+        "description": null,
+        "saleCode": "DAP",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "1680000",
+        "exclude": [
+          "PPP"
+        ],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "서라운드 뷰 모니터",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-svm-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "4대의 HD급 카메라가 전·측·후방에 장착되어 차량의 주변 상황을 실시간으로 제공합니다. 전·후방 장애물 근접 경고 표시, 후진 시 예상궤적 표시와 주행 중 후방영상 표시 기능 등을 갖추었습니다.",
+            "title": "서라운드 뷰 모니터",
+            "previewImageAltText": "서라운드 뷰 모니터",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-svm-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "후측방 모니터",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-bsvm-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "방향지시등 조작과 연동하여 차선 변경 시 후측방의 실시간 사각지대 상황을 영상으로 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+            "title": "후측방 모니터",
+            "previewImageAltText": "후측방 모니터",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-bsvm-960x540.jpg",
+            "disclaimer": [
+              "※ 상기 이미지는 하이테크 패키지 선택 시 적용되는 12.3인치 클러스터가 적용된 이미지입니다. 12.3인치 클러스터 적용 시 클러스터 좌·우 원형에서 각각 후측방 영상을 제공합니다.",
+              "※ 하이테크 패키지 미선택 시, 8인치 클러스터가 적용됩니다. 8인치 클러스터 적용 시 클러스터 우측 LCD 부위에서 좌·우 후측방 영상을 제공합니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "빌트인 캠",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-built-in-cam-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "차량의 트림을 제거할 필요 없이 빌트인 적용된 주행 중 영상기록장치로, AVN 화면을 통해 영상을 바로 확인할 수 있을 뿐만 아니라 스마트폰 앱 연동을 통해 영상 확인 및 SNS 공유가 가능합니다.",
+            "title": "빌트인 캠",
+            "previewImageAltText": "빌트인 캠",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-built-in-cam-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "보조배터리",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-auxiliary-battery-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "보조 배터리는 주행뿐만 아니라 주차 상황에서도 최대 12시간까지 녹화가 가능하게 합니다.",
+            "title": "보조 배터리",
+            "previewImageAltText": "보조배터리",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/mobile-detail/g70-27my-bto-options-auxiliary-battery-960x540.jpg",
+            "disclaimer": [
+              "※ 주행시간이 보조 배터리를 충전하기에 충분하지 않거나 보조 배터리의 노후화에 따라 설정한 시간만큼 주차 녹화가 작동되지 않을 수 있습니다.",
+              "※ 보조 배터리는 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          }
+        ],
+        "packageName": "드라이빙 어시스턴스 패키지",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      }
+    ],
+    "packages3": [
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "p15",
+        "genuineParts": true,
+        "partsNumber": "JU0001",
+        "containYn": false,
+        "description": null,
+        "saleCode": "p15",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "400000",
+        "exclude": [],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "차량 보호 필름",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-protection-film-pc-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "카라이프 중 손상되기 쉬운 프론트 & 리어 범퍼 등 8부위에 우레탄 계열의 투명한 보호 필름을 부착하여 스톤칩으로 인한 페인트 손상 및 생활 스크래치를 예방하여 깨끗한 바디를 유지할 수 있도록 합니다. 또한 3년/6만km의 보증을 제공해드립니다.",
+            "title": "차량 보호 필름",
+            "previewImageAltText": "차량 보호 필름",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/mobile-detail/g70-27my-bto-options-protection-film-pc-960x540.jpg",
+            "disclaimer": [
+              "※ 차량 보호 필름은 제조원 별도 보증 품목이며, 자세한 내용은 별도 제공되는 보증서를 참조하시기 바랍니다. (보증기간 : 3년/6만km)",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. "
+            ]
+          }
+        ],
+        "packageName": "차량 보호 필름",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "p16",
+        "genuineParts": true,
+        "partsNumber": "JU0075",
+        "containYn": false,
+        "description": null,
+        "saleCode": "p16",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "90000",
+        "exclude": [],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "플로팅 휠 캡",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-floating-wheel-cap-pc-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "주행 시 엠블럼을 수평 상태로 유지시켜 주는 휠 캡이 적용됩니다.",
+            "title": "플로팅 휠 캡",
+            "previewImageAltText": "플로팅 휠 캡",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/mobile-detail/g70-27my-bto-options-floating-wheel-cap-pc-960x540.jpg",
+            "disclaimer": [
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다. "
+            ]
+          }
+        ],
+        "packageName": "플로팅 휠 캡",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      },
+      {
+        "sdesc2": null,
+        "sdesc3": null,
+        "sdesc1": null,
+        "swatch": null,
+        "specCode": "p17",
+        "genuineParts": true,
+        "partsNumber": "JU0073",
+        "containYn": false,
+        "description": null,
+        "saleCode": "p17",
+        "includePackage": [],
+        "addOptnYn": false,
+        "price": "430000",
+        "exclude": [],
+        "details": [
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "알칸타라 스티어링 휠",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-alcantara-wheel-pc-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "알칸타라 소재 적용을 통해 스티어링 휠의 부드러움과 고급감을 한층 더 높여주는 상품입니다.",
+            "title": "알칸타라 스티어링 휠",
+            "previewImageAltText": "알칸타라 스티어링 휠",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/mobile-detail/g70-27my-bto-options-alcantara-wheel-pc-960x540.jpg",
+            "disclaimer": [
+              "※ 알칸타라 인테리어 패키지는 스포츠 스탠다드/시그니처 패키지의 옵시디언 블랙 모노톤 적용 시에만 선택 가능합니다.",
+              "※ 알칸타라 인테리어 패키지는 별도 보증기간(3년/6만km)이 적용됩니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          },
+          {
+            "image": {
+              "small": null,
+              "largeAltText": "알칸타라 콘솔 암레스트",
+              "large": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-alcantara-armrest-pc-960x540.jpg"
+            },
+            "movie": null,
+            "specCode": null,
+            "description": "알칸타라 소재 적용을 통해 암레스트 부분의 부드러움과 고급감을 한층 더 높여주는 상품입니다.",
+            "title": "알칸타라 콘솔 암레스트",
+            "previewImageAltText": "알칸타라 콘솔 암레스트",
+            "previewImage": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/mobile-detail/g70-27my-bto-options-alcantara-armrest-pc-960x540.jpg",
+            "disclaimer": [
+              "※ 알칸타라 인테리어 패키지는 스포츠 스탠다드/시그니처 패키지의 옵시디언 블랙 모노톤 적용 시에만 선택 가능합니다.",
+              "※ 알칸타라 인테리어 패키지는 별도 보증기간(3년/6만km)이 적용됩니다.",
+              "※ 본 이미지는 이해를 돕기 위한 참고용 이미지로, 실제 차량과 다를 수 있습니다."
+            ]
+          }
+        ],
+        "packageName": "알칸타라 인테리어 패키지",
+        "popular": false,
+        "containPackage": [],
+        "disclaimer": [],
+        "image": {
+          "small": null,
+          "large": null
+        },
+        "include": [],
+        "active": [],
+        "optional": false,
+        "desc1": null,
+        "taxYn": false,
+        "filter": [
+          {
+            "condition": [
+              {
+                "interiorColors": "O"
+              }
+            ],
+            "price": "-1"
+          },
+          {
+            "condition": [
+              {
+                "interiorColors": "R"
+              }
+            ],
+            "price": "-1"
+          }
+        ],
+        "desc2": null,
+        "hide": false,
+        "desc3": null,
+        "addOptnPackage": [],
+        "previewImage": null,
+        "negativeYn": false
+      }
+    ]
+  },
+  "images": [
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-convenience-package-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-convenience-package-960x540.jpg",
+      "title": "컨비니언스 패키지",
+      "index": 0,
+      "localPath": "제네시스/G70/컨비니언스 패키지.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 61662
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-high-tech-package-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-high-tech-package-960x540.jpg",
+      "title": "하이테크 패키지",
+      "index": 1,
+      "localPath": "제네시스/G70/하이테크 패키지.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 69772
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-driving-assistance-package-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option/pc-image/g70-27my-bto-popluar-driving-assistance-package-960x540.jpg",
+      "title": "드라이빙 어시스턴스 패키지",
+      "index": 2,
+      "localPath": "제네시스/G70/드라이빙 어시스턴스 패키지.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 86428
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-wide-sunroof-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-wide-sunroof-960x540.jpg",
+      "title": "와이드 선루프",
+      "index": 3,
+      "localPath": "제네시스/G70/와이드 선루프.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 42474
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ecs-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ecs-960x540.jpg",
+      "title": "전자제어 서스펜션",
+      "index": 4,
+      "localPath": "제네시스/G70/전자제어 서스펜션.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 66976
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/G70_SMART_TRUNK_960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/G70_SMART_TRUNK_960x540.jpg",
+      "title": "스마트 전동식 트렁크",
+      "index": 5,
+      "localPath": "제네시스/G70/스마트 전동식 트렁크.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 46798
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-digital-key2-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-digital-key2-960x540.jpg",
+      "title": "제네시스 디지털 키 2 터치",
+      "index": 6,
+      "localPath": "제네시스/G70/제네시스 디지털 키 2 터치.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 101408
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-charging-pad-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-charging-pad-960x540.jpg",
+      "title": "앞좌석 스마트폰 무선 충전",
+      "index": 7,
+      "localPath": "제네시스/G70/앞좌석 스마트폰 무선 충전.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 58482
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-3d-cluster-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-3d-cluster-960x540.jpg",
+      "title": "12.3인치 3D 클러스터",
+      "index": 8,
+      "localPath": "제네시스/G70/12.3인치 3D 클러스터.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 46418
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ifs-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-ifs-960x540.jpg",
+      "title": "지능형 헤드램프",
+      "index": 9,
+      "localPath": "제네시스/G70/지능형 헤드램프.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 66604
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-lexicon-speaker-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-lexicon-speaker-960x540.jpg",
+      "title": "렉시콘 15스피커 시스템 (퀀텀 로직 서라운드)",
+      "index": 10,
+      "localPath": "제네시스/G70/렉시콘 15스피커 시스템 (퀀텀 로직 서라운드).webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 109494
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-svm-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-svm-960x540.jpg",
+      "title": "서라운드 뷰 모니터",
+      "index": 11,
+      "localPath": "제네시스/G70/서라운드 뷰 모니터.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 94350
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-bsvm-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-bsvm-960x540.jpg",
+      "title": "후측방 모니터",
+      "index": 12,
+      "localPath": "제네시스/G70/후측방 모니터.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 40728
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-built-in-cam-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-built-in-cam-960x540.jpg",
+      "title": "빌트인 캠",
+      "index": 13,
+      "localPath": "제네시스/G70/빌트인 캠.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 86704
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-auxiliary-battery-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option2/pc-image/g70-27my-bto-options-auxiliary-battery-960x540.jpg",
+      "title": "보조 배터리",
+      "index": 14,
+      "localPath": "제네시스/G70/보조 배터리.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 19922
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-protection-film-pc-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-protection-film-pc-960x540.jpg",
+      "title": "차량 보호 필름",
+      "index": 15,
+      "localPath": "제네시스/G70/차량 보호 필름.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 33950
+    },
+    {
+      "assetKey": "/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-floating-wheel-cap-pc-960x540.jpg",
+      "carCode": "JU6B",
+      "brand": "제네시스",
+      "carName": "G70",
+      "url": "https://www.genesis.com/content/dam/genesis-p2/kr/admin/bto-information/g70-2027-ju6b/option3/pc-image/g70-27my-bto-options-floating-wheel-cap-pc-960x540.jpg",
+      "title": "플로팅 휠 캡",
+      "index": 16,
+      "localPath": "제네시스/G70/플로팅 휠 캡.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 45452
+    }
+  ],
+  "verification": {
+    "passed": true,
+    "trims": 171,
+    "singleChecks": 692,
+    "conditionChecks": 32,
+    "packageChecks": 14,
+    "genesisConfigurations": 2,
+    "hyundaiRegressionConfigurations": 169,
+    "duplicateRawKeys": 0,
+    "originalPopupImages": 17,
+    "originalImageDimensions": "960x540",
+    "otherVehicleDataPreserved": true,
+    "basicSpecificationDocumentDate": "2026-11-11"
+  },
+  "detailLayout": "구성 품목 목록 → 품목별 이미지와 설명"
+}

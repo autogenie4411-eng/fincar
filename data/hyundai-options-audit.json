@@ -1,0 +1,5348 @@
+{
+  "verifiedDate": "2026-11-17",
+  "scope": {
+    "brand": "현대",
+    "from": "그랜저",
+    "through": "코나 일렉트릭",
+    "cars": 19,
+    "trims": 112
+  },
+  "rawDuplicateKeys": 0,
+  "uniqueImagesChecked": 2365,
+  "officialRuleRequests": 494,
+  "accessoryRuleRequests": 6,
+  "repairs": [
+    {
+      "key": "현대|그랜저|2.5 가솔린|프리미엄",
+      "choicesBefore": 5,
+      "choicesAfter": 5,
+      "basicBefore": 74,
+      "basicAfter": 74,
+      "duplicateChoiceIdsFixed": 0,
+      "removedChoices": []
+    },
+    {
+      "key": "현대|그랜저|2.5 가솔린|익스클루시브",
+      "choicesBefore": 6,
+      "choicesAfter": 7,
+      "basicBefore": 74,
+      "basicAfter": 91,
+      "duplicateChoiceIdsFixed": 1,
+      "removedChoices": [
+        "파킹 어시스트",
+        "프리미엄 초이스"
+      ]
+    },
+    {
+      "key": "현대|그랜저|2.5 가솔린|캘리그래피",
+      "choicesBefore": 13,
+      "choicesAfter": 12,
+      "basicBefore": 109,
+      "basicAfter": 109,
+      "duplicateChoiceIdsFixed": 0,
+      "removedChoices": [
+        "20인치 고휘도 스퍼터링 휠"
+      ]
+    }
+  ],
+  "conditionChangedTrims": [
+    "현대|그랜저|2.5 가솔린|익스클루시브",
+    "현대|그랜저|2.5 가솔린|캘리그래피",
+    "현대|그랜저 하이브리드|1.6 HEV|익스클루시브",
+    "현대|그랜저 하이브리드|1.6 HEV|캘리그래피",
+    "현대|싼타페|2.5 가솔린 터보|익스클루시브",
+    "현대|싼타페|2.5 가솔린 터보 AWD|익스클루시브",
+    "현대|싼타페 하이브리드|1.6 HEV|익스클루시브",
+    "현대|싼타페 하이브리드|1.6 HEV AWD|익스클루시브",
+    "현대|아반떼|2.0 가솔린|인스퍼레이션",
+    "현대|아반떼 하이브리드|1.6 HEV|인스퍼레이션",
+    "현대|캐스퍼|1.0 가솔린|스마트",
+    "현대|캐스퍼|1.0 가솔린|디 에센셜",
+    "현대|캐스퍼 일렉트릭|EV 49.0kWh|인스퍼레이션",
+    "현대|캐스퍼 일렉트릭|EV 49.0kWh|크로스",
+    "현대|코나|1.6 가솔린 터보|H-Pick",
+    "현대|코나|1.6 가솔린 터보|Premium",
+    "현대|코나|1.6 가솔린 터보 4WD|Premium",
+    "현대|코나 하이브리드|1.6 HEV|H-Pick",
+    "현대|코나 하이브리드|1.6 HEV|Premium"
+  ],
+  "changedTrims": [
+    "현대|그랜저|2.5 가솔린|프리미엄",
+    "현대|그랜저|2.5 가솔린|익스클루시브",
+    "현대|그랜저|2.5 가솔린|캘리그래피",
+    "현대|그랜저 하이브리드|1.6 HEV|익스클루시브",
+    "현대|그랜저 하이브리드|1.6 HEV|캘리그래피",
+    "현대|싼타페|2.5 가솔린 터보|익스클루시브",
+    "현대|싼타페|2.5 가솔린 터보 AWD|익스클루시브",
+    "현대|싼타페 하이브리드|1.6 HEV|익스클루시브",
+    "현대|싼타페 하이브리드|1.6 HEV AWD|익스클루시브",
+    "현대|아반떼|2.0 가솔린|인스퍼레이션",
+    "현대|아반떼 하이브리드|1.6 HEV|인스퍼레이션",
+    "현대|캐스퍼|1.0 가솔린|스마트",
+    "현대|캐스퍼|1.0 가솔린|디 에센셜",
+    "현대|캐스퍼 일렉트릭|EV 49.0kWh|인스퍼레이션",
+    "현대|캐스퍼 일렉트릭|EV 49.0kWh|크로스",
+    "현대|코나|1.6 가솔린 터보|H-Pick",
+    "현대|코나|1.6 가솔린 터보|Premium",
+    "현대|코나|1.6 가솔린 터보 4WD|Premium",
+    "현대|코나 하이브리드|1.6 HEV|H-Pick",
+    "현대|코나 하이브리드|1.6 HEV|Premium"
+  ],
+  "rows": [
+    {
+      "key": "현대|그랜저|2.5 가솔린|프리미엄",
+      "model": "GNJS4RAT4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN11&modelCode=GNJS4RAT4&purposeCode=J",
+      "basicCount": 74,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|그랜저|2.5 가솔린|프리미엄",
+        "model": "GNJS4RAT4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "B25",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PRC",
+            "name": "프리미엄 초이스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|그랜저|2.5 가솔린|익스클루시브",
+      "model": "GNJS4RBT4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN11&modelCode=GNJS4RBT4&purposeCode=J",
+      "basicCount": 91,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|그랜저|2.5 가솔린|익스클루시브",
+        "model": "GNJS4RBT4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "20W",
+            "name": "20인치 알로이 휠 & 타이어",
+            "requires": [
+              "PLA"
+            ],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "B25",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PLA",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SC1",
+            "name": "시트 컴포트Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드 패키지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|그랜저|2.5 가솔린|캘리그래피",
+      "model": "GNJS4RCT4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN11&modelCode=GNJS4RCT4&purposeCode=J",
+      "basicCount": 109,
+      "choiceCount": 12,
+      "rules": {
+        "key": "현대|그랜저|2.5 가솔린|캘리그래피",
+        "model": "GNJS4RCT4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SGR",
+            "name": "스마트 비전 루프",
+            "requires": [],
+            "disables": [
+              "PAS"
+            ]
+          },
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": [
+              "SGR"
+            ]
+          },
+          {
+            "code": "B25",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SCK",
+            "name": "스마트 카드키",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20C",
+            "name": "20인치 알로이 휠 & 타이어(캘리그래피)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SCP",
+            "name": "시트 컴포트 플러스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "SGR",
+            "to": "PAS",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "PAS",
+            "to": "SGR",
+            "packageContainsTarget": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|그랜저 하이브리드|1.6 HEV|프리미엄",
+      "model": "GNJS4ZAT4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZAT4&purposeCode=J",
+      "basicCount": 74,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|그랜저 하이브리드|1.6 HEV|프리미엄",
+        "model": "GNJS4ZAT4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "B25",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PRC",
+            "name": "프리미엄 초이스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|그랜저 하이브리드|1.6 HEV|익스클루시브",
+      "model": "GNJS4ZBT4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZBT4&purposeCode=J",
+      "basicCount": 91,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|그랜저 하이브리드|1.6 HEV|익스클루시브",
+        "model": "GNJS4ZBT4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "20W",
+            "name": "20인치 알로이 휠 & 타이어",
+            "requires": [
+              "PLA"
+            ],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "B25",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": [
+              "SC2"
+            ]
+          },
+          {
+            "code": "PLA",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SC2",
+            "name": "시트 컴포트Ⅱ",
+            "requires": [],
+            "disables": [
+              "B25"
+            ]
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드 패키지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "SC2",
+            "to": "B25",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|그랜저 하이브리드|1.6 HEV|캘리그래피",
+      "model": "GNJS4ZCT4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZCT4&purposeCode=J",
+      "basicCount": 103,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|그랜저 하이브리드|1.6 HEV|캘리그래피",
+        "model": "GNJS4ZCT4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SGR",
+            "name": "스마트 비전 루프",
+            "requires": [],
+            "disables": [
+              "PAS"
+            ]
+          },
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": [
+              "SGR"
+            ]
+          },
+          {
+            "code": "B25",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SCK",
+            "name": "스마트 카드키",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20C",
+            "name": "20인치 알로이 휠 & 타이어(캘리그래피)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SCP",
+            "name": "시트 컴포트 플러스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "SGR",
+            "to": "PAS",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "PAS",
+            "to": "SGR",
+            "packageContainsTarget": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|베뉴|1.6 가솔린|스마트",
+      "model": "QXJJ5GAC6",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
+      "basicCount": 40,
+      "choiceCount": 2,
+      "rules": {
+        "key": "현대|베뉴|1.6 가솔린|스마트",
+        "model": "QXJJ5GAC6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HIP",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "NAV",
+            "name": "내비게이션 패키지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|베뉴|1.6 가솔린|프리미엄",
+      "model": "QXJJ5GDC6",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
+      "basicCount": 55,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|베뉴|1.6 가솔린|프리미엄",
+        "model": "QXJJ5GDC6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STY",
+            "name": "스타일",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "TEC",
+            "name": "테크",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|베뉴|1.6 가솔린|FLUX",
+      "model": "QXJJ5GFC6",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GFC6&purposeCode=J",
+      "basicCount": 58,
+      "choiceCount": 1,
+      "rules": {
+        "key": "현대|베뉴|1.6 가솔린|FLUX",
+        "model": "QXJJ5GFC6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|스타리아|3.5 LPG 투어러|스마트 (11인승)",
+      "model": "USJTBLST4",
+      "variant": "T",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
+      "basicCount": 63,
+      "choiceCount": 1,
+      "rules": {
+        "key": "현대|스타리아|3.5 LPG 투어러|스마트 (11인승)",
+        "model": "USJTBLST4",
+        "spec": "T",
+        "choices": [
+          {
+            "code": "MP1",
+            "name": "멀티미디어 내비플러스Ⅰ(투어러)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|스타리아|3.5 LPG 투어러|모던 (11인승)",
+      "model": "USJTBLMT4",
+      "variant": "T",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
+      "basicCount": 73,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|스타리아|3.5 LPG 투어러|모던 (11인승)",
+        "model": "USJTBLMT4",
+        "spec": "T",
+        "choices": [
+          {
+            "code": "MP2",
+            "name": "멀티미디어 내비플러스Ⅱ(투어러)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "ED1",
+            "name": "익스테리어 디자인(11인승)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CMT",
+            "name": "컴포트(투어러)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "TE1",
+            "name": "테크Ⅰ",
+            "requires": [
+              "MP2"
+            ],
+            "disables": []
+          },
+          {
+            "code": "TE2",
+            "name": "테크Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DWL",
+            "name": "듀얼 와이드 선루프 + LED 실내등(맵램프, 룸램프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "TRP",
+            "name": "트레일러 패키지",
+            "requires": [
+              "MP2"
+            ],
+            "disables": []
+          },
+          {
+            "code": "B2P",
+            "name": "빌트인 캠 2 Plus, 증강현실 내비게이션",
+            "requires": [
+              "MP2"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|스마트 (11인승)",
+      "model": "USJTBZST4",
+      "variant": "T",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
+      "basicCount": 64,
+      "choiceCount": 1,
+      "rules": {
+        "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|스마트 (11인승)",
+        "model": "USJTBZST4",
+        "spec": "T",
+        "choices": [
+          {
+            "code": "MP1",
+            "name": "멀티미디어 내비플러스Ⅰ(투어러)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|모던 (11인승)",
+      "model": "USJTBZMT4",
+      "variant": "T",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
+      "basicCount": 73,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|모던 (11인승)",
+        "model": "USJTBZMT4",
+        "spec": "T",
+        "choices": [
+          {
+            "code": "MP2",
+            "name": "멀티미디어 내비플러스Ⅱ(투어러)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "ED1",
+            "name": "익스테리어 디자인(11인승)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CMT",
+            "name": "컴포트(투어러)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "TE1",
+            "name": "테크Ⅰ(투어러)",
+            "requires": [
+              "MP2"
+            ],
+            "disables": []
+          },
+          {
+            "code": "TE2",
+            "name": "테크Ⅱ(투어러)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DWL",
+            "name": "듀얼 와이드 선루프 + LED 실내등(맵램프, 룸램프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "B2P",
+            "name": "빌트인 캠 2 Plus, 증강현실 내비게이션",
+            "requires": [
+              "MP2"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보|익스클루시브",
+      "model": "MXJJ5TCT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TCT3&purposeCode=J",
+      "basicCount": 77,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보|익스클루시브",
+        "model": "MXJJ5TCT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CWE",
+            "name": "동승석 8way 전동시트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DWR",
+            "name": "듀얼와이드선루프 + 루프랙",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT1",
+            "name": "플래티넘Ⅰ",
+            "requires": [],
+            "disables": [
+              "PA1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BS1",
+            "name": "베스트 셀렉션Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "PA1"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "PT1",
+            "to": "PA1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "PA1",
+            "to": "PT1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS1",
+            "to": "PT1",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS1",
+            "to": "PA1",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보|프레스티지",
+      "model": "MXJJ5TFT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TFT3&purposeCode=J",
+      "basicCount": 86,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보|프레스티지",
+        "model": "MXJJ5TFT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보|H-Pick",
+      "model": "MXJJ5TMT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TMT3&purposeCode=J",
+      "basicCount": 98,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보|H-Pick",
+        "model": "MXJJ5TMT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20W",
+            "name": "20인치 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보|캘리그래피",
+      "model": "MXJJ5THT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5THT3&purposeCode=J",
+      "basicCount": 98,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보|캘리그래피",
+        "model": "MXJJ5THT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보 AWD|익스클루시브",
+      "model": "MXJJ5TCA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TCA3&purposeCode=J",
+      "basicCount": 79,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보 AWD|익스클루시브",
+        "model": "MXJJ5TCA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CWE",
+            "name": "동승석 8way 전동시트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DWR",
+            "name": "듀얼와이드선루프 + 루프랙",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT1",
+            "name": "플래티넘Ⅰ",
+            "requires": [],
+            "disables": [
+              "PA1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BS1",
+            "name": "베스트 셀렉션Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "PA1"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "PT1",
+            "to": "PA1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "PA1",
+            "to": "PT1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS1",
+            "to": "PT1",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS1",
+            "to": "PA1",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보 AWD|프레스티지",
+      "model": "MXJJ5TFA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TFA3&purposeCode=J",
+      "basicCount": 88,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보 AWD|프레스티지",
+        "model": "MXJJ5TFA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보 AWD|H-Pick",
+      "model": "MXJJ5TMA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TMA3&purposeCode=J",
+      "basicCount": 100,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보 AWD|H-Pick",
+        "model": "MXJJ5TMA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20W",
+            "name": "20인치 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페|2.5 가솔린 터보 AWD|캘리그래피",
+      "model": "MXJJ5THA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5THA3&purposeCode=J",
+      "basicCount": 100,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|싼타페|2.5 가솔린 터보 AWD|캘리그래피",
+        "model": "MXJJ5THA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV|익스클루시브",
+      "model": "MXJJ5ZCT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZCT3&purposeCode=J",
+      "basicCount": 76,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV|익스클루시브",
+        "model": "MXJJ5ZCT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CWE",
+            "name": "동승석 8way 전동시트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DWR",
+            "name": "듀얼와이드선루프 + 루프랙",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT1",
+            "name": "플래티넘Ⅰ",
+            "requires": [],
+            "disables": [
+              "PA1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BS1",
+            "name": "베스트 셀렉션Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "PA1"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "PT1",
+            "to": "PA1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "PA1",
+            "to": "PT1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS1",
+            "to": "PT1",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS1",
+            "to": "PA1",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV|프레스티지",
+      "model": "MXJJ5ZFT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZFT3&purposeCode=J",
+      "basicCount": 85,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV|프레스티지",
+        "model": "MXJJ5ZFT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20W",
+            "name": "20인치휠 & 타이어",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV|H-Pick",
+      "model": "MXJJ5ZMT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZMT3&purposeCode=J",
+      "basicCount": 97,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV|H-Pick",
+        "model": "MXJJ5ZMT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20W",
+            "name": "20인치휠 & 타이어",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV|캘리그래피",
+      "model": "MXJJ5ZHT3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZHT3&purposeCode=J",
+      "basicCount": 97,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV|캘리그래피",
+        "model": "MXJJ5ZHT3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV AWD|익스클루시브",
+      "model": "MXJJ5ZCA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZCA3&purposeCode=J",
+      "basicCount": 78,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV AWD|익스클루시브",
+        "model": "MXJJ5ZCA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CWE",
+            "name": "동승석 8way 전동시트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DWR",
+            "name": "듀얼와이드선루프 + 루프랙",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT1",
+            "name": "플래티넘Ⅰ",
+            "requires": [],
+            "disables": [
+              "PA1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "BS1"
+            ]
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BS1",
+            "name": "베스트 셀렉션Ⅰ",
+            "requires": [],
+            "disables": [
+              "PT1",
+              "PA1"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "PT1",
+            "to": "PA1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "PA1",
+            "to": "PT1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS1",
+            "to": "PT1",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS1",
+            "to": "PA1",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV AWD|프레스티지",
+      "model": "MXJJ5ZFA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZFA3&purposeCode=J",
+      "basicCount": 87,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV AWD|프레스티지",
+        "model": "MXJJ5ZFA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 플러스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV AWD|H-Pick",
+      "model": "MXJJ5ZMA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZMA3&purposeCode=J",
+      "basicCount": 99,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV AWD|H-Pick",
+        "model": "MXJJ5ZMA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "20W",
+            "name": "20인치휠 & 타이어",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|싼타페 하이브리드|1.6 HEV AWD|캘리그래피",
+      "model": "MXJJ5ZHA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZHA3&purposeCode=J",
+      "basicCount": 99,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|싼타페 하이브리드|1.6 HEV AWD|캘리그래피",
+        "model": "MXJJ5ZHA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DWS",
+            "name": "듀얼와이드선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장 앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAR",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타|1.6 가솔린 터보|프리미엄",
+      "model": "DNJS4RBT8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RBT8&purposeCode=J",
+      "basicCount": 61,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|쏘나타|1.6 가솔린 터보|프리미엄",
+        "model": "DNJS4RBT8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HIE",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스 I",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CP1",
+            "name": "컴포트Ⅰ(1열 편의)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CP2",
+            "name": "컴포트Ⅱ(2열 편의)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타|1.6 가솔린 터보|에스",
+      "model": "DNJS4RUT8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RUT8&purposeCode=J",
+      "basicCount": 73,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|쏘나타|1.6 가솔린 터보|에스",
+        "model": "DNJS4RUT8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BCV",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트 I",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [
+              "PA1"
+            ],
+            "disables": []
+          },
+          {
+            "code": "EX1",
+            "name": "익스테리어 디자인 I",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타|1.6 가솔린 터보|익스클루시브",
+      "model": "DNJS4RCT8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RCT8&purposeCode=J",
+      "basicCount": 83,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|쏘나타|1.6 가솔린 터보|익스클루시브",
+        "model": "DNJS4RCT8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BCV",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PL1",
+            "name": "플래티넘 I",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EX1",
+            "name": "익스테리어 디자인 I",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CP2",
+            "name": "컴포트Ⅱ(2열 편의)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타|1.6 가솔린 터보|인스퍼레이션",
+      "model": "DNJS4RET8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RET8&purposeCode=J",
+      "basicCount": 98,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|쏘나타|1.6 가솔린 터보|인스퍼레이션",
+        "model": "DNJS4RET8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BCV",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|프리미엄",
+      "model": "DNJS4ZBT8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZBT8&purposeCode=J",
+      "basicCount": 63,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|프리미엄",
+        "model": "DNJS4ZBT8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HIE",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스 Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CP1",
+            "name": "컴포트Ⅰ(1열 편의)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CP2",
+            "name": "컴포트Ⅱ(2열 편의)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|에스",
+      "model": "DNJS4ZUT8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZUT8&purposeCode=J",
+      "basicCount": 74,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|에스",
+        "model": "DNJS4ZUT8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BCV",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [
+              "PA1"
+            ],
+            "disables": []
+          },
+          {
+            "code": "EX3",
+            "name": "익스테리어 디자인Ⅲ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|익스클루시브",
+      "model": "DNJS4ZCT8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZCT8&purposeCode=J",
+      "basicCount": 84,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|익스클루시브",
+        "model": "DNJS4ZCT8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BCV",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PL1",
+            "name": "플래티넘 Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EX1",
+            "name": "익스테리어 디자인Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CP2",
+            "name": "컴포트Ⅱ(2열 편의)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|인스퍼레이션",
+      "model": "DNJS4ZET8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZET8&purposeCode=J",
+      "basicCount": 99,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|인스퍼레이션",
+        "model": "DNJS4ZET8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드(12스피커, 외장앰프)",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BCV",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아반떼|2.0 가솔린|모던",
+      "model": "FNJS4RMT1",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FN01&modelCode=FNJS4RMT1&purposeCode=J",
+      "basicCount": 58,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아반떼|2.0 가솔린|모던",
+        "model": "FNJS4RMT1",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SDP",
+            "name": "9.9인치 슬림 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "AT1",
+            "name": "17인치 알로이 휠 & 타이어Ⅰ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아반떼|2.0 가솔린|프리미엄",
+      "model": "FNJS4RPT1",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FN01&modelCode=FNJS4RPT1&purposeCode=J",
+      "basicCount": 65,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|아반떼|2.0 가솔린|프리미엄",
+        "model": "FNJS4RPT1",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PCN",
+            "name": "플레오스 커넥트 14.6인치 + 9.9인치 슬림 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EXD",
+            "name": "익스테리어 디자인",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT1",
+            "name": "플래티넘Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CPT",
+            "name": "컴포트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "AT2",
+            "name": "17인치 알로이 휠 & 타이어Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아반떼|2.0 가솔린|인스퍼레이션",
+      "model": "FNJS4RST1",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FN01&modelCode=FNJS4RST1&purposeCode=J",
+      "basicCount": 88,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|아반떼|2.0 가솔린|인스퍼레이션",
+        "model": "FNJS4RST1",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "18A",
+            "name": "18인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT2",
+            "name": "플래티넘Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트Ⅰ",
+            "requires": [],
+            "disables": [
+              "PA2"
+            ]
+          },
+          {
+            "code": "PA2",
+            "name": "파킹 어시스트Ⅱ",
+            "requires": [],
+            "disables": [
+              "PA1"
+            ]
+          },
+          {
+            "code": "BNO",
+            "name": "Audio by BANG & OLUFSEN 사운드",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "PA2",
+            "to": "PA1",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|아반떼 하이브리드|1.6 HEV|모던",
+      "model": "FNJS4ZMD1",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FN02&modelCode=FNJS4ZMD1&purposeCode=J",
+      "basicCount": 61,
+      "choiceCount": 2,
+      "rules": {
+        "key": "현대|아반떼 하이브리드|1.6 HEV|모던",
+        "model": "FNJS4ZMD1",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SDP",
+            "name": "9.9인치 슬림 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아반떼 하이브리드|1.6 HEV|프리미엄",
+      "model": "FNJS4ZPD1",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FN02&modelCode=FNJS4ZPD1&purposeCode=J",
+      "basicCount": 67,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|아반떼 하이브리드|1.6 HEV|프리미엄",
+        "model": "FNJS4ZPD1",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PCN",
+            "name": "플레오스 커넥트 14.6인치 + 9.9인치 슬림 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EXD",
+            "name": "익스테리어 디자인",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT1",
+            "name": "플래티넘Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CPT",
+            "name": "컴포트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아반떼 하이브리드|1.6 HEV|인스퍼레이션",
+      "model": "FNJS4ZSD1",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FN02&modelCode=FNJS4ZSD1&purposeCode=J",
+      "basicCount": 89,
+      "choiceCount": 7,
+      "rules": {
+        "key": "현대|아반떼 하이브리드|1.6 HEV|인스퍼레이션",
+        "model": "FNJS4ZSD1",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "18A",
+            "name": "18인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PT2",
+            "name": "플래티넘Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2 Plus",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트Ⅰ",
+            "requires": [],
+            "disables": [
+              "PA2"
+            ]
+          },
+          {
+            "code": "PA2",
+            "name": "파킹 어시스트Ⅱ",
+            "requires": [],
+            "disables": [
+              "PA1"
+            ]
+          },
+          {
+            "code": "BNO",
+            "name": "Audio by BANG & OLUFSEN 사운드",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "PA2",
+            "to": "PA1",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Standard|E-Value +",
+      "model": "NEJJ5VVD8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VVD8&purposeCode=J",
+      "basicCount": 64,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아이오닉5|Standard|E-Value +",
+        "model": "NEJJ5VVD8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "COL",
+            "name": "컴포트 초이스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HSS",
+            "name": "현대 스마트센스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "B2P",
+            "name": "빌트인 캠 2 패키지",
+            "requires": [
+              "COL"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range|E-Lite",
+      "model": "NEJJ5VHD8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VHD8&purposeCode=J",
+      "basicCount": 64,
+      "choiceCount": 0,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range|E-Lite",
+        "model": "NEJJ5VHD8",
+        "spec": "A",
+        "choices": [],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range|Modern",
+      "model": "NEJJ5VOD8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VOD8&purposeCode=J",
+      "basicCount": 72,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range|Modern",
+        "model": "NEJJ5VOD8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [
+              "HPP"
+            ],
+            "disables": []
+          },
+          {
+            "code": "COM",
+            "name": "컴포트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STY",
+            "name": "스타일",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HSS",
+            "name": "현대 스마트센스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파킹 어시스트",
+            "requires": [
+              "STY"
+            ],
+            "disables": []
+          },
+          {
+            "code": "HPP",
+            "name": "하이패스 패키지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range|Premium",
+      "model": "NEJJ5VPD8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VPD8&purposeCode=J",
+      "basicCount": 100,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range|Premium",
+        "model": "NEJJ5VPD8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "VIR",
+            "name": "비전루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DCM",
+            "name": "디지털 센터 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PTN",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range|Inspiration",
+      "model": "NEJJ5VID8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VID8&purposeCode=J",
+      "basicCount": 112,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range|Inspiration",
+        "model": "NEJJ5VID8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "VIR",
+            "name": "비전루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DCM",
+            "name": "디지털 센터 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSD",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range AWD|E-Lite",
+      "model": "NEJJ5VHA8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VHA8&purposeCode=J",
+      "basicCount": 65,
+      "choiceCount": 0,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range AWD|E-Lite",
+        "model": "NEJJ5VHA8",
+        "spec": "A",
+        "choices": [],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range AWD|Modern",
+      "model": "NEJJ5VOA8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VOA8&purposeCode=J",
+      "basicCount": 73,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range AWD|Modern",
+        "model": "NEJJ5VOA8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [
+              "HPP"
+            ],
+            "disables": []
+          },
+          {
+            "code": "COM",
+            "name": "컴포트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STY",
+            "name": "스타일",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HSS",
+            "name": "현대 스마트센스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파킹 어시스트",
+            "requires": [
+              "STY"
+            ],
+            "disables": []
+          },
+          {
+            "code": "HPP",
+            "name": "하이패스 패키지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range AWD|Premium",
+      "model": "NEJJ5VPA8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VPA8&purposeCode=J",
+      "basicCount": 101,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range AWD|Premium",
+        "model": "NEJJ5VPA8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "VIR",
+            "name": "비전루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DCM",
+            "name": "디지털 센터 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PTN",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range AWD|Inspiration",
+      "model": "NEJJ5VIA8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VIA8&purposeCode=J",
+      "basicCount": 113,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range AWD|Inspiration",
+        "model": "NEJJ5VIA8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "VIR",
+            "name": "비전루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DCM",
+            "name": "디지털 센터 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSD",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range N라인|A/T",
+      "model": "NEJJ5VZD8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VZD8&purposeCode=J",
+      "basicCount": 105,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range N라인|A/T",
+        "model": "NEJJ5VZD8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "VIR",
+            "name": "비전루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DCM",
+            "name": "디지털 센터 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PTN",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSD",
+            "name": "디지털 사이드 미러",
+            "requires": [
+              "PAS"
+            ],
+            "disables": []
+          },
+          {
+            "code": "NAI",
+            "name": "알칸타라/천연가죽 시트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉5|Long Range AWD N라인|A/T",
+      "model": "NEJJ5VZA8",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VZA8&purposeCode=J",
+      "basicCount": 106,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|아이오닉5|Long Range AWD N라인|A/T",
+        "model": "NEJJ5VZA8",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "VIR",
+            "name": "비전루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DCM",
+            "name": "디지털 센터 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BVN",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PTN",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAS",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSD",
+            "name": "디지털 사이드 미러",
+            "requires": [
+              "PAS"
+            ],
+            "disables": []
+          },
+          {
+            "code": "NAI",
+            "name": "알칸타라/천연가죽 시트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Standard|E-Value +",
+      "model": "CEJS4VHD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VHD3&purposeCode=J",
+      "basicCount": 76,
+      "choiceCount": 1,
+      "rules": {
+        "key": "현대|아이오닉6|Standard|E-Value +",
+        "model": "CEJS4VHD3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Standard|Exclusive",
+      "model": "CEJS4VAD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VAD3&purposeCode=J",
+      "basicCount": 84,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|아이오닉6|Standard|Exclusive",
+        "model": "CEJS4VAD3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Standard|Prestige",
+      "model": "CEJS4VPD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VPD3&purposeCode=J",
+      "basicCount": 113,
+      "choiceCount": 2,
+      "rules": {
+        "key": "현대|아이오닉6|Standard|Prestige",
+        "model": "CEJS4VPD3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "DSM",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HTP",
+            "name": "하이테크 플러스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range|E-Lite",
+      "model": "CEJS4VLD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VLD3&purposeCode=J",
+      "basicCount": 76,
+      "choiceCount": 0,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range|E-Lite",
+        "model": "CEJS4VLD3",
+        "spec": "A",
+        "choices": [],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range|Exclusive",
+      "model": "CEJS4VBD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VBD3&purposeCode=J",
+      "basicCount": 84,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range|Exclusive",
+        "model": "CEJS4VBD3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range|Prestige",
+      "model": "CEJS4VFD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VFD3&purposeCode=J",
+      "basicCount": 113,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range|Prestige",
+        "model": "CEJS4VFD3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HTP",
+            "name": "하이테크 플러스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range AWD|E-Lite",
+      "model": "CEJS4VLA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VLA3&purposeCode=J",
+      "basicCount": 77,
+      "choiceCount": 0,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range AWD|E-Lite",
+        "model": "CEJS4VLA3",
+        "spec": "A",
+        "choices": [],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range AWD|Exclusive",
+      "model": "CEJS4VBA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VBA3&purposeCode=J",
+      "basicCount": 85,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range AWD|Exclusive",
+        "model": "CEJS4VBA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range AWD|Prestige",
+      "model": "CEJS4VFA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VFA3&purposeCode=J",
+      "basicCount": 114,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range AWD|Prestige",
+        "model": "CEJS4VFA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HTP",
+            "name": "하이테크 플러스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range N라인|Exclusive",
+      "model": "CEJS4VMD3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VMD3&purposeCode=J",
+      "basicCount": 87,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range N라인|Exclusive",
+        "model": "CEJS4VMD3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range N라인|Prestige",
+      "model": "CEJS4VND3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VND3&purposeCode=J",
+      "basicCount": 112,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range N라인|Prestige",
+        "model": "CEJS4VND3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "ALS",
+            "name": "알칸타라/천연가죽 시트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HTP",
+            "name": "하이테크 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SIM",
+            "name": "스웨이드 내장재",
+            "requires": [
+              "HTP"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range AWD N라인|Exclusive",
+      "model": "CEJS4VMA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VMA3&purposeCode=J",
+      "basicCount": 88,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range AWD N라인|Exclusive",
+        "model": "CEJS4VMA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉6|Long Range AWD N라인|Prestige",
+      "model": "CEJS4VNA3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VNA3&purposeCode=J",
+      "basicCount": 113,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉6|Long Range AWD N라인|Prestige",
+        "model": "CEJS4VNA3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "WSR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "ALS",
+            "name": "알칸타라/천연가죽 시트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HTP",
+            "name": "하이테크 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SIM",
+            "name": "스웨이드 내장재",
+            "requires": [
+              "HTP"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 항속형|익스클루시브 (7인승)",
+      "model": "MEJJ7VAT2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VAT2&purposeCode=J",
+      "basicCount": 89,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉9|EV 항속형|익스클루시브 (7인승)",
+        "model": "MEJJ7VAT2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "7CP",
+            "name": "7인승 컨비니언스 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 항속형|프레스티지 (7인승)",
+      "model": "MEJJ7VBT2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VBT2&purposeCode=J",
+      "basicCount": 114,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉9|EV 항속형|프레스티지 (7인승)",
+        "model": "MEJJ7VBT2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "컴팩트 디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PLA",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 항속형|캘리그래피 (7인승)",
+      "model": "MEJJ7VCT2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VCT2&purposeCode=J",
+      "basicCount": 120,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아이오닉9|EV 항속형|캘리그래피 (7인승)",
+        "model": "MEJJ7VCT2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "컴팩트 디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 항속형 AWD|익스클루시브 (7인승)",
+      "model": "MEJJ7VAA2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VAA2&purposeCode=J",
+      "basicCount": 91,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉9|EV 항속형 AWD|익스클루시브 (7인승)",
+        "model": "MEJJ7VAA2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "7CP",
+            "name": "7인승 컨비니언스 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 항속형 AWD|프레스티지 (7인승)",
+      "model": "MEJJ7VBA2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VBA2&purposeCode=J",
+      "basicCount": 116,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉9|EV 항속형 AWD|프레스티지 (7인승)",
+        "model": "MEJJ7VBA2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "컴팩트 디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PLA",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 항속형 AWD|캘리그래피 (7인승)",
+      "model": "MEJJ7VCA2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VCA2&purposeCode=J",
+      "basicCount": 122,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아이오닉9|EV 항속형 AWD|캘리그래피 (7인승)",
+        "model": "MEJJ7VCA2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "컴팩트 디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 성능형 AWD|익스클루시브 (7인승)",
+      "model": "MEJJ7VAH2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VAH2&purposeCode=J",
+      "basicCount": 91,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉9|EV 성능형 AWD|익스클루시브 (7인승)",
+        "model": "MEJJ7VAH2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BPS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "7CP",
+            "name": "7인승 컨비니언스 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 성능형 AWD|프레스티지 (7인승)",
+      "model": "MEJJ7VBH2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VBH2&purposeCode=J",
+      "basicCount": 116,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|아이오닉9|EV 성능형 AWD|프레스티지 (7인승)",
+        "model": "MEJJ7VBH2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "컴팩트 디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PLA",
+            "name": "플래티넘",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COP",
+            "name": "컴포트 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|아이오닉9|EV 성능형 AWD|캘리그래피 (7인승)",
+      "model": "MEJJ7VCH2",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VCH2&purposeCode=J",
+      "basicCount": 122,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|아이오닉9|EV 성능형 AWD|캘리그래피 (7인승)",
+        "model": "MEJJ7VCH2",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "PAS",
+            "name": "파노라마 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "DSM",
+            "name": "컴팩트 디지털 사이드 미러",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BC2",
+            "name": "빌트인 캠 2(카메라 클리닝 시스템 포함), 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린|스마트",
+      "model": "AXJJ4GAT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 47,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린|스마트",
+        "model": "AXJJ4GAT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CA1",
+            "name": "캐스퍼 액티브Ⅰ",
+            "requires": [],
+            "disables": [
+              "AWP"
+            ]
+          },
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "INP",
+            "name": "인포테인먼트 내비 플러스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "AWP",
+            "name": "17인치 알로이 휠 패키지",
+            "requires": [],
+            "disables": [
+              "CA1"
+            ]
+          },
+          {
+            "code": "AWB",
+            "name": "17인치 알로이 휠 & 타이어",
+            "requires": [
+              "CA1"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "CA1",
+            "to": "AWP",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "AWP",
+            "to": "CA1",
+            "packageContainsTarget": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린|디 에센셜",
+      "model": "AXJJ4GDT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 62,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린|디 에센셜",
+        "model": "AXJJ4GDT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CA1",
+            "name": "캐스퍼 액티브Ⅰ",
+            "requires": [],
+            "disables": [
+              "AWP"
+            ]
+          },
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": [
+              "AWP"
+            ]
+          },
+          {
+            "code": "CO1",
+            "name": "컴포트Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EXT",
+            "name": "익스테리어 디자인",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "AWP",
+            "name": "17인치 알로이 휠 패키지",
+            "requires": [],
+            "disables": [
+              "CA1",
+              "SS1"
+            ]
+          },
+          {
+            "code": "STO",
+            "name": "스토리지",
+            "requires": [
+              "CO1"
+            ],
+            "disables": []
+          },
+          {
+            "code": "AWB",
+            "name": "17인치 알로이 휠 & 타이어",
+            "requires": [
+              "CA1"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "CA1",
+            "to": "AWP",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "SS1",
+            "to": "AWP",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "AWP",
+            "to": "CA1",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "AWP",
+            "to": "SS1",
+            "packageContainsTarget": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린|인스퍼레이션",
+      "model": "AXJJ4GCT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 78,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린|인스퍼레이션",
+        "model": "AXJJ4GCT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CA2",
+            "name": "캐스퍼 액티브Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STO",
+            "name": "스토리지",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CAP",
+            "name": "액티브 플러스",
+            "requires": [
+              "CA2"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 터보|스마트",
+      "model": "AXJJ4TAT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 48,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 터보|스마트",
+        "model": "AXJJ4TAT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "AWB",
+            "name": "17인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "INP",
+            "name": "인포테인먼트 내비 플러스Ⅰ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 터보|디 에센셜",
+      "model": "AXJJ4TDT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 63,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 터보|디 에센셜",
+        "model": "AXJJ4TDT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "AWB",
+            "name": "17인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CO1",
+            "name": "컴포트Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EXT",
+            "name": "익스테리어 디자인",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STO",
+            "name": "스토리지",
+            "requires": [
+              "CO1"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 터보|인스퍼레이션",
+      "model": "AXJJ4TCT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 78,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 터보|인스퍼레이션",
+        "model": "AXJJ4TCT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CAP",
+            "name": "액티브 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "STO",
+            "name": "스토리지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 밴|스마트",
+      "model": "AXJV2GAT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 41,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 밴|스마트",
+        "model": "AXJV2GAT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CA1",
+            "name": "캐스퍼 액티브Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BAS",
+            "name": "베이직 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CO2",
+            "name": "컴포트Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "IP2",
+            "name": "인포테인먼트 내비 플러스Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 밴|스마트 초이스",
+      "model": "AXJV2GHT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 52,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 밴|스마트 초이스",
+        "model": "AXJV2GHT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "CA1",
+            "name": "캐스퍼 액티브Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HIP",
+            "name": "하이패스.",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "IN2",
+            "name": "인포테인먼트 내비Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 터보 밴|스마트",
+      "model": "AXJV2TAT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 42,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 터보 밴|스마트",
+        "model": "AXJV2TAT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "BAS",
+            "name": "베이직 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CO2",
+            "name": "컴포트Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "IP2",
+            "name": "인포테인먼트 내비 플러스Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼|1.0 가솔린 터보 밴|스마트 초이스",
+      "model": "AXJV2THT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/making/model",
+      "basicCount": 53,
+      "choiceCount": 2,
+      "rules": {
+        "key": "현대|캐스퍼|1.0 가솔린 터보 밴|스마트 초이스",
+        "model": "AXJV2THT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HIP",
+            "name": "하이패스.",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "IN2",
+            "name": "인포테인먼트 내비Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼 일렉트릭|EV 42.0kWh|프리미엄",
+      "model": "AXJJ4VPT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/electric/making/model",
+      "basicCount": 68,
+      "choiceCount": 2,
+      "rules": {
+        "key": "현대|캐스퍼 일렉트릭|EV 42.0kWh|프리미엄",
+        "model": "AXJJ4VPT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SS1",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "VAP",
+            "name": "밴 패키지",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|캐스퍼 일렉트릭|EV 49.0kWh|인스퍼레이션",
+      "model": "AXJJ4VCT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/electric/making/model",
+      "basicCount": 86,
+      "choiceCount": 6,
+      "rules": {
+        "key": "현대|캐스퍼 일렉트릭|EV 49.0kWh|인스퍼레이션",
+        "model": "AXJJ4VCT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COM",
+            "name": "컴포트",
+            "requires": [],
+            "disables": [
+              "VAP"
+            ]
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "EXT",
+            "name": "익스테리어 디자인",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "VAP",
+            "name": "밴 패키지",
+            "requires": [],
+            "disables": [
+              "COM"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "COM",
+            "to": "VAP",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "VAP",
+            "to": "COM",
+            "packageContainsTarget": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|캐스퍼 일렉트릭|EV 49.0kWh|크로스",
+      "model": "AXJJ4VKT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/electric/making/model",
+      "basicCount": 88,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|캐스퍼 일렉트릭|EV 49.0kWh|크로스",
+        "model": "AXJJ4VKT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COM",
+            "name": "컴포트",
+            "requires": [],
+            "disables": [
+              "VAP"
+            ]
+          },
+          {
+            "code": "CON",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "VAP",
+            "name": "밴 패키지",
+            "requires": [],
+            "disables": [
+              "COM"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "COM",
+            "to": "VAP",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "VAP",
+            "to": "COM",
+            "packageContainsTarget": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|캐스퍼 일렉트릭|EV 49.0kWh|라운지",
+      "model": "AXJJ4VLT6",
+      "variant": "A",
+      "sourceUrl": "https://casper.hyundai.com/vehicles/electric/making/model",
+      "basicCount": 92,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|캐스퍼 일렉트릭|EV 49.0kWh|라운지",
+        "model": "AXJJ4VLT6",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CNP",
+            "name": "컨비니언스 플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PAA",
+            "name": "파킹 어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COL",
+            "name": "컴포트(라운지전용)",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보|Modern",
+      "model": "SXJJ5TAD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
+      "basicCount": 46,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보|Modern",
+        "model": "SXJJ5TAD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "ECM",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HSO",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "NAP",
+            "name": "내비게이션 패키지Ⅰ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보|H-Pick",
+      "model": "SXJJ5THD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5THD4&purposeCode=J",
+      "basicCount": 58,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보|H-Pick",
+        "model": "SXJJ5THD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "LCD",
+            "name": "클러스터(12.3인치 컬러 LCD)",
+            "requires": [],
+            "disables": [
+              "HS3",
+              "BS2"
+            ]
+          },
+          {
+            "code": "ECM",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS3",
+            "name": "현대 스마트센스Ⅲ",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BS2",
+            "name": "베스트 셀렉션",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "HS3"
+            ]
+          },
+          {
+            "code": "STL",
+            "name": "스타일 Lite",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [
+              "BS2"
+            ],
+            "disables": []
+          },
+          {
+            "code": "CVP",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "LCD",
+            "to": "HS3",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "HS3",
+            "to": "LCD",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS2",
+            "to": "LCD",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS2",
+            "to": "HS3",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보|Premium",
+      "model": "SXJJ5TBD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TBD4&purposeCode=J",
+      "basicCount": 73,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보|Premium",
+        "model": "SXJJ5TBD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "19W",
+            "name": "19인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "LCD",
+            "name": "클러스터(12.3인치 컬러 LCD)",
+            "requires": [],
+            "disables": [
+              "HS3",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS3",
+            "name": "현대 스마트센스Ⅲ",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BS2",
+            "name": "베스트 셀렉션",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "HS3"
+            ]
+          },
+          {
+            "code": "SEP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [
+              "BS2"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "LCD",
+            "to": "HS3",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "HS3",
+            "to": "LCD",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS2",
+            "to": "LCD",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS2",
+            "to": "HS3",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보|Inspiration",
+      "model": "SXJJ5TCD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TCD4&purposeCode=J",
+      "basicCount": 82,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보|Inspiration",
+        "model": "SXJJ5TCD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보|Black Exterior",
+      "model": "SXJJ5TCD4",
+      "variant": "B",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TCD4&purposeCode=J",
+      "basicCount": 83,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보|Black Exterior",
+        "model": "SXJJ5TCD4",
+        "spec": "B",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보 N라인|N Line",
+      "model": "SXJJ5TMD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
+      "basicCount": 78,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보 N라인|N Line",
+        "model": "SXJJ5TMD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보 4WD|Premium",
+      "model": "SXJJ5TBE4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TBE4&purposeCode=J",
+      "basicCount": 76,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보 4WD|Premium",
+        "model": "SXJJ5TBE4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "19W",
+            "name": "19인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "LCD",
+            "name": "클러스터(12.3인치 컬러 LCD)",
+            "requires": [],
+            "disables": [
+              "HS3",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS3",
+            "name": "현대 스마트센스Ⅲ",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BS2",
+            "name": "베스트 셀렉션",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "HS3"
+            ]
+          },
+          {
+            "code": "SEP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [
+              "BS2"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "LCD",
+            "to": "HS3",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "HS3",
+            "to": "LCD",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS2",
+            "to": "LCD",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS2",
+            "to": "HS3",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보 4WD|Inspiration",
+      "model": "SXJJ5TCE4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TCE4&purposeCode=J",
+      "basicCount": 85,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보 4WD|Inspiration",
+        "model": "SXJJ5TCE4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보 4WD|Black Exterior",
+      "model": "SXJJ5TCE4",
+      "variant": "B",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TCE4&purposeCode=J",
+      "basicCount": 86,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보 4WD|Black Exterior",
+        "model": "SXJJ5TCE4",
+        "spec": "B",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나|1.6 가솔린 터보 4WD N라인|N Line",
+      "model": "SXJJ5TME4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
+      "basicCount": 81,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나|1.6 가솔린 터보 4WD N라인|N Line",
+        "model": "SXJJ5TME4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 하이브리드|1.6 HEV|Modern",
+      "model": "SXJJ5ZAD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
+      "basicCount": 49,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|코나 하이브리드|1.6 HEV|Modern",
+        "model": "SXJJ5ZAD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "ECM",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HSO",
+            "name": "현대 스마트센스Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "NA2",
+            "name": "내비게이션 패키지Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 하이브리드|1.6 HEV|H-Pick",
+      "model": "SXJJ5ZHD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZHD4&purposeCode=J",
+      "basicCount": 61,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|코나 하이브리드|1.6 HEV|H-Pick",
+        "model": "SXJJ5ZHD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "LCD",
+            "name": "클러스터(12.3인치 컬러 LCD)",
+            "requires": [],
+            "disables": [
+              "HS3",
+              "BS2"
+            ]
+          },
+          {
+            "code": "ECM",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS3",
+            "name": "현대 스마트센스Ⅲ",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BS2",
+            "name": "베스트 셀렉션",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "HS3"
+            ]
+          },
+          {
+            "code": "STY",
+            "name": "스타일Ⅰ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [
+              "BS2"
+            ],
+            "disables": []
+          },
+          {
+            "code": "CVP",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "LCD",
+            "to": "HS3",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "HS3",
+            "to": "LCD",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS2",
+            "to": "LCD",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS2",
+            "to": "HS3",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|코나 하이브리드|1.6 HEV|Premium",
+      "model": "SXJJ5ZBD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZBD4&purposeCode=J",
+      "basicCount": 76,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|코나 하이브리드|1.6 HEV|Premium",
+        "model": "SXJJ5ZBD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "18W",
+            "name": "18인치 알로이 휠 & 타이어",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "LCD",
+            "name": "클러스터(12.3인치 컬러 LCD)",
+            "requires": [],
+            "disables": [
+              "HS3",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS3",
+            "name": "현대 스마트센스Ⅲ",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "BS2"
+            ]
+          },
+          {
+            "code": "BS2",
+            "name": "베스트 셀렉션",
+            "requires": [],
+            "disables": [
+              "LCD",
+              "HS3"
+            ]
+          },
+          {
+            "code": "SEP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [
+              "BS2"
+            ],
+            "disables": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "LCD",
+            "to": "HS3",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "HS3",
+            "to": "LCD",
+            "packageContainsTarget": false
+          },
+          {
+            "from": "BS2",
+            "to": "LCD",
+            "packageContainsTarget": true
+          },
+          {
+            "from": "BS2",
+            "to": "HS3",
+            "packageContainsTarget": true
+          }
+        ]
+      }
+    },
+    {
+      "key": "현대|코나 하이브리드|1.6 HEV|Inspiration",
+      "model": "SXJJ5ZCD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZCD4&purposeCode=J",
+      "basicCount": 85,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나 하이브리드|1.6 HEV|Inspiration",
+        "model": "SXJJ5ZCD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 하이브리드|1.6 HEV|Black Exterior",
+      "model": "SXJJ5ZCD4",
+      "variant": "B",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZCD4&purposeCode=J",
+      "basicCount": 86,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나 하이브리드|1.6 HEV|Black Exterior",
+        "model": "SXJJ5ZCD4",
+        "spec": "B",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 하이브리드|1.6 HEV N라인|N Line",
+      "model": "SXJJ5ZMD4",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
+      "basicCount": 81,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나 하이브리드|1.6 HEV N라인|N Line",
+        "model": "SXJJ5ZMD4",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SRF",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BOS",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 일렉트릭|Standard|E-Value +",
+      "model": "SXJJ5VES3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
+      "basicCount": 57,
+      "choiceCount": 2,
+      "rules": {
+        "key": "현대|코나 일렉트릭|Standard|E-Value +",
+        "model": "SXJJ5VES3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "ECM",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "COC",
+            "name": "컴포트 초이스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 일렉트릭|Standard|Premium",
+      "model": "SXJJ5VBS3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VBS3&purposeCode=J",
+      "basicCount": 69,
+      "choiceCount": 5,
+      "rules": {
+        "key": "현대|코나 일렉트릭|Standard|Premium",
+        "model": "SXJJ5VBS3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SEP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CVE",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 일렉트릭|Long Range|Premium",
+      "model": "SXJJ5VBR3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VBR3&purposeCode=J",
+      "basicCount": 71,
+      "choiceCount": 8,
+      "rules": {
+        "key": "현대|코나 일렉트릭|Long Range|Premium",
+        "model": "SXJJ5VBR3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SUR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HUD",
+            "name": "헤드업 디스플레이",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "VIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "ST2",
+            "name": "스타일Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "SEP",
+            "name": "시트플러스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "CVE",
+            "name": "컨비니언스",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 일렉트릭|Long Range|Modern Plus",
+      "model": "SXJJ5VPR3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VPR3&purposeCode=J",
+      "basicCount": 65,
+      "choiceCount": 3,
+      "rules": {
+        "key": "현대|코나 일렉트릭|Long Range|Modern Plus",
+        "model": "SXJJ5VPR3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "ECM",
+            "name": "하이패스",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "HS2",
+            "name": "현대 스마트센스Ⅱ",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "ST2",
+            "name": "스타일Ⅱ",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 일렉트릭|Long Range|Inspiration",
+      "model": "SXJJ5VCR3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VCR3&purposeCode=J",
+      "basicCount": 87,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나 일렉트릭|Long Range|Inspiration",
+        "model": "SXJJ5VCR3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SUR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "VIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BSE",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    },
+    {
+      "key": "현대|코나 일렉트릭|Long Range N라인|Inspiration",
+      "model": "SXJJ5VMR3",
+      "variant": "A",
+      "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
+      "basicCount": 86,
+      "choiceCount": 4,
+      "rules": {
+        "key": "현대|코나 일렉트릭|Long Range N라인|Inspiration",
+        "model": "SXJJ5VMR3",
+        "spec": "A",
+        "choices": [
+          {
+            "code": "SUR",
+            "name": "와이드 선루프",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "VIC",
+            "name": "빌트인 캠 2, 증강현실 내비게이션",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "PA1",
+            "name": "파킹어시스트",
+            "requires": [],
+            "disables": []
+          },
+          {
+            "code": "BSE",
+            "name": "BOSE 프리미엄 사운드",
+            "requires": [],
+            "disables": []
+          }
+        ],
+        "edges": []
+      }
+    }
+  ],
+  "verification": {
+    "staticChecks": "passed",
+    "browser": {
+      "passed": true,
+      "trims": 112,
+      "singleChecks": 503,
+      "prerequisiteChecks": 28,
+      "conflictChecks": 32,
+      "packageReplacements": 21
+    }
+  },
+  "fixedMissingImageReferences": [
+    {
+      "key": "현대|그랜저|2.5 가솔린|캘리그래피",
+      "id": "grandeur-calligraphy-choice-004",
+      "name": "시트 컴포트 플러스",
+      "path": "blind-spot.webp"
+    },
+    {
+      "key": "현대|그랜저|2.5 가솔린|캘리그래피",
+      "id": "grandeur-calligraphy-choice-005",
+      "name": "스마트 비전 루프",
+      "path": "panoramic-roof.webp"
+    }
+  ],
+  "duplicateOptionIdsFixed": 1
+}

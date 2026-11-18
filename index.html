@@ -44,7 +44,7 @@
     <link rel="stylesheet" href="css/common.css">
     <link rel="stylesheet" href="css/layer.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
-    <link rel="stylesheet" href="css/style.css?v=20261113-estimate-option-right-24">
+    <link rel="stylesheet" href="css/style.css?v=20261118-option-sticky-header-5">
   <!-- 차량별 직접 링크는 준비 완료 전까지 로딩 커버를 유지합니다. -->
   <script>
     if (new URLSearchParams(location.search).has("car")) {
@@ -273,17 +273,21 @@
 
   <dialog class="option-detail-dialog" id="optionDetailDialog" aria-labelledby="optionDetailTitle" aria-describedby="optionDetailDescription">
     <div class="option-detail-dialog__panel">
-      <div class="option-detail-dialog__head">
-        <span>OPTION DETAIL</span>
-        <button type="button" id="optionDetailClose" aria-label="설명 닫기">×</button>
+      <header class="option-detail-dialog__header">
+        <div class="option-detail-dialog__head">
+          <span>OPTION DETAIL</span>
+          <button type="button" id="optionDetailClose" aria-label="설명 닫기">×</button>
+        </div>
+        <h2 id="optionDetailTitle"></h2>
+      </header>
+      <div class="option-detail-dialog__body">
+        <p id="optionDetailDescription"></p>
+        <dl>
+          <div><dt>옵션 가격</dt><dd id="optionDetailPrice"></dd></div>
+          <div><dt>자료 참고</dt><dd id="optionDetailSource"></dd></div>
+        </dl>
+        <small>이미지는 참고용이며 연식·차종·트림별 세부 사양과 실제 구성을 제조사 가격표에서 확인해 주세요.</small>
       </div>
-      <h2 id="optionDetailTitle"></h2>
-      <p id="optionDetailDescription"></p>
-      <dl>
-        <div><dt>옵션 가격</dt><dd id="optionDetailPrice"></dd></div>
-        <div><dt>자료 참고</dt><dd id="optionDetailSource"></dd></div>
-      </dl>
-      <small>이미지는 참고용이며 연식·차종·트림별 세부 사양과 실제 구성을 제조사 가격표에서 확인해 주세요.</small>
     </div>
   </dialog>
 
@@ -432,9 +436,9 @@
   </dialog>
 
   <script src="js/traffic-tracker.js?v=20261027"></script>
-  <script src="js/trim-reference-data.js?v=20261029-kia5-upgrade-ui-02"></script>
-  <script src="js/options-config.js?v=20261113-option-category-toggle-15"></script>
-  <script src="js/script.js?v=20261113-estimate-option-spacing-22"></script>
+  <script src="js/trim-reference-data.js?v=20261116-avante-engine-04"></script>
+  <script src="js/options-config.js?v=20261118-kia-ev5-1"></script>
+  <script src="js/script.js?v=20261118-kia-choice-categories-1"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   <script src="js/reviews.js?v=20261106-review-loop-v1"></script>
 
