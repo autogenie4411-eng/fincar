@@ -2,11 +2,11 @@
   "retrievedDate": "2026-11-16",
   "entries": [
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|프리미엄",
+      "key": "현대|쏘나타|1.6 가솔린 터보|Premium",
       "brand": "현대",
       "carName": "쏘나타",
       "engine": "1.6 가솔린 터보",
-      "siteTrimName": "프리미엄",
+      "siteTrimName": "Premium",
       "model": {
         "saleMdlCd": "DNJS4RBT8",
         "carAbbreviation": "DN",
@@ -748,11 +748,11 @@
       "sourceVariantCode": "A"
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|에스",
+      "key": "현대|쏘나타|1.6 가솔린 터보|S",
       "brand": "현대",
       "carName": "쏘나타",
       "engine": "1.6 가솔린 터보",
-      "siteTrimName": "에스",
+      "siteTrimName": "S",
       "model": {
         "saleMdlCd": "DNJS4RUT8",
         "carAbbreviation": "DN",
@@ -1352,11 +1352,11 @@
       ]
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|익스클루시브",
+      "key": "현대|쏘나타|1.6 가솔린 터보|Exclusive",
       "brand": "현대",
       "carName": "쏘나타",
       "engine": "1.6 가솔린 터보",
-      "siteTrimName": "익스클루시브",
+      "siteTrimName": "Exclusive",
       "model": {
         "saleMdlCd": "DNJS4RCT8",
         "carAbbreviation": "DN",
@@ -2016,11 +2016,11 @@
       ]
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|인스퍼레이션",
+      "key": "현대|쏘나타|1.6 가솔린 터보|Inspiration",
       "brand": "현대",
       "carName": "쏘나타",
       "engine": "1.6 가솔린 터보",
-      "siteTrimName": "인스퍼레이션",
+      "siteTrimName": "Inspiration",
       "model": {
         "saleMdlCd": "DNJS4RET8",
         "carAbbreviation": "DN",
@@ -2753,11 +2753,11 @@
       ]
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|프리미엄",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|Premium",
       "brand": "현대",
       "carName": "쏘나타 하이브리드",
       "engine": "2.0 HEV",
-      "siteTrimName": "프리미엄",
+      "siteTrimName": "Premium",
       "model": {
         "saleMdlCd": "DNJS4ZBT8",
         "carAbbreviation": "DN",
@@ -3511,11 +3511,11 @@
       "sourceVariantCode": "A"
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|에스",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|S",
       "brand": "현대",
       "carName": "쏘나타 하이브리드",
       "engine": "2.0 HEV",
-      "siteTrimName": "에스",
+      "siteTrimName": "S",
       "model": {
         "saleMdlCd": "DNJS4ZUT8",
         "carAbbreviation": "DN",
@@ -4121,11 +4121,11 @@
       ]
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|익스클루시브",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|Exclusive",
       "brand": "현대",
       "carName": "쏘나타 하이브리드",
       "engine": "2.0 HEV",
-      "siteTrimName": "익스클루시브",
+      "siteTrimName": "Exclusive",
       "model": {
         "saleMdlCd": "DNJS4ZCT8",
         "carAbbreviation": "DN",
@@ -4791,11 +4791,11 @@
       ]
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|인스퍼레이션",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|Inspiration",
       "brand": "현대",
       "carName": "쏘나타 하이브리드",
       "engine": "2.0 HEV",
-      "siteTrimName": "인스퍼레이션",
+      "siteTrimName": "Inspiration",
       "model": {
         "saleMdlCd": "DNJS4ZET8",
         "carAbbreviation": "DN",

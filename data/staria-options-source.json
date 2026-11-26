@@ -2,7 +2,7 @@
   "retrievedDate": "2026-11-16",
   "models": [
     {
-      "siteTrimName": "스마트 (11인승)",
+      "siteTrimName": "Smart (11인승)",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
       "model": {
         "saleMdlCd": "USJTBLST4",
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "siteTrimName": "모던 (11인승)",
+      "siteTrimName": "Modern (11인승)",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
       "model": {
         "saleMdlCd": "USJTBLMT4",

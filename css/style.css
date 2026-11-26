@@ -2723,33 +2723,6 @@ body:has(.wizard-page) {
     color: #98a2b3;
     font-size: var(--font-size-base);
 }
-.wizard-car-card .chosen-paint .paint-surcharge {
-    margin-left: 4px;
-    color: #3267ff;
-    font-size: inherit;
-    line-height: inherit;
-    font-weight: 700;
-    white-space: nowrap;
-}
-.paint-surcharge--header {
-    display: none;
-}
-@media (max-width: 600px) {
-    .wizard-car-card .chosen-paint .paint-surcharge {
-        display: none;
-    }
-    .paint-label .paint-surcharge--header:not([hidden]) {
-        display: block;
-        margin-left: auto;
-        color: #3267ff;
-        font-size: 11px;
-        font-weight: 700;
-        white-space: nowrap;
-    }
-    .has-paint-surcharge .paint-swipe-guide {
-        display: none;
-    }
-}
 .selected-vehicle {
     background: #f5f8fc;
     border: 1px solid #dfe6ee;
@@ -4299,8 +4272,35 @@ body.is-loading {
 
 .engine-model-main:disabled,
 .sub-trim-item:disabled {
-    opacity: 0.45;
     cursor: not-allowed;
+}
+
+.engine-model-main:disabled strong,
+.engine-model-main:disabled .radio-ui,
+.sub-trim-item:disabled strong,
+.sub-trim-item:disabled .radio-ui {
+    opacity: 0.45;
+}
+
+.model-selection-label {
+    display: flex;
+    flex: 1;
+    min-width: 0;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding-block: 10px;
+}
+
+.paint-unavailable-note {
+    flex-shrink: 0;
+    margin-left: auto;
+    color: #667085;
+    font-size: var(--font-12);
+    font-weight: 500;
+    line-height: 1.5;
+    white-space: nowrap;
+    text-align: right;
 }
 
 .engine-model-card {
@@ -5321,9 +5321,39 @@ body.loader-active {
             calc(var(--brand-x) + var(--car-x-add)),
             calc(var(--brand-y) + var(--car-y-add))
         )
-        scale(calc(var(--brand-scale) + var(--car-scale-add))) !important;
+        scale(calc(var(--brand-scale) + var(--car-scale-add)))
+        translate(var(--paint-align-x, 0%), var(--paint-align-y, 0%))
+        scale(var(--paint-align-scale, 1)) !important;
 
     transform-origin: center bottom !important;
+}
+
+/* 신규 외장색: 기존 색상의 차체 폭·중심·바닥선에 맞춘 원본 캔버스 보정 */
+.wizard-car-image--staged img:is(
+    [src*="아이오닉5-얼티메이트 레드 메탈릭.webp"],
+    [src*="%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%895-%EC%96%BC%ED%8B%B0%EB%A9%94%EC%9D%B4%ED%8A%B8%20%EB%A0%88%EB%93%9C%20%EB%A9%94%ED%83%88%EB%A6%AD.webp"]
+) {
+    --paint-align-x: 0%;
+    --paint-align-y: 0.1159461781%;
+    --paint-align-scale: 0.997995992;
+}
+
+.wizard-car-image--staged img:is(
+    [src*="아이오닉6-트랜스미션 블루 매트.webp"],
+    [src*="%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%896-%ED%8A%B8%EB%9E%9C%EC%8A%A4%EB%AF%B8%EC%85%98%20%EB%B8%94%EB%A3%A8%20%EB%A7%A4%ED%8A%B8.webp"]
+) {
+    --paint-align-x: 0.25%;
+    --paint-align-y: 0.4285714286%;
+    --paint-align-scale: 1;
+}
+
+.wizard-car-image--staged img:is(
+    [src*="싼타페-크리미 화이트 매트.webp"],
+    [src*="%EC%8B%BC%ED%83%80%ED%8E%98-%ED%81%AC%EB%A6%AC%EB%AF%B8%20%ED%99%94%EC%9D%B4%ED%8A%B8%20%EB%A7%A4%ED%8A%B8.webp"]
+) {
+    --paint-align-x: -0.0833333333%;
+    --paint-align-y: 0.1428571429%;
+    --paint-align-scale: 1;
 }
 
 /* 자체 배경이 있는 차량 이미지 적용 */

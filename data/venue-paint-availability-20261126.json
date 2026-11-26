@@ -1,0 +1,233 @@
+{
+  "checkedAt": "2026-11-26",
+  "results": [
+    {
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
+      "trim": "Smart",
+      "colors": [
+        {
+          "name": "퀀텀 실버 펄",
+          "code": "QGP",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "에코트로닉 그레이펄",
+          "code": "PE2",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "쉬머링 실버 메탈릭",
+          "code": "R2T",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "어비스 블랙 펄",
+          "code": "A2B",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "미라지 그린",
+          "code": "RRR",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "데님 블루 펄",
+          "code": "TN6",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "아틀라스 화이트",
+          "code": "SAW",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "에코트로닉 그레이펄(투톤)",
+          "code": "PE0",
+          "choiceYn": "N"
+        },
+        {
+          "name": "어비스블랙펄(초크화이트)",
+          "code": "A23",
+          "choiceYn": "N"
+        },
+        {
+          "name": "쉬머링실버(어비스블랙투톤)",
+          "code": "RT0",
+          "choiceYn": "N"
+        },
+        {
+          "name": "더데님블루펄(초크화이트)",
+          "code": "TN3",
+          "choiceYn": "N"
+        },
+        {
+          "name": "퀀텀실버펄(투톤)",
+          "code": "PP2",
+          "choiceYn": "N"
+        },
+        {
+          "name": "미라지 그린 (투톤)",
+          "code": "RR0",
+          "choiceYn": "N"
+        },
+        {
+          "name": "아틀라스 화이트(투톤)",
+          "code": "SA0",
+          "choiceYn": "N"
+        }
+      ]
+    },
+    {
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
+      "trim": "PREMIUM",
+      "colors": [
+        {
+          "name": "퀀텀 실버 펄",
+          "code": "QGP",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "에코트로닉 그레이펄",
+          "code": "PE2",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "쉬머링 실버 메탈릭",
+          "code": "R2T",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "어비스 블랙 펄",
+          "code": "A2B",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "미라지 그린",
+          "code": "RRR",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "데님 블루 펄",
+          "code": "TN6",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "에코트로닉 그레이펄(투톤)",
+          "code": "PE0",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "어비스블랙펄(초크화이트)",
+          "code": "A23",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "쉬머링실버(어비스블랙투톤)",
+          "code": "RT0",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "더데님블루펄(초크화이트)",
+          "code": "TN3",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "퀀텀실버펄(투톤)",
+          "code": "PP2",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "미라지 그린 (투톤)",
+          "code": "RR0",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "아틀라스 화이트",
+          "code": "SAW",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "아틀라스 화이트(투톤)",
+          "code": "SA0",
+          "choiceYn": "Y"
+        }
+      ]
+    },
+    {
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GFC6&purposeCode=J",
+      "trim": "FLUX",
+      "colors": [
+        {
+          "name": "퀀텀 실버 펄",
+          "code": "QGP",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "에코트로닉 그레이펄",
+          "code": "PE2",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "어비스 블랙 펄",
+          "code": "A2B",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "미라지 그린",
+          "code": "RRR",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "데님 블루 펄",
+          "code": "TN6",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "에코트로닉 그레이펄(투톤)",
+          "code": "PE0",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "어비스블랙펄(초크화이트)",
+          "code": "A23",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "더데님블루펄(초크화이트)",
+          "code": "TN3",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "퀀텀실버펄(투톤)",
+          "code": "PP2",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "미라지 그린 (투톤)",
+          "code": "RR0",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "아틀라스 화이트",
+          "code": "SAW",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "아틀라스 화이트(투톤)",
+          "code": "SA0",
+          "choiceYn": "Y"
+        },
+        {
+          "name": "쉬머링 실버 메탈릭",
+          "code": "R2T",
+          "choiceYn": "N"
+        },
+        {
+          "name": "쉬머링실버(어비스블랙투톤)",
+          "code": "RT0",
+          "choiceYn": "N"
+        }
+      ]
+    }
+  ]
+}

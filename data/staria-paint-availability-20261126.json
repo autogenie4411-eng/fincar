@@ -1,0 +1,253 @@
+{
+  "checkedAt": "2026-11-26",
+  "results": [
+    {
+      "car": "staria",
+      "trim": "스마트 (11인승)",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
+      "officialTrim": "Smart",
+      "colors": [
+        {
+          "saleModelCode": "USJTBLST4",
+          "exteriorColorCode": "CBP",
+          "exteriorColorName": "클래지 블루 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 0
+        },
+        {
+          "saleModelCode": "USJTBLST4",
+          "exteriorColorCode": "PE2",
+          "exteriorColorName": "에코트로닉 그레이펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 1
+        },
+        {
+          "saleModelCode": "USJTBLST4",
+          "exteriorColorCode": "R2T",
+          "exteriorColorName": "쉬머링 실버 메탈릭",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 2
+        },
+        {
+          "saleModelCode": "USJTBLST4",
+          "exteriorColorCode": "NFA",
+          "exteriorColorName": "다이나믹 옐로우",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 3
+        },
+        {
+          "saleModelCode": "USJTBLST4",
+          "exteriorColorCode": "A2B",
+          "exteriorColorName": "어비스 블랙 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 4
+        },
+        {
+          "saleModelCode": "USJTBLST4",
+          "exteriorColorCode": "YAC",
+          "exteriorColorName": "크리미 화이트",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "car": "staria",
+      "trim": "모던 (11인승)",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
+      "officialTrim": "Modern",
+      "colors": [
+        {
+          "saleModelCode": "USJTBLMT4",
+          "exteriorColorCode": "CBP",
+          "exteriorColorName": "클래지 블루 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 0
+        },
+        {
+          "saleModelCode": "USJTBLMT4",
+          "exteriorColorCode": "PE2",
+          "exteriorColorName": "에코트로닉 그레이펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 1
+        },
+        {
+          "saleModelCode": "USJTBLMT4",
+          "exteriorColorCode": "R2T",
+          "exteriorColorName": "쉬머링 실버 메탈릭",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 2
+        },
+        {
+          "saleModelCode": "USJTBLMT4",
+          "exteriorColorCode": "NFA",
+          "exteriorColorName": "다이나믹 옐로우",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 3
+        },
+        {
+          "saleModelCode": "USJTBLMT4",
+          "exteriorColorCode": "A2B",
+          "exteriorColorName": "어비스 블랙 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 4
+        },
+        {
+          "saleModelCode": "USJTBLMT4",
+          "exteriorColorCode": "YAC",
+          "exteriorColorName": "크리미 화이트",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "car": "staria-hybrid",
+      "trim": "스마트 (11인승)",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
+      "officialTrim": "Smart",
+      "colors": [
+        {
+          "saleModelCode": "USJTBZST4",
+          "exteriorColorCode": "CBP",
+          "exteriorColorName": "클래지 블루 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 0
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "exteriorColorCode": "PE2",
+          "exteriorColorName": "에코트로닉 그레이펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 1
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "exteriorColorCode": "R2T",
+          "exteriorColorName": "쉬머링 실버 메탈릭",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 2
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "exteriorColorCode": "NFA",
+          "exteriorColorName": "다이나믹 옐로우",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 3
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "exteriorColorCode": "A2B",
+          "exteriorColorName": "어비스 블랙 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 4
+        },
+        {
+          "saleModelCode": "USJTBZST4",
+          "exteriorColorCode": "YAC",
+          "exteriorColorName": "크리미 화이트",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "car": "staria-hybrid",
+      "trim": "모던 (11인승)",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
+      "officialTrim": "Modern",
+      "colors": [
+        {
+          "saleModelCode": "USJTBZMT4",
+          "exteriorColorCode": "CBP",
+          "exteriorColorName": "클래지 블루 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 0
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "exteriorColorCode": "PE2",
+          "exteriorColorName": "에코트로닉 그레이펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 1
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "exteriorColorCode": "R2T",
+          "exteriorColorName": "쉬머링 실버 메탈릭",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 2
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "exteriorColorCode": "NFA",
+          "exteriorColorName": "다이나믹 옐로우",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 3
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "exteriorColorCode": "A2B",
+          "exteriorColorName": "어비스 블랙 펄",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 4
+        },
+        {
+          "saleModelCode": "USJTBZMT4",
+          "exteriorColorCode": "YAC",
+          "exteriorColorName": "크리미 화이트",
+          "choiceYn": "Y",
+          "exteriorColorPrice": "0",
+          "applyFinishDateYn": "N",
+          "index": 5
+        }
+      ]
+    }
+  ]
+}

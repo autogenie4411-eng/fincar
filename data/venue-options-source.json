@@ -2,7 +2,7 @@
   "retrievedDate": "2026-11-16",
   "models": [
     {
-      "siteTrimName": "스마트",
+      "siteTrimName": "Smart",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
       "model": {
         "saleMdlCd": "QXJJ5GAC6",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "siteTrimName": "프리미엄",
+      "siteTrimName": "PREMIUM",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
       "model": {
         "saleMdlCd": "QXJJ5GDC6",

@@ -1607,6 +1607,20 @@
     },
     {
       "brand": "현대",
+      "car": "아이오닉5",
+      "paint": "얼티메이트 레드 메탈릭",
+      "paintId": "paint-607",
+      "surcharge": 0,
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf"
+      ],
+      "officialNames": [
+        "얼티메이트 레드 메탈릭"
+      ],
+      "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf"
+    },
+    {
+      "brand": "현대",
       "car": "아이오닉6",
       "paint": "그래비티 골드 매트",
       "paintId": "paint-435",
@@ -1760,6 +1774,20 @@
         "트랜스미션블루펄"
       ],
       "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VHD3&purposeCode=J"
+    },
+    {
+      "brand": "현대",
+      "car": "아이오닉6",
+      "paint": "트랜스미션 블루 매트",
+      "paintId": "paint-608",
+      "surcharge": 200000,
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf"
+      ],
+      "officialNames": [
+        "트랜스미션 블루 매트"
+      ],
+      "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf"
     },
     {
       "brand": "현대",
@@ -2461,37 +2489,31 @@
     },
     {
       "brand": "현대",
+      "car": "코나 일렉트릭",
+      "paint": "메타 블루 펄",
+      "paintId": "paint-609",
+      "surcharge": 0,
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf"
+      ],
+      "officialNames": [
+        "메타 블루 펄"
+      ],
+      "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf"
+    },
+    {
+      "brand": "현대",
       "car": "투싼",
       "paint": "쉬머링 실버 메탈릭",
       "paintId": "paint-459",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
         "쉬머링 실버 메탈릭"
       ],
-      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J"
-    },
-    {
-      "brand": "현대",
-      "car": "투싼",
-      "paint": "아마존 그레이 메탈릭",
-      "paintId": "paint-460",
-      "surcharge": 0,
-      "sources": [
-        "https://www.hyundai.com/contents/repn-car/catalog/tucson-2026-price.pdf"
-      ],
-      "officialNames": [
-        "아마존 그레이 메탈릭"
-      ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.hyundai.com/contents/repn-car/catalog/tucson-2026-price.pdf"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
@@ -2500,32 +2522,40 @@
       "paintId": "paint-461",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
-        "에코트로닉 그레이펄"
+        "에코트로닉 그레이 펄"
       ],
-      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
       "car": "투싼",
-      "paint": "크리미 화이트 펄",
-      "paintId": "paint-462",
+      "paint": "드리프트우드 그레이 메탈릭",
+      "paintId": "paint-610",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/contents/repn-car/catalog/tucson-2026-price.pdf"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
-        "크리미 화이트 펄"
+        "드리프트우드 그레이 메탈릭"
       ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.hyundai.com/contents/repn-car/catalog/tucson-2026-price.pdf"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paint": "고요 카퍼 펄",
+      "paintId": "paint-611",
+      "surcharge": 0,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "고요 카퍼 펄"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
@@ -2534,17 +2564,54 @@
       "paintId": "paint-463",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
         "팬텀 블랙 펄"
       ],
-      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paint": "세레니티 화이트 펄",
+      "paintId": "paint-612",
+      "surcharge": 100000,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "세레니티 화이트 펄"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paint": "레드록 오렌지 매트",
+      "paintId": "paint-613",
+      "surcharge": 300000,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "레드록 오렌지 매트"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paint": "드리프트우드 그레이 매트",
+      "paintId": "paint-614",
+      "surcharge": 300000,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "드리프트우드 그레이 매트"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
@@ -2553,32 +2620,12 @@
       "paintId": "paint-568",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
         "쉬머링 실버 메탈릭"
       ],
-      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J"
-    },
-    {
-      "brand": "현대",
-      "car": "투싼 하이브리드",
-      "paint": "아마존 그레이 메탈릭",
-      "paintId": "paint-569",
-      "surcharge": 0,
-      "sources": [
-        "https://www.hyundai.com/contents/repn-car/catalog/tucson-hybrid-2026-price.pdf"
-      ],
-      "officialNames": [
-        "아마존 그레이 메탈릭"
-      ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.hyundai.com/contents/repn-car/catalog/tucson-hybrid-2026-price.pdf"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
@@ -2587,32 +2634,40 @@
       "paintId": "paint-570",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
-        "에코트로닉 그레이펄"
+        "에코트로닉 그레이 펄"
       ],
-      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
       "car": "투싼 하이브리드",
-      "paint": "크리미 화이트 펄",
-      "paintId": "paint-571",
+      "paint": "드리프트우드 그레이 메탈릭",
+      "paintId": "paint-615",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/contents/repn-car/catalog/tucson-hybrid-2026-price.pdf"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
-        "크리미 화이트 펄"
+        "드리프트우드 그레이 메탈릭"
       ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.hyundai.com/contents/repn-car/catalog/tucson-hybrid-2026-price.pdf"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paint": "고요 카퍼 펄",
+      "paintId": "paint-616",
+      "surcharge": 0,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "고요 카퍼 펄"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
@@ -2621,32 +2676,68 @@
       "paintId": "paint-572",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "officialNames": [
         "팬텀 블랙 펄"
       ],
-      "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J"
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paint": "세레니티 화이트 펄",
+      "paintId": "paint-617",
+      "surcharge": 100000,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "세레니티 화이트 펄"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paint": "레드록 오렌지 매트",
+      "paintId": "paint-618",
+      "surcharge": 300000,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "레드록 오렌지 매트"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paint": "드리프트우드 그레이 매트",
+      "paintId": "paint-619",
+      "surcharge": 300000,
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "officialNames": [
+        "드리프트우드 그레이 매트"
+      ],
+      "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
     },
     {
       "brand": "현대",
       "car": "팰리세이드",
-      "paint": "갤럭시 마룬 펄",
-      "paintId": "paint-464",
+      "paint": "타이탄 차콜 펄",
+      "paintId": "paint-620",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/contents/repn-car/catalog/palisade-2025-price.pdf"
+        "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf"
       ],
       "officialNames": [
-        "갤럭시 마룬 펄"
+        "타이탄 차콜 펄"
       ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-2025-price.pdf"
+      "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf"
     },
     {
       "brand": "현대",
@@ -2799,17 +2890,16 @@
     {
       "brand": "현대",
       "car": "팰리세이드 하이브리드",
-      "paint": "갤럭시 마룬 펄",
-      "paintId": "paint-573",
+      "paint": "타이탄 차콜 펄",
+      "paintId": "paint-621",
       "surcharge": 0,
       "sources": [
-        "https://www.hyundai.com/contents/repn-car/catalog/palisade-hybrid-2025-price.pdf"
+        "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf"
       ],
       "officialNames": [
-        "갤럭시 마룬 펄"
+        "타이탄 차콜 펄"
       ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-hybrid-2025-price.pdf"
+      "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf"
     },
     {
       "brand": "현대",
@@ -3379,21 +3469,6 @@
     {
       "brand": "제네시스",
       "car": "G70",
-      "paint": "바트나 그레이",
-      "paintId": "paint-318",
-      "surcharge": 0,
-      "sources": [
-        "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/exterior"
-      ],
-      "officialNames": [
-        "바트나 그레이"
-      ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g70/bto/exterior"
-    },
-    {
-      "brand": "제네시스",
-      "car": "G70",
       "paint": "본드 실버",
       "paintId": "paint-319",
       "surcharge": 690000,
@@ -3502,21 +3577,6 @@
         "마칼루 그레이"
       ],
       "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JJ7B"
-    },
-    {
-      "brand": "제네시스",
-      "car": "G80",
-      "paint": "바트나 그레이",
-      "paintId": "paint-335",
-      "surcharge": 0,
-      "sources": [
-        "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g80/bto/exterior"
-      ],
-      "officialNames": [
-        "바트나 그레이"
-      ],
-      "note": "기존 이미지 색상 유지. 최신 견적에 미노출되는 기존 유광 색상으로 추가금을 임의 부과하지 않음",
-      "source": "https://www.genesis.com/kr/ko/models/luxury-sedan-genesis/g80/bto/exterior"
     },
     {
       "brand": "제네시스",
@@ -4221,7 +4281,7 @@
     {
       "brand": "제네시스",
       "car": "GV80",
-      "paint": "메테호른 화이트",
+      "paint": "마테호른 화이트",
       "paintId": "paint-377",
       "surcharge": 1000000,
       "sources": [
@@ -4315,6 +4375,62 @@
         "우유니 화이트"
       ],
       "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JXNB"
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paint": "트롬소 그린",
+      "paintId": "paint-622",
+      "surcharge": 0,
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "officialNames": [
+        "트롬소 그린"
+      ],
+      "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paint": "카디프 그린",
+      "paintId": "paint-623",
+      "surcharge": 0,
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "officialNames": [
+        "카디프 그린"
+      ],
+      "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paint": "세이셸 베이지",
+      "paintId": "paint-624",
+      "surcharge": 0,
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "officialNames": [
+        "세이셸 베이지"
+      ],
+      "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paint": "브런즈윅 그린",
+      "paintId": "paint-625",
+      "surcharge": 1000000,
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "officialNames": [
+        "브런즈윅 그린"
+      ],
+      "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
     },
     {
       "brand": "기아",
@@ -6373,7 +6489,7 @@
     {
       "brand": "KGM",
       "car": "무쏘",
-      "paint": "샌드스톤 베이지",
+      "paint": "샌드 베이지",
       "paintId": "paint-26",
       "surcharge": 0,
       "sources": [
@@ -7192,34 +7308,6 @@
     {
       "brand": "르노",
       "car": "그랑 콜레오스",
-      "paint": "미네랄 코퍼",
-      "paintId": "paint-186",
-      "surcharge": 200000,
-      "sources": [
-        "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-      ],
-      "officialNames": [
-        "미네랄 코퍼"
-      ],
-      "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스",
-      "paint": "새틴 어반 그레이",
-      "paintId": "paint-187",
-      "surcharge": 500000,
-      "sources": [
-        "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-      ],
-      "officialNames": [
-        "새틴 어반 그레이"
-      ],
-      "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스",
       "paint": "새틴 유니버스 화이트",
       "paintId": "paint-188",
       "surcharge": 500000,
@@ -7272,34 +7360,6 @@
         "메탈릭 블랙"
       ],
       "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202611.pdf"
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스 하이브리드 E-Tech",
-      "paint": "미네랄 코퍼",
-      "paintId": "paint-583",
-      "surcharge": 200000,
-      "sources": [
-        "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-      ],
-      "officialNames": [
-        "미네랄 코퍼"
-      ],
-      "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스 하이브리드 E-Tech",
-      "paint": "새틴 어반 그레이",
-      "paintId": "paint-584",
-      "surcharge": 500000,
-      "sources": [
-        "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
-      ],
-      "officialNames": [
-        "새틴 어반 그레이"
-      ],
-      "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
     },
     {
       "brand": "르노",

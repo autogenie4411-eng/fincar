@@ -1,0 +1,2002 @@
+{
+  "checkedAt": "2026-11-25",
+  "basis": "현대자동차 공식 내 차 만들기 외장색상 표시 순서",
+  "records": [
+    {
+      "car": "그랜저",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN11&modelCode=GNJS4RAT4&purposeCode=J",
+      "model": "GN11",
+      "colors": [
+        {
+          "code": "NY9",
+          "name": "트랜스미션블루펄"
+        },
+        {
+          "code": "T4A",
+          "name": "에어로 실버 메탈릭"
+        },
+        {
+          "code": "T2G",
+          "name": "녹턴 그레이 메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "XB9",
+          "name": "바이오필릭블루펄"
+        },
+        {
+          "code": "WBP",
+          "name": "아티스널 버건디 펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "T9M",
+          "name": "녹턴그레이매트"
+        },
+        {
+          "code": "M7D",
+          "name": "트랜스미션블루매트"
+        },
+        {
+          "code": "WBM",
+          "name": "아티스널 버건디 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-393",
+          "name": "트랜스미션 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-391",
+          "name": "에어로 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-385",
+          "name": "녹턴 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-390",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-386",
+          "name": "바이오필릭 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-388",
+          "name": "아티스널 버건디 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-387",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-384",
+          "name": "녹턴 그레이 매트(무광 컬러)",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-392",
+          "name": "트랜스미션 블루 매트(무광 컬러)",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-389",
+          "name": "아티스널 버건디 펄(무광컬러)",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "그랜저 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GN12&modelCode=GNJS4ZAT4&purposeCode=J",
+      "model": "GN12",
+      "colors": [
+        {
+          "code": "NY9",
+          "name": "트랜스미션블루펄"
+        },
+        {
+          "code": "T4A",
+          "name": "에어로 실버 메탈릭"
+        },
+        {
+          "code": "T2G",
+          "name": "녹턴 그레이 메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "XB9",
+          "name": "바이오필릭블루펄"
+        },
+        {
+          "code": "WBP",
+          "name": "아티스널 버건디 펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "T9M",
+          "name": "녹턴그레이매트"
+        },
+        {
+          "code": "M7D",
+          "name": "트랜스미션블루매트"
+        },
+        {
+          "code": "WBM",
+          "name": "아티스널 버건디 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-524",
+          "name": "트랜스미션 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-522",
+          "name": "에어로 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-516",
+          "name": "녹턴 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-521",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-517",
+          "name": "바이오필릭 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-519",
+          "name": "아티스널 버건디 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-518",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-515",
+          "name": "녹턴 그레이 매트(무광 컬러)",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-523",
+          "name": "트랜스미션 블루 매트(무광 컬러)",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-520",
+          "name": "아티스널 버건디 펄(무광컬러)",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "베뉴",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
+      "model": "QX07",
+      "colors": [
+        {
+          "code": "QGP",
+          "name": "퀀텀 실버 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "RRR",
+          "name": "미라지 그린"
+        },
+        {
+          "code": "TN6",
+          "name": "데님 블루 펄"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "PE0",
+          "name": "에코트로닉 그레이펄(투톤)"
+        },
+        {
+          "code": "A23",
+          "name": "어비스블랙펄(초크화이트)"
+        },
+        {
+          "code": "RT0",
+          "name": "쉬머링실버(어비스블랙투톤)"
+        },
+        {
+          "code": "TN3",
+          "name": "더데님블루펄(초크화이트)"
+        },
+        {
+          "code": "PP2",
+          "name": "퀀텀실버펄(투톤)"
+        },
+        {
+          "code": "RR0",
+          "name": "미라지 그린 (투톤)"
+        },
+        {
+          "code": "SA0",
+          "name": "아틀라스 화이트(투톤)"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-400",
+          "name": "퀀텀 실버 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-399",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-396",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-398",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-395",
+          "name": "미라지 그린",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-394",
+          "name": "데님 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-397",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "스타리아",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
+      "model": "US30",
+      "colors": [
+        {
+          "code": "CBP",
+          "name": "클래지 블루 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "NFA",
+          "name": "다이나믹 옐로우"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "YAC",
+          "name": "크리미 화이트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-406",
+          "name": "클래지 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-404",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-402",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-401",
+          "name": "다이나믹 옐로우",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-403",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-405",
+          "name": "크리미 화이트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "스타리아 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
+      "model": "US33",
+      "colors": [
+        {
+          "code": "CBP",
+          "name": "클래지 블루 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "NFA",
+          "name": "다이나믹 옐로우"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "YAC",
+          "name": "크리미 화이트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-530",
+          "name": "클래지 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-528",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-526",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-525",
+          "name": "다이나믹 옐로우",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-527",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-529",
+          "name": "크리미 화이트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "싼타페",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX07&modelCode=MXJJ5TCT3&purposeCode=J",
+      "model": "MX07",
+      "colors": [
+        {
+          "code": "RS2",
+          "name": "사이버 세이지 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "WW2",
+          "name": "크리미 화이트 펄"
+        },
+        {
+          "code": "YBM",
+          "name": "얼씨 브레스 메탈릭 (매트)"
+        },
+        {
+          "code": "WWM",
+          "name": "크리미 화이트 (매트)"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-407",
+          "name": "사이버 세이지 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-410",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-408",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-411",
+          "name": "크리미 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-409",
+          "name": "얼씨 브래스 메탈릭 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "싼타페 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=MX08&modelCode=MXJJ5ZCT3&purposeCode=J",
+      "model": "MX08",
+      "colors": [
+        {
+          "code": "RS2",
+          "name": "사이버 세이지 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "WW2",
+          "name": "크리미 화이트 펄"
+        },
+        {
+          "code": "YBM",
+          "name": "얼씨 브레스 메탈릭 (매트)"
+        },
+        {
+          "code": "WWM",
+          "name": "크리미 화이트 (매트)"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-531",
+          "name": "사이버 세이지 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-534",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-532",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-535",
+          "name": "크리미 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-533",
+          "name": "얼씨 브래스 메탈릭 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "쏘나타",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
+      "model": "DN26",
+      "colors": [
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "XB9",
+          "name": "바이오필릭블루펄"
+        },
+        {
+          "code": "T2G",
+          "name": "녹턴 그레이 메탈릭"
+        },
+        {
+          "code": "NY9",
+          "name": "트랜스미션블루펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "T9M",
+          "name": "녹턴그레이매트"
+        },
+        {
+          "code": "T4M",
+          "name": "에어로 실버 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-417",
+          "name": "얼티메이트 레드 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-416",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-414",
+          "name": "바이오 필릭 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-413",
+          "name": "녹턴 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-419",
+          "name": "트랜스 미션 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-415",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-412",
+          "name": "녹턴 그레이 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-418",
+          "name": "에어로 실버 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "쏘나타 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
+      "model": "DN27",
+      "colors": [
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "XB9",
+          "name": "바이오필릭블루펄"
+        },
+        {
+          "code": "T2G",
+          "name": "녹턴 그레이 메탈릭"
+        },
+        {
+          "code": "NY9",
+          "name": "트랜스미션블루펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "T9M",
+          "name": "녹턴그레이매트"
+        },
+        {
+          "code": "T4M",
+          "name": "에어로 실버 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-541",
+          "name": "얼티메이트 레드 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-540",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-538",
+          "name": "바이오 필릭 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-537",
+          "name": "녹턴 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-543",
+          "name": "트랜스 미션 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-539",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-536",
+          "name": "녹턴 그레이 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-542",
+          "name": "에어로 실버 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "아반떼",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=FNJS4RMT1&purposeCode=J",
+      "model": "FN01",
+      "colors": [
+        {
+          "code": "V2R",
+          "name": "볼케닉 레드 펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "VC2",
+          "name": "고요 카퍼 펄"
+        },
+        {
+          "code": "QGP",
+          "name": "퀀텀 실버 펄"
+        },
+        {
+          "code": "G2H",
+          "name": "그라펜 그린 펄"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "KKP",
+          "name": "코디악 블루 매트"
+        },
+        {
+          "code": "RAF",
+          "name": "랩터 그레이 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-avante-v2r",
+          "name": "볼케닉 레드 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-424",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-425",
+          "name": "에코트로닉 그레이펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-vc2",
+          "name": "고요 카퍼 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-qgp",
+          "name": "퀀텀 실버 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-g2h",
+          "name": "그라펜 그린 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-423",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-kkp",
+          "name": "코디악 블루 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-raf",
+          "name": "랩터 그레이 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "아반떼 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=FNJS4ZMD1&purposeCode=J",
+      "model": "FN02",
+      "colors": [
+        {
+          "code": "V2R",
+          "name": "볼케닉 레드 펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "VC2",
+          "name": "고요 카퍼 펄"
+        },
+        {
+          "code": "QGP",
+          "name": "퀀텀 실버 펄"
+        },
+        {
+          "code": "G2H",
+          "name": "그라펜 그린 펄"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "KKP",
+          "name": "코디악 블루 매트"
+        },
+        {
+          "code": "RAF",
+          "name": "랩터 그레이 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-avante-hybrid-v2r",
+          "name": "볼케닉 레드 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-548",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-549",
+          "name": "에코트로닉 그레이펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-hybrid-vc2",
+          "name": "고요 카퍼 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-hybrid-qgp",
+          "name": "퀀텀 실버 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-hybrid-g2h",
+          "name": "그라펜 그린 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-547",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-hybrid-kkp",
+          "name": "코디악 블루 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-avante-hybrid-raf",
+          "name": "랩터 그레이 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "아이오닉5",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=NE09&modelCode=NEJJ5VVD8&purposeCode=J",
+      "model": "NE09",
+      "colors": [
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "C5G",
+          "name": "사이버 그레이 메탈릭"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "M9U",
+          "name": "디지털 틸그린 펄"
+        },
+        {
+          "code": "U3P",
+          "name": "루시드 블루 펄"
+        },
+        {
+          "code": "W3T",
+          "name": "그래비티 골드 매트"
+        },
+        {
+          "code": "Y2T",
+          "name": "셀라돈 그레이 매트"
+        },
+        {
+          "code": "RTE",
+          "name": "프로스티드 브라운 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-433",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-432",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-429",
+          "name": "사이버 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-431",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-607",
+          "name": "얼티메이트 레드 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-427",
+          "name": "디지털 틸 그린 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-428",
+          "name": "루시드 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-426",
+          "name": "그래비티 골드 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-430",
+          "name": "셀라돈 그레이 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-434",
+          "name": "프로스티드 브라운 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "아이오닉6",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=CE03&modelCode=CEJS4VHD3&purposeCode=J",
+      "model": "CE03",
+      "colors": [
+        {
+          "code": "T2G",
+          "name": "녹턴 그레이 메탈릭"
+        },
+        {
+          "code": "NY9",
+          "name": "트랜스미션블루펄"
+        },
+        {
+          "code": "XB9",
+          "name": "바이오필릭블루펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "W3T",
+          "name": "그래비티 골드 매트"
+        },
+        {
+          "code": "M7D",
+          "name": "트랜스미션블루매트"
+        },
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "T4A",
+          "name": "에어로 실버 메탈릭"
+        },
+        {
+          "code": "T9M",
+          "name": "녹턴그레이매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-436",
+          "name": "녹턴 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-440",
+          "name": "트랜스미션 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-437",
+          "name": "바이오 필릭 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-439",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-438",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-435",
+          "name": "그래비티 골드 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-608",
+          "name": "트랜스미션 블루 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "아이오닉9",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=ME02&modelCode=MEJJ7VAT2&purposeCode=J",
+      "model": "ME02",
+      "colors": [
+        {
+          "code": "Y2G",
+          "name": "셀라돈그레이메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "T2G",
+          "name": "녹턴 그레이 메탈릭"
+        },
+        {
+          "code": "NH5",
+          "name": "이오노스피어그린펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "T9M",
+          "name": "녹턴그레이매트"
+        },
+        {
+          "code": "Y2T",
+          "name": "셀라돈 그레이 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-445",
+          "name": "셀라돈 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-446",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-442",
+          "name": "녹턴 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-447",
+          "name": "이오노스피어 그린 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-443",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-441",
+          "name": "녹턴 그레이 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-444",
+          "name": "셀라돈 그레이 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "캐스퍼",
+      "url": "https://casper.hyundai.com/vehicles/making/model",
+      "apiUrl": "https://casper.hyundai.com/api/product/exterior-color/AXJJ4GAT6?saleModelCode=AXJJ4GAT6&siteTypeCode=W",
+      "colors": [
+        {
+          "code": "NES",
+          "name": "언블리치드 아이보리"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "TKS",
+          "name": "톰보이 카키"
+        }
+      ],
+      "basis": "공식 사이트 외장색 선택 UI가 사용하는 exteriorColor API 응답 순서",
+      "appliedOrder": [
+        {
+          "id": "paint-450",
+          "name": "언블리치드 아이보리",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-449",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-448",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-451",
+          "name": "톰보이 카키",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "캐스퍼 일렉트릭",
+      "url": "https://casper.hyundai.com/vehicles/electric/making/model",
+      "apiUrl": "https://casper.hyundai.com/api/product/exterior-color/AXJJ4VPT6?saleModelCode=AXJJ4VPT6&siteTypeCode=W",
+      "colors": [
+        {
+          "code": "TGW",
+          "name": "글로우 민트"
+        },
+        {
+          "code": "YLC",
+          "name": "버터크림 옐로우 펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "NES",
+          "name": "언블리치드 아이보리"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "TKS",
+          "name": "톰보이 카키"
+        }
+      ],
+      "basis": "공식 사이트 외장색 선택 UI가 사용하는 exteriorColor API 응답 순서",
+      "appliedOrder": [
+        {
+          "id": "paint-551",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-552",
+          "name": "언블리치드 아이보리",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-550",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-553",
+          "name": "톰보이 카키",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "코나",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
+      "model": "SX19",
+      "colors": [
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "RRR",
+          "name": "미라지 그린"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "YYY",
+          "name": "네오테릭 옐로우"
+        },
+        {
+          "code": "C5G",
+          "name": "사이버 그레이 메탈릭"
+        },
+        {
+          "code": "PE0",
+          "name": "에코트로닉 그레이펄(투톤)"
+        },
+        {
+          "code": "R20",
+          "name": "얼티메이트 레드 메탈릭(투톤)"
+        },
+        {
+          "code": "C50",
+          "name": "사이버 그레이 메탈릭(투톤)"
+        },
+        {
+          "code": "SA0",
+          "name": "아틀라스 화이트(투톤)"
+        },
+        {
+          "code": "RR0",
+          "name": "미라지 그린 (투톤)"
+        },
+        {
+          "code": "YY0",
+          "name": "네오테릭 옐로우(투톤)"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-455",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-458",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-457",
+          "name": "얼티메이트 레드 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-453",
+          "name": "미라지 그린",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-456",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-452",
+          "name": "네오테릭 옐로우",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-454",
+          "name": "사이버 그레이 메탈릭",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "코나 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
+      "model": "SX20",
+      "colors": [
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "RRR",
+          "name": "미라지 그린"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "YYY",
+          "name": "네오테릭 옐로우"
+        },
+        {
+          "code": "C5G",
+          "name": "사이버 그레이 메탈릭"
+        },
+        {
+          "code": "PE0",
+          "name": "에코트로닉 그레이펄(투톤)"
+        },
+        {
+          "code": "R20",
+          "name": "얼티메이트 레드 메탈릭(투톤)"
+        },
+        {
+          "code": "C50",
+          "name": "사이버 그레이 메탈릭(투톤)"
+        },
+        {
+          "code": "SA0",
+          "name": "아틀라스 화이트(투톤)"
+        },
+        {
+          "code": "RR0",
+          "name": "미라지 그린 (투톤)"
+        },
+        {
+          "code": "YY0",
+          "name": "네오테릭 옐로우(투톤)"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-557",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-560",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-559",
+          "name": "얼티메이트 레드 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-555",
+          "name": "미라지 그린",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-558",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-554",
+          "name": "네오테릭 옐로우",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-556",
+          "name": "사이버 그레이 메탈릭",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "코나 일렉트릭",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
+      "model": "SX17",
+      "colors": [
+        {
+          "code": "YYY",
+          "name": "네오테릭 옐로우"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "RRR",
+          "name": "미라지 그린"
+        },
+        {
+          "code": "PM2",
+          "name": "메타블루펄"
+        },
+        {
+          "code": "SAW",
+          "name": "아틀라스 화이트"
+        },
+        {
+          "code": "R2P",
+          "name": "얼티메이트 레드 메탈릭"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "C5G",
+          "name": "사이버 그레이 메탈릭"
+        },
+        {
+          "code": "R20",
+          "name": "얼티메이트 레드 메탈릭(투톤)"
+        },
+        {
+          "code": "SA0",
+          "name": "아틀라스 화이트(투톤)"
+        },
+        {
+          "code": "C50",
+          "name": "사이버 그레이 메탈릭(투톤)"
+        },
+        {
+          "code": "YY0",
+          "name": "네오테릭 옐로우(투톤)"
+        },
+        {
+          "code": "RR0",
+          "name": "미라지 그린 (투톤)"
+        },
+        {
+          "code": "PE0",
+          "name": "에코트로닉 그레이펄(투톤)"
+        },
+        {
+          "code": "PM0",
+          "name": "메타블루 펄 (투톤)"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-561",
+          "name": "네오테릭 옐로우",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-567",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-562",
+          "name": "미라지 그린",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-609",
+          "name": "메타 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-564",
+          "name": "아틀라스 화이트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-566",
+          "name": "얼티메이트 레드 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-565",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-563",
+          "name": "사이버 그레이 메탈릭",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "투싼",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
+      "model": "GX01",
+      "colors": [
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "DGM",
+          "name": "드리프트우드 그레이 메탈릭"
+        },
+        {
+          "code": "VC2",
+          "name": "고요 카퍼 펄"
+        },
+        {
+          "code": "TCM",
+          "name": "팬텀 블랙 펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "RRP",
+          "name": "레드록 오렌지 매트"
+        },
+        {
+          "code": "DDM",
+          "name": "드리프트우드 그레이 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-459",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-461",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-610",
+          "name": "드리프트우드 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-611",
+          "name": "고요 카퍼 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-463",
+          "name": "팬텀 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-612",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-613",
+          "name": "레드록 오렌지 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-614",
+          "name": "드리프트우드 그레이 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "투싼 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
+      "model": "GX02",
+      "colors": [
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "DGM",
+          "name": "드리프트우드 그레이 메탈릭"
+        },
+        {
+          "code": "VC2",
+          "name": "고요 카퍼 펄"
+        },
+        {
+          "code": "TCM",
+          "name": "팬텀 블랙 펄"
+        },
+        {
+          "code": "W6H",
+          "name": "세레니티 화이트 펄"
+        },
+        {
+          "code": "RRP",
+          "name": "레드록 오렌지 매트"
+        },
+        {
+          "code": "DDM",
+          "name": "드리프트우드 그레이 매트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-568",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-570",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-615",
+          "name": "드리프트우드 그레이 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-616",
+          "name": "고요 카퍼 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-572",
+          "name": "팬텀 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-617",
+          "name": "세레니티 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-618",
+          "name": "레드록 오렌지 매트",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-619",
+          "name": "드리프트우드 그레이 매트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "팰리세이드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TAT2&purposeCode=J",
+      "model": "FX03",
+      "colors": [
+        {
+          "code": "CRP",
+          "name": "캐스트 아이언 브라운 펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "TCP",
+          "name": "타이탄 차콜 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "CBP",
+          "name": "클래지 블루 펄"
+        },
+        {
+          "code": "WC9",
+          "name": "크리미 화이트 펄"
+        },
+        {
+          "code": "WC9",
+          "name": "크리미 화이트 펄"
+        },
+        {
+          "code": "R8N",
+          "name": "로버스트 에메랄드 펄"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-469",
+          "name": "캐스트 아이언 브라운 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-467",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-466",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-620",
+          "name": "타이탄 차콜 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-468",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-471",
+          "name": "클래지 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-470",
+          "name": "크리미 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-465",
+          "name": "로버스트 에메랄드 펄",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "팰리세이드 하이브리드",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZAT2&purposeCode=J",
+      "model": "FX04",
+      "colors": [
+        {
+          "code": "CRP",
+          "name": "캐스트 아이언 브라운 펄"
+        },
+        {
+          "code": "A2B",
+          "name": "어비스 블랙 펄"
+        },
+        {
+          "code": "R2T",
+          "name": "쉬머링 실버 메탈릭"
+        },
+        {
+          "code": "TCP",
+          "name": "타이탄 차콜 펄"
+        },
+        {
+          "code": "PE2",
+          "name": "에코트로닉 그레이펄"
+        },
+        {
+          "code": "CBP",
+          "name": "클래지 블루 펄"
+        },
+        {
+          "code": "WC9",
+          "name": "크리미 화이트 펄"
+        },
+        {
+          "code": "WC9",
+          "name": "크리미 화이트 펄"
+        },
+        {
+          "code": "R8N",
+          "name": "로버스트 에메랄드 펄"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-578",
+          "name": "캐스트 아이언 브라운 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-576",
+          "name": "어비스 블랙 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-575",
+          "name": "쉬머링 실버 메탈릭",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-621",
+          "name": "타이탄 차콜 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-577",
+          "name": "에코트로닉 그레이 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-580",
+          "name": "클래지 블루 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-579",
+          "name": "크리미 화이트 펄",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-574",
+          "name": "로버스트 에메랄드 펄",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "포터2",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=M578&modelCode=M51LSLMNK&purposeCode=J",
+      "model": "M578",
+      "colors": [
+        {
+          "code": "RVB",
+          "name": "슬레이트브라운"
+        },
+        {
+          "code": "ZV",
+          "name": "오닉스 블루"
+        },
+        {
+          "code": "YAW",
+          "name": "크리미화이트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-475",
+          "name": "슬레이트 브라운",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-476",
+          "name": "오닉스 블루",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-477",
+          "name": "크리미 화이트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    },
+    {
+      "car": "포터2 일렉트릭",
+      "url": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=M579&modelCode=M51LSVATK&purposeCode=J",
+      "model": "M579",
+      "colors": [
+        {
+          "code": "RVB",
+          "name": "슬레이트브라운"
+        },
+        {
+          "code": "ZV",
+          "name": "오닉스 블루"
+        },
+        {
+          "code": "YAW",
+          "name": "크리미화이트"
+        }
+      ],
+      "verifiedHtmlOrder": true,
+      "appliedOrder": [
+        {
+          "id": "paint-472",
+          "name": "슬레이트 브라운",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-473",
+          "name": "오닉스 블루",
+          "officialMatch": true
+        },
+        {
+          "id": "paint-474",
+          "name": "크리미 화이트",
+          "officialMatch": true
+        }
+      ],
+      "preservedUnlisted": []
+    }
+  ],
+  "validation": {
+    "duplicateCatalogKeys": 0,
+    "existingPaintObjectsPreserved": true,
+    "otherBrandsUnchanged": true,
+    "carsChecked": 25
+  }
+}

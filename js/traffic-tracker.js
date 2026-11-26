@@ -7,6 +7,7 @@
 
   // v1 및 테스트용 localStorage의 오래된 검색어는 의도적으로 사용하지 않습니다.
   const KEY = 'autogenie_traffic_attribution_v2';
+  const rawReferrer = String(document.referrer || '');
   const clean = value => String(value == null ? '' : value).trim().slice(0, 180);
   const known = value => {
     const str = clean(value);
@@ -61,10 +62,19 @@
   const newEntry = !saved || hasCampaignParams || (!isInternal && !isReload);
 
   if (newEntry) {
+    if (!isReload && !isInternal && (rawReferrer || hasCampaignParams)) {
+      try { sessionStorage.removeItem("autogenie_integrated_visit_logged_v2"); sessionStorage.removeItem("autogenie_integrated_visit_session_id_v2"); } catch (_) {}
+    }
     const explicitSource = clean(q.get('utm_source')).toLowerCase();
     const googlePaidClick = ['gclid', 'wbraid', 'gbraid'].some(k => known(q.get(k)));
     const naverPaidClick = known(q.get('n_click'));
-    const source = explicitSource || (googlePaidClick ? 'google' : naverPaidClick || known(actual) || isNaver ? 'naver' : isGoogle ? 'google' : refHost ? 'referral' : 'direct');
+    const appRef = /^android-app:\/\/([^/]+)/i.exec(document.referrer || '')?.[1]?.toLowerCase() || '';
+    const socialSource = /(^|\.)(youtube\.com|youtu\.be|youtube-nocookie\.com|youtube\.googleapis\.com)$/.test(refHost) || /^com\.google\.android\.youtube(?:\.[a-z0-9_]+)*$/.test(appRef) ? 'youtube'
+      : /(^|\.)instagram\.com$/.test(refHost) || appRef === 'com.instagram.android' ? 'instagram'
+      : /(^|\.)(facebook\.com|fb\.com|fb\.me)$/.test(refHost) || appRef === 'com.facebook.katana' ? 'facebook'
+      : /(^|\.)(kakao\.com|kakaotalk\.com)$/.test(refHost) || appRef === 'com.kakao.talk' ? 'kakao'
+      : /(^|\.)daum\.net$/.test(refHost) ? 'daum' : '';
+    const source = explicitSource || (googlePaidClick ? 'google' : naverPaidClick || known(actual) ? 'naver' : socialSource || (isNaver ? 'naver' : isGoogle ? 'google' : refHost && !isInternal ? 'referral' : 'direct'));
     const medium = clean(q.get('utm_medium')).toLowerCase() || (googlePaidClick || naverPaidClick ? 'cpc' : 'unknown');
     saved = {
       hostname: currentHost,
@@ -76,7 +86,8 @@
         trafficSearchTerm: found?.term || '미확인',
         trafficKeywordType: found?.type || 'unknown',
         trafficAdKeyword: clean(q.get('utm_term')),
-        trafficReferrer: clean(refHost)
+        trafficReferrer: clean(refHost),
+        trafficOriginalReferrer: isInternal ? '' : rawReferrer
       }
     };
   } else if (found && !known(saved.data.trafficSearchTerm)) {
@@ -94,7 +105,8 @@
     trafficSearchTerm: clean(saved.data.trafficSearchTerm) || '미확인',
     trafficKeywordType: clean(saved.data.trafficKeywordType) || 'unknown',
     trafficAdKeyword: clean(saved.data.trafficAdKeyword),
-    trafficReferrer: clean(saved.data.trafficReferrer)
+    trafficReferrer: clean(saved.data.trafficReferrer),
+    trafficOriginalReferrer: saved.data.trafficOriginalReferrer || (!isInternal ? rawReferrer : '')
   });
 
   window.AutoGenieTraffic = {

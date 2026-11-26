@@ -1280,13 +1280,13 @@
       "paint": "데님 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄",
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM",
         "1.6 가솔린|FLUX"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄",
+        "Smart",
+        "PREMIUM",
         "FLUX"
       ],
       "sources": [
@@ -1296,7 +1296,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1309,7 +1309,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1343,13 +1343,13 @@
       "paint": "미라지 그린",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄",
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM",
         "1.6 가솔린|FLUX"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄",
+        "Smart",
+        "PREMIUM",
         "FLUX"
       ],
       "sources": [
@@ -1359,7 +1359,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1374,7 +1374,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1412,12 +1412,12 @@
       "paint": "쉬머링 실버 메탈릭",
       "status": "verified-restricted",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄"
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄"
+        "Smart",
+        "PREMIUM"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
@@ -1426,7 +1426,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1439,7 +1439,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1473,13 +1473,13 @@
       "paint": "아틀라스 화이트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄",
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM",
         "1.6 가솔린|FLUX"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄",
+        "Smart",
+        "PREMIUM",
         "FLUX"
       ],
       "sources": [
@@ -1489,7 +1489,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1504,7 +1504,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1542,13 +1542,13 @@
       "paint": "어비스 블랙 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄",
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM",
         "1.6 가솔린|FLUX"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄",
+        "Smart",
+        "PREMIUM",
         "FLUX"
       ],
       "sources": [
@@ -1558,7 +1558,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1573,7 +1573,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1611,13 +1611,13 @@
       "paint": "에코트로닉 그레이 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄",
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM",
         "1.6 가솔린|FLUX"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄",
+        "Smart",
+        "PREMIUM",
         "FLUX"
       ],
       "sources": [
@@ -1627,7 +1627,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1642,7 +1642,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1680,13 +1680,13 @@
       "paint": "퀀텀 실버 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린|스마트",
-        "1.6 가솔린|프리미엄",
+        "1.6 가솔린|Smart",
+        "1.6 가솔린|PREMIUM",
         "1.6 가솔린|FLUX"
       ],
       "allowedTrims": [
-        "스마트",
-        "프리미엄",
+        "Smart",
+        "PREMIUM",
         "FLUX"
       ],
       "sources": [
@@ -1696,7 +1696,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린|스마트",
+          "configuration": "1.6 가솔린|Smart",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
           "officialNames": [
@@ -1711,7 +1711,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린|프리미엄",
+          "configuration": "1.6 가솔린|PREMIUM",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
           "officialNames": [
@@ -1749,12 +1749,12 @@
       "paint": "다이나믹 옐로우",
       "status": "verified-all",
       "allowedConfigurations": [
-        "3.5 LPG 투어러|스마트 (11인승)",
-        "3.5 LPG 투어러|모던 (11인승)"
+        "3.5 LPG 투어러|Smart (11인승)",
+        "3.5 LPG 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
@@ -1762,7 +1762,7 @@
       ],
       "proof": [
         {
-          "configuration": "3.5 LPG 투어러|스마트 (11인승)",
+          "configuration": "3.5 LPG 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
           "officialNames": [
@@ -1775,7 +1775,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "3.5 LPG 투어러|모던 (11인승)",
+          "configuration": "3.5 LPG 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
           "officialNames": [
@@ -1796,12 +1796,12 @@
       "paint": "쉬머링 실버 메탈릭",
       "status": "verified-all",
       "allowedConfigurations": [
-        "3.5 LPG 투어러|스마트 (11인승)",
-        "3.5 LPG 투어러|모던 (11인승)"
+        "3.5 LPG 투어러|Smart (11인승)",
+        "3.5 LPG 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
@@ -1809,7 +1809,7 @@
       ],
       "proof": [
         {
-          "configuration": "3.5 LPG 투어러|스마트 (11인승)",
+          "configuration": "3.5 LPG 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
           "officialNames": [
@@ -1822,7 +1822,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "3.5 LPG 투어러|모던 (11인승)",
+          "configuration": "3.5 LPG 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
           "officialNames": [
@@ -1843,12 +1843,12 @@
       "paint": "어비스 블랙 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "3.5 LPG 투어러|스마트 (11인승)",
-        "3.5 LPG 투어러|모던 (11인승)"
+        "3.5 LPG 투어러|Smart (11인승)",
+        "3.5 LPG 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
@@ -1856,7 +1856,7 @@
       ],
       "proof": [
         {
-          "configuration": "3.5 LPG 투어러|스마트 (11인승)",
+          "configuration": "3.5 LPG 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
           "officialNames": [
@@ -1869,7 +1869,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "3.5 LPG 투어러|모던 (11인승)",
+          "configuration": "3.5 LPG 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
           "officialNames": [
@@ -1890,12 +1890,12 @@
       "paint": "에코트로닉 그레이 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "3.5 LPG 투어러|스마트 (11인승)",
-        "3.5 LPG 투어러|모던 (11인승)"
+        "3.5 LPG 투어러|Smart (11인승)",
+        "3.5 LPG 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
@@ -1903,7 +1903,7 @@
       ],
       "proof": [
         {
-          "configuration": "3.5 LPG 투어러|스마트 (11인승)",
+          "configuration": "3.5 LPG 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
           "officialNames": [
@@ -1916,7 +1916,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "3.5 LPG 투어러|모던 (11인승)",
+          "configuration": "3.5 LPG 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
           "officialNames": [
@@ -1937,12 +1937,12 @@
       "paint": "크리미 화이트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "3.5 LPG 투어러|스마트 (11인승)",
-        "3.5 LPG 투어러|모던 (11인승)"
+        "3.5 LPG 투어러|Smart (11인승)",
+        "3.5 LPG 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
@@ -1950,7 +1950,7 @@
       ],
       "proof": [
         {
-          "configuration": "3.5 LPG 투어러|스마트 (11인승)",
+          "configuration": "3.5 LPG 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
           "officialNames": [
@@ -1963,7 +1963,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "3.5 LPG 투어러|모던 (11인승)",
+          "configuration": "3.5 LPG 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
           "officialNames": [
@@ -1984,12 +1984,12 @@
       "paint": "클래지 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "3.5 LPG 투어러|스마트 (11인승)",
-        "3.5 LPG 투어러|모던 (11인승)"
+        "3.5 LPG 투어러|Smart (11인승)",
+        "3.5 LPG 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
@@ -1997,7 +1997,7 @@
       ],
       "proof": [
         {
-          "configuration": "3.5 LPG 투어러|스마트 (11인승)",
+          "configuration": "3.5 LPG 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
           "officialNames": [
@@ -2010,7 +2010,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "3.5 LPG 투어러|모던 (11인승)",
+          "configuration": "3.5 LPG 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
           "officialNames": [
@@ -2031,12 +2031,12 @@
       "paint": "다이나믹 옐로우",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 HEV 투어러|스마트 (11인승)",
-        "1.6 HEV 투어러|모던 (11인승)"
+        "1.6 HEV 투어러|Smart (11인승)",
+        "1.6 HEV 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
@@ -2044,7 +2044,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 HEV 투어러|스마트 (11인승)",
+          "configuration": "1.6 HEV 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
           "officialNames": [
@@ -2057,7 +2057,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV 투어러|모던 (11인승)",
+          "configuration": "1.6 HEV 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
           "officialNames": [
@@ -2078,12 +2078,12 @@
       "paint": "쉬머링 실버 메탈릭",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 HEV 투어러|스마트 (11인승)",
-        "1.6 HEV 투어러|모던 (11인승)"
+        "1.6 HEV 투어러|Smart (11인승)",
+        "1.6 HEV 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
@@ -2091,7 +2091,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 HEV 투어러|스마트 (11인승)",
+          "configuration": "1.6 HEV 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
           "officialNames": [
@@ -2104,7 +2104,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV 투어러|모던 (11인승)",
+          "configuration": "1.6 HEV 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
           "officialNames": [
@@ -2125,12 +2125,12 @@
       "paint": "어비스 블랙 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 HEV 투어러|스마트 (11인승)",
-        "1.6 HEV 투어러|모던 (11인승)"
+        "1.6 HEV 투어러|Smart (11인승)",
+        "1.6 HEV 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
@@ -2138,7 +2138,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 HEV 투어러|스마트 (11인승)",
+          "configuration": "1.6 HEV 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
           "officialNames": [
@@ -2151,7 +2151,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV 투어러|모던 (11인승)",
+          "configuration": "1.6 HEV 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
           "officialNames": [
@@ -2172,12 +2172,12 @@
       "paint": "에코트로닉 그레이 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 HEV 투어러|스마트 (11인승)",
-        "1.6 HEV 투어러|모던 (11인승)"
+        "1.6 HEV 투어러|Smart (11인승)",
+        "1.6 HEV 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
@@ -2185,7 +2185,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 HEV 투어러|스마트 (11인승)",
+          "configuration": "1.6 HEV 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
           "officialNames": [
@@ -2198,7 +2198,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV 투어러|모던 (11인승)",
+          "configuration": "1.6 HEV 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
           "officialNames": [
@@ -2219,12 +2219,12 @@
       "paint": "크리미 화이트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 HEV 투어러|스마트 (11인승)",
-        "1.6 HEV 투어러|모던 (11인승)"
+        "1.6 HEV 투어러|Smart (11인승)",
+        "1.6 HEV 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
@@ -2232,7 +2232,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 HEV 투어러|스마트 (11인승)",
+          "configuration": "1.6 HEV 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
           "officialNames": [
@@ -2245,7 +2245,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV 투어러|모던 (11인승)",
+          "configuration": "1.6 HEV 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
           "officialNames": [
@@ -2266,12 +2266,12 @@
       "paint": "클래지 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 HEV 투어러|스마트 (11인승)",
-        "1.6 HEV 투어러|모던 (11인승)"
+        "1.6 HEV 투어러|Smart (11인승)",
+        "1.6 HEV 투어러|Modern (11인승)"
       ],
       "allowedTrims": [
-        "스마트 (11인승)",
-        "모던 (11인승)"
+        "Smart (11인승)",
+        "Modern (11인승)"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
@@ -2279,7 +2279,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 HEV 투어러|스마트 (11인승)",
+          "configuration": "1.6 HEV 투어러|Smart (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
           "officialNames": [
@@ -2292,7 +2292,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV 투어러|모던 (11인승)",
+          "configuration": "1.6 HEV 투어러|Modern (11인승)",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
           "officialNames": [
@@ -3703,16 +3703,16 @@
       "paint": "녹턴 그레이 매트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -3722,7 +3722,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -3735,7 +3735,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -3748,7 +3748,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -3761,7 +3761,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -3782,16 +3782,16 @@
       "paint": "녹턴 그레이 메탈릭",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -3801,7 +3801,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -3814,7 +3814,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -3827,7 +3827,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -3840,7 +3840,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -3861,16 +3861,16 @@
       "paint": "바이오 필릭 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -3880,7 +3880,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -3893,7 +3893,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -3906,7 +3906,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -3919,7 +3919,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -3940,16 +3940,16 @@
       "paint": "세레니티 화이트 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -3959,7 +3959,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -3972,7 +3972,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -3985,7 +3985,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -3998,7 +3998,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -4019,16 +4019,16 @@
       "paint": "어비스 블랙 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -4038,7 +4038,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -4051,7 +4051,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -4064,7 +4064,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -4077,7 +4077,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -4098,16 +4098,16 @@
       "paint": "얼티메이트 레드 메탈릭",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -4117,7 +4117,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -4130,7 +4130,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -4143,7 +4143,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -4156,7 +4156,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -4177,16 +4177,16 @@
       "paint": "에어로 실버 매트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -4196,7 +4196,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -4209,7 +4209,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -4222,7 +4222,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -4235,7 +4235,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -4256,16 +4256,16 @@
       "paint": "트랜스 미션 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "1.6 가솔린 터보|프리미엄",
-        "1.6 가솔린 터보|에스",
-        "1.6 가솔린 터보|익스클루시브",
-        "1.6 가솔린 터보|인스퍼레이션"
+        "1.6 가솔린 터보|Premium",
+        "1.6 가솔린 터보|S",
+        "1.6 가솔린 터보|Exclusive",
+        "1.6 가솔린 터보|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
@@ -4275,7 +4275,7 @@
       ],
       "proof": [
         {
-          "configuration": "1.6 가솔린 터보|프리미엄",
+          "configuration": "1.6 가솔린 터보|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RBT8&purposeCode=J",
           "officialNames": [
@@ -4288,7 +4288,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|에스",
+          "configuration": "1.6 가솔린 터보|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RUT8&purposeCode=J",
           "officialNames": [
@@ -4301,7 +4301,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "configuration": "1.6 가솔린 터보|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RCT8&purposeCode=J",
           "officialNames": [
@@ -4314,7 +4314,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "configuration": "1.6 가솔린 터보|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4RET8&purposeCode=J",
           "officialNames": [
@@ -4335,16 +4335,16 @@
       "paint": "녹턴 그레이 매트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4354,7 +4354,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4367,7 +4367,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4380,7 +4380,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4393,7 +4393,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4414,16 +4414,16 @@
       "paint": "녹턴 그레이 메탈릭",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4433,7 +4433,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4446,7 +4446,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4459,7 +4459,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4472,7 +4472,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4493,16 +4493,16 @@
       "paint": "바이오 필릭 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4512,7 +4512,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4525,7 +4525,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4538,7 +4538,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4551,7 +4551,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4572,16 +4572,16 @@
       "paint": "세레니티 화이트 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4591,7 +4591,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4604,7 +4604,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4617,7 +4617,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4630,7 +4630,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4651,16 +4651,16 @@
       "paint": "어비스 블랙 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4670,7 +4670,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4683,7 +4683,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4696,7 +4696,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4709,7 +4709,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4730,16 +4730,16 @@
       "paint": "얼티메이트 레드 메탈릭",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4749,7 +4749,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4762,7 +4762,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4775,7 +4775,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4788,7 +4788,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4809,16 +4809,16 @@
       "paint": "에어로 실버 매트",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4828,7 +4828,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4841,7 +4841,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4854,7 +4854,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4867,7 +4867,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -4888,16 +4888,16 @@
       "paint": "트랜스 미션 블루 펄",
       "status": "verified-all",
       "allowedConfigurations": [
-        "2.0 HEV|프리미엄",
-        "2.0 HEV|에스",
-        "2.0 HEV|익스클루시브",
-        "2.0 HEV|인스퍼레이션"
+        "2.0 HEV|Premium",
+        "2.0 HEV|S",
+        "2.0 HEV|Exclusive",
+        "2.0 HEV|Inspiration"
       ],
       "allowedTrims": [
-        "프리미엄",
-        "에스",
-        "익스클루시브",
-        "인스퍼레이션"
+        "Premium",
+        "S",
+        "Exclusive",
+        "Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
@@ -4907,7 +4907,7 @@
       ],
       "proof": [
         {
-          "configuration": "2.0 HEV|프리미엄",
+          "configuration": "2.0 HEV|Premium",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZBT8&purposeCode=J",
           "officialNames": [
@@ -4920,7 +4920,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|에스",
+          "configuration": "2.0 HEV|S",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZUT8&purposeCode=J",
           "officialNames": [
@@ -4933,7 +4933,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|익스클루시브",
+          "configuration": "2.0 HEV|Exclusive",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZCT8&purposeCode=J",
           "officialNames": [
@@ -4946,7 +4946,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "2.0 HEV|인스퍼레이션",
+          "configuration": "2.0 HEV|Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=undefined&modelCode=DNJS4ZET8&purposeCode=J",
           "officialNames": [
@@ -7733,6 +7733,168 @@
     },
     {
       "brand": "현대",
+      "car": "아이오닉5",
+      "paintId": "paint-607",
+      "paint": "얼티메이트 레드 메탈릭",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "Long Range N라인|A/T",
+        "Long Range AWD N라인|A/T"
+      ],
+      "allowedTrims": [
+        "A/T"
+      ],
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf"
+      ],
+      "proof": [
+        {
+          "configuration": "Standard|E-Value +",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|E-Lite",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Modern",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Premium",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Inspiration",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|E-Lite",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|Modern",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|Premium",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|Inspiration",
+          "available": false,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range N라인|A/T",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD N라인|A/T",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq-5-2027-price.pdf",
+          "officialNames": [
+            "얼티메이트 레드 메탈릭"
+          ],
+          "officialCodes": [
+            "R2P"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
       "car": "아이오닉6",
       "paintId": "paint-435",
       "paint": "그래비티 골드 매트",
@@ -9001,6 +9163,209 @@
           ],
           "officialCodes": [
             "NY9"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "아이오닉6",
+      "paintId": "paint-608",
+      "paint": "트랜스미션 블루 매트",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "Standard|E-Value +",
+        "Standard|Exclusive",
+        "Standard|Prestige",
+        "Long Range|E-Lite",
+        "Long Range|Exclusive",
+        "Long Range|Prestige",
+        "Long Range AWD|E-Lite",
+        "Long Range AWD|Exclusive",
+        "Long Range AWD|Prestige",
+        "Long Range N라인|Exclusive",
+        "Long Range N라인|Prestige",
+        "Long Range AWD N라인|Exclusive",
+        "Long Range AWD N라인|Prestige"
+      ],
+      "allowedTrims": [
+        "E-Value +",
+        "Exclusive",
+        "Prestige",
+        "E-Lite"
+      ],
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+        "https://www.hyundaimotorgroup.com/ko/amp/CONT0000000000182012"
+      ],
+      "proof": [
+        {
+          "configuration": "Standard|E-Value +",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Standard|Exclusive",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Standard|Prestige",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|E-Lite",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Exclusive",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Prestige",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|E-Lite",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|Exclusive",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD|Prestige",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range N라인|Exclusive",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range N라인|Prestige",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD N라인|Exclusive",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range AWD N라인|Prestige",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/ioniq6-pe_price.pdf",
+          "officialNames": [
+            "트랜스미션 블루 매트"
+          ],
+          "officialCodes": [
+            "M7D"
           ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
@@ -11025,20 +11390,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -11127,7 +11489,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -11187,7 +11549,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -11214,20 +11576,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -11316,7 +11675,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -11376,7 +11735,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -11403,20 +11762,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -11505,7 +11861,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -11565,7 +11921,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -11592,20 +11948,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -11694,7 +12047,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -11754,7 +12107,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -11781,20 +12134,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -11873,7 +12223,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -11925,7 +12275,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -11950,20 +12300,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -12052,7 +12399,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -12112,7 +12459,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -12139,20 +12486,17 @@
         "1.6 가솔린 터보|H-Pick",
         "1.6 가솔린 터보|Premium",
         "1.6 가솔린 터보|Inspiration",
-        "1.6 가솔린 터보|Black Exterior",
-        "1.6 가솔린 터보 N라인|N Line",
+        "1.6 가솔린 터보 N라인|N Line Inspiration",
         "1.6 가솔린 터보 4WD|Premium",
         "1.6 가솔린 터보 4WD|Inspiration",
-        "1.6 가솔린 터보 4WD|Black Exterior",
-        "1.6 가솔린 터보 4WD N라인|N Line"
+        "1.6 가솔린 터보 4WD N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TAD4&purposeCode=J",
@@ -12241,7 +12585,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 N라인|N Line",
+          "configuration": "1.6 가솔린 터보 N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
           "officialNames": [
@@ -12301,7 +12645,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 가솔린 터보 4WD N라인|N Line",
+          "configuration": "1.6 가솔린 터보 4WD N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
           "officialNames": [
@@ -12328,16 +12672,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -12423,7 +12765,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -12450,16 +12792,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -12545,7 +12885,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -12572,16 +12912,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -12667,7 +13005,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -12694,16 +13032,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -12789,7 +13125,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -12816,16 +13152,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -12901,7 +13235,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -12926,16 +13260,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -13021,7 +13353,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -13048,16 +13380,14 @@
         "1.6 HEV|H-Pick",
         "1.6 HEV|Premium",
         "1.6 HEV|Inspiration",
-        "1.6 HEV|Black Exterior",
-        "1.6 HEV N라인|N Line"
+        "1.6 HEV N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "Modern",
         "H-Pick",
         "Premium",
         "Inspiration",
-        "Black Exterior",
-        "N Line"
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZAD4&purposeCode=J",
@@ -13143,7 +13473,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "1.6 HEV N라인|N Line",
+          "configuration": "1.6 HEV N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
           "officialNames": [
@@ -13168,16 +13498,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13264,7 +13595,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13289,16 +13620,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13385,7 +13717,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13410,16 +13742,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13506,7 +13839,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13531,16 +13864,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13627,7 +13961,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13652,16 +13986,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13738,7 +14073,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13761,16 +14096,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13857,7 +14193,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13882,16 +14218,17 @@
       "allowedConfigurations": [
         "Standard|E-Value +",
         "Standard|Premium",
-        "Long Range|Premium",
         "Long Range|Modern Plus",
+        "Long Range|Premium",
         "Long Range|Inspiration",
-        "Long Range N라인|Inspiration"
+        "Long Range N라인|N Line Inspiration"
       ],
       "allowedTrims": [
         "E-Value +",
         "Premium",
         "Modern Plus",
-        "Inspiration"
+        "Inspiration",
+        "N Line Inspiration"
       ],
       "sources": [
         "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J",
@@ -13978,7 +14315,7 @@
           "excludedOptionCodes": []
         },
         {
-          "configuration": "Long Range N라인|Inspiration",
+          "configuration": "Long Range N라인|N Line Inspiration",
           "available": true,
           "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
           "officialNames": [
@@ -13988,6 +14325,112 @@
           "officialCodes": [
             "PE2",
             "PE0"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "코나 일렉트릭",
+      "paintId": "paint-609",
+      "paint": "메타 블루 펄",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "Standard|E-Value +",
+        "Standard|Premium",
+        "Long Range|Modern Plus",
+        "Long Range|Premium",
+        "Long Range|Inspiration",
+        "Long Range N라인|N Line Inspiration"
+      ],
+      "allowedTrims": [
+        "E-Value +",
+        "Premium",
+        "Modern Plus",
+        "Inspiration",
+        "N Line Inspiration"
+      ],
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VES3&purposeCode=J"
+      ],
+      "proof": [
+        {
+          "configuration": "Standard|E-Value +",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+          "officialNames": [
+            "메타 블루 펄"
+          ],
+          "officialCodes": [
+            "PM2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Standard|Premium",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+          "officialNames": [
+            "메타 블루 펄"
+          ],
+          "officialCodes": [
+            "PM2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Modern Plus",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+          "officialNames": [
+            "메타 블루 펄"
+          ],
+          "officialCodes": [
+            "PM2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Premium",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+          "officialNames": [
+            "메타 블루 펄"
+          ],
+          "officialCodes": [
+            "PM2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range|Inspiration",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+          "officialNames": [
+            "메타 블루 펄"
+          ],
+          "officialCodes": [
+            "PM2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "Long Range N라인|N Line Inspiration",
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/kona-electric-catalog.pdf",
+          "officialNames": [
+            "메타 블루 펄"
+          ],
+          "officialCodes": [
+            "PM2"
           ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
@@ -14014,18 +14457,13 @@
         "인스퍼레이션"
       ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 가솔린 터보|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14038,7 +14476,7 @@
         {
           "configuration": "1.6 가솔린 터보|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14051,7 +14489,7 @@
         {
           "configuration": "1.6 가솔린 터보|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14064,7 +14502,7 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14077,7 +14515,7 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14090,86 +14528,13 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
           "officialCodes": [
             "R2T"
           ],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "현대",
-      "car": "투싼",
-      "paintId": "paint-460",
-      "paint": "아마존 그레이 메탈릭",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
-      ],
-      "proof": [
-        {
-          "configuration": "1.6 가솔린 터보|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 가솔린 터보|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 가솔린 터보|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 가솔린 터보 AWD|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -14195,20 +14560,15 @@
         "인스퍼레이션"
       ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 가솔린 터보|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14219,9 +14579,9 @@
         {
           "configuration": "1.6 가솔린 터보|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14232,9 +14592,9 @@
         {
           "configuration": "1.6 가솔린 터보|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14245,9 +14605,9 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14258,9 +14618,9 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14271,9 +14631,9 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14286,71 +14646,204 @@
     {
       "brand": "현대",
       "car": "투싼",
-      "paintId": "paint-462",
-      "paint": "크리미 화이트 펄",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
+      "paintId": "paint-610",
+      "paint": "드리프트우드 그레이 메탈릭",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 가솔린 터보|H-Pick",
+        "1.6 가솔린 터보|익스클루시브",
+        "1.6 가솔린 터보|인스퍼레이션",
+        "1.6 가솔린 터보 AWD|H-Pick",
+        "1.6 가솔린 터보 AWD|익스클루시브",
+        "1.6 가솔린 터보 AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 가솔린 터보|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 가솔린 터보|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 가솔린 터보|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 가솔린 터보 AWD|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paintId": "paint-611",
+      "paint": "고요 카퍼 펄",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 가솔린 터보|H-Pick",
+        "1.6 가솔린 터보|익스클루시브",
+        "1.6 가솔린 터보|인스퍼레이션",
+        "1.6 가솔린 터보 AWD|H-Pick",
+        "1.6 가솔린 터보 AWD|익스클루시브",
+        "1.6 가솔린 터보 AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 가솔린 터보|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -14376,18 +14869,13 @@
         "인스퍼레이션"
       ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 가솔린 터보|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14400,7 +14888,7 @@
         {
           "configuration": "1.6 가솔린 터보|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TET1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14413,7 +14901,7 @@
         {
           "configuration": "1.6 가솔린 터보|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14426,7 +14914,7 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5THA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14439,7 +14927,7 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TEA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14452,12 +14940,321 @@
         {
           "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX01&modelCode=GXJJ5TPA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
           "officialCodes": [
             "TCM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paintId": "paint-612",
+      "paint": "세레니티 화이트 펄",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 가솔린 터보|H-Pick",
+        "1.6 가솔린 터보|익스클루시브",
+        "1.6 가솔린 터보|인스퍼레이션",
+        "1.6 가솔린 터보 AWD|H-Pick",
+        "1.6 가솔린 터보 AWD|익스클루시브",
+        "1.6 가솔린 터보 AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 가솔린 터보|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paintId": "paint-613",
+      "paint": "레드록 오렌지 매트",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 가솔린 터보|H-Pick",
+        "1.6 가솔린 터보|익스클루시브",
+        "1.6 가솔린 터보|인스퍼레이션",
+        "1.6 가솔린 터보 AWD|H-Pick",
+        "1.6 가솔린 터보 AWD|익스클루시브",
+        "1.6 가솔린 터보 AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 가솔린 터보|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼",
+      "paintId": "paint-614",
+      "paint": "드리프트우드 그레이 매트",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 가솔린 터보|H-Pick",
+        "1.6 가솔린 터보|익스클루시브",
+        "1.6 가솔린 터보|인스퍼레이션",
+        "1.6 가솔린 터보 AWD|H-Pick",
+        "1.6 가솔린 터보 AWD|익스클루시브",
+        "1.6 가솔린 터보 AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 가솔린 터보|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 가솔린 터보 AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
           ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
@@ -14484,18 +15281,13 @@
         "인스퍼레이션"
       ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 HEV|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14508,7 +15300,7 @@
         {
           "configuration": "1.6 HEV|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14521,7 +15313,7 @@
         {
           "configuration": "1.6 HEV|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14534,7 +15326,7 @@
         {
           "configuration": "1.6 HEV AWD|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14547,7 +15339,7 @@
         {
           "configuration": "1.6 HEV AWD|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
@@ -14560,86 +15352,13 @@
         {
           "configuration": "1.6 HEV AWD|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "쉬머링 실버 메탈릭"
           ],
           "officialCodes": [
             "R2T"
           ],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "현대",
-      "car": "투싼 하이브리드",
-      "paintId": "paint-569",
-      "paint": "아마존 그레이 메탈릭",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
-      ],
-      "proof": [
-        {
-          "configuration": "1.6 HEV|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 HEV|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 HEV|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 HEV AWD|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 HEV AWD|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.6 HEV AWD|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -14665,20 +15384,15 @@
         "인스퍼레이션"
       ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 HEV|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14689,9 +15403,9 @@
         {
           "configuration": "1.6 HEV|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14702,9 +15416,9 @@
         {
           "configuration": "1.6 HEV|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14715,9 +15429,9 @@
         {
           "configuration": "1.6 HEV AWD|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14728,9 +15442,9 @@
         {
           "configuration": "1.6 HEV AWD|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14741,9 +15455,9 @@
         {
           "configuration": "1.6 HEV AWD|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
-            "에코트로닉 그레이펄"
+            "에코트로닉 그레이 펄"
           ],
           "officialCodes": [
             "PE2"
@@ -14756,71 +15470,204 @@
     {
       "brand": "현대",
       "car": "투싼 하이브리드",
-      "paintId": "paint-571",
-      "paint": "크리미 화이트 펄",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
+      "paintId": "paint-615",
+      "paint": "드리프트우드 그레이 메탈릭",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 HEV|H-Pick",
+        "1.6 HEV|익스클루시브",
+        "1.6 HEV|인스퍼레이션",
+        "1.6 HEV AWD|H-Pick",
+        "1.6 HEV AWD|익스클루시브",
+        "1.6 HEV AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 HEV|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 HEV|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 HEV|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 HEV AWD|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 HEV AWD|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "1.6 HEV AWD|인스퍼레이션",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 메탈릭"
+          ],
+          "officialCodes": [
+            "DGM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paintId": "paint-616",
+      "paint": "고요 카퍼 펄",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 HEV|H-Pick",
+        "1.6 HEV|익스클루시브",
+        "1.6 HEV|인스퍼레이션",
+        "1.6 HEV AWD|H-Pick",
+        "1.6 HEV AWD|익스클루시브",
+        "1.6 HEV AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 HEV|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "고요 카퍼 펄"
+          ],
+          "officialCodes": [
+            "VC2"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -14846,18 +15693,13 @@
         "인스퍼레이션"
       ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
       ],
       "proof": [
         {
           "configuration": "1.6 HEV|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14870,7 +15712,7 @@
         {
           "configuration": "1.6 HEV|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZET1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14883,7 +15725,7 @@
         {
           "configuration": "1.6 HEV|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPT1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14896,7 +15738,7 @@
         {
           "configuration": "1.6 HEV AWD|H-Pick",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZHA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14909,7 +15751,7 @@
         {
           "configuration": "1.6 HEV AWD|익스클루시브",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZEA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14922,7 +15764,7 @@
         {
           "configuration": "1.6 HEV AWD|인스퍼레이션",
           "available": true,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=GX02&modelCode=GXJJ5ZPA1&purposeCode=J",
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
           "officialNames": [
             "팬텀 블랙 펄"
           ],
@@ -14936,92 +15778,438 @@
     },
     {
       "brand": "현대",
-      "car": "팰리세이드",
-      "paintId": "paint-464",
-      "paint": "갤럭시 마룬 펄",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
+      "car": "투싼 하이브리드",
+      "paintId": "paint-617",
+      "paint": "세레니티 화이트 펄",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 HEV|H-Pick",
+        "1.6 HEV|익스클루시브",
+        "1.6 HEV|인스퍼레이션",
+        "1.6 HEV AWD|H-Pick",
+        "1.6 HEV AWD|익스클루시브",
+        "1.6 HEV AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TAT2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9THT2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TCT2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TET2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TAA2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9THA2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TCA2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TEA2&purposeCode=J"
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 HEV|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "세레니티 화이트 펄"
+          ],
+          "officialCodes": [
+            "W6H"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paintId": "paint-618",
+      "paint": "레드록 오렌지 매트",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 HEV|H-Pick",
+        "1.6 HEV|익스클루시브",
+        "1.6 HEV|인스퍼레이션",
+        "1.6 HEV AWD|H-Pick",
+        "1.6 HEV AWD|익스클루시브",
+        "1.6 HEV AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 HEV|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "레드록 오렌지 매트"
+          ],
+          "officialCodes": [
+            "RRP"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "투싼 하이브리드",
+      "paintId": "paint-619",
+      "paint": "드리프트우드 그레이 매트",
+      "status": "verified-all",
+      "allowedConfigurations": [
+        "1.6 HEV|H-Pick",
+        "1.6 HEV|익스클루시브",
+        "1.6 HEV|인스퍼레이션",
+        "1.6 HEV AWD|H-Pick",
+        "1.6 HEV AWD|익스클루시브",
+        "1.6 HEV AWD|인스퍼레이션"
+      ],
+      "allowedTrims": [
+        "H-Pick",
+        "익스클루시브",
+        "인스퍼레이션"
+      ],
+      "sources": [
+        "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price"
+      ],
+      "proof": [
+        {
+          "configuration": "1.6 HEV|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|H-Pick",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|익스클루시브",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "1.6 HEV AWD|인스퍼레이션",
+          "available": true,
+          "source": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-tucson/price",
+          "officialNames": [
+            "드리프트우드 그레이 매트"
+          ],
+          "officialCodes": [
+            "DDM"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "car": "팰리세이드",
+      "paintId": "paint-620",
+      "paint": "타이탄 차콜 펄",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "2.5 가솔린 터보 9인승|익스클루시브",
+        "2.5 가솔린 터보 9인승|H-Pick",
+        "2.5 가솔린 터보 9인승|캘리그래피",
+        "2.5 가솔린 터보 9인승 AWD|익스클루시브",
+        "2.5 가솔린 터보 9인승 AWD|H-Pick",
+        "2.5 가솔린 터보 9인승 AWD|캘리그래피"
+      ],
+      "allowedTrims": [
+        "익스클루시브",
+        "H-Pick",
+        "캘리그래피"
+      ],
+      "sources": [
+        "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+        "https://www.hyundai.com/kr/ko/e/vehicles/palisade/price"
       ],
       "proof": [
         {
           "configuration": "2.5 가솔린 터보 9인승|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TAT2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9THT2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승|캘리그래피",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TCT2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승|하이루프",
           "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TET2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승 AWD|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TAA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승 AWD|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9THA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승 AWD|캘리그래피",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TCA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 가솔린 터보 9인승 AWD|하이루프",
           "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX03&modelCode=FXJJ9TEA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -15998,91 +17186,128 @@
     {
       "brand": "현대",
       "car": "팰리세이드 하이브리드",
-      "paintId": "paint-573",
-      "paint": "갤럭시 마룬 펄",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
+      "paintId": "paint-621",
+      "paint": "타이탄 차콜 펄",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "2.5 HEV 9인승|익스클루시브",
+        "2.5 HEV 9인승|H-Pick",
+        "2.5 HEV 9인승|캘리그래피",
+        "2.5 HEV 9인승 AWD|익스클루시브",
+        "2.5 HEV 9인승 AWD|H-Pick",
+        "2.5 HEV 9인승 AWD|캘리그래피"
+      ],
+      "allowedTrims": [
+        "익스클루시브",
+        "H-Pick",
+        "캘리그래피"
+      ],
       "sources": [
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZAT2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZHT2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZCT2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZET2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZAA2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZHA2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZCA2&purposeCode=J",
-        "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZEA2&purposeCode=J"
+        "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+        "https://www.hyundai.com/kr/ko/e/vehicles/palisade/price"
       ],
       "proof": [
         {
           "configuration": "2.5 HEV 9인승|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZAT2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZHT2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승|캘리그래피",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZCT2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승|하이루프",
           "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZET2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승 AWD|익스클루시브",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZAA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승 AWD|H-Pick",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZHA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승 AWD|캘리그래피",
-          "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZCA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "available": true,
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
         {
           "configuration": "2.5 HEV 9인승 AWD|하이루프",
           "available": false,
-          "source": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=FX04&modelCode=FXJJ9ZEA2&purposeCode=J",
-          "officialNames": [],
-          "officialCodes": [],
+          "source": "https://www.hyundai.com/contents/repn-car/catalog/palisade-catalog.pdf",
+          "officialNames": [
+            "타이탄 차콜 펄"
+          ],
+          "officialCodes": [
+            "TCP"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -19337,38 +20562,6 @@
     {
       "brand": "제네시스",
       "car": "G70",
-      "paintId": "paint-318",
-      "paint": "바트나 그레이",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JU6B"
-      ],
-      "proof": [
-        {
-          "configuration": "2.5 가솔린 터보|기본모델",
-          "available": false,
-          "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JU6B",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.5 가솔린 터보 AWD|기본모델",
-          "available": false,
-          "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JU6B",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "제네시스",
-      "car": "G70",
       "paintId": "paint-319",
       "paint": "본드 실버",
       "status": "verified-all",
@@ -19764,48 +20957,6 @@
             "NCM",
             "NCM"
           ],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.5 가솔린 터보 AWD|Black",
-          "available": false,
-          "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JJ7U",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "제네시스",
-      "car": "G80",
-      "paintId": "paint-335",
-      "paint": "바트나 그레이",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JJ7B",
-        "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JJ7U"
-      ],
-      "proof": [
-        {
-          "configuration": "2.5 가솔린 터보|기본모델",
-          "available": false,
-          "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JJ7B",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.5 가솔린 터보 AWD|기본모델",
-          "available": false,
-          "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JJ7B",
-          "officialNames": [],
-          "officialCodes": [],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },
@@ -22493,7 +23644,7 @@
       "brand": "제네시스",
       "car": "GV80",
       "paintId": "paint-377",
-      "paint": "메테호른 화이트",
+      "paint": "마테호른 화이트",
       "status": "verified-restricted",
       "allowedConfigurations": [
         "2.5 가솔린 터보|기본모델",
@@ -22875,6 +24026,238 @@
           "source": "https://www.genesis.com/wsvc/kr/api/v2/structure/data?key=btomodel&lngloc=ko-KR&model=JXN1",
           "officialNames": [],
           "officialCodes": [],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paintId": "paint-622",
+      "paint": "트롬소 그린",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "2.5 가솔린 터보|기본모델",
+        "2.5 가솔린 터보 AWD|기본모델"
+      ],
+      "allowedTrims": [
+        "기본모델"
+      ],
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "proof": [
+        {
+          "configuration": "2.5 가솔린 터보|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "트롬소 그린"
+          ],
+          "officialCodes": [
+            "PBG"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "트롬소 그린"
+          ],
+          "officialCodes": [
+            "PBG"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|Black",
+          "available": false,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "트롬소 그린"
+          ],
+          "officialCodes": [
+            "PBG"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paintId": "paint-623",
+      "paint": "카디프 그린",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "2.5 가솔린 터보|기본모델",
+        "2.5 가솔린 터보 AWD|기본모델"
+      ],
+      "allowedTrims": [
+        "기본모델"
+      ],
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "proof": [
+        {
+          "configuration": "2.5 가솔린 터보|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "카디프 그린"
+          ],
+          "officialCodes": [
+            "HT7"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "카디프 그린"
+          ],
+          "officialCodes": [
+            "HT7"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|Black",
+          "available": false,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "카디프 그린"
+          ],
+          "officialCodes": [
+            "HT7"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paintId": "paint-624",
+      "paint": "세이셸 베이지",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "2.5 가솔린 터보|기본모델",
+        "2.5 가솔린 터보 AWD|기본모델"
+      ],
+      "allowedTrims": [
+        "기본모델"
+      ],
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "proof": [
+        {
+          "configuration": "2.5 가솔린 터보|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "세이셸 베이지"
+          ],
+          "officialCodes": [
+            "NAE"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "세이셸 베이지"
+          ],
+          "officialCodes": [
+            "NAE"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|Black",
+          "available": false,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "세이셸 베이지"
+          ],
+          "officialCodes": [
+            "NAE"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        }
+      ]
+    },
+    {
+      "brand": "제네시스",
+      "car": "GV80",
+      "paintId": "paint-625",
+      "paint": "브런즈윅 그린",
+      "status": "verified-restricted",
+      "allowedConfigurations": [
+        "2.5 가솔린 터보|기본모델",
+        "2.5 가솔린 터보 AWD|기본모델"
+      ],
+      "allowedTrims": [
+        "기본모델"
+      ],
+      "sources": [
+        "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors"
+      ],
+      "proof": [
+        {
+          "configuration": "2.5 가솔린 터보|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "브런즈윅 그린"
+          ],
+          "officialCodes": [
+            "PN7"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|기본모델",
+          "available": true,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "브런즈윅 그린"
+          ],
+          "officialCodes": [
+            "PN7"
+          ],
+          "requiredOptionCodes": [],
+          "excludedOptionCodes": []
+        },
+        {
+          "configuration": "2.5 가솔린 터보 AWD|Black",
+          "available": false,
+          "source": "https://www.genesis.com/kr/ko/models/luxury-suv-genesis/gv80/bto/exterior-colors",
+          "officialNames": [
+            "브런즈윅 그린"
+          ],
+          "officialCodes": [
+            "PN7"
+          ],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         }
@@ -41151,7 +42534,7 @@
       "brand": "KGM",
       "car": "무쏘",
       "paintId": "paint-26",
-      "paint": "샌드스톤 베이지",
+      "paint": "샌드 베이지",
       "status": "verified-all",
       "allowedConfigurations": [
         "2.0 가솔린 터보|M5",
@@ -45112,106 +46495,6 @@
     {
       "brand": "르노",
       "car": "그랑 콜레오스",
-      "paintId": "paint-186",
-      "paint": "미네랄 코퍼",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp"
-      ],
-      "proof": [
-        {
-          "configuration": "2.0 가솔린|Techno",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.0 가솔린|Iconic",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.0 가솔린|Esprit Alpine",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.0 가솔린 4WD|Iconic",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스",
-      "paintId": "paint-187",
-      "paint": "새틴 어반 그레이",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp"
-      ],
-      "proof": [
-        {
-          "configuration": "2.0 가솔린|Techno",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.0 가솔린|Iconic",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.0 가솔린|Esprit Alpine",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "2.0 가솔린 4WD|Iconic",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스",
       "paintId": "paint-188",
       "paint": "새틴 유니버스 화이트",
       "status": "verified-restricted",
@@ -45484,106 +46767,6 @@
           "officialCodes": [
             "GXA"
           ],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.5 HEV|Esprit Alpine étoile",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스 하이브리드 E-Tech",
-      "paintId": "paint-583",
-      "paint": "미네랄 코퍼",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp"
-      ],
-      "proof": [
-        {
-          "configuration": "1.5 HEV|Techno",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.5 HEV|Iconic",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.5 HEV|Esprit Alpine",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.5 HEV|Esprit Alpine étoile",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        }
-      ]
-    },
-    {
-      "brand": "르노",
-      "car": "그랑 콜레오스 하이브리드 E-Tech",
-      "paintId": "paint-584",
-      "paint": "새틴 어반 그레이",
-      "status": "retained-not-in-current-list",
-      "allowedConfigurations": [],
-      "allowedTrims": [],
-      "sources": [
-        "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp"
-      ],
-      "proof": [
-        {
-          "configuration": "1.5 HEV|Techno",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.5 HEV|Iconic",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
-          "requiredOptionCodes": [],
-          "excludedOptionCodes": []
-        },
-        {
-          "configuration": "1.5 HEV|Esprit Alpine",
-          "available": false,
-          "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
-          "officialNames": [],
-          "officialCodes": [],
           "requiredOptionCodes": [],
           "excludedOptionCodes": []
         },

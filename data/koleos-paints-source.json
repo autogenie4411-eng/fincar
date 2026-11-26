@@ -243,25 +243,15 @@
     "status": "사용자 요청으로 새틴 녹턴 블루 색상 제외"
   },
   "sitePalette": {
-    "policy": "사용자 요청에 따라 최초 등록된 6색과 순서 및 기존 이미지 보존",
+    "policy": "사용자 요청으로 미네랄 코퍼와 새틴 어반 그레이를 제외하고, 나머지 4색의 현재 순서와 이미지를 보존",
     "colors": [
       "메탈릭 블랙",
-      "미네랄 코퍼",
-      "새틴 어반 그레이",
-      "새틴 유니버스 화이트",
       "어반 그레이",
-      "클라우드 펄"
+      "클라우드 펄",
+      "새틴 유니버스 화이트"
     ]
   },
   "legacyColorRules": {
-    "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf",
-    "미네랄 코퍼": [
-      "Techno",
-      "Iconic"
-    ],
-    "새틴 어반 그레이": [
-      "Iconic",
-      "Esprit Alpine"
-    ]
+    "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf"
   }
 }

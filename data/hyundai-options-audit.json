@@ -446,14 +446,14 @@
       }
     },
     {
-      "key": "현대|베뉴|1.6 가솔린|스마트",
+      "key": "현대|베뉴|1.6 가솔린|Smart",
       "model": "QXJJ5GAC6",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GAC6&purposeCode=J",
       "basicCount": 40,
       "choiceCount": 2,
       "rules": {
-        "key": "현대|베뉴|1.6 가솔린|스마트",
+        "key": "현대|베뉴|1.6 가솔린|Smart",
         "model": "QXJJ5GAC6",
         "spec": "A",
         "choices": [
@@ -474,14 +474,14 @@
       }
     },
     {
-      "key": "현대|베뉴|1.6 가솔린|프리미엄",
+      "key": "현대|베뉴|1.6 가솔린|PREMIUM",
       "model": "QXJJ5GDC6",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=QX07&modelCode=QXJJ5GDC6&purposeCode=J",
       "basicCount": 55,
       "choiceCount": 3,
       "rules": {
-        "key": "현대|베뉴|1.6 가솔린|프리미엄",
+        "key": "현대|베뉴|1.6 가솔린|PREMIUM",
         "model": "QXJJ5GDC6",
         "spec": "A",
         "choices": [
@@ -530,14 +530,14 @@
       }
     },
     {
-      "key": "현대|스타리아|3.5 LPG 투어러|스마트 (11인승)",
+      "key": "현대|스타리아|3.5 LPG 투어러|Smart (11인승)",
       "model": "USJTBLST4",
       "variant": "T",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLST4&purposeCode=J",
       "basicCount": 63,
       "choiceCount": 1,
       "rules": {
-        "key": "현대|스타리아|3.5 LPG 투어러|스마트 (11인승)",
+        "key": "현대|스타리아|3.5 LPG 투어러|Smart (11인승)",
         "model": "USJTBLST4",
         "spec": "T",
         "choices": [
@@ -552,14 +552,14 @@
       }
     },
     {
-      "key": "현대|스타리아|3.5 LPG 투어러|모던 (11인승)",
+      "key": "현대|스타리아|3.5 LPG 투어러|Modern (11인승)",
       "model": "USJTBLMT4",
       "variant": "T",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US30&modelCode=USJTBLMT4&purposeCode=J",
       "basicCount": 73,
       "choiceCount": 8,
       "rules": {
-        "key": "현대|스타리아|3.5 LPG 투어러|모던 (11인승)",
+        "key": "현대|스타리아|3.5 LPG 투어러|Modern (11인승)",
         "model": "USJTBLMT4",
         "spec": "T",
         "choices": [
@@ -622,14 +622,14 @@
       }
     },
     {
-      "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|스마트 (11인승)",
+      "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|Smart (11인승)",
       "model": "USJTBZST4",
       "variant": "T",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZST4&purposeCode=J",
       "basicCount": 64,
       "choiceCount": 1,
       "rules": {
-        "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|스마트 (11인승)",
+        "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|Smart (11인승)",
         "model": "USJTBZST4",
         "spec": "T",
         "choices": [
@@ -644,14 +644,14 @@
       }
     },
     {
-      "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|모던 (11인승)",
+      "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|Modern (11인승)",
       "model": "USJTBZMT4",
       "variant": "T",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=US33&modelCode=USJTBZMT4&purposeCode=J",
       "basicCount": 73,
       "choiceCount": 7,
       "rules": {
-        "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|모던 (11인승)",
+        "key": "현대|스타리아 하이브리드|1.6 HEV 투어러|Modern (11인승)",
         "model": "USJTBZMT4",
         "spec": "T",
         "choices": [
@@ -1544,14 +1544,14 @@
       }
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|프리미엄",
+      "key": "현대|쏘나타|1.6 가솔린 터보|Premium",
       "model": "DNJS4RBT8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RBT8&purposeCode=J",
       "basicCount": 61,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|쏘나타|1.6 가솔린 터보|프리미엄",
+        "key": "현대|쏘나타|1.6 가솔린 터보|Premium",
         "model": "DNJS4RBT8",
         "spec": "A",
         "choices": [
@@ -1584,14 +1584,14 @@
       }
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|에스",
+      "key": "현대|쏘나타|1.6 가솔린 터보|S",
       "model": "DNJS4RUT8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RUT8&purposeCode=J",
       "basicCount": 73,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|쏘나타|1.6 가솔린 터보|에스",
+        "key": "현대|쏘나타|1.6 가솔린 터보|S",
         "model": "DNJS4RUT8",
         "spec": "A",
         "choices": [
@@ -1626,14 +1626,14 @@
       }
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|익스클루시브",
+      "key": "현대|쏘나타|1.6 가솔린 터보|Exclusive",
       "model": "DNJS4RCT8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RCT8&purposeCode=J",
       "basicCount": 83,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|쏘나타|1.6 가솔린 터보|익스클루시브",
+        "key": "현대|쏘나타|1.6 가솔린 터보|Exclusive",
         "model": "DNJS4RCT8",
         "spec": "A",
         "choices": [
@@ -1666,14 +1666,14 @@
       }
     },
     {
-      "key": "현대|쏘나타|1.6 가솔린 터보|인스퍼레이션",
+      "key": "현대|쏘나타|1.6 가솔린 터보|Inspiration",
       "model": "DNJS4RET8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN26&modelCode=DNJS4RET8&purposeCode=J",
       "basicCount": 98,
       "choiceCount": 3,
       "rules": {
-        "key": "현대|쏘나타|1.6 가솔린 터보|인스퍼레이션",
+        "key": "현대|쏘나타|1.6 가솔린 터보|Inspiration",
         "model": "DNJS4RET8",
         "spec": "A",
         "choices": [
@@ -1700,14 +1700,14 @@
       }
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|프리미엄",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|Premium",
       "model": "DNJS4ZBT8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZBT8&purposeCode=J",
       "basicCount": 63,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|쏘나타 하이브리드|2.0 HEV|프리미엄",
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|Premium",
         "model": "DNJS4ZBT8",
         "spec": "A",
         "choices": [
@@ -1740,14 +1740,14 @@
       }
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|에스",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|S",
       "model": "DNJS4ZUT8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZUT8&purposeCode=J",
       "basicCount": 74,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|쏘나타 하이브리드|2.0 HEV|에스",
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|S",
         "model": "DNJS4ZUT8",
         "spec": "A",
         "choices": [
@@ -1782,14 +1782,14 @@
       }
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|익스클루시브",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|Exclusive",
       "model": "DNJS4ZCT8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZCT8&purposeCode=J",
       "basicCount": 84,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|쏘나타 하이브리드|2.0 HEV|익스클루시브",
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|Exclusive",
         "model": "DNJS4ZCT8",
         "spec": "A",
         "choices": [
@@ -1822,14 +1822,14 @@
       }
     },
     {
-      "key": "현대|쏘나타 하이브리드|2.0 HEV|인스퍼레이션",
+      "key": "현대|쏘나타 하이브리드|2.0 HEV|Inspiration",
       "model": "DNJS4ZET8",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=DN27&modelCode=DNJS4ZET8&purposeCode=J",
       "basicCount": 99,
       "choiceCount": 3,
       "rules": {
-        "key": "현대|쏘나타 하이브리드|2.0 HEV|인스퍼레이션",
+        "key": "현대|쏘나타 하이브리드|2.0 HEV|Inspiration",
         "model": "DNJS4ZET8",
         "spec": "A",
         "choices": [
@@ -4465,14 +4465,14 @@
       }
     },
     {
-      "key": "현대|코나|1.6 가솔린 터보 N라인|N Line",
+      "key": "현대|코나|1.6 가솔린 터보 N라인|N Line Inspiration",
       "model": "SXJJ5TMD4",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TMD4&purposeCode=J",
       "basicCount": 78,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|코나|1.6 가솔린 터보 N라인|N Line",
+        "key": "현대|코나|1.6 가솔린 터보 N라인|N Line Inspiration",
         "model": "SXJJ5TMD4",
         "spec": "A",
         "choices": [
@@ -4681,14 +4681,14 @@
       }
     },
     {
-      "key": "현대|코나|1.6 가솔린 터보 4WD N라인|N Line",
+      "key": "현대|코나|1.6 가솔린 터보 4WD N라인|N Line Inspiration",
       "model": "SXJJ5TME4",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX19&modelCode=SXJJ5TME4&purposeCode=J",
       "basicCount": 81,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|코나|1.6 가솔린 터보 4WD N라인|N Line",
+        "key": "현대|코나|1.6 가솔린 터보 4WD N라인|N Line Inspiration",
         "model": "SXJJ5TME4",
         "spec": "A",
         "choices": [
@@ -5027,14 +5027,14 @@
       }
     },
     {
-      "key": "현대|코나 하이브리드|1.6 HEV N라인|N Line",
+      "key": "현대|코나 하이브리드|1.6 HEV N라인|N Line Inspiration",
       "model": "SXJJ5ZMD4",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX20&modelCode=SXJJ5ZMD4&purposeCode=J",
       "basicCount": 81,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|코나 하이브리드|1.6 HEV N라인|N Line",
+        "key": "현대|코나 하이브리드|1.6 HEV N라인|N Line Inspiration",
         "model": "SXJJ5ZMD4",
         "spec": "A",
         "choices": [
@@ -5279,14 +5279,14 @@
       }
     },
     {
-      "key": "현대|코나 일렉트릭|Long Range N라인|Inspiration",
+      "key": "현대|코나 일렉트릭|Long Range N라인|N Line Inspiration",
       "model": "SXJJ5VMR3",
       "variant": "A",
       "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/estimation/model/making?model=SX17&modelCode=SXJJ5VMR3&purposeCode=J",
       "basicCount": 86,
       "choiceCount": 4,
       "rules": {
-        "key": "현대|코나 일렉트릭|Long Range N라인|Inspiration",
+        "key": "현대|코나 일렉트릭|Long Range N라인|N Line Inspiration",
         "model": "SXJJ5VMR3",
         "spec": "A",
         "choices": [

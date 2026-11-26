@@ -8890,7 +8890,7 @@
 
     // ─── 현대 / 베뉴 ───
     // 1.6 가솔린
-    "현대|베뉴|1.6 가솔린|스마트": [
+    "현대|베뉴|1.6 가솔린|Smart": [
       {
         "status": "선택 옵션",
         "id": "venue-smart-choice-nav",
@@ -9567,7 +9567,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/QX27MY/qx_8inchaudio.jpg"
       }
     ],
-    "현대|베뉴|1.6 가솔린|프리미엄": [
+    "현대|베뉴|1.6 가솔린|PREMIUM": [
       {
         "status": "선택 옵션",
         "id": "venue-premium-choice-sty",
@@ -11460,7 +11460,7 @@
 
     // ─── 현대 / 스타리아 ───
     // 3.5 LPG 투어러 / 스마트 (11인승) > 모던 (11인승)
-    "현대|스타리아|3.5 LPG 투어러|스마트 (11인승)": [
+    "현대|스타리아|3.5 LPG 투어러|Smart (11인승)": [
       {
         "status": "선택 옵션",
         "id": "staria-smart-choice-mp1",
@@ -12493,7 +12493,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/US4-PE/148_us4.jpg"
       }
     ],
-    "현대|스타리아|3.5 LPG 투어러|모던 (11인승)": [
+    "현대|스타리아|3.5 LPG 투어러|Modern (11인승)": [
       {
         "status": "선택 옵션",
         "id": "staria-modern-choice-mp2",
@@ -13834,7 +13834,7 @@
 
     // ─── 현대 / 스타리아 하이브리드 ───
     // 1.6 HEV 투어러 / 스마트 (11인승) > 모던 (11인승)
-    "현대|스타리아 하이브리드|1.6 HEV 투어러|스마트 (11인승)": [
+    "현대|스타리아 하이브리드|1.6 HEV 투어러|Smart (11인승)": [
       {
         "status": "선택 옵션",
         "id": "staria-hybrid-smart-choice-mp1",
@@ -14882,7 +14882,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/US4-HEV-PE/148_us4.jpg"
       }
     ],
-    "현대|스타리아 하이브리드|1.6 HEV 투어러|모던 (11인승)": [
+    "현대|스타리아 하이브리드|1.6 HEV 투어러|Modern (11인승)": [
       {
         "status": "선택 옵션",
         "id": "staria-hybrid-modern-choice-mp2",
@@ -42315,8 +42315,8 @@
     ],
 
     // ─── 현대 / 쏘나타 ───
-    // 1.6 가솔린 터보 / 프리미엄 > 에스 > 익스클루시브 > 인스퍼레이션
-    "현대|쏘나타|1.6 가솔린 터보|프리미엄": [
+    // 1.6 가솔린 터보 / Premium > S > Exclusive > Inspiration
+    "현대|쏘나타|1.6 가솔린 터보|Premium": [
       {
         "status": "선택 옵션",
         "id": "sonata-gas-b-choice-hs1",
@@ -43372,7 +43372,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/DN27/dn8fl_121.jpg"
       }
     ],
-    "현대|쏘나타|1.6 가솔린 터보|에스": [
+    "현대|쏘나타|1.6 가솔린 터보|S": [
       {
         "status": "선택 옵션",
         "id": "sonata-gas-u-choice-bcv",
@@ -44623,7 +44623,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/DN27/dn8fl_122.jpg"
       }
     ],
-    "현대|쏘나타|1.6 가솔린 터보|익스클루시브": [
+    "현대|쏘나타|1.6 가솔린 터보|Exclusive": [
       {
         "status": "선택 옵션",
         "id": "sonata-gas-c-choice-bcv",
@@ -46034,7 +46034,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/DN27/dn8fl_122.jpg"
       }
     ],
-    "현대|쏘나타|1.6 가솔린 터보|인스퍼레이션": [
+    "현대|쏘나타|1.6 가솔린 터보|Inspiration": [
       {
         "status": "선택 옵션",
         "id": "sonata-gas-e-choice-bcv",
@@ -47658,8 +47658,8 @@
     ],
 
     // ─── 현대 / 쏘나타 하이브리드 ───
-    // 2.0 HEV / 프리미엄 > 에스 > 익스클루시브 > 인스퍼레이션
-    "현대|쏘나타 하이브리드|2.0 HEV|프리미엄": [
+    // 2.0 HEV / Premium > S > Exclusive > Inspiration
+    "현대|쏘나타 하이브리드|2.0 HEV|Premium": [
       {
         "status": "선택 옵션",
         "id": "sonata-hybrid-b-choice-hie",
@@ -48747,7 +48747,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/DN27-HEV/dn8flhev_106.jpg"
       }
     ],
-    "현대|쏘나타 하이브리드|2.0 HEV|에스": [
+    "현대|쏘나타 하이브리드|2.0 HEV|S": [
       {
         "status": "선택 옵션",
         "id": "sonata-hybrid-u-choice-bcv",
@@ -50014,7 +50014,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/DN27-HEV/dn8flhev_108.jpg"
       }
     ],
-    "현대|쏘나타 하이브리드|2.0 HEV|익스클루시브": [
+    "현대|쏘나타 하이브리드|2.0 HEV|Exclusive": [
       {
         "status": "선택 옵션",
         "id": "sonata-hybrid-c-choice-bcv",
@@ -51441,7 +51441,7 @@
         "sourceImage": "https://www.hyundai.com/contents/spec/DN27-HEV/dn8flhev_108.jpg"
       }
     ],
-    "현대|쏘나타 하이브리드|2.0 HEV|인스퍼레이션": [
+    "현대|쏘나타 하이브리드|2.0 HEV|Inspiration": [
       {
         "status": "선택 옵션",
         "id": "sonata-hybrid-e-choice-bcv",
@@ -141146,7 +141146,8 @@
         "sourceDetailType": "B"
       }
     ],
-    "현대|코나|1.6 가솔린 터보 N라인|N Line": [
+    // 코나 / 1.6 가솔린 터보 N라인 / N Line Inspiration
+    "현대|코나|1.6 가솔린 터보 N라인|N Line Inspiration": [
       {
         "status": "선택 옵션",
         "id": "kona-sxjj5tmd4-choice-bic",
@@ -147413,7 +147414,8 @@
         "sourceDetailType": "B"
       }
     ],
-    "현대|코나|1.6 가솔린 터보 4WD N라인|N Line": [
+    // 코나 / 1.6 가솔린 터보 4WD N라인 / N Line Inspiration
+    "현대|코나|1.6 가솔린 터보 4WD N라인|N Line Inspiration": [
       {
         "status": "선택 옵션",
         "id": "kona-sxjj5tme4-choice-bos",
@@ -155964,7 +155966,8 @@
         "sourceDetailType": "B"
       }
     ],
-    "현대|코나 하이브리드|1.6 HEV N라인|N Line": [
+    // 코나 하이브리드 / 1.6 HEV N라인 / N Line Inspiration
+    "현대|코나 하이브리드|1.6 HEV N라인|N Line Inspiration": [
       {
         "status": "선택 옵션",
         "id": "kona-sxjj5zmd4-choice-bic",
@@ -164242,7 +164245,8 @@
         "sourceDetailType": "B"
       }
     ],
-    "현대|코나 일렉트릭|Long Range N라인|Inspiration": [
+    // 코나 일렉트릭 / Long Range N라인 / N Line Inspiration
+    "현대|코나 일렉트릭|Long Range N라인|N Line Inspiration": [
       {
         "status": "선택 옵션",
         "id": "kona-sxjj5vmr3-choice-sur",
