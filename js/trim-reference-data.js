@@ -15392,6 +15392,67 @@ window.AutoGenieTrimReference = {
     // ------------------------------------------------------------------------
     // [01/01] 플래티넘
     // ------------------------------------------------------------------------
+    // 기아 K9 3.8 가솔린 AWD — 베스트셀렉션 트림 설명
+    "기아|K9|3.8 가솔린 AWD|플래티넘+베스트셀렉션1": {
+        "featureTitle": "헤드업 디스플레이",
+        "featureImage": "images/option-thumbnails/기아/K9/헤드업 디스플레이.webp",
+        "featureCaption": "K9 기능 참고 이미지",
+        "featureImageDisplay": "cover",
+        "summary": "K9 3.8 가솔린 AWD 플래티넘+베스트셀렉션1입니다. 플래티넘에 베스트셀렉션 구성을 기본 적용합니다.",
+        "inheritedHighlights": [
+            "3.8 가솔린 AWD 플래티넘 기본 사양"
+        ],
+        "upgrade": {
+            "previous": "플래티넘",
+            "items": [
+                "모니터링 팩",
+                "컴포트 팩",
+                "19인치 휠 & 타이어",
+                "헤드업 디스플레이",
+                "시트 컨비니언스 팩"
+            ],
+            "verified": true
+        },
+        "highlights": [
+            "모니터링 팩",
+            "컴포트 팩",
+            "19인치 휠 & 타이어",
+            "헤드업 디스플레이",
+            "시트 컨비니언스 팩"
+        ],
+        "featureStatus": "standard",
+        "referenceOnly": false,
+        "dataVerification": "verified",
+        "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_k9.pdf"
+    },
+    "기아|K9|3.8 가솔린 AWD|마스터즈 베스트셀렉션2": {
+        "featureTitle": "Lexicon 프리미엄 사운드",
+        "featureImage": "images/option-thumbnails/기아/K9/Lexicon 프리미엄 사운드.webp",
+        "featureCaption": "K9 기능 참고 이미지",
+        "featureImageDisplay": "cover",
+        "summary": "K9 3.8 가솔린 AWD 마스터즈 베스트셀렉션2입니다. 마스터즈에 베스트셀렉션 구성을 기본 적용합니다.",
+        "inheritedHighlights": [
+            "3.8 가솔린 AWD 마스터즈 기본 사양"
+        ],
+        "upgrade": {
+            "previous": "마스터즈",
+            "items": [
+                "프리미엄 팩",
+                "Lexicon 프리미엄 사운드",
+                "VIP 컬렉션 및 추가 뒷좌석 사양"
+            ],
+            "verified": true
+        },
+        "highlights": [
+            "프리미엄 팩",
+            "Lexicon 프리미엄 사운드",
+            "VIP 컬렉션 및 추가 뒷좌석 사양"
+        ],
+        "featureStatus": "standard",
+        "referenceOnly": false,
+        "dataVerification": "verified",
+        "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_k9.pdf"
+    },
     "기아|K9|3.8 가솔린|플래티넘": {
     "featureTitle": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
     "featureImage": "images/trim-features/기아/K9/고속도로 주행 보조 2.webp",
@@ -15500,77 +15561,58 @@ window.AutoGenieTrimReference = {
     "imageNote": "대표 연식·구동 사양표 기준으로 확인된 정보입니다. 실제 장착 여부는 선택 옵션 및 연식에 따라 달라질 수 있습니다."
 },
 
-    // ########################################################################
-    // [기아 11/25] PV5 카고
-    // ########################################################################
-
-    // ========================================================================
-    // 세부모델 01/02: Standard   (사이트 표시 순서)
-    // ========================================================================
-
-    // ------------------------------------------------------------------------
-    // [01/01] Basic
-    // ------------------------------------------------------------------------
-    "기아|PV5 카고|Standard|Basic": {
-    "featureTitle": "기아 디지털 키 2",
-    "featureImage": "images/trim-features/기아/PV 카고/기아 디지털 키 2.webp",
-    "featureCaption": "스마트 워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 주변 사람에게 사용 권한을 공유할 수 있습니다.",
-    "featureImageDisplay": "cover",
-    "summary": "PV5 카고 Standard의 Basic 트림입니다. 전기 구동 및 배터리 관리 구성을 바탕으로 기아 디지털 키 2 등의 주요 사양을 안내합니다. 옵션 장착 여부는 해당 판매 연식의 기본품목·선택품목을 구분하여 확인해 주세요.",
-    "highlights": [
-        "기아 디지털 키 2",
-        "선택 세부모델: Standard"
-    ],
-    "featureStatus": "reference",
-    "referenceOnly": true,
-    "imageNote": "이 이미지는 차종 참고 기능이며, 해당 세부모델·트림에 기본 적용된다는 의미는 아닙니다.",
-    "dataVerification": "base"
-},
-
-    // ========================================================================
-    // 세부모델 02/02: Long Range   (사이트 표시 순서)
-    // ========================================================================
-
-    // ------------------------------------------------------------------------
-    // [01/01] Basic
-    // ------------------------------------------------------------------------
-    "기아|PV5 카고|Long Range|Basic": {
-    "featureTitle": "기아 디지털 키 2",
-    "featureImage": "images/trim-features/기아/PV 카고/기아 디지털 키 2.webp",
-    "featureCaption": "스마트 워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 주변 사람에게 사용 권한을 공유할 수 있습니다.",
-    "featureImageDisplay": "cover",
-    "summary": "PV5 카고 Long Range의 Basic 트림입니다. 전기 구동 및 배터리 관리 구성을 바탕으로 기아 디지털 키 2 등의 주요 사양을 안내합니다. 옵션 장착 여부는 해당 판매 연식의 기본품목·선택품목을 구분하여 확인해 주세요.",
-    "highlights": [
-        "기아 디지털 키 2",
-        "선택 세부모델: Long Range"
-    ],
-    "featureStatus": "reference",
-    "referenceOnly": true,
-    "imageNote": "이 이미지는 차종 참고 기능이며, 해당 세부모델·트림에 기본 적용된다는 의미는 아닙니다.",
-    "dataVerification": "base"
-},
-
-    // ========================================================================
-    // 차종 공통 참고 자료: PV5 카고  (1개)
-    // 세부모델 구분 없이 등록된 자료 / 세부모델별 데이터가 우선 적용됩니다.
-    // ========================================================================
-
-    // ------------------------------------------------------------------------
-    // [01/01] Basic  (세부모델 미지정 · 공통 참고)
-    // ------------------------------------------------------------------------
-    "기아|PV5 카고|Basic": {
-    "featureTitle": "기아 디지털 키 2",
-    "featureImage": "images/trim-features/기아/PV 카고/기아 디지털 키 2.webp",
-    "featureCaption": "스마트 워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 주변 사람에게 사용 권한을 공유할 수 있습니다.",
-    "featureImageDisplay": "cover",
-    "summary": "PV5 카고 Basic의 주요 기능을 소개합니다. 기아 디지털 키 2 등 현재 등록된 대표 사양을 확인할 수 있습니다. 실제 기본 적용 여부는 엔진·구동방식·판매 연식과 선택 사양에 따라 달라질 수 있으므로 세부모델별 자료를 우선 확인해 주세요.",
-    "highlights": [
-        "기아 디지털 키 2"
-    ],
-    "featureStatus": "reference",
-    "referenceOnly": true,
-    "imageNote": "대표 연식·구동 사양표 기준으로 확인된 정보입니다. 실제 장착 여부는 선택 옵션 및 연식에 따라 달라질 수 있습니다."
-},
+    // 기아 PV5 카고 — 차체별 트림
+    "기아|PV5 카고|카고 컴팩트|컴팩트 스탠다드 3DR": {
+      "featureTitle": "후방 모니터",
+      "featureImage": "images/option-thumbnails/기아/PV5 카고/후방 모니터.webp",
+      "featureCaption": "PV5 카고 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "PV5 카고 컴팩트 컴팩트 스탠다드 3DR입니다. 51.5kWh 배터리를 적용합니다. 기본 3도어이며 컨비니언스 선택 시 4도어로 구성됩니다.",
+      "highlights": [
+        "51.5kWh 리튬이온 배터리",
+        "컴팩트 차체(전장 4,495mm)",
+        "기본 3도어 / 컨비니언스 선택 시 4도어"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "기능 참고 이미지는 카고 롱 기준입니다.",
+      "source": "https://www.kia.com/kr/vehicles/pv5-cargo-compact/price"
+    },
+    "기아|PV5 카고|카고 롱|롱 스탠다드 3DR": {
+      "featureTitle": "후방 모니터",
+      "featureImage": "images/option-thumbnails/기아/PV5 카고/후방 모니터.webp",
+      "featureCaption": "PV5 카고 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "PV5 카고 롱 롱 스탠다드 3DR입니다. 51.5kWh 배터리를 적용합니다. 기본 3도어이며 컨비니언스 선택 시 4도어로 구성됩니다.",
+      "highlights": [
+        "51.5kWh 리튬이온 배터리",
+        "롱 차체(전장 4,695mm)",
+        "기본 3도어 / 컨비니언스 선택 시 4도어"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "기능 참고 이미지는 카고 롱 기준입니다.",
+      "source": "https://www.kia.com/kr/vehicles/pv5-cargo/price"
+    },
+    "기아|PV5 카고|카고 롱|롱 롱레인지 3DR": {
+      "featureTitle": "후방 모니터",
+      "featureImage": "images/option-thumbnails/기아/PV5 카고/후방 모니터.webp",
+      "featureCaption": "PV5 카고 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "PV5 카고 롱 롱 롱레인지 3DR입니다. 71.2kWh 배터리를 적용합니다. 기본 3도어이며 컨비니언스 선택 시 4도어로 구성됩니다.",
+      "highlights": [
+        "71.2kWh 리튬이온 배터리",
+        "롱 차체(전장 4,695mm)",
+        "기본 3도어 / 컨비니언스 선택 시 4도어"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "기능 참고 이미지는 카고 롱 기준입니다.",
+      "source": "https://www.kia.com/kr/vehicles/pv5-cargo/price"
+    },
 
     // ########################################################################
     // [기아 12/25] 니로 하이브리드
@@ -19681,6 +19723,127 @@ window.AutoGenieTrimReference = {
     // ------------------------------------------------------------------------
     // [01/04] 프레스티지
     // ------------------------------------------------------------------------
+    // 쏘렌토 / 쏘렌토 하이브리드 — 블랙 에디션 트림 설명
+    "기아|쏘렌토|2.5 가솔린 터보|블랙 에디션": {
+      "featureTitle": "프로젝션 LED 헤드램프(시퀀셜 턴시그널)",
+      "featureImage": "images/trim-features/기아/쏘렌토/프로젝션 LED 헤드램프.webp",
+      "featureCaption": "쏘렌토 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "쏘렌토 2.5 가솔린 터보 블랙 에디션입니다. 시그니처 기반의 전용 외장·실내 디자인과 시트 구성을 적용합니다.",
+      "inheritedHighlights": [
+        "시그니처 기본 사양"
+      ],
+      "upgrade": {
+        "previous": "시그니처",
+        "items": [
+          "20인치 블랙 휠 및 전용 외장 마감",
+          "블랙 인테리어 및 전용 헤드레스트",
+          "퀼팅 나파가죽시트와 컴포트 사양",
+          "블랙 에디션 특화 디스플레이 테마"
+        ],
+        "verified": true
+      },
+      "highlights": [
+        "블랙 에디션 전용 외장 디자인",
+        "퀼팅 나파가죽시트",
+        "블랙 에디션 특화 디스플레이 테마"
+      ],
+      "featureStatus": "added",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/kr/vehicles/sorento/price/"
+    },
+    "기아|쏘렌토|2.5 가솔린 터보 AWD|블랙 에디션": {
+      "featureTitle": "프로젝션 LED 헤드램프(시퀀셜 턴시그널)",
+      "featureImage": "images/trim-features/기아/쏘렌토/프로젝션 LED 헤드램프.webp",
+      "featureCaption": "쏘렌토 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "쏘렌토 2.5 가솔린 터보 AWD 블랙 에디션입니다. 시그니처 기반의 전용 외장·실내 디자인과 시트 구성을 적용합니다.",
+      "inheritedHighlights": [
+        "시그니처 기본 사양"
+      ],
+      "upgrade": {
+        "previous": "시그니처",
+        "items": [
+          "20인치 블랙 휠 및 전용 외장 마감",
+          "블랙 인테리어 및 전용 헤드레스트",
+          "퀼팅 나파가죽시트와 컴포트 사양",
+          "블랙 에디션 특화 디스플레이 테마"
+        ],
+        "verified": true
+      },
+      "highlights": [
+        "블랙 에디션 전용 외장 디자인",
+        "퀼팅 나파가죽시트",
+        "블랙 에디션 특화 디스플레이 테마"
+      ],
+      "featureStatus": "added",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/kr/vehicles/sorento/price/"
+    },
+    "기아|쏘렌토 하이브리드|1.6 HEV|블랙 에디션": {
+      "featureTitle": "운전자세 메모리 시스템",
+      "featureImage": "images/trim-features/기아/쏘렌토/운전자세 메모리 시스템.webp",
+      "featureCaption": "쏘렌토 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "쏘렌토 하이브리드 1.6 HEV 블랙 에디션입니다. 시그니처 기반의 전용 외장·실내 디자인과 시트 구성을 적용합니다.",
+      "inheritedHighlights": [
+        "시그니처 기본 사양"
+      ],
+      "upgrade": {
+        "previous": "시그니처",
+        "items": [
+          "20인치 블랙 휠 및 전용 외장 마감",
+          "블랙 인테리어 및 전용 헤드레스트",
+          "퀼팅 나파가죽시트와 컴포트 사양",
+          "블랙 에디션 특화 디스플레이 테마"
+        ],
+        "verified": true
+      },
+      "highlights": [
+        "블랙 에디션 전용 외장 디자인",
+        "퀼팅 나파가죽시트",
+        "블랙 에디션 특화 디스플레이 테마"
+      ],
+      "featureStatus": "added",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/kr/vehicles/sorento/price/"
+    },
+    "기아|쏘렌토 하이브리드|1.6 HEV AWD|블랙 에디션": {
+      "featureTitle": "운전자세 메모리 시스템",
+      "featureImage": "images/trim-features/기아/쏘렌토/운전자세 메모리 시스템.webp",
+      "featureCaption": "쏘렌토 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "쏘렌토 하이브리드 1.6 HEV AWD 블랙 에디션입니다. 시그니처 기반의 전용 외장·실내 디자인과 시트 구성을 적용합니다.",
+      "inheritedHighlights": [
+        "시그니처 기본 사양"
+      ],
+      "upgrade": {
+        "previous": "시그니처",
+        "items": [
+          "20인치 블랙 휠 및 전용 외장 마감",
+          "블랙 인테리어 및 전용 헤드레스트",
+          "퀼팅 나파가죽시트와 컴포트 사양",
+          "블랙 에디션 특화 디스플레이 테마"
+        ],
+        "verified": true
+      },
+      "highlights": [
+        "블랙 에디션 전용 외장 디자인",
+        "퀼팅 나파가죽시트",
+        "블랙 에디션 특화 디스플레이 테마"
+      ],
+      "featureStatus": "added",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/kr/vehicles/sorento/price/"
+    },
     "기아|쏘렌토|2.5 가솔린 터보|프레스티지": {
     "featureTitle": "스마트 파워테일게이트",
     "featureImage": "images/trim-features/기아/쏘렌토/스마트 파워테일게이트.webp",
@@ -20395,6 +20558,143 @@ window.AutoGenieTrimReference = {
     // ------------------------------------------------------------------------
     // [01/04] 노블레스
     // ------------------------------------------------------------------------
+    // 카니발 3.5 가솔린 — 하이루프 및 블랙 에디션 설명
+    "기아|카니발|3.5 가솔린 7인승|블랙 에디션": {
+      "featureTitle": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+      "featureImage": "images/trim-features/기아/카니발/운전자세 메모리 시스템.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 7인승 블랙 에디션입니다. 시그니처 기반 전용 블랙 디자인을 적용합니다.",
+      "highlights": [
+        "전용 다크 그레이 휠과 그릴",
+        "블랙 인테리어 및 스웨이드 헤드라이닝",
+        "블랙 에디션 전용 테마"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 7인승|하이루프 노블레스": {
+      "featureTitle": "기아 디지털 키 2",
+      "featureImage": "images/trim-features/기아/카니발/기아 디지털 키 2.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 7인승 하이루프 노블레스입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 7인승|하이루프 시그니처": {
+      "featureTitle": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+      "featureImage": "images/trim-features/기아/카니발/운전자세 메모리 시스템.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 7인승 하이루프 시그니처입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 7인승|하이루프 블랙 에디션": {
+      "featureTitle": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+      "featureImage": "images/trim-features/기아/카니발/운전자세 메모리 시스템.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 7인승 하이루프 블랙 에디션입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 9인승|블랙 에디션": {
+      "featureTitle": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+      "featureImage": "images/trim-features/기아/카니발/운전자세 메모리 시스템.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 9인승 블랙 에디션입니다. 시그니처 기반 전용 블랙 디자인을 적용합니다.",
+      "highlights": [
+        "전용 다크 그레이 휠과 그릴",
+        "블랙 인테리어 및 스웨이드 헤드라이닝",
+        "블랙 에디션 전용 테마"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 9인승|하이루프 노블레스": {
+      "featureTitle": "기아 디지털 키 2",
+      "featureImage": "images/trim-features/기아/카니발/기아 디지털 키 2.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 9인승 하이루프 노블레스입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 9인승|하이루프 시그니처": {
+      "featureTitle": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+      "featureImage": "images/trim-features/기아/카니발/운전자세 메모리 시스템.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 9인승 하이루프 시그니처입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발|3.5 가솔린 9인승|하이루프 블랙 에디션": {
+      "featureTitle": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+      "featureImage": "images/trim-features/기아/카니발/운전자세 메모리 시스템.webp",
+      "featureCaption": "카니발 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 3.5 가솔린 9인승 하이루프 블랙 에디션입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "imageNote": "대표 기능 이미지이며 하이루프·블랙 에디션 전용 외관 이미지는 아닙니다.",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
     "기아|카니발|3.5 가솔린 7인승|노블레스": {
     "featureTitle": "기아 디지털 키 2",
     "featureImage": "images/trim-features/기아/카니발/기아 디지털 키 2.webp",
@@ -20822,6 +21122,135 @@ window.AutoGenieTrimReference = {
     // ------------------------------------------------------------------------
     // [01/04] 노블레스
     // ------------------------------------------------------------------------
+    // 카니발 하이브리드 — 하이루프 및 블랙 에디션 설명
+    "기아|카니발 하이브리드|1.6 HEV 7인승|블랙 에디션": {
+      "featureTitle": "원격 스마트 주차 보조",
+      "featureImage": "images/trim-features/기아/카니발/원격 스마트 주차 보조.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 7인승 블랙 에디션입니다. 시그니처 기반 전용 블랙 디자인을 적용합니다.",
+      "highlights": [
+        "전용 다크 그레이 휠과 그릴",
+        "블랙 인테리어 및 스웨이드 헤드라이닝",
+        "블랙 에디션 전용 테마"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 7인승|하이루프 노블레스": {
+      "featureTitle": "서라운드 뷰 모니터",
+      "featureImage": "images/trim-features/기아/카니발/서라운드 뷰 모니터.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 7인승 하이루프 노블레스입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 7인승|하이루프 시그니처": {
+      "featureTitle": "원격 스마트 주차 보조",
+      "featureImage": "images/trim-features/기아/카니발/원격 스마트 주차 보조.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 7인승 하이루프 시그니처입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 7인승|하이루프 블랙 에디션": {
+      "featureTitle": "원격 스마트 주차 보조",
+      "featureImage": "images/trim-features/기아/카니발/원격 스마트 주차 보조.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 7인승 하이루프 블랙 에디션입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 9인승|블랙 에디션": {
+      "featureTitle": "원격 스마트 주차 보조",
+      "featureImage": "images/trim-features/기아/카니발/원격 스마트 주차 보조.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 9인승 블랙 에디션입니다. 시그니처 기반 전용 블랙 디자인을 적용합니다.",
+      "highlights": [
+        "전용 다크 그레이 휠과 그릴",
+        "블랙 인테리어 및 스웨이드 헤드라이닝",
+        "블랙 에디션 전용 테마"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 9인승|하이루프 노블레스": {
+      "featureTitle": "서라운드 뷰 모니터",
+      "featureImage": "images/trim-features/기아/카니발/서라운드 뷰 모니터.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 9인승 하이루프 노블레스입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 9인승|하이루프 시그니처": {
+      "featureTitle": "원격 스마트 주차 보조",
+      "featureImage": "images/trim-features/기아/카니발/원격 스마트 주차 보조.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 9인승 하이루프 시그니처입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
+    "기아|카니발 하이브리드|1.6 HEV 9인승|하이루프 블랙 에디션": {
+      "featureTitle": "원격 스마트 주차 보조",
+      "featureImage": "images/trim-features/기아/카니발/원격 스마트 주차 보조.webp",
+      "featureCaption": "카니발 하이브리드 공통 기능 참고 이미지",
+      "featureImageDisplay": "cover",
+      "summary": "카니발 하이브리드 1.6 HEV 9인승 하이루프 블랙 에디션입니다. 기아 순정 하이루프 기준입니다. 하이리무진과는 별도 상품입니다.",
+      "highlights": [
+        "기아 순정 하이루프",
+        "후방 보조 제동등",
+        "후석 LED 독서등"
+      ],
+      "featureStatus": "standard",
+      "referenceOnly": false,
+      "dataVerification": "verified",
+      "source": "https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_carnival.pdf"
+    },
     "기아|카니발 하이브리드|1.6 HEV 7인승|노블레스": {
     "featureTitle": "서라운드 뷰 모니터",
     "featureImage": "images/trim-features/기아/카니발/서라운드 뷰 모니터.webp",
@@ -25635,6 +26064,68 @@ window.AutoGenieTrimReference = {
     // ------------------------------------------------------------------------
     // [01/02] V5
     // ------------------------------------------------------------------------
+    // 티볼리 1.6 가솔린 V1 / V3
+    "KGM|티볼리|1.6 가솔린|V1": {
+        "featureTitle": "긴급 제동 보조(AEB)",
+        "featureImage": "images/option-thumbnails/KGM/티볼리/긴급 제동 보조(AEB).webp",
+        "featureCaption": "티볼리 긴급 제동 보조 기능 참고 이미지",
+        "featureImageDisplay": "cover",
+        "summary": "티볼리 1.6 가솔린 V1 트림입니다.",
+        "highlights": [
+            "가솔린 1.6 엔진 및 주행 시스템",
+            "16인치 휠 및 기본 외관",
+            "직물시트 및 실내 구성",
+            "매뉴얼 에어컨 및 기본 편의",
+            "에어백 및 주행 안전 보조",
+            "8인치 스마트 미러링 패키지"
+        ],
+        "featureStatus": "standard",
+        "referenceOnly": false,
+        "dataVerification": "verified",
+        "source": "https://www.kg-mobility.com/attached/contents/display/file/200000200010006/20261031233439456_cSdPO4.pdf",
+        "officialSourceDescription": "KGM 공식 2026년 11월 티볼리 가격표 1.6 가솔린 기준"
+    },
+    "KGM|티볼리|1.6 가솔린|V3": {
+        "featureTitle": "긴급 제동 보조(AEB)",
+        "featureImage": "images/option-thumbnails/KGM/티볼리/긴급 제동 보조(AEB).webp",
+        "featureCaption": "티볼리 긴급 제동 보조 기능 참고 이미지",
+        "featureImageDisplay": "cover",
+        "summary": "티볼리 1.6 가솔린 V3 트림입니다.",
+        "highlights": [
+            "가솔린 1.6 엔진 및 주행 시스템",
+            "에어백 및 주행 안전 보조",
+            "17인치 휠 및 외관 사양",
+            "인조 가죽시트 및 실내 사양",
+            "V3 기본 편의 사양",
+            "V3 추가 안전 사양",
+            "9인치 KGM 링크 내비게이션 패키지"
+        ],
+        "inheritedHighlights": [
+            "가솔린 1.6 엔진 및 주행 시스템",
+            "16인치 휠 및 기본 외관",
+            "직물시트 및 실내 구성",
+            "매뉴얼 에어컨 및 기본 편의",
+            "에어백 및 주행 안전 보조",
+            "8인치 스마트 미러링 패키지"
+        ],
+        "upgrade": {
+            "previous": "V1",
+            "items": [
+                "17인치 다이아몬드 컷팅 휠",
+                "인조 가죽시트",
+                "운전석 전동시트 및 1열 통풍시트",
+                "1열·2열 히팅시트 및 열선 스티어링 휠",
+                "9인치 KGM 링크 내비게이션 패키지",
+                "스마트 하이빔 및 전방 주차거리 경고"
+            ],
+            "verified": true
+        },
+        "featureStatus": "standard",
+        "referenceOnly": false,
+        "dataVerification": "verified",
+        "source": "https://www.kg-mobility.com/attached/contents/display/file/200000200010006/20261031233439456_cSdPO4.pdf",
+        "officialSourceDescription": "KGM 공식 2026년 11월 티볼리 가격표 1.6 가솔린 기준"
+    },
     "KGM|티볼리|1.5 가솔린 터보|V5": {
         "featureTitle": "긴급제동 보조",
         "featureImage": "images/trim-features/KGM/티볼리/긴급제동 보조.webp",
